@@ -1,0 +1,91 @@
+{
+  "mode": "private-preview",
+  "origin": "https://izmir-oto-cekiciniz.jolly-plum-8834.chatgpt.site",
+  "pages": [
+    {
+      "path": "/",
+      "title": "İzmir Oto Çekiciniz | 7/24 Çekici ve Yol Yardım",
+      "ready": true
+    },
+    {
+      "path": "/hizmetler/oto-cekici/",
+      "title": "Oto çekici | İzmir Oto Çekiciniz",
+      "ready": true
+    },
+    {
+      "path": "/hizmetler/aku-takviye/",
+      "title": "Akü takviye | İzmir Oto Çekiciniz",
+      "ready": true
+    },
+    {
+      "path": "/hizmetler/oto-elektrik/",
+      "title": "Mobil oto elektrik | İzmir Oto Çekiciniz",
+      "ready": true
+    },
+    {
+      "path": "/hizmetler/oto-kurtarma/",
+      "title": "Oto kurtarma | İzmir Oto Çekiciniz",
+      "ready": true
+    },
+    {
+      "path": "/hizmetler/agir-vasita-kurtarma/",
+      "title": "Ağır vasıta kurtarma | İzmir Oto Çekiciniz",
+      "ready": true
+    },
+    {
+      "path": "/hizmetler/agir-ticari-cekici/",
+      "title": "Ağır ticari çekici | İzmir Oto Çekiciniz",
+      "ready": true
+    },
+    {
+      "path": "/hizmetler/motosiklet-cekici/",
+      "title": "Motosiklet çekici | İzmir Oto Çekiciniz",
+      "ready": true
+    },
+    {
+      "path": "/hizmetler/lastik-yol-yardim/",
+      "title": "Lastik ve yol yardım | İzmir Oto Çekiciniz",
+      "ready": true
+    },
+    {
+      "path": "/hizmetler/",
+      "title": "Çekici ve Yol Yardım Hizmetleri | İzmir Oto Çekiciniz",
+      "ready": true
+    },
+    {
+      "path": "/bolgeler/gaziemir/",
+      "title": "Gaziemir çekici ve yol yardım | İzmir Oto Çekiciniz",
+      "ready": true
+    },
+    {
+      "path": "/bolgeler/menderes/",
+      "title": "Menderes çekici ve yol yardım | İzmir Oto Çekiciniz",
+      "ready": true
+    },
+    {
+      "path": "/hizmet-bolgeleri/",
+      "title": "İzmir Çekici Hizmet Bölgeleri | İzmir Oto Çekiciniz",
+      "ready": true
+    },
+    {
+      "path": "/fiyatlandirma/",
+      "title": "Çekici ücretlendirmesi | İzmir Oto Çekiciniz",
+      "ready": true
+    },
+    {
+      "path": "/iletisim/",
+      "title": "İletişim | İzmir Oto Çekiciniz · 0536 676 28 66",
+      "ready": true
+    },
+    {
+      "path": "/hakkimizda/",
+      "title": "İzmir Oto Çekiciniz hakkında | İzmir Oto Çekiciniz",
+      "ready": true
+    },
+    {
+      "path": "/404/",
+      "title": "Sayfa bulunamadı | İzmir Oto Çekiciniz",
+      "ready": false
+    }
+  ]
+}
