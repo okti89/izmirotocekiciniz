@@ -50,6 +50,8 @@ sitemap=ET.parse(DIST/'sitemap.xml');urls={x.text for x in sitemap.getroot().ite
 expected={'https://izmirotocekiciniz.com'+p for p in plan['phase_one']}if opt.public else set();assert urls==expected
 phase_sitemap=ET.parse(ROOT/'launch/sitemap.xml');assert {x.text for x in phase_sitemap.getroot().iter()if x.tag.endswith('}loc')}=={'https://izmirotocekiciniz.com'+p for p in plan['phase_one']}
 assert len(list(DIST.rglob('index.html')))==len(pages),'Untracked old output'
-assert len(plan['phase_one'])==16
+assert len(plan['phase_one'])==len([p for p in pages if p['path']!='/404/'])
+assert not plan['phase_two']
+assert '/404/' not in plan['phase_one']
 assert ('X-Robots-Tag: noindex' in (DIST/'_headers').read_text())is(not opt.public)
-print(json.dumps({'routes':len(pages),'content_pages':len(pages)-1,'phase_one_indexable':len(expected),'reference_urls_mapped':len(mapping['reference_mapping']),'validations':['unique titles and descriptions','single H1','domain canonical and Open Graph','schema JSON','internal links and fragments','all reference destinations','redirect targets','phase-one sitemap','noindex policy','no stale output']},ensure_ascii=False))
+print(json.dumps({'routes':len(pages),'content_pages':len(pages)-1,'indexable_pages':len(expected),'reference_urls_mapped':len(mapping['reference_mapping']),'validations':['unique titles and descriptions','single H1','domain canonical and Open Graph','schema JSON','internal links and fragments','all reference destinations','redirect targets','complete sitemap','noindex policy','no stale output']},ensure_ascii=False))

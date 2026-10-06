@@ -18,12 +18,12 @@ Alan adını yönettiğiniz sağlayıcıda aşağıdaki kayıtları ekleyin. Sa�
 DNS kayıtlarının doğrulanması tek başına Google erişimini açmaz; site halen sahibine özel erişimdedir. Kamuya açık yayın için erişim ayarı ve üretim derlemesi birlikte değiştirilmeli.
 
 1. Alan adı ve SSL doğrulamasının tamamlanması.
-2. `python3 build.py --public` ile üretim çıktısı: canonical ve diğer mutlak adresler https://izmirotocekiciniz.com olacak. İlk 16 sayfa index, diğerleri noindex.
+2. `python3 build.py --public` ile üretim çıktısı: canonical ve diğer mutlak adresler https://izmirotocekiciniz.com olacak. 262 içerik sayfası index,follow; 404 noindex. Sitemap tüm 262 canonical adresi içerir.
 3. Yeni sürümü kamuya açık erişimle yayımlama.
 4. Search Console alan adı doğrulaması ve https://izmirotocekiciniz.com/sitemap.xml gönderimi.
 
 Hazır ilk aşama sitemap dosyası: `launch/sitemap.xml`. Sites önizlemesinin sitemap’i Google’a gönderilmemeli.
 
-Diğer sayfaları sonraki aşamada açmak için yalnızca incelenmiş canonical yolları `index-regions.json` içindeki `indexable_paths` listesine ekleyin. Aynı gün bütün bölge sayfalarını indekslemeye açmayın; arama ve gerçek hizmet performansıyla aşamalı ilerleyin.
+İşletme sahibinin isteğiyle tüm 248 bölge yolu `index-regions.json` kapsamındadır. Gerçek kayıt bulunmayan bölgeler için iş örneği veya müşteri yorumu eklenmez. Sitemap gönderimi tarama ve indeksleme garantisi değildir.
 
 Mevcut izmircekicioto.com sitesinin DNS veya içeriği değiştirilmedi. `url-mapping.json`, referanstaki 275 adresin yeni sitedeki karşılıklarını içerir. Eski sitede 301 geçişi ayrıca uygulanmadı.

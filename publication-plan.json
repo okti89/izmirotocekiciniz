@@ -13,12 +13,6 @@
     "/hizmetler/",
     "/bolgeler/gaziemir/",
     "/bolgeler/menderes/",
-    "/hizmet-bolgeleri/",
-    "/fiyatlandirma/",
-    "/iletisim/",
-    "/hakkimizda/"
-  ],
-  "phase_two": [
     "/guzergahlar/izmir-cevre-yolu/",
     "/guzergahlar/izmir-aydin-otoyolu/",
     "/guzergahlar/izmir-cesme-otoyolu/",
@@ -264,7 +258,12 @@
     "/guzergahlar/belkahve-tunelleri/",
     "/bolgeler/konak/kordon/",
     "/bolgeler/konak/pasaport/",
-    "/bolgeler/cesme/ciftlikkoy/"
+    "/bolgeler/cesme/ciftlikkoy/",
+    "/hizmet-bolgeleri/",
+    "/fiyatlandirma/",
+    "/iletisim/",
+    "/hakkimizda/"
   ],
-  "note": "Tüm içerik sayfaları hazır. İlk etapta yalnızca phase_one indekslenebilir; kalanlar noindex,follow. DNS ve kamuya açık erişim tamamlanmadan Search Console gönderimi yapılmadı."
+  "phase_two": [],
+  "note": "İşletme sahibinin talebiyle 262 içerik sayfası indekslemeye uygun ve sitemap kapsamındadır. 404 kapsam dışındadır. Alan adı, kamuya açık erişim ve Search Console gönderimi ayrı yayın adımlarıdır."
 }

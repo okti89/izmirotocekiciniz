@@ -1,5 +1,5 @@
 {
-  "note": "Tüm referans bölgeleri oluşturuldu. Eşdeğer adlar tek içerik adresinde; indeksleme publication-plan.json ve index-regions.json ile aşamalı yönetilir.",
+  "note": "Tüm referans bölgeleri oluşturuldu. Eşdeğer adlar tek içerik adresinde; tüm içerik sayfaları işletme sahibinin isteğiyle indekslemeye uygun olarak ayarlanır.",
   "regions": [
     {
       "reference_path": "/izmir-cevre-yolu-cekici",

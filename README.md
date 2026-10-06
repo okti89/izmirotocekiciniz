@@ -17,7 +17,7 @@ Telefon ve WhatsApp: +90 536 676 28 66. Çalışma saatleri: 7/24. Hedef hizmet 
 
 `python3 build.py --public`
 
-Bu işlem yalnızca ilk aşamadaki 16 sayfayı index yapar. Diğer 246 içerik sayfası noindex,follow kalır. İlk aşama sitemap'i `launch/sitemap.xml` dosyasında ayrıca hazırlanmıştır. Canonical, Open Graph, yapılandırılmış veri ve sitemap https://izmirotocekiciniz.com adresini kullanır.
+İşletme sahibinin isteğiyle bu işlem 262 içerik sayfasını index,follow yapar. 404 sayfası noindex kalır. Tam sitemap `launch/sitemap.xml` dosyasında ayrıca hazırlanmıştır. Canonical, Open Graph, yapılandırılmış veri ve sitemap https://izmirotocekiciniz.com adresini kullanır.
 
 DNS kaydı: `launch/DNS-VE-YAYIN.md`. Alan adı bağlantısı DNS/SSL doğrulaması bekliyor. Site erişimi halen sahibine özeldir; alan adı bağlanması bu ayarı değiştirmez. Kamuya açık erişim ve üretim çıktısı birlikte yayımlanmadan Search Console'a sitemap göndermeyin.
 
@@ -29,7 +29,7 @@ DNS kaydı: `launch/DNS-VE-YAYIN.md`. Alan adı bağlantısı DNS/SSL doğrulama
 
 Bölge sayfaları hizmet talebine yardımcı olan kısa rehberlerdir; başlık, gerçek ilçe ilişkisi, güzergâh/erişim bilgisi ve bölgeye özel WhatsApp talep bağlantısı içerir. Aynı mahalle adının birden fazla ilçede geçtiği durumlarda ilçe seçimi açıklanır. Ortak taşıma prosedürleri tekrar edebilir; yalnızca kelimeleri değiştirmek özgün yerel değer sayılmaz.
 
-Kaynak yer bilgisi sınırlı olan sayfalarda özel ekip, şube, gerçek vaka, kesin süre veya fiyat uydurulmadı. İndeksleme genişletilmeden önce gerçek hizmet kayıtları, güncel erişim bilgileri ve varsa izinli operasyon örnekleriyle içerik incelenmelidir. Bütün sayfaların oluşturulması, bütün sayfaların Google tarafından indeksleneceği veya sıralanacağı anlamına gelmez.
+Kaynak yer bilgisi sınırlı olan sayfalarda özel ekip, şube, gerçek vaka, kesin süre veya fiyat uydurulmadı. Gerçek hizmet kaydı bulunmayan bölgelerde vaka veya operasyon örneği oluşturulmaz. Mevcut kaynakların bağımsız doğrulanması ve güncel erişim bilgilerinin kontrolü kalite çalışması olarak devam eder. Bütün sayfaların oluşturulması, bütün sayfaların Google tarafından indeksleneceği veya sıralanacağı anlamına gelmez.
 
 `reference-facts.json` işletme sahibine ait referans siteden okunan yer bilgilerini; `region-catalog.json` birleşen adları ve yeni yolları saklar. Bu kaynak verileri operasyon iddialarını veya resmî coğrafi doğruluğu bağımsız olarak kanıtlamaz. Hatalı kaynak adres `/isikkoy-cekici`, Işıkkent sayfasına eşlenmiştir.
 
@@ -43,4 +43,8 @@ Başlık, description, H1, canonical, JSON-LD, yerel bağlantılar, yönlendirme
 
 ## Onaylanan tasarım ve içerik güncellemesi
 
-Koyu lacivert, amber/sarı ve beyaz tasarım bütün sayfalarda kullanılır. Mobil hamburger menü sağdan kayar; Escape, arka plan ve kapatma düğmesiyle kapanır, klavye odağını korur. Ana sayfa, sekiz hizmet sayfası, Gaziemir, Menderes, fiyatlandırma ve hakkımızda içerikleri genişletildi. Hizmete özgü editoryal metinler content_enrichment.py dosyasında yönetilir. Diğer bölge sayfalarının ek yerel ve işletme kaynaklarıyla doğrulanması hâlâ gerekir; bu sayfalar varsayılan olarak noindex tutulur. Kelime sayısı veya sıralama garantisi verilmez.
+Koyu lacivert, amber/sarı ve beyaz tasarım bütün sayfalarda kullanılır. Mobil hamburger menü sağdan kayar; Escape, arka plan ve kapatma düğmesiyle kapanır, klavye odağını korur. Ana sayfa, sekiz hizmet sayfası, Gaziemir, Menderes, fiyatlandırma ve hakkımızda içerikleri genişletildi. Hizmete özgü editoryal metinler content_enrichment.py dosyasında yönetilir. Bölge bilgilerini gerçek kaynaklarla geliştirme ihtiyacı devam eder. İşletme sahibinin talebiyle tüm içerik sayfaları üretim çıktısında index,follow olarak ayarlandı. Kelime sayısı veya sıralama garantisi verilmez.
+
+## Tüm sayfaların indeksleme ayarı
+
+2026-10-07: Kullanıcının açık talebiyle tüm 248 bölge canonical yolu index-regions.json listesine alındı. Yayımlanan çıktı --public ile üretildi: 262 içerik sayfası index,follow; sitemap 262 URL; 404 noindex. Site erişimi halen sahibine özel olduğu için bu ayar Google erişimini veya indekslenmiş olmayı kanıtlamaz. DNS/SSL, herkese açık erişim ve Search Console adımları ayrıca tamamlanmalıdır. Bu değişiklikle doğrulanmamış gerçek iş, müşteri yorumu veya yerel şube kaydı eklenmedi.

@@ -129,7 +129,7 @@ backlog=json.loads((ROOT/'content-backlog.json').read_text())
 for item in backlog['regions']:
  item['status']='rendered'
  item['canonical_path']=reference_mapping.get(item['reference_path'])
-backlog['note']='Tüm referans bölgeleri oluşturuldu. Eşdeğer adlar tek içerik adresinde; indeksleme publication-plan.json ve index-regions.json ile aşamalı yönetilir.'
+backlog['note']='Tüm referans bölgeleri oluşturuldu. Eşdeğer adlar tek içerik adresinde; tüm içerik sayfaları işletme sahibinin isteğiyle indekslemeye uygun olarak ayarlanır.'
 (ROOT/'content-backlog.json').write_text(json.dumps(backlog,ensure_ascii=False,indent=2))
 # İlk yayın için alan adına göre hazırlanmış sitemap; özel önizleme bunu Google'a duyurmaz.
 launch_urls=[ORIGIN+p['path']for p in pages if p['ready']]
@@ -146,8 +146,8 @@ for p in pages:
  if p['path']!='/':redirects[p['path'].rstrip('/')]=p['path']
 (DIST/'_redirects').write_text(''.join(old+' '+new+' 301\n'for old,new in sorted(redirects.items())))
 (ROOT/'url-mapping.json').write_text(json.dumps({'origin':ORIGIN,'reference_mapping':reference_mapping,'redirects':redirects},ensure_ascii=False,indent=2))
-(ROOT/'publication-plan.json').write_text(json.dumps({'domain':ORIGIN,'phase_one':[p['path']for p in pages if p['ready']],'phase_two':[p['path']for p in pages if not p['ready'] and p['path']!='/404/'],'note':'Tüm içerik sayfaları hazır. İlk etapta yalnızca phase_one indekslenebilir; kalanlar noindex,follow. DNS ve kamuya açık erişim tamamlanmadan Search Console gönderimi yapılmadı.'},ensure_ascii=False,indent=2))
-print(f'{len(pages)} HTML routes generated; {len(urls)} live sitemap URLs; {len(launch_urls)} phase-one sitemap URLs; {len(catalog)} canonical region pages.')
+(ROOT/'publication-plan.json').write_text(json.dumps({'domain':ORIGIN,'phase_one':[p['path']for p in pages if p['ready']],'phase_two':[p['path']for p in pages if not p['ready'] and p['path']!='/404/'],'note':'İşletme sahibinin talebiyle 262 içerik sayfası indekslemeye uygun ve sitemap kapsamındadır. 404 kapsam dışındadır. Alan adı, kamuya açık erişim ve Search Console gönderimi ayrı yayın adımlarıdır.'},ensure_ascii=False,indent=2))
+print(f'{len(pages)} HTML routes generated; {len(urls)} live sitemap URLs; {len(launch_urls)} indexable sitemap URLs; {len(catalog)} canonical region pages.')
 
 expected={DIST/(p['path'].strip('/')+'/index.html'if p['path']!='/'else 'index.html')for p in pages}
 for generated in DIST.rglob('index.html'):
