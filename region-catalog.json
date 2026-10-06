@@ -1,0 +1,4223 @@
+{
+  "regions": [
+    {
+      "name": "İzmir Çevre Yolu",
+      "path": "/guzergahlar/izmir-cevre-yolu/",
+      "kind": "guzergahlar",
+      "district": null,
+      "candidates": [],
+      "roads": [
+        "İzmir Çevre Yolu (O-30)",
+        "Bayraklı Tünelleri",
+        "Bornova Viyadüğü",
+        "Buca Batı ve Doğu Kavşağı",
+        "Karabağlar Uzundere Çıkışı",
+        "Gaziemir Kavşağı",
+        "Çiğli Sasalı Ayrımı"
+      ],
+      "source_note": "O-30 İzmir Çevre Yolu, kentin en yoğun transit aksıdır. Bayraklı tünelleri, viyadükler ve otoyol katılım noktalarında meydana gelen arıza ve kazalarda trafiği aksatmadan süratle kurtarma gerçekleştiriyoruz.",
+      "source_paths": [
+        "/izmir-cevre-yolu-cekici"
+      ],
+      "stem": "izmir-cevre-yolu"
+    },
+    {
+      "name": "Aydın Otoban",
+      "path": "/guzergahlar/izmir-aydin-otoyolu/",
+      "kind": "guzergahlar",
+      "district": null,
+      "candidates": [],
+      "roads": [
+        "İzmir-Aydın Otoyolu (O-31)",
+        "Işıkkent Gişeleri",
+        "Torbalı Gişeleri",
+        "Belevi Çıkışı",
+        "Selçuk Gişeleri",
+        "Otoyol Dinlenme Tesisleri"
+      ],
+      "source_note": "O-31 İzmir-Aydın otoyolu üzerinde emniyet şeridinde kalan, lastiği patlayan veya hararet yapan araçlar için otoyol güvenlik protokollerine uygun acil çekici ve kurtarıcı hizmeti sağlıyoruz. Ekiplerimiz otoyol çıkışlarına yakın stratejik noktalarda hazır bekler.",
+      "source_paths": [
+        "/izmir-aydin-otoyolu-cekici",
+        "/aydin-otoban-cekici"
+      ],
+      "stem": "izmir-aydin-otoyolu"
+    },
+    {
+      "name": "Çeşme Otoyolu",
+      "path": "/guzergahlar/izmir-cesme-otoyolu/",
+      "kind": "guzergahlar",
+      "district": null,
+      "candidates": [],
+      "roads": [
+        "İzmir-Çeşme Otoyolu (O-32)",
+        "Narlıdere Gişeleri",
+        "Güzelbahçe Çıkışı",
+        "Urla Gişeleri",
+        "Karaburun Kavşağı",
+        "Zeytinler Dinlenme Tesisi",
+        "Alaçatı Gişeleri",
+        "Çeşme Merkez Çıkışı"
+      ],
+      "source_note": "O-32 İzmir-Çeşme Otoyolu'nda yaz aylarında artan trafik yoğunluğuna karşı hızlı müdahale filomuzla hizmet veriyoruz. Otobanda kalan aracınız kayar kasa platformumuza güvenle yüklenip İzmir veya Çeşme'deki servislere ulaştırılır.",
+      "source_paths": [
+        "/izmir-cesme-otoyolu-cekici",
+        "/cesme-otoyolu-cekici"
+      ],
+      "stem": "izmir-cesme-otoyolu"
+    },
+    {
+      "name": "Sabuncubeli Tüneli",
+      "path": "/guzergahlar/sabuncubeli-tuneli/",
+      "kind": "guzergahlar",
+      "district": null,
+      "candidates": [],
+      "roads": [],
+      "source_note": "Sabuncubeli Tüneli, İzmir–Manisa devlet yolu bağlantısındadır. Tünel içi, giriş veya çıkış konumunu ve İzmir ya da Manisa yönünde olduğunuzu belirtin. Eski yol ile tünel güzergâhı aynı buluşma noktası değildir.",
+      "source_paths": [
+        "/sabuncubeli-tuneli-cekici",
+        "/sabuncubeli-cekici"
+      ],
+      "stem": "sabuncubeli-tuneli"
+    },
+    {
+      "name": "Belkahve Rampası",
+      "path": "/guzergahlar/belkahve-rampasi/",
+      "kind": "guzergahlar",
+      "district": null,
+      "candidates": [],
+      "roads": [],
+      "source_note": "Belkahve Rampası talebinde yolun tabela üzerindeki adı veya numarası, gidiş yönü ve en yakın çıkış önemlidir. Şehir adı ya da genel güzergâh adı tek başına aracın yerini belirlemez. Otoyol, devlet yolu ve bağlantı yolundan hangisinde bulunduğunuzu belirtin.",
+      "source_paths": [
+        "/belkahve-rampasi-cekici",
+        "/belkahve-cekici"
+      ],
+      "stem": "belkahve-rampasi"
+    },
+    {
+      "name": "Bayraklı Tünelleri",
+      "path": "/guzergahlar/bayrakli-tunelleri/",
+      "kind": "guzergahlar",
+      "district": null,
+      "candidates": [],
+      "roads": [],
+      "source_note": "Bayraklı 1 ve Bayraklı 2 tünelleri İzmir Çevre Otoyolu üzerindedir. Hangi tünelde veya tünel girişinde olduğunuzu ve gidiş yönünü belirtin; yalnızca Bayraklı adıyla yönlendirme istemeyin.",
+      "source_paths": [
+        "/bayrakli-tunelleri-cekici"
+      ],
+      "stem": "bayrakli-tunelleri"
+    },
+    {
+      "name": "Konak Tüneli",
+      "path": "/guzergahlar/konak-tuneli/",
+      "kind": "guzergahlar",
+      "district": null,
+      "candidates": [],
+      "roads": [],
+      "source_note": "Konak Tüneli, Konak Meydanı ile Yeşildere Caddesi arasındaki bağlantıdır. Konak tarafında mı, Yeşildere tarafında mı yoksa tünelin içinde mi olduğunuzu bildirin; yön bilgisi giriş seçimini etkiler.",
+      "source_paths": [
+        "/konak-tuneli-cekici"
+      ],
+      "stem": "konak-tuneli"
+    },
+    {
+      "name": "Kuzey Çevre Yolu",
+      "path": "/guzergahlar/kuzey-cevre-yolu/",
+      "kind": "guzergahlar",
+      "district": null,
+      "candidates": [],
+      "roads": [],
+      "source_note": "Kuzey Çevre Yolu talebinde yolun tabela üzerindeki adı veya numarası, gidiş yönü ve en yakın çıkış önemlidir. Şehir adı ya da genel güzergâh adı tek başına aracın yerini belirlemez. Otoyol, devlet yolu ve bağlantı yolundan hangisinde bulunduğunuzu belirtin.",
+      "source_paths": [
+        "/kuzey-cevre-yolu-cekici"
+      ],
+      "stem": "kuzey-cevre-yolu"
+    },
+    {
+      "name": "Güney Çevre Yolu",
+      "path": "/guzergahlar/guney-cevre-yolu/",
+      "kind": "guzergahlar",
+      "district": null,
+      "candidates": [],
+      "roads": [],
+      "source_note": "Güney Çevre Yolu talebinde yolun tabela üzerindeki adı veya numarası, gidiş yönü ve en yakın çıkış önemlidir. Şehir adı ya da genel güzergâh adı tek başına aracın yerini belirlemez. Otoyol, devlet yolu ve bağlantı yolundan hangisinde bulunduğunuzu belirtin.",
+      "source_paths": [
+        "/guney-cevre-yolu-cekici"
+      ],
+      "stem": "guney-cevre-yolu"
+    },
+    {
+      "name": "Bornova Çevre Yolu",
+      "path": "/guzergahlar/bornova-cevre-yolu/",
+      "kind": "guzergahlar",
+      "district": null,
+      "candidates": [],
+      "roads": [],
+      "source_note": "Bornova Çevre Yolu talebinde yolun tabela üzerindeki adı veya numarası, gidiş yönü ve en yakın çıkış önemlidir. Şehir adı ya da genel güzergâh adı tek başına aracın yerini belirlemez. Otoyol, devlet yolu ve bağlantı yolundan hangisinde bulunduğunuzu belirtin.",
+      "source_paths": [
+        "/bornova-cevre-yolu-cekici"
+      ],
+      "stem": "bornova-cevre-yolu"
+    },
+    {
+      "name": "Karşıyaka Çevre Yolu",
+      "path": "/guzergahlar/karsiyaka-cevre-yolu/",
+      "kind": "guzergahlar",
+      "district": null,
+      "candidates": [],
+      "roads": [],
+      "source_note": "Karşıyaka Çevre Yolu talebinde yolun tabela üzerindeki adı veya numarası, gidiş yönü ve en yakın çıkış önemlidir. Şehir adı ya da genel güzergâh adı tek başına aracın yerini belirlemez. Otoyol, devlet yolu ve bağlantı yolundan hangisinde bulunduğunuzu belirtin.",
+      "source_paths": [
+        "/karsiyaka-cevre-yolu-cekici"
+      ],
+      "stem": "karsiyaka-cevre-yolu"
+    },
+    {
+      "name": "Altınyol Sahil Yolu",
+      "path": "/guzergahlar/altinyol-sahil-yolu/",
+      "kind": "guzergahlar",
+      "district": null,
+      "candidates": [],
+      "roads": [],
+      "source_note": "Altınyol Sahil Yolu talebinde yolun tabela üzerindeki adı veya numarası, gidiş yönü ve en yakın çıkış önemlidir. Şehir adı ya da genel güzergâh adı tek başına aracın yerini belirlemez. Otoyol, devlet yolu ve bağlantı yolundan hangisinde bulunduğunuzu belirtin.",
+      "source_paths": [
+        "/altinyol-sahil-yolu-cekici"
+      ],
+      "stem": "altinyol-sahil-yolu"
+    },
+    {
+      "name": "İstanbul Otoyolu",
+      "path": "/guzergahlar/istanbul-otoyolu/",
+      "kind": "guzergahlar",
+      "district": null,
+      "candidates": [],
+      "roads": [],
+      "source_note": "Gebze–Orhangazi–İzmir Otoyolu için yalnızca varış şehrini söylemek yeterli değildir. Otoyol adını, bulunduğunuz kesimi, gidiş yönünü ve kilometre bilgisini aktarın; otoyol ile devlet yolunu birbirinden ayırın.",
+      "source_paths": [
+        "/istanbul-otoyolu-cekici",
+        "/istanbul-yolu-cekici"
+      ],
+      "stem": "istanbul-otoyolu"
+    },
+    {
+      "name": "Ankara Yolu",
+      "path": "/guzergahlar/ankara-yolu/",
+      "kind": "guzergahlar",
+      "district": null,
+      "candidates": [],
+      "roads": [],
+      "source_note": "Ankara Yolu talebinde yolun tabela üzerindeki adı veya numarası, gidiş yönü ve en yakın çıkış önemlidir. Şehir adı ya da genel güzergâh adı tek başına aracın yerini belirlemez. Otoyol, devlet yolu ve bağlantı yolundan hangisinde bulunduğunuzu belirtin.",
+      "source_paths": [
+        "/ankara-yolu-cekici",
+        "/ankara-otoyolu-cekici"
+      ],
+      "stem": "ankara-yolu"
+    },
+    {
+      "name": "Bursa Yolu",
+      "path": "/guzergahlar/bursa-yolu/",
+      "kind": "guzergahlar",
+      "district": null,
+      "candidates": [],
+      "roads": [],
+      "source_note": "Bursa Yolu talebinde yolun tabela üzerindeki adı veya numarası, gidiş yönü ve en yakın çıkış önemlidir. Şehir adı ya da genel güzergâh adı tek başına aracın yerini belirlemez. Otoyol, devlet yolu ve bağlantı yolundan hangisinde bulunduğunuzu belirtin.",
+      "source_paths": [
+        "/bursa-yolu-cekici",
+        "/bursa-otoyolu-cekici"
+      ],
+      "stem": "bursa-yolu"
+    },
+    {
+      "name": "Torbalı Otoyolu",
+      "path": "/guzergahlar/torbali-otoyolu/",
+      "kind": "guzergahlar",
+      "district": "Torbalı",
+      "candidates": [
+        "Torbalı"
+      ],
+      "roads": [],
+      "source_note": "Torbalı Otoyolu talebinde yolun tabela üzerindeki adı veya numarası, gidiş yönü ve en yakın çıkış önemlidir. Şehir adı ya da genel güzergâh adı tek başına aracın yerini belirlemez. Otoyol, devlet yolu ve bağlantı yolundan hangisinde bulunduğunuzu belirtin.",
+      "source_paths": [
+        "/torbali-otoyolu-cekici"
+      ],
+      "stem": "torbali-otoyolu"
+    },
+    {
+      "name": "Liman Yolu",
+      "path": "/guzergahlar/liman-yolu/",
+      "kind": "guzergahlar",
+      "district": null,
+      "candidates": [],
+      "roads": [],
+      "source_note": "Liman Yolu talebinde yolun tabela üzerindeki adı veya numarası, gidiş yönü ve en yakın çıkış önemlidir. Şehir adı ya da genel güzergâh adı tek başına aracın yerini belirlemez. Otoyol, devlet yolu ve bağlantı yolundan hangisinde bulunduğunuzu belirtin.",
+      "source_paths": [
+        "/liman-yolu-cekici"
+      ],
+      "stem": "liman-yolu"
+    },
+    {
+      "name": "1. Sanayi Sitesi",
+      "path": "/sanayi/1-sanayi-sitesi/",
+      "kind": "sanayi",
+      "district": null,
+      "candidates": [],
+      "roads": [],
+      "source_note": "1. Sanayi için site adıyla birlikte ilçe, blok, işletme kapısı ve giriş yolu bilgisini paylaşın. Benzer isimli sanayi alanlarının karışmaması ve araca uygun erişimin planlanması için konum bağlantısı gerekir.",
+      "source_paths": [
+        "/1-sanayi-cekici"
+      ],
+      "stem": "1-sanayi"
+    },
+    {
+      "name": "2. Sanayi Sitesi",
+      "path": "/sanayi/2-sanayi-sitesi/",
+      "kind": "sanayi",
+      "district": null,
+      "candidates": [],
+      "roads": [],
+      "source_note": "2. Sanayi için site adıyla birlikte ilçe, blok, işletme kapısı ve giriş yolu bilgisini paylaşın. Benzer isimli sanayi alanlarının karışmaması ve araca uygun erişimin planlanması için konum bağlantısı gerekir.",
+      "source_paths": [
+        "/2-sanayi-cekici"
+      ],
+      "stem": "2-sanayi"
+    },
+    {
+      "name": "3. Sanayi Sitesi",
+      "path": "/sanayi/3-sanayi-sitesi/",
+      "kind": "sanayi",
+      "district": null,
+      "candidates": [],
+      "roads": [],
+      "source_note": "3. Sanayi için site adıyla birlikte ilçe, blok, işletme kapısı ve giriş yolu bilgisini paylaşın. Benzer isimli sanayi alanlarının karışmaması ve araca uygun erişimin planlanması için konum bağlantısı gerekir.",
+      "source_paths": [
+        "/3-sanayi-cekici"
+      ],
+      "stem": "3-sanayi"
+    },
+    {
+      "name": "4. Sanayi Sitesi",
+      "path": "/sanayi/4-sanayi-sitesi/",
+      "kind": "sanayi",
+      "district": null,
+      "candidates": [],
+      "roads": [],
+      "source_note": "4. Sanayi için site adıyla birlikte ilçe, blok, işletme kapısı ve giriş yolu bilgisini paylaşın. Benzer isimli sanayi alanlarının karışmaması ve araca uygun erişimin planlanması için konum bağlantısı gerekir.",
+      "source_paths": [
+        "/4-sanayi-cekici"
+      ],
+      "stem": "4-sanayi"
+    },
+    {
+      "name": "5. Sanayi Sitesi",
+      "path": "/sanayi/5-sanayi-sitesi/",
+      "kind": "sanayi",
+      "district": null,
+      "candidates": [],
+      "roads": [],
+      "source_note": "5. Sanayi için site adıyla birlikte ilçe, blok, işletme kapısı ve giriş yolu bilgisini paylaşın. Benzer isimli sanayi alanlarının karışmaması ve araca uygun erişimin planlanması için konum bağlantısı gerekir.",
+      "source_paths": [
+        "/5-sanayi-cekici"
+      ],
+      "stem": "5-sanayi"
+    },
+    {
+      "name": "6. Sanayi Sitesi",
+      "path": "/sanayi/6-sanayi-sitesi/",
+      "kind": "sanayi",
+      "district": null,
+      "candidates": [],
+      "roads": [],
+      "source_note": "6. Sanayi için site adıyla birlikte ilçe, blok, işletme kapısı ve giriş yolu bilgisini paylaşın. Benzer isimli sanayi alanlarının karışmaması ve araca uygun erişimin planlanması için konum bağlantısı gerekir.",
+      "source_paths": [
+        "/6-sanayi-cekici"
+      ],
+      "stem": "6-sanayi"
+    },
+    {
+      "name": "7. Sanayi Sitesi",
+      "path": "/sanayi/7-sanayi-sitesi/",
+      "kind": "sanayi",
+      "district": null,
+      "candidates": [],
+      "roads": [],
+      "source_note": "7. Sanayi için site adıyla birlikte ilçe, blok, işletme kapısı ve giriş yolu bilgisini paylaşın. Benzer isimli sanayi alanlarının karışmaması ve araca uygun erişimin planlanması için konum bağlantısı gerekir.",
+      "source_paths": [
+        "/7-sanayi-cekici"
+      ],
+      "stem": "7-sanayi"
+    },
+    {
+      "name": "Kısıkköy Sanayi Sitesi",
+      "path": "/sanayi/kisikkoy-sanayi-sitesi/",
+      "kind": "sanayi",
+      "district": "Menderes",
+      "candidates": [
+        "Menderes"
+      ],
+      "roads": [
+        "Kısıkköy Metal İşleri Sanayi Sitesi",
+        "Kısıkköy Mobilya Şehri",
+        "İzmir-Aydın Karayolu Kısıkköy Kavşağı"
+      ],
+      "source_note": "Kısıkköy sanayi siteleri, mobilya çarşısı ve İzmir-Aydın yolu taleplerinde ticari veya binek aracın tipi, tesis girişi ve yol yönü paylaşılmalıdır.",
+      "source_paths": [
+        "/kisikkoy-sanayi-sitesi-cekici",
+        "/kisikkoy-cekici"
+      ],
+      "stem": "kisikkoy-sanayi-sitesi"
+    },
+    {
+      "name": "Alaçatı",
+      "path": "/bolgeler/cesme/alacati/",
+      "kind": "noktalar",
+      "district": "Çeşme",
+      "candidates": [
+        "Çeşme"
+      ],
+      "roads": [
+        "Alaçatı Otoyol Gişeleri (O-32)",
+        "İzmir-Çeşme Asfaltı",
+        "Port Alaçatı Yolu",
+        "Hacımemiş Bölgesi",
+        "Ilıca-Alaçatı Bağlantı Yolu",
+        "Çamlıkent Yolu"
+      ],
+      "source_note": "Alaçatı yaz sezonunda yoğun araç trafiğine, dar taş sokaklara ve otoyol çıkışına sahiptir. Alaçatı gişeler, Port bölgesi ve plaj yollarında 7/24 hazır oto kurtarıcı filomuzla acil çekici ve yol yardım sunuyoruz.",
+      "source_paths": [
+        "/alacati-cekici"
+      ],
+      "stem": "alacati"
+    },
+    {
+      "name": "Ilıca",
+      "path": "/bolgeler/cesme/ilica/",
+      "kind": "noktalar",
+      "district": "Çeşme",
+      "candidates": [
+        "Çeşme"
+      ],
+      "roads": [],
+      "source_note": "Ilıca adı belediyenin mahalle kayıtlarında Çeşme, Narlıdere için geçiyor. Ekibin yanlış ilçeye yönlenmemesi için ilçe adını, mahalleyi ve konum bağlantısını birlikte paylaşın.",
+      "source_paths": [
+        "/ilica-cekici"
+      ],
+      "stem": "ilica"
+    },
+    {
+      "name": "Boyalık",
+      "path": "/bolgeler/cesme/boyalik/",
+      "kind": "noktalar",
+      "district": "Çeşme",
+      "candidates": [
+        "Çeşme"
+      ],
+      "roads": [],
+      "source_note": "Boyalık için belediye kayıtlarında Çeşme ilçe bilgisi yer alıyor. Boyalık konumunu tarif ederken cadde veya sokak ve giriş bilgisini ekleyin.",
+      "source_paths": [
+        "/boyalik-cekici"
+      ],
+      "stem": "boyalik"
+    },
+    {
+      "name": "Altınkum",
+      "path": "/bolgeler/cesme/altinkum/",
+      "kind": "noktalar",
+      "district": "Çeşme",
+      "candidates": [
+        "Çeşme"
+      ],
+      "roads": [],
+      "source_note": "Altınkum için belediye kayıtlarında Çeşme ilçe bilgisi yer alıyor. Altınkum konumunu tarif ederken cadde veya sokak ve giriş bilgisini ekleyin.",
+      "source_paths": [
+        "/altinkum-cekici"
+      ],
+      "stem": "altinkum"
+    },
+    {
+      "name": "Dalyan",
+      "path": "/bolgeler/cesme/dalyan/",
+      "kind": "noktalar",
+      "district": "Çeşme",
+      "candidates": [
+        "Çeşme"
+      ],
+      "roads": [],
+      "source_note": "Dalyan için belediye kayıtlarında Çeşme ilçe bilgisi yer alıyor. Dalyan konumunu tarif ederken cadde veya sokak ve giriş bilgisini ekleyin.",
+      "source_paths": [
+        "/dalyan-cekici"
+      ],
+      "stem": "dalyan"
+    },
+    {
+      "name": "Ildır",
+      "path": "/bolgeler/cesme/ildir/",
+      "kind": "noktalar",
+      "district": "Çeşme",
+      "candidates": [
+        "Çeşme"
+      ],
+      "roads": [],
+      "source_note": "Ildır için belediye kayıtlarında Çeşme ilçe bilgisi yer alıyor. Ildır konumunu tarif ederken cadde veya sokak ve giriş bilgisini ekleyin.",
+      "source_paths": [
+        "/ildir-cekici"
+      ],
+      "stem": "ildir"
+    },
+    {
+      "name": "Şifne",
+      "path": "/bolgeler/cesme/sifne/",
+      "kind": "noktalar",
+      "district": "Çeşme",
+      "candidates": [
+        "Çeşme"
+      ],
+      "roads": [],
+      "source_note": "Şifne için belediye kayıtlarında Çeşme ilçe bilgisi yer alıyor. Şifne konumunu tarif ederken cadde veya sokak ve giriş bilgisini ekleyin.",
+      "source_paths": [
+        "/sifne-cekici"
+      ],
+      "stem": "sifne"
+    },
+    {
+      "name": "16 Eylül",
+      "path": "/bolgeler/cesme/16-eylul/",
+      "kind": "noktalar",
+      "district": "Çeşme",
+      "candidates": [
+        "Çeşme"
+      ],
+      "roads": [],
+      "source_note": "16 Eylül için belediye kayıtlarında Çeşme ilçe bilgisi yer alıyor. 16 Eylül konumunu tarif ederken cadde veya sokak ve giriş bilgisini ekleyin.",
+      "source_paths": [
+        "/16-eylul-cekici"
+      ],
+      "stem": "16-eylul"
+    },
+    {
+      "name": "Ovacık",
+      "path": "/bolgeler/cesme/ovacik/",
+      "kind": "noktalar",
+      "district": "Çeşme",
+      "candidates": [
+        "Çeşme"
+      ],
+      "roads": [],
+      "source_note": "Ovacık adı belediyenin mahalle kayıtlarında Urla, Kemalpaşa, Bergama, Kiraz, Çeşme ve başka 1 ilçe için geçiyor. Ekibin yanlış ilçeye yönlenmemesi için ilçe adını, mahalleyi ve konum bağlantısını birlikte paylaşın.",
+      "source_paths": [
+        "/ovacik-cekici"
+      ],
+      "stem": "ovacik"
+    },
+    {
+      "name": "Yelki",
+      "path": "/bolgeler/guzelbahce/yelki/",
+      "kind": "noktalar",
+      "district": "Güzelbahçe",
+      "candidates": [
+        "Güzelbahçe"
+      ],
+      "roads": [],
+      "source_note": "Yelki için belediye kayıtlarında Güzelbahçe ilçe bilgisi yer alıyor. Yelki konumunu tarif ederken cadde veya sokak ve giriş bilgisini ekleyin.",
+      "source_paths": [
+        "/yelki-cekici"
+      ],
+      "stem": "yelki"
+    },
+    {
+      "name": "Kahramandere",
+      "path": "/bolgeler/guzelbahce/kahramandere/",
+      "kind": "noktalar",
+      "district": "Güzelbahçe",
+      "candidates": [
+        "Güzelbahçe"
+      ],
+      "roads": [],
+      "source_note": "Kahramandere için belediye kayıtlarında Güzelbahçe ilçe bilgisi yer alıyor. Kahramandere konumunu tarif ederken cadde veya sokak ve giriş bilgisini ekleyin.",
+      "source_paths": [
+        "/kahramandere-cekici"
+      ],
+      "stem": "kahramandere"
+    },
+    {
+      "name": "Çamlı",
+      "path": "/bolgeler/guzelbahce/camli/",
+      "kind": "noktalar",
+      "district": "Güzelbahçe",
+      "candidates": [
+        "Güzelbahçe"
+      ],
+      "roads": [],
+      "source_note": "Çamlı için belediye kayıtlarında Güzelbahçe ilçe bilgisi yer alıyor. Çamlı konumunu tarif ederken cadde veya sokak ve giriş bilgisini ekleyin.",
+      "source_paths": [
+        "/camli-cekici"
+      ],
+      "stem": "camli"
+    },
+    {
+      "name": "Torbalı",
+      "path": "/bolgeler/torbali/",
+      "kind": "ilceler",
+      "district": "Torbalı",
+      "candidates": [
+        "Torbalı"
+      ],
+      "roads": [
+        "İzmir-Aydın Asfaltı",
+        "Torbalı Otoyol Çıkışı",
+        "Ayrancılar Hattı",
+        "Pancar OSB Yolu"
+      ],
+      "source_note": "Torbalı fabrikalar bölgesi, Ayrancılar ve İzmir-Aydın karayolu üzerinde her türlü binek ve ticari araç için profesyonel oto kurtarma hizmeti veriyoruz.",
+      "source_paths": [
+        "/torbali-cekici"
+      ],
+      "stem": "torbali"
+    },
+    {
+      "name": "Torbalı Ayrancılar",
+      "path": "/bolgeler/torbali/ayrancilar/",
+      "kind": "noktalar",
+      "district": "Torbalı",
+      "candidates": [
+        "Torbalı"
+      ],
+      "roads": [
+        "İzmir-Aydın Asfaltı",
+        "Ayrancılar Sanayi Sitesi",
+        "Pancar Kavşağı",
+        "Yazıbaşı Bağlantısı",
+        "Egekent 4 Yolu"
+      ],
+      "source_note": "Torbalı'nın giriş kapısı olan Ayrancılar, İzmir-Aydın karayolu ve sanayi tesislerinin yoğun olduğu bir geçiş noktasıdır. Arızalı otomobil, kamyonet ve fabrika araçlarına anında kayar kasa çekici desteği veriyoruz.",
+      "source_paths": [
+        "/torbali-ayrancilar-cekici",
+        "/ayrancilar-cekici"
+      ],
+      "stem": "torbali-ayrancilar"
+    },
+    {
+      "name": "Torbalı Pancar",
+      "path": "/bolgeler/torbali/pancar/",
+      "kind": "noktalar",
+      "district": "Torbalı",
+      "candidates": [
+        "Torbalı"
+      ],
+      "roads": [],
+      "source_note": "Torbalı Pancar için belediye kayıtlarında Torbalı ilçe bilgisi yer alıyor. Pancar konumunu tarif ederken cadde veya sokak ve giriş bilgisini ekleyin.",
+      "source_paths": [
+        "/torbali-pancar-cekici"
+      ],
+      "stem": "torbali-pancar"
+    },
+    {
+      "name": "Torbalı Yazıbaşı",
+      "path": "/bolgeler/torbali/yazibasi/",
+      "kind": "noktalar",
+      "district": "Torbalı",
+      "candidates": [
+        "Torbalı"
+      ],
+      "roads": [],
+      "source_note": "Torbalı Yazıbaşı için belediye kayıtlarında Torbalı ilçe bilgisi yer alıyor. Yazıbaşı konumunu tarif ederken cadde veya sokak ve giriş bilgisini ekleyin.",
+      "source_paths": [
+        "/torbali-yazibasi-cekici"
+      ],
+      "stem": "torbali-yazibasi"
+    },
+    {
+      "name": "Torbalı Çaybaşı",
+      "path": "/bolgeler/torbali/caybasi/",
+      "kind": "noktalar",
+      "district": "Torbalı",
+      "candidates": [
+        "Torbalı"
+      ],
+      "roads": [],
+      "source_note": "Torbalı Çaybaşı için belediye kayıtlarında Torbalı ilçe bilgisi yer alıyor. Çaybaşı konumunu tarif ederken cadde veya sokak ve giriş bilgisini ekleyin.",
+      "source_paths": [
+        "/torbali-caybasi-cekici"
+      ],
+      "stem": "torbali-caybasi"
+    },
+    {
+      "name": "Torbalı Subaşı",
+      "path": "/bolgeler/torbali/subasi/",
+      "kind": "noktalar",
+      "district": "Torbalı",
+      "candidates": [
+        "Torbalı"
+      ],
+      "roads": [],
+      "source_note": "Torbalı Subaşı için belediye kayıtlarında Torbalı ilçe bilgisi yer alıyor. Subaşı konumunu tarif ederken cadde veya sokak ve giriş bilgisini ekleyin.",
+      "source_paths": [
+        "/torbali-subasi-cekici"
+      ],
+      "stem": "torbali-subasi"
+    },
+    {
+      "name": "Torbalı Çapak",
+      "path": "/bolgeler/torbali/capak/",
+      "kind": "noktalar",
+      "district": "Torbalı",
+      "candidates": [
+        "Torbalı"
+      ],
+      "roads": [],
+      "source_note": "Torbalı Çapak için belediye kayıtlarında Torbalı ilçe bilgisi yer alıyor. Çapak konumunu tarif ederken cadde veya sokak ve giriş bilgisini ekleyin.",
+      "source_paths": [
+        "/torbali-capak-cekici"
+      ],
+      "stem": "torbali-capak"
+    },
+    {
+      "name": "Torbalı Karakızlar",
+      "path": "/bolgeler/torbali/karakizlar/",
+      "kind": "noktalar",
+      "district": "Torbalı",
+      "candidates": [
+        "Torbalı"
+      ],
+      "roads": [],
+      "source_note": "Torbalı Karakızlar için belediye kayıtlarında Torbalı ilçe bilgisi yer alıyor. Karakızlar konumunu tarif ederken cadde veya sokak ve giriş bilgisini ekleyin.",
+      "source_paths": [
+        "/torbali-karakizlar-cekici"
+      ],
+      "stem": "torbali-karakizlar"
+    },
+    {
+      "name": "Torbalı Ahmetli",
+      "path": "/bolgeler/torbali/ahmetli/",
+      "kind": "noktalar",
+      "district": "Torbalı",
+      "candidates": [
+        "Torbalı"
+      ],
+      "roads": [],
+      "source_note": "Torbalı Ahmetli için belediye kayıtlarında Torbalı ilçe bilgisi yer alıyor. Ahmetli konumunu tarif ederken cadde veya sokak ve giriş bilgisini ekleyin.",
+      "source_paths": [
+        "/torbali-ahmetli-cekici"
+      ],
+      "stem": "torbali-ahmetli"
+    },
+    {
+      "name": "Torbalı Kuşçuburun",
+      "path": "/bolgeler/torbali/kuscuburun/",
+      "kind": "noktalar",
+      "district": "Torbalı",
+      "candidates": [
+        "Torbalı"
+      ],
+      "roads": [],
+      "source_note": "Torbalı Kuşçuburun için belediye kayıtlarında Torbalı ilçe bilgisi yer alıyor. Kuşçuburun konumunu tarif ederken cadde veya sokak ve giriş bilgisini ekleyin.",
+      "source_paths": [
+        "/torbali-kuscuburun-cekici"
+      ],
+      "stem": "torbali-kuscuburun"
+    },
+    {
+      "name": "Menemen",
+      "path": "/bolgeler/menemen/",
+      "kind": "ilceler",
+      "district": "Menemen",
+      "candidates": [
+        "Menemen"
+      ],
+      "roads": [
+        "Çanakkale Asfaltı (İzmir-Çanakkale Yolu)",
+        "Menemen Çevre Yolu",
+        "Ulukent Bağlantısı",
+        "Menemen Sanayi Yolu"
+      ],
+      "source_note": "Menemen Çanakkale Asfaltı, Ulukent ve Seyrek çevresindeki taleplerde otomobil, kamyonet veya ticari aracın tipi ile yol yönü birlikte değerlendirilir.",
+      "source_paths": [
+        "/menemen-cekici"
+      ],
+      "stem": "menemen"
+    },
+    {
+      "name": "Bergama",
+      "path": "/bolgeler/bergama/",
+      "kind": "ilceler",
+      "district": "Bergama",
+      "candidates": [
+        "Bergama"
+      ],
+      "roads": [
+        "İzmir-Çanakkale Yolu (E87)",
+        "Bergama Çevre Yolu",
+        "Kozak Yaylası Yolu",
+        "Soma-Bergama Yolu",
+        "Bergama Küçük Sanayi Sitesi"
+      ],
+      "source_note": "Kuzey Ege'nin lojistik ve tarım merkezi olan Bergama'da, E87 karayolu, sanayi sitesi ve Kozak yolu üzerindeki tüm çekici, oto kurtarma ve ağır vasıta taşıma taleplerine profesyonel donanımla cevap veriyoruz.",
+      "source_paths": [
+        "/bergama-cekici"
+      ],
+      "stem": "bergama"
+    },
+    {
+      "name": "Ödemiş",
+      "path": "/bolgeler/odemis/",
+      "kind": "ilceler",
+      "district": "Ödemiş",
+      "candidates": [
+        "Ödemiş"
+      ],
+      "roads": [
+        "İzmir-Ödemiş Yolu",
+        "Birgi Yolu",
+        "Gölcük-Bozdağ Yaylası Yolu",
+        "Ödemiş Küçük Sanayi Sitesi",
+        "Tire-Ödemiş Bağlantı Yolu"
+      ],
+      "source_note": "Küçük Menderes havzasında Ödemiş ilçe merkezi, sanayi siteleri, Birgi tarihi bölgesi ve kış aylarında yoğun olan Bozdağ-Gölcük rampalarında 7/24 oto kurtarma ve çekici desteği sağlıyoruz.",
+      "source_paths": [
+        "/odemis-cekici"
+      ],
+      "stem": "odemis"
+    },
+    {
+      "name": "Tire",
+      "path": "/bolgeler/tire/",
+      "kind": "ilceler",
+      "district": "Tire",
+      "candidates": [
+        "Tire"
+      ],
+      "roads": [
+        "İzmir-Tire Yolu",
+        "Tire Organize Sanayi Bölgesi (TOSBİ)",
+        "Selçuk-Tire Yolu",
+        "Ödemiş-Tire Yolu",
+        "Tire Sanayi Sitesi"
+      ],
+      "source_note": "Tire OSB fabrikalar bölgesi, sanayi sitesi ve ilçe merkezinde fabrika servis araçları, ticari kamyonetler ve binek otomobiller için anlık kayar kasa çekici yönlendiriyoruz.",
+      "source_paths": [
+        "/tire-cekici"
+      ],
+      "stem": "tire"
+    },
+    {
+      "name": "Bayındır",
+      "path": "/bolgeler/bayindir/",
+      "kind": "ilceler",
+      "district": "Bayındır",
+      "candidates": [
+        "Bayındır"
+      ],
+      "roads": [
+        "İzmir-Bayındır Karayolu",
+        "Torbalı-Bayındır Yolu",
+        "Canlı Kavşağı",
+        "Zeytinova Yolu",
+        "Bayındır Sanayi Bölgesi"
+      ],
+      "source_note": "Bayındır tarım ve çiçekçilik havzasında, Torbalı bağlantı karayolu ve ova yollarında kalan araçlar için güvenilir oto kurtarma hizmeti veriyoruz.",
+      "source_paths": [
+        "/bayindir-cekici"
+      ],
+      "stem": "bayindir"
+    },
+    {
+      "name": "Selçuk",
+      "path": "/bolgeler/selcuk/",
+      "kind": "ilceler",
+      "district": "Selçuk",
+      "candidates": [
+        "Selçuk"
+      ],
+      "roads": [
+        "İzmir-Aydın Otoyolu Selçuk Gişeleri",
+        "Efes Antik Kenti Girişi",
+        "Kuşadası-Selçuk Yolu",
+        "Şirince Köy Yolu",
+        "Pamucak Sahil Yolu"
+      ],
+      "source_note": "Selçuk, Kuşadası turizm yolu, Efes-Pamucak sahili ve İzmir-Aydın otoyolunun kesişimindedir. Tur otobüsleri, yerli-yabancı turist araçları ve yerel halk için 7/24 oto çekici sağlarız.",
+      "source_paths": [
+        "/selcuk-cekici"
+      ],
+      "stem": "selcuk"
+    },
+    {
+      "name": "Kınık",
+      "path": "/bolgeler/kinik/",
+      "kind": "ilceler",
+      "district": "Kınık",
+      "candidates": [
+        "Kınık"
+      ],
+      "roads": [
+        "Bergama-Soma Yolu (Kınık Geçişi)",
+        "Poyracık Yolu",
+        "Kınık OSB Bağlantısı",
+        "Yayakent Yolu"
+      ],
+      "source_note": "Kınık ve Poyracık bölgesinde madencilik, tarım ve sanayi trafiğine uygun binek ve ticari araç çekici hizmetleri sunuyoruz.",
+      "source_paths": [
+        "/kinik-cekici"
+      ],
+      "stem": "kinik"
+    },
+    {
+      "name": "Kiraz",
+      "path": "/bolgeler/kiraz/",
+      "kind": "ilceler",
+      "district": "Kiraz",
+      "candidates": [
+        "Kiraz"
+      ],
+      "roads": [
+        "Ödemiş-Kiraz Yolu",
+        "Alaşehir Yolu",
+        "Kiraz Sanayi Sitesi",
+        "Çömlekçi Yolu"
+      ],
+      "source_note": "Kiraz ilçe merkezi ve dağ köylerinde, Alaşehir sınırına kadar uzanan karayolunda kalan araçlar için güvenilir yol yardım ve çekici desteği.",
+      "source_paths": [
+        "/kiraz-cekici"
+      ],
+      "stem": "kiraz"
+    },
+    {
+      "name": "Nazilli",
+      "path": "/bolgeler/noktalar/nazilli/",
+      "kind": "noktalar",
+      "district": null,
+      "candidates": [],
+      "roads": [],
+      "source_note": "Nazilli adıyla yardım isterken ilçe, resmi mahalle adı ve konum bağlantısını birlikte paylaşın. Semt, site veya tesis adı ile resmi adres farklı olabilir; yalnızca yer adıyla ekip yönlendirmesi yapılmadan konum netleştirilir.",
+      "source_paths": [
+        "/nazilli-cekici"
+      ],
+      "stem": "nazilli"
+    },
+    {
+      "name": "Buca Gölet",
+      "path": "/bolgeler/buca/golet/",
+      "kind": "noktalar",
+      "district": "Buca",
+      "candidates": [
+        "Buca"
+      ],
+      "roads": [],
+      "source_note": "Buca Belediyesi performans programı Gölet tesisini Kaynaklar Merkez konumunda listeler. Yardım talebinde tesisin hangi girişinde veya çevresindeki hangi yolda bulunduğunuzu ve aracın erişim koşullarını belirtin.",
+      "source_paths": [
+        "/buca-golet-cekici"
+      ],
+      "stem": "buca-golet"
+    },
+    {
+      "name": "Belenbaşı",
+      "path": "/bolgeler/buca/belenbasi/",
+      "kind": "noktalar",
+      "district": "Buca",
+      "candidates": [
+        "Buca"
+      ],
+      "roads": [],
+      "source_note": "Belenbaşı için belediye kayıtlarında Buca ilçe bilgisi yer alıyor. Belenbaşı konumunu tarif ederken cadde veya sokak ve giriş bilgisini ekleyin.",
+      "source_paths": [
+        "/belenbasi-cekici"
+      ],
+      "stem": "belenbasi"
+    },
+    {
+      "name": "Pınarbaşı",
+      "path": "/bolgeler/bornova/pinarbasi/",
+      "kind": "noktalar",
+      "district": "Bornova",
+      "candidates": [
+        "Bornova"
+      ],
+      "roads": [
+        "Pınarbaşı Sanayi Bölgesi",
+        "5. Sanayi Sitesi",
+        "Kemalpaşa Caddesi",
+        "Pınarbaşı Düğün Salonları Bölgesi"
+      ],
+      "source_note": "Bornova Pınarbaşı sanayi tesisleri, döküm atölyeleri ve ana yol üzerinde arızalanan tüm araçlar için acil vinçli ve kayar kasa kurtarıcı.",
+      "source_paths": [
+        "/pinarbasi-cekici"
+      ],
+      "stem": "pinarbasi"
+    },
+    {
+      "name": "Aliağa",
+      "path": "/bolgeler/aliaga/",
+      "kind": "ilceler",
+      "district": "Aliağa",
+      "candidates": [
+        "Aliağa"
+      ],
+      "roads": [
+        "Çanakkale Asfaltı Aliağa Etabı",
+        "Tüpraş - Petkim Rafineri Yolu",
+        "Yeni Şakran Hattı",
+        "Aliağa Liman Yolu"
+      ],
+      "source_note": "Aliağa sanayi ve liman tesisleri, Petkim-Tüpraş güzergahı ve Çanakkale Asfaltı üzerinde her tonajda araç için 7/24 güvenli çekici desteği.",
+      "source_paths": [
+        "/aliaga-cekici"
+      ],
+      "stem": "aliaga"
+    },
+    {
+      "name": "Balçova",
+      "path": "/bolgeler/balcova/",
+      "kind": "ilceler",
+      "district": "Balçova",
+      "candidates": [
+        "Balçova"
+      ],
+      "roads": [
+        "Mithatpaşa Caddesi Balçova Etabı",
+        "Ata Caddesi",
+        "İnciraltı Caddesi",
+        "Çeşme Otoyolu Balçova Girişi"
+      ],
+      "source_note": "Balçova AVM’ler bölgesi, İnciraltı sahili ve otoban bağlantısında yolda kalan sürücüler için 7/24 hızlı yol yardım desteği sunuyoruz.",
+      "source_paths": [
+        "/balcova-cekici"
+      ],
+      "stem": "balcova"
+    },
+    {
+      "name": "Bayraklı",
+      "path": "/bolgeler/bayrakli/",
+      "kind": "ilceler",
+      "district": "Bayraklı",
+      "candidates": [
+        "Bayraklı"
+      ],
+      "roads": [
+        "Altınyol",
+        "Ankara Asfaltı Bayraklı Kavşağı",
+        "Manas Bulvarı",
+        "Adliye ve Şehir Hastanesi Çevresi",
+        "Cengizhan Caddesi"
+      ],
+      "source_note": "Bayraklı yeni kent merkezi, Şehir Hastanesi yolları, Manas Bulvarı ve Altınyol üzerinde arızalanan veya kazaya karışan araçlar için acil oto çekici desteği veriyoruz.",
+      "source_paths": [
+        "/bayrakli-cekici"
+      ],
+      "stem": "bayrakli"
+    },
+    {
+      "name": "Beydağ",
+      "path": "/bolgeler/beydag/",
+      "kind": "ilceler",
+      "district": "Beydağ",
+      "candidates": [
+        "Beydağ"
+      ],
+      "roads": [
+        "Ödemiş-Beydağ Yolu",
+        "Beydağ Baraj Yolu",
+        "Nazilli Bağlantı Yolu"
+      ],
+      "source_note": "Beydağ Barajı havzası, ilçe merkezi ve çevre köylerde arıza ve kaza durumlarında kayar kasa oto çekici hizmeti.",
+      "source_paths": [
+        "/beydag-cekici"
+      ],
+      "stem": "beydag"
+    },
+    {
+      "name": "Bornova",
+      "path": "/bolgeler/bornova/",
+      "kind": "ilceler",
+      "district": "Bornova",
+      "candidates": [
+        "Bornova"
+      ],
+      "roads": [
+        "Ankara Caddesi",
+        "İzmir Çevre Yolu Bornova Bağlantısı",
+        "Manisa Yolu (Süvari Caddesi)",
+        "Ege Üniversitesi ve Çevresi",
+        "Küçükpark & Büyükpark",
+        "Işıkkent Ayakkabıcılar Sitesi",
+        "Pınarbaşı Sanayi Bölgesi"
+      ],
+      "source_note": "Bornova, İzmir-İstanbul ve İzmir-Ankara yol bağlantıları üzerindedir. Ankara Caddesi, sanayi siteleri ve kampüs çevresindeki taleplerde yol yönü ile güvenli bekleme noktası önemlidir.",
+      "source_paths": [
+        "/bornova-cekici"
+      ],
+      "stem": "bornova"
+    },
+    {
+      "name": "Buca",
+      "path": "/bolgeler/buca/",
+      "kind": "ilceler",
+      "district": "Buca",
+      "candidates": [
+        "Buca"
+      ],
+      "roads": [
+        "Menderes Caddesi",
+        "Buca Koop ve Otoyol Çıkışı",
+        "Şirinyer Forbes Caddesi",
+        "Tınaztepe Kampüs Yolu",
+        "Doğuş Caddesi",
+        "Kaynaklar Bağlantı Yolu"
+      ],
+      "source_note": "Buca'nın kalabalık caddeleri, Şirinyer ve otoyol bağlantılarındaki taleplerde dar sokak, eğim ve aracın hareket durumu hizmet planında dikkate alınır.",
+      "source_paths": [
+        "/buca-cekici"
+      ],
+      "stem": "buca"
+    },
+    {
+      "name": "Çeşme",
+      "path": "/bolgeler/cesme/",
+      "kind": "ilceler",
+      "district": "Çeşme",
+      "candidates": [
+        "Çeşme"
+      ],
+      "roads": [
+        "İzmir-Çeşme Otoyolu",
+        "Alaçatı Girişi",
+        "Ilıca Plaj Yolu",
+        "Dalyan Yolu",
+        "Çiftlikköy Hattı"
+      ],
+      "source_note": "Çeşme Otoyolu, Alaçatı ve Ilıca bölgelerinde tatil veya seyahat esnasında yolda kalan araçlar için güvenilir çekici ve İzmir sanayilerine transfer desteği sunuyoruz.",
+      "source_paths": [
+        "/cesme-cekici"
+      ],
+      "stem": "cesme"
+    },
+    {
+      "name": "Çiğli",
+      "path": "/bolgeler/cigli/",
+      "kind": "ilceler",
+      "district": "Çiğli",
+      "candidates": [
+        "Çiğli"
+      ],
+      "roads": [
+        "Anadolu Caddesi",
+        "İzmir Atatürk Organize Sanayi Bölgesi (İAOSB)",
+        "Ata Sanayi",
+        "Çiğli Bölge Hastanesi Çevresi",
+        "Sasalı Bağlantı Yolu"
+      ],
+      "source_note": "Çiğli Atatürk Organize Sanayi, Ata Sanayi ve Anadolu Caddesi taleplerinde binek veya ticari aracın ölçüsü, yükü ve tesis girişi birlikte değerlendirilir.",
+      "source_paths": [
+        "/cigli-cekici"
+      ],
+      "stem": "cigli"
+    },
+    {
+      "name": "Dikili",
+      "path": "/bolgeler/dikili/",
+      "kind": "ilceler",
+      "district": "Dikili",
+      "candidates": [
+        "Dikili"
+      ],
+      "roads": [
+        "İzmir-Çanakkale Asfaltı (E87) Dikili Kavşağı",
+        "Çandarlı Yolu",
+        "Salihleraltı Sahil Caddesi",
+        "Bademli Yolu",
+        "Kabakum Geçişi"
+      ],
+      "source_note": "Dikili sahil şeridi, Çandarlı liman bölgesi ve Çanakkale-İzmir ana arterinde arızalanan veya kaza yapan araçlar için 7/24 çekici ve kurtarma ekiplerimiz hazır beklemektedir.",
+      "source_paths": [
+        "/dikili-cekici"
+      ],
+      "stem": "dikili"
+    },
+    {
+      "name": "Foça",
+      "path": "/bolgeler/foca/",
+      "kind": "ilceler",
+      "district": "Foça",
+      "candidates": [
+        "Foça"
+      ],
+      "roads": [
+        "İzmir-Foça Yolu",
+        "Yeni Foça Sahil Yolu",
+        "Bağarası Kavşağı",
+        "Ilıpınar Geçişi",
+        "Kozbeyli Köy Yolu",
+        "Foça Küçük Sanayi Sitesi"
+      ],
+      "source_note": "Foça, sahil güzergâhı, Yeni Foça virajlı yolları ve Bağarası geçişi ile yoğun trafik alan bir sahil ilçemizdir. Sahil bandı, dar sokaklar ve köy yollarında arıza veya kaza durumunda kayar kasa çekicilerimizle hızlı intikal sağlıyoruz.",
+      "source_paths": [
+        "/foca-cekici"
+      ],
+      "stem": "foca"
+    },
+    {
+      "name": "Gaziemir",
+      "path": "/bolgeler/gaziemir/",
+      "kind": "ilceler",
+      "district": "Gaziemir",
+      "candidates": [
+        "Gaziemir"
+      ],
+      "roads": [
+        "Akçay Caddesi",
+        "Optimum AVM Çevresi",
+        "ESBAŞ (Ege Serbest Bölgesi)",
+        "İzmir-Aydın Otoyolu Gaziemir Bağlantısı",
+        "Adnan Menderes Havalimanı Güzergâhı",
+        "Sarnıç Yolu ve Sanayi Bölgesi",
+        "Hava Teknik Okulları Çevresi"
+      ],
+      "source_note": "Gaziemir, Adnan Menderes Havalimanı ile sanayi alanlarının bağlantı güzergâhındadır. Akçay Caddesi ve İzmir-Aydın otoyol bağlantısındaki taleplerde yol yönü, araç durumu ve güvenli bekleme noktası birlikte değerlendirilir.",
+      "source_paths": [
+        "/gaziemir-cekici"
+      ],
+      "stem": "gaziemir"
+    },
+    {
+      "name": "Güzelbahçe",
+      "path": "/bolgeler/guzelbahce/",
+      "kind": "ilceler",
+      "district": "Güzelbahçe",
+      "candidates": [
+        "Güzelbahçe"
+      ],
+      "roads": [
+        "Mithatpaşa Caddesi Güzelbahçe Etabı",
+        "Çeşme Otoyolu Güzelbahçe Çıkışı",
+        "Seferihisar Yolu"
+      ],
+      "source_note": "Güzelbahçe sahil yolu ve Yelki-Seferihisar bağlantısındaki taleplerde yön, yakın kavşak ve aracın hareket durumu paylaşılmalıdır.",
+      "source_paths": [
+        "/guzelbahce-cekici"
+      ],
+      "stem": "guzelbahce"
+    },
+    {
+      "name": "Karabağlar",
+      "path": "/bolgeler/karabaglar/",
+      "kind": "ilceler",
+      "district": "Karabağlar",
+      "candidates": [
+        "Karabağlar"
+      ],
+      "roads": [
+        "Yeşillik Caddesi",
+        "Halide Edip Adıvar Bulvarı",
+        "İnönü Caddesi Karabağlar Hattı",
+        "Karabağlar Sanayi Sitesi",
+        "Uzundere Kavşağı"
+      ],
+      "source_note": "Karabağlar Yeşillik Caddesi, mobilyacılar sitesi ve sanayi bölgesindeki taleplerde yoğun trafik, tesis girişi ve aracın yürür durumu hizmet planına dâhil edilir.",
+      "source_paths": [
+        "/karabaglar-cekici"
+      ],
+      "stem": "karabaglar"
+    },
+    {
+      "name": "Karaburun",
+      "path": "/bolgeler/karaburun/",
+      "kind": "ilceler",
+      "district": "Karaburun",
+      "candidates": [
+        "Karaburun"
+      ],
+      "roads": [
+        "Karaburun Yarımada Yolu",
+        "Mordoğan Sahil Caddesi",
+        "Gülbahçe-Karaburun Asfaltı",
+        "İskele Yolu",
+        "Küçükbahçe Geçişi"
+      ],
+      "source_note": "Karaburun Yarımadası'nın virajlı sahil ve dağ yollarında, Mordoğan ve ilçe genelinde arıza yapan veya yoldan çıkan araçlar için özel donanımlı kurtarma araçlarımızla hizmet veriyoruz.",
+      "source_paths": [
+        "/karaburun-cekici"
+      ],
+      "stem": "karaburun"
+    },
+    {
+      "name": "Karşıyaka",
+      "path": "/bolgeler/karsiyaka/",
+      "kind": "ilceler",
+      "district": "Karşıyaka",
+      "candidates": [
+        "Karşıyaka"
+      ],
+      "roads": [
+        "Cemal Gürsel Sahil Bulvarı",
+        "Girne Bulvarı",
+        "Anadolu Caddesi Karşıyaka Etabı",
+        "Bostanlı İskele Çevresi",
+        "Örnekköy Yolu",
+        "Mavişehir Kavşağı"
+      ],
+      "source_note": "Karşıyaka sahil boyu, Girne Caddesi ve Anadolu Caddesi taleplerinde trafik, yol yönü ve aracın bulunduğu şerit bilgisi değerlendirilir. Bostanlı, Mavişehir ve Alaybey için tam konum istenir.",
+      "source_paths": [
+        "/karsiyaka-cekici"
+      ],
+      "stem": "karsiyaka"
+    },
+    {
+      "name": "Kemalpaşa",
+      "path": "/bolgeler/kemalpasa/",
+      "kind": "ilceler",
+      "district": "Kemalpaşa",
+      "candidates": [
+        "Kemalpaşa"
+      ],
+      "roads": [
+        "İzmir-İstanbul Otoyolu Kemalpaşa Etabı",
+        "Kemalpaşa OSB (KOSBİ) Yolu",
+        "Ankara Asfaltı Bağlantısı"
+      ],
+      "source_note": "Kemalpaşa Organize Sanayi (KOSBİ), Ulucak ve İzmir-İstanbul otoyolunda arızalanan otomobil, tır ve ağır vasıtalar için donanımlı kurtarma desteği.",
+      "source_paths": [
+        "/kemalpasa-cekici"
+      ],
+      "stem": "kemalpasa"
+    },
+    {
+      "name": "Konak",
+      "path": "/bolgeler/konak/",
+      "kind": "ilceler",
+      "district": "Konak",
+      "candidates": [
+        "Konak"
+      ],
+      "roads": [
+        "Mustafa Kemal Sahil Bulvarı",
+        "Yeşildere Caddesi",
+        "Mithatpaşa Caddesi",
+        "Alsancak Gar ve Liman Çevresi",
+        "Basmane ve Çankaya Hattı",
+        "Göztepe Sahil"
+      ],
+      "source_note": "İzmir kent merkezinde Yeşildere, Alsancak Liman yolu ve sahil bulvarındaki taleplerde yol yönü, aracın konumu ve trafiği etkileyen koşullar birlikte değerlendirilir.",
+      "source_paths": [
+        "/konak-cekici"
+      ],
+      "stem": "konak"
+    },
+    {
+      "name": "Menderes",
+      "path": "/bolgeler/menderes/",
+      "kind": "ilceler",
+      "district": "Menderes",
+      "candidates": [
+        "Menderes"
+      ],
+      "roads": [
+        "İzmir-Gümüldür Yolu",
+        "Havalimanı Çevre Yolu",
+        "Özdere Sahil Yolu",
+        "Tekeli Sanayi Hattı"
+      ],
+      "source_note": "Menderes tarım alanları, Gümüldür-Özdere tatil rotası ve Tekeli sanayisinde 7/24 profesyonel çekici ve yol yardım hizmeti.",
+      "source_paths": [
+        "/menderes-cekici"
+      ],
+      "stem": "menderes"
+    },
+    {
+      "name": "Narlıdere",
+      "path": "/bolgeler/narlidere/",
+      "kind": "ilceler",
+      "district": "Narlıdere",
+      "candidates": [
+        "Narlıdere"
+      ],
+      "roads": [
+        "Mithatpaşa Caddesi Narlıdere Hattı",
+        "Sahilevleri Yolu",
+        "Otoyol Narlıdere Gişeleri"
+      ],
+      "source_note": "Narlıdere merkez ve Sahilevleri güzergâhındaki binek araç taleplerinde aracın yerden yüksekliği, yürür durumu ve yükleme alanı önceden değerlendirilir.",
+      "source_paths": [
+        "/narlidere-cekici"
+      ],
+      "stem": "narlidere"
+    },
+    {
+      "name": "Seferihisar",
+      "path": "/bolgeler/seferihisar/",
+      "kind": "ilceler",
+      "district": "Seferihisar",
+      "candidates": [
+        "Seferihisar"
+      ],
+      "roads": [
+        "İzmir-Seferihisar Yolu",
+        "Sığacık Yolu",
+        "Kuşadası-Seferihisar Sahil Yolu"
+      ],
+      "source_note": "Sığacık Marina, Ürkmez sahili ve Seferihisar merkezinde yolda kalan sürücüler için 7/24 kayar kasa oto çekici desteği.",
+      "source_paths": [
+        "/seferihisar-cekici"
+      ],
+      "stem": "seferihisar"
+    },
+    {
+      "name": "Urla",
+      "path": "/bolgeler/urla/",
+      "kind": "ilceler",
+      "district": "Urla",
+      "candidates": [
+        "Urla"
+      ],
+      "roads": [
+        "Çeşme Otoyolu Urla Çıkışı",
+        "Urla İskele Yolu",
+        "Zeytinalanı Hattı",
+        "İçmeler Sahil Yolu",
+        "Kuşçular - Demircili Yolu"
+      ],
+      "source_note": "Urla merkez, İskele, Kalabak ve Gülbahçe hattında tatilciler ve yerel sakinler için 7/24 kayar kasa oto kurtarıcı hizmeti veriyoruz.",
+      "source_paths": [
+        "/urla-cekici"
+      ],
+      "stem": "urla"
+    },
+    {
+      "name": "Alsancak",
+      "path": "/bolgeler/konak/alsancak/",
+      "kind": "noktalar",
+      "district": "Konak",
+      "candidates": [
+        "Konak"
+      ],
+      "roads": [
+        "Kordon Sahil Yolu",
+        "Kıbrıs Şehitleri Caddesi",
+        "Talatpaşa Bulvarı",
+        "Şair Eşref Bulvarı",
+        "İzmir Liman Kavşağı",
+        "Lozan ve Montrö Meydanları",
+        "Gazi Bulvarı Bağlantısı"
+      ],
+      "source_note": "Alsancak, İzmir'in kalbi konumunda olup Kordon, Kıbrıs Şehitleri ve liman çevresinde dar sokaklar ve yoğun trafiğe sahiptir. Kapalı otoparklar, vale noktaları ve caddelerde kalan araçlara 10-15 dakikada kompakt kayar kasa çekicilerimizle ulaşıyoruz.",
+      "source_paths": [
+        "/alsancak-cekici"
+      ],
+      "stem": "alsancak"
+    },
+    {
+      "name": "Bostanlı",
+      "path": "/bolgeler/karsiyaka/bostanli/",
+      "kind": "noktalar",
+      "district": "Karşıyaka",
+      "candidates": [
+        "Karşıyaka"
+      ],
+      "roads": [
+        "Bostanlı İskelesi Çevresi",
+        "Cemal Gürsel Caddesi (Sahil Yolu)",
+        "Bostanlı Pazaryeri",
+        "Şehit Cengiz Topel Caddesi",
+        "Caher Dudayev Bulvarı Girişi",
+        "Tramvay Hattı Güzergâhı"
+      ],
+      "source_note": "Bostanlı, Karşıyaka'nın en yoğun sahil ve ticaret bölgesidir. Sahil şeridi, kafeler bölgesi ve tramvay hattı boyunca arıza veya kaza yapan araçlara hızla müdahale ediyor, güvenle servise taşıyoruz.",
+      "source_paths": [
+        "/bostanli-cekici"
+      ],
+      "stem": "bostanli"
+    },
+    {
+      "name": "Mavişehir",
+      "path": "/bolgeler/karsiyaka/mavisehir/",
+      "kind": "noktalar",
+      "district": "Karşıyaka",
+      "candidates": [
+        "Karşıyaka"
+      ],
+      "roads": [
+        "Caher Dudayev Bulvarı",
+        "MaviBahçe AVM Çevresi",
+        "Ege Park Çevresi",
+        "Aziz Nesin Bulvarı",
+        "Çiğli-Mavişehir Bağlantı Yolu"
+      ],
+      "source_note": "Mavişehir lüks konut siteleri, AVM otoparkları ve Caher Dudayev Bulvarı üzerinde lüks, otomatik vites ve elektrikli araç taşıma standartlarına uygun çekici filomuzla hizmet veriyoruz.",
+      "source_paths": [
+        "/mavisehir-cekici"
+      ],
+      "stem": "mavisehir"
+    },
+    {
+      "name": "Şirinyer",
+      "path": "/bolgeler/buca/sirinyer/",
+      "kind": "noktalar",
+      "district": "Buca",
+      "candidates": [
+        "Buca"
+      ],
+      "roads": [
+        "Menderes Caddesi",
+        "Mehmet Akif Caddesi",
+        "Forbes Sevgi Yolu Çevresi",
+        "Şirinyer İZBAN İstasyonu",
+        "Hipodrom Caddesi",
+        "NATO ve Gaziemir Bağlantısı"
+      ],
+      "source_note": "Şirinyer, Buca'nın en kalabalık merkezidir. Menderes Caddesi, İZBAN çevresi ve Hipodrom kavşağında meydana gelen arıza ve kazalarda dakikalar içinde müdahale sağlıyoruz.",
+      "source_paths": [
+        "/sirinyer-cekici"
+      ],
+      "stem": "sirinyer"
+    },
+    {
+      "name": "Sarnıç",
+      "path": "/bolgeler/gaziemir/sarnic/",
+      "kind": "noktalar",
+      "district": "Gaziemir",
+      "candidates": [
+        "Gaziemir"
+      ],
+      "roads": [
+        "Sarnıç Sanayi Bölgesi",
+        "Çamlık Caddesi",
+        "Havalimanı Çevre Yolu Bağlantısı",
+        "Menderes Yolu"
+      ],
+      "source_note": "Gaziemir Sarnıç sanayi bölgesi ve orman yolu hattında ticari araç, kamyonet ve binek araçlar için 7/24 çekici ve kurtarıcı yönlendiriyoruz.",
+      "source_paths": [
+        "/sarnic-cekici"
+      ],
+      "stem": "sarnic"
+    },
+    {
+      "name": "Işıkkent",
+      "path": "/bolgeler/bornova/isikkent/",
+      "kind": "noktalar",
+      "district": "Bornova",
+      "candidates": [
+        "Bornova"
+      ],
+      "roads": [],
+      "source_note": "Işıkkent için Işıklar Mahallesi ve Alp Caddesi belediye kayıtlarında yer alan referanslardır. İşletme veya sanayi girişi için kapı ve giriş yolunu ayrıca belirtin.",
+      "source_paths": [
+        "/isikkoy-cekici",
+        "/isikkent-cekici"
+      ],
+      "stem": "isikkent"
+    },
+    {
+      "name": "Göztepe",
+      "path": "/bolgeler/konak/goztepe/",
+      "kind": "noktalar",
+      "district": "Konak",
+      "candidates": [
+        "Konak"
+      ],
+      "roads": [
+        "Mustafa Kemal Sahil Bulvarı",
+        "Mithatpaşa Caddesi",
+        "İnönü Caddesi Bağlantısı",
+        "Göztepe Vapur İskelesi Çevresi",
+        "Gürsel Aksel Stadyumu Çevresi"
+      ],
+      "source_note": "Göztepe Sahil Bulvarı, Mithatpaşa Caddesi ve stadyum çevresinde arızalanan veya kaza yapan araçlar için hızlı kayar kasa çekici desteği.",
+      "source_paths": [
+        "/goztepe-cekici"
+      ],
+      "stem": "goztepe"
+    },
+    {
+      "name": "Hatay",
+      "path": "/bolgeler/konak/hatay/",
+      "kind": "noktalar",
+      "district": "Konak",
+      "candidates": [
+        "Konak"
+      ],
+      "roads": [
+        "İnönü Caddesi",
+        "Nokta Kavşağı",
+        "İzmirspor Metro Durağı",
+        "Basın Sitesi Bağlantısı",
+        "Poligon Yolu"
+      ],
+      "source_note": "İzmir Hatay İnönü Caddesi ve ara sokaklarında metro güzergâhı boyunca 7/24 nöbetçi çekici araçlarımızla hızlı araç kurtarma ve çekici hizmeti sunuyoruz.",
+      "source_paths": [
+        "/hatay-cekici"
+      ],
+      "stem": "hatay"
+    },
+    {
+      "name": "Çamdibi",
+      "path": "/bolgeler/bornova/camdibi/",
+      "kind": "noktalar",
+      "district": "Bornova",
+      "candidates": [
+        "Bornova"
+      ],
+      "roads": [],
+      "source_note": "Çamdibi Atatürk Parkı belediyenin yerel hizmet noktalarından biridir. Park çevresindeyseniz giriş tarafını, başka bir noktadaysanız mahalle ve sokak adını paylaşın.",
+      "source_paths": [
+        "/camdibi-cekici"
+      ],
+      "stem": "camdibi"
+    },
+    {
+      "name": "Özkanlar",
+      "path": "/bolgeler/bornova/ozkanlar/",
+      "kind": "noktalar",
+      "district": "Bornova",
+      "candidates": [
+        "Bornova"
+      ],
+      "roads": [],
+      "source_note": "Özkanlar adıyla yardım isterken ilçe, resmi mahalle adı ve konum bağlantısını birlikte paylaşın. Semt, site veya tesis adı ile resmi adres farklı olabilir; yalnızca yer adıyla ekip yönlendirmesi yapılmadan konum netleştirilir.",
+      "source_paths": [
+        "/ozkanlar-cekici"
+      ],
+      "stem": "ozkanlar"
+    },
+    {
+      "name": "Üçyol",
+      "path": "/bolgeler/karabaglar/ucyol/",
+      "kind": "noktalar",
+      "district": "Karabağlar",
+      "candidates": [
+        "Karabağlar"
+      ],
+      "roads": [
+        "İnönü Caddesi",
+        "Betonyol (Halil Rıfat Paşa Caddesi)",
+        "Üçyol Metro Kavşağı",
+        "Yeşilyurt Bağlantısı",
+        "Eskiizmir Caddesi",
+        "Hatay Caddesi"
+      ],
+      "source_note": "Üçyol Meydanı, İnönü Caddesi ve Betonyol hattındaki taleplerde dar sokak, eğim, trafik ve aracın yükleme alanına erişimi birlikte değerlendirilir.",
+      "source_paths": [
+        "/ucyol-cekici"
+      ],
+      "stem": "ucyol"
+    },
+    {
+      "name": "Yeşilyurt",
+      "path": "/bolgeler/kemalpasa/yesilyurt/",
+      "kind": "noktalar",
+      "district": "Kemalpaşa",
+      "candidates": [
+        "Kemalpaşa"
+      ],
+      "roads": [],
+      "source_note": "Yeşilyurt için belediye kayıtlarında Kemalpaşa ilçe bilgisi yer alıyor. Yeşilyurt konumunu tarif ederken cadde veya sokak ve giriş bilgisini ekleyin.",
+      "source_paths": [
+        "/yesilyurt-cekici"
+      ],
+      "stem": "yesilyurt"
+    },
+    {
+      "name": "Çeşmealtı",
+      "path": "/bolgeler/urla/cesmealti/",
+      "kind": "noktalar",
+      "district": "Urla",
+      "candidates": [
+        "Urla"
+      ],
+      "roads": [],
+      "source_note": "Urla Çeşmealtı sahil şeridi, marina ve siteler bölgesinde 7/24 oto kurtarıcı hizmeti.",
+      "source_paths": [
+        "/cesmealti-cekici"
+      ],
+      "stem": "cesmealti"
+    },
+    {
+      "name": "Adatepe",
+      "path": "/bolgeler/buca/adatepe/",
+      "kind": "noktalar",
+      "district": "Buca",
+      "candidates": [
+        "Buca"
+      ],
+      "roads": [],
+      "source_note": "Adatepe için belediye kayıtlarında Buca ilçe bilgisi yer alıyor. Adatepe konumunu tarif ederken cadde veya sokak ve giriş bilgisini ekleyin.",
+      "source_paths": [
+        "/adatepe-cekici"
+      ],
+      "stem": "adatepe"
+    },
+    {
+      "name": "Ahmetbeyli",
+      "path": "/bolgeler/menderes/ahmetbeyli/",
+      "kind": "noktalar",
+      "district": "Menderes",
+      "candidates": [
+        "Menderes"
+      ],
+      "roads": [],
+      "source_note": "Ahmetbeyli için belediye kayıtlarında Menderes ilçe bilgisi yer alıyor. Ahmetbeyli konumunu tarif ederken cadde veya sokak ve giriş bilgisini ekleyin.",
+      "source_paths": [
+        "/ahmetbeyli-cekici"
+      ],
+      "stem": "ahmetbeyli"
+    },
+    {
+      "name": "Akçaköy",
+      "path": "/bolgeler/menderes/akcakoy/",
+      "kind": "noktalar",
+      "district": "Menderes",
+      "candidates": [
+        "Menderes"
+      ],
+      "roads": [],
+      "source_note": "Akçaköy için belediye kayıtlarında Menderes ilçe bilgisi yer alıyor. Akçaköy konumunu tarif ederken cadde veya sokak ve giriş bilgisini ekleyin.",
+      "source_paths": [
+        "/akcakoy-cekici"
+      ],
+      "stem": "akcakoy"
+    },
+    {
+      "name": "Akıncılar",
+      "path": "/bolgeler/noktalar/akincilar/",
+      "kind": "noktalar",
+      "district": null,
+      "candidates": [
+        "Buca",
+        "Ödemiş"
+      ],
+      "roads": [],
+      "source_note": "Akıncılar adı belediyenin mahalle kayıtlarında Buca, Ödemiş için geçiyor. Ekibin yanlış ilçeye yönlenmemesi için ilçe adını, mahalleyi ve konum bağlantısını birlikte paylaşın.",
+      "source_paths": [
+        "/akincilar-cekici"
+      ],
+      "stem": "akincilar"
+    },
+    {
+      "name": "Aktepe",
+      "path": "/bolgeler/noktalar/aktepe/",
+      "kind": "noktalar",
+      "district": null,
+      "candidates": [
+        "Beydağ",
+        "Gaziemir"
+      ],
+      "roads": [],
+      "source_note": "Aktepe adı belediyenin mahalle kayıtlarında Beydağ, Gaziemir için geçiyor. Ekibin yanlış ilçeye yönlenmemesi için ilçe adını, mahalleyi ve konum bağlantısını birlikte paylaşın.",
+      "source_paths": [
+        "/aktepe-cekici"
+      ],
+      "stem": "aktepe"
+    },
+    {
+      "name": "Altındağ",
+      "path": "/bolgeler/bornova/altindag/",
+      "kind": "noktalar",
+      "district": "Bornova",
+      "candidates": [
+        "Bornova"
+      ],
+      "roads": [],
+      "source_note": "Altındağ için Serintepe Mahallesi ve Kandere Parkı, belediyenin yerel hizmet noktaları arasında geçer. Çağrıda hangi mahalle ve sokakta olduğunuzu ayrıca belirtin.",
+      "source_paths": [
+        "/altindag-cekici"
+      ],
+      "stem": "altindag"
+    },
+    {
+      "name": "Altınevler",
+      "path": "/bolgeler/noktalar/altinevler/",
+      "kind": "noktalar",
+      "district": null,
+      "candidates": [],
+      "roads": [],
+      "source_note": "Altınevler adıyla yardım isterken ilçe, resmi mahalle adı ve konum bağlantısını birlikte paylaşın. Semt, site veya tesis adı ile resmi adres farklı olabilir; yalnızca yer adıyla ekip yönlendirmesi yapılmadan konum netleştirilir.",
+      "source_paths": [
+        "/altinevler-cekici"
+      ],
+      "stem": "altinevler"
+    },
+    {
+      "name": "Altıntaş",
+      "path": "/bolgeler/noktalar/altintas/",
+      "kind": "noktalar",
+      "district": null,
+      "candidates": [
+        "Konak",
+        "Urla"
+      ],
+      "roads": [],
+      "source_note": "Altıntaş adı belediyenin mahalle kayıtlarında Konak, Urla için geçiyor. Ekibin yanlış ilçeye yönlenmemesi için ilçe adını, mahalleyi ve konum bağlantısını birlikte paylaşın.",
+      "source_paths": [
+        "/altintas-cekici"
+      ],
+      "stem": "altintas"
+    },
+    {
+      "name": "Ataköy",
+      "path": "/bolgeler/menderes/atakoy/",
+      "kind": "noktalar",
+      "district": "Menderes",
+      "candidates": [
+        "Menderes"
+      ],
+      "roads": [],
+      "source_note": "Ataköy için belediye kayıtlarında Menderes ilçe bilgisi yer alıyor. Ataköy konumunu tarif ederken cadde veya sokak ve giriş bilgisini ekleyin.",
+      "source_paths": [
+        "/atakoy-cekici"
+      ],
+      "stem": "atakoy"
+    },
+    {
+      "name": "Aydın Mahallesi",
+      "path": "/bolgeler/karabaglar/aydin-mahallesi/",
+      "kind": "noktalar",
+      "district": "Karabağlar",
+      "candidates": [
+        "Karabağlar"
+      ],
+      "roads": [],
+      "source_note": "Aydın Mahallesi için belediye kayıtlarında Karabağlar ilçe bilgisi yer alıyor. Aydın konumunu tarif ederken cadde veya sokak ve giriş bilgisini ekleyin.",
+      "source_paths": [
+        "/aydin-mahallesi-cekici"
+      ],
+      "stem": "aydin-mahallesi"
+    },
+    {
+      "name": "Bahçelerarası",
+      "path": "/bolgeler/balcova/bahcelerarasi/",
+      "kind": "noktalar",
+      "district": "Balçova",
+      "candidates": [
+        "Balçova"
+      ],
+      "roads": [],
+      "source_note": "Bahçelerarası için belediye kayıtlarında Balçova ilçe bilgisi yer alıyor. Bahçelerarası konumunu tarif ederken cadde veya sokak ve giriş bilgisini ekleyin.",
+      "source_paths": [
+        "/bahcelerarasi-cekici"
+      ],
+      "stem": "bahcelerarasi"
+    },
+    {
+      "name": "Bahçelievler",
+      "path": "/bolgeler/noktalar/bahcelievler/",
+      "kind": "noktalar",
+      "district": null,
+      "candidates": [
+        "Karabağlar",
+        "Karşıyaka",
+        "Torbalı"
+      ],
+      "roads": [],
+      "source_note": "Bahçelievler adı belediyenin mahalle kayıtlarında Karşıyaka, Karabağlar, Torbalı için geçiyor. Ekibin yanlış ilçeye yönlenmemesi için ilçe adını, mahalleyi ve konum bağlantısını birlikte paylaşın.",
+      "source_paths": [
+        "/bahcelievler-cekici"
+      ],
+      "stem": "bahcelievler"
+    },
+    {
+      "name": "Balıklı Ova",
+      "path": "/bolgeler/urla/balikli-ova/",
+      "kind": "noktalar",
+      "district": "Urla",
+      "candidates": [
+        "Urla"
+      ],
+      "roads": [],
+      "source_note": "Balıklı Ova için belediye kayıtlarında Urla ilçe bilgisi yer alıyor. Balıklıova konumunu tarif ederken cadde veya sokak ve giriş bilgisini ekleyin.",
+      "source_paths": [
+        "/balikli-ova-cekici"
+      ],
+      "stem": "balikli-ova"
+    },
+    {
+      "name": "Barbaros Mahallesi",
+      "path": "/bolgeler/noktalar/barbaros-mahallesi/",
+      "kind": "noktalar",
+      "district": null,
+      "candidates": [
+        "Bornova",
+        "Konak",
+        "Urla"
+      ],
+      "roads": [],
+      "source_note": "Barbaros Mahallesi adı belediyenin mahalle kayıtlarında Konak, Bornova, Urla için geçiyor. Ekibin yanlış ilçeye yönlenmemesi için ilçe adını, mahalleyi ve konum bağlantısını birlikte paylaşın.",
+      "source_paths": [
+        "/barbaros-mahallesi-cekici"
+      ],
+      "stem": "barbaros-mahallesi"
+    },
+    {
+      "name": "Basın Sitesi",
+      "path": "/bolgeler/karabaglar/basin-sitesi/",
+      "kind": "noktalar",
+      "district": "Karabağlar",
+      "candidates": [
+        "Karabağlar"
+      ],
+      "roads": [],
+      "source_note": "Basın Sitesi için belediye kayıtlarında Karabağlar ilçe bilgisi yer alıyor. Basın Sitesi konumunu tarif ederken cadde veya sokak ve giriş bilgisini ekleyin.",
+      "source_paths": [
+        "/basin-sitesi-cekici"
+      ],
+      "stem": "basin-sitesi"
+    },
+    {
+      "name": "Basmane",
+      "path": "/bolgeler/konak/basmane/",
+      "kind": "noktalar",
+      "district": "Konak",
+      "candidates": [
+        "Konak"
+      ],
+      "roads": [],
+      "source_note": "Basmane, Konak içinde kullanılan bir semt adıdır. İsmet Kaptan çevresini tarif ederken semt adına ek olarak cadde ve bulunduğunuz girişi belirtin; Basmane adı tek bir sokak anlamına gelmez.",
+      "source_paths": [
+        "/basmane-cekici"
+      ],
+      "stem": "basmane"
+    },
+    {
+      "name": "Belevi",
+      "path": "/bolgeler/selcuk/belevi/",
+      "kind": "noktalar",
+      "district": "Selçuk",
+      "candidates": [
+        "Selçuk"
+      ],
+      "roads": [],
+      "source_note": "Belevi için belediye kayıtlarında Selçuk ilçe bilgisi yer alıyor. Belevi konumunu tarif ederken cadde veya sokak ve giriş bilgisini ekleyin.",
+      "source_paths": [
+        "/belevi-cekici"
+      ],
+      "stem": "belevi"
+    },
+    {
+      "name": "Beton Yol",
+      "path": "/bolgeler/noktalar/beton-yol/",
+      "kind": "noktalar",
+      "district": null,
+      "candidates": [],
+      "roads": [],
+      "source_note": "Beton Yol talebinde yolun tabela üzerindeki adı veya numarası, gidiş yönü ve en yakın çıkış önemlidir. Şehir adı ya da genel güzergâh adı tek başına aracın yerini belirlemez. Otoyol, devlet yolu ve bağlantı yolundan hangisinde bulunduğunuzu belirtin.",
+      "source_paths": [
+        "/beton-yol-cekici"
+      ],
+      "stem": "beton-yol"
+    },
+    {
+      "name": "Beyazevler",
+      "path": "/bolgeler/gaziemir/beyazevler/",
+      "kind": "noktalar",
+      "district": "Gaziemir",
+      "candidates": [
+        "Gaziemir"
+      ],
+      "roads": [],
+      "source_note": "Beyazevler için belediye kayıtlarında Gaziemir ilçe bilgisi yer alıyor. Beyazevler konumunu tarif ederken cadde veya sokak ve giriş bilgisini ekleyin.",
+      "source_paths": [
+        "/beyazevler-cekici"
+      ],
+      "stem": "beyazevler"
+    },
+    {
+      "name": "Bozyaka",
+      "path": "/bolgeler/karabaglar/bozyaka/",
+      "kind": "noktalar",
+      "district": "Karabağlar",
+      "candidates": [
+        "Karabağlar"
+      ],
+      "roads": [],
+      "source_note": "Bozyaka için belediye kayıtlarında Karabağlar ilçe bilgisi yer alıyor. Bozyaka konumunu tarif ederken cadde veya sokak ve giriş bilgisini ekleyin.",
+      "source_paths": [
+        "/bozyaka-cekici"
+      ],
+      "stem": "bozyaka"
+    },
+    {
+      "name": "Bulgurca",
+      "path": "/bolgeler/menderes/bulgurca/",
+      "kind": "noktalar",
+      "district": "Menderes",
+      "candidates": [
+        "Menderes"
+      ],
+      "roads": [],
+      "source_note": "Bulgurca için belediye kayıtlarında Menderes ilçe bilgisi yer alıyor. Bulgurca konumunu tarif ederken cadde veya sokak ve giriş bilgisini ekleyin.",
+      "source_paths": [
+        "/bulgurca-cekici"
+      ],
+      "stem": "bulgurca"
+    },
+    {
+      "name": "Cennet Çeşme",
+      "path": "/bolgeler/karabaglar/cennet-cesme/",
+      "kind": "noktalar",
+      "district": "Karabağlar",
+      "candidates": [
+        "Karabağlar"
+      ],
+      "roads": [],
+      "source_note": "Cennet Çeşme için belediye kayıtlarında Karabağlar ilçe bilgisi yer alıyor. Cennetçeşme konumunu tarif ederken cadde veya sokak ve giriş bilgisini ekleyin.",
+      "source_paths": [
+        "/cennet-cesme-cekici"
+      ],
+      "stem": "cennet-cesme"
+    },
+    {
+      "name": "Cennetoğlu",
+      "path": "/bolgeler/karabaglar/cennetoglu/",
+      "kind": "noktalar",
+      "district": "Karabağlar",
+      "candidates": [
+        "Karabağlar"
+      ],
+      "roads": [],
+      "source_note": "Cennetoğlu için belediye kayıtlarında Karabağlar ilçe bilgisi yer alıyor. Cennetoğlu konumunu tarif ederken cadde veya sokak ve giriş bilgisini ekleyin.",
+      "source_paths": [
+        "/cennetoglu-cekici"
+      ],
+      "stem": "cennetoglu"
+    },
+    {
+      "name": "Çam Tepe",
+      "path": "/bolgeler/noktalar/cam-tepe/",
+      "kind": "noktalar",
+      "district": null,
+      "candidates": [
+        "Narlıdere",
+        "Seferihisar"
+      ],
+      "roads": [],
+      "source_note": "Çam Tepe adı belediyenin mahalle kayıtlarında Seferihisar, Narlıdere için geçiyor. Ekibin yanlış ilçeye yönlenmemesi için ilçe adını, mahalleyi ve konum bağlantısını birlikte paylaşın.",
+      "source_paths": [
+        "/cam-tepe-cekici"
+      ],
+      "stem": "cam-tepe"
+    },
+    {
+      "name": "Çamköy",
+      "path": "/bolgeler/bergama/camkoy/",
+      "kind": "noktalar",
+      "district": "Bergama",
+      "candidates": [
+        "Bergama"
+      ],
+      "roads": [],
+      "source_note": "Çamköy için belediye kayıtlarında Bergama ilçe bilgisi yer alıyor. Çamköy konumunu tarif ederken cadde veya sokak ve giriş bilgisini ekleyin.",
+      "source_paths": [
+        "/camkoy-cekici"
+      ],
+      "stem": "camkoy"
+    },
+    {
+      "name": "Çamlıkule",
+      "path": "/bolgeler/buca/camlikule/",
+      "kind": "noktalar",
+      "district": "Buca",
+      "candidates": [
+        "Buca"
+      ],
+      "roads": [],
+      "source_note": "Çamlıkule için belediye kayıtlarında Buca ilçe bilgisi yer alıyor. Çamlıkule konumunu tarif ederken cadde veya sokak ve giriş bilgisini ekleyin.",
+      "source_paths": [
+        "/camlikule-cekici"
+      ],
+      "stem": "camlikule"
+    },
+    {
+      "name": "Çamönü",
+      "path": "/bolgeler/menderes/camonu/",
+      "kind": "noktalar",
+      "district": "Menderes",
+      "candidates": [
+        "Menderes"
+      ],
+      "roads": [],
+      "source_note": "Çamönü için belediye kayıtlarında Menderes ilçe bilgisi yer alıyor. Çamönü konumunu tarif ederken cadde veya sokak ve giriş bilgisini ekleyin.",
+      "source_paths": [
+        "/camonu-cekici"
+      ],
+      "stem": "camonu"
+    },
+    {
+      "name": "Çankaya",
+      "path": "/bolgeler/konak/cankaya/",
+      "kind": "noktalar",
+      "district": "Konak",
+      "candidates": [
+        "Konak"
+      ],
+      "roads": [],
+      "source_note": "Çankaya için belediye kayıtlarında Konak ilçe bilgisi yer alıyor. Çankaya konumunu tarif ederken cadde veya sokak ve giriş bilgisini ekleyin.",
+      "source_paths": [
+        "/cankaya-cekici"
+      ],
+      "stem": "cankaya"
+    },
+    {
+      "name": "Çatalca",
+      "path": "/bolgeler/menderes/catalca/",
+      "kind": "noktalar",
+      "district": "Menderes",
+      "candidates": [
+        "Menderes"
+      ],
+      "roads": [],
+      "source_note": "Çatalca için belediye kayıtlarında Menderes ilçe bilgisi yer alıyor. Çatalca konumunu tarif ederken cadde veya sokak ve giriş bilgisini ekleyin.",
+      "source_paths": [
+        "/catalca-cekici"
+      ],
+      "stem": "catalca"
+    },
+    {
+      "name": "Çatalkaya",
+      "path": "/bolgeler/noktalar/catalkaya/",
+      "kind": "noktalar",
+      "district": null,
+      "candidates": [],
+      "roads": [],
+      "source_note": "Çatalkaya adıyla yardım isterken ilçe, resmi mahalle adı ve konum bağlantısını birlikte paylaşın. Semt, site veya tesis adı ile resmi adres farklı olabilir; yalnızca yer adıyla ekip yönlendirmesi yapılmadan konum netleştirilir.",
+      "source_paths": [
+        "/catalkaya-cekici"
+      ],
+      "stem": "catalkaya"
+    },
+    {
+      "name": "Çataltepe",
+      "path": "/bolgeler/noktalar/cataltepe/",
+      "kind": "noktalar",
+      "district": null,
+      "candidates": [],
+      "roads": [],
+      "source_note": "Çataltepe adıyla yardım isterken ilçe, resmi mahalle adı ve konum bağlantısını birlikte paylaşın. Semt, site veya tesis adı ile resmi adres farklı olabilir; yalnızca yer adıyla ekip yönlendirmesi yapılmadan konum netleştirilir.",
+      "source_paths": [
+        "/cataltepe-cekici"
+      ],
+      "stem": "cataltepe"
+    },
+    {
+      "name": "Çınarlı",
+      "path": "/bolgeler/konak/cinarli/",
+      "kind": "noktalar",
+      "district": "Konak",
+      "candidates": [
+        "Konak"
+      ],
+      "roads": [],
+      "source_note": "Çınarlı için belediye kayıtlarında Konak ilçe bilgisi yer alıyor. Çınarlı konumunu tarif ederken cadde veya sokak ve giriş bilgisini ekleyin.",
+      "source_paths": [
+        "/cinarli-cekici"
+      ],
+      "stem": "cinarli"
+    },
+    {
+      "name": "Çiçekliköy",
+      "path": "/bolgeler/noktalar/ciceklikoy/",
+      "kind": "noktalar",
+      "district": null,
+      "candidates": [],
+      "roads": [],
+      "source_note": "Çiçekliköy adıyla yardım isterken ilçe, resmi mahalle adı ve konum bağlantısını birlikte paylaşın. Semt, site veya tesis adı ile resmi adres farklı olabilir; yalnızca yer adıyla ekip yönlendirmesi yapılmadan konum netleştirilir.",
+      "source_paths": [
+        "/ciceklikoy-cekici"
+      ],
+      "stem": "ciceklikoy"
+    },
+    {
+      "name": "Çile",
+      "path": "/bolgeler/menderes/cile/",
+      "kind": "noktalar",
+      "district": "Menderes",
+      "candidates": [
+        "Menderes"
+      ],
+      "roads": [],
+      "source_note": "Çile için belediye kayıtlarında Menderes ilçe bilgisi yer alıyor. Çile konumunu tarif ederken cadde veya sokak ve giriş bilgisini ekleyin.",
+      "source_paths": [
+        "/cile-cekici"
+      ],
+      "stem": "cile"
+    },
+    {
+      "name": "Çileme",
+      "path": "/bolgeler/menderes/cileme/",
+      "kind": "noktalar",
+      "district": "Menderes",
+      "candidates": [
+        "Menderes"
+      ],
+      "roads": [],
+      "source_note": "Çileme için belediye kayıtlarında Menderes ilçe bilgisi yer alıyor. Çileme konumunu tarif ederken cadde veya sokak ve giriş bilgisini ekleyin.",
+      "source_paths": [
+        "/cileme-cekici"
+      ],
+      "stem": "cileme"
+    },
+    {
+      "name": "Değirmendere",
+      "path": "/bolgeler/menemen/degirmendere/",
+      "kind": "noktalar",
+      "district": "Menemen",
+      "candidates": [
+        "Menemen"
+      ],
+      "roads": [],
+      "source_note": "Değirmendere için belediye kayıtlarında Menemen ilçe bilgisi yer alıyor. Değirmendere konumunu tarif ederken cadde veya sokak ve giriş bilgisini ekleyin.",
+      "source_paths": [
+        "/degirmendere-cekici"
+      ],
+      "stem": "degirmendere"
+    },
+    {
+      "name": "Develi",
+      "path": "/bolgeler/menderes/develi/",
+      "kind": "noktalar",
+      "district": "Menderes",
+      "candidates": [
+        "Menderes"
+      ],
+      "roads": [],
+      "source_note": "Develi için belediye kayıtlarında Menderes ilçe bilgisi yer alıyor. Develi konumunu tarif ederken cadde veya sokak ve giriş bilgisini ekleyin.",
+      "source_paths": [
+        "/develi-cekici"
+      ],
+      "stem": "develi"
+    },
+    {
+      "name": "Doğanlar",
+      "path": "/bolgeler/bornova/doganlar/",
+      "kind": "noktalar",
+      "district": "Bornova",
+      "candidates": [
+        "Bornova"
+      ],
+      "roads": [],
+      "source_note": "Doğanlar için belediye kayıtlarında Bornova ilçe bilgisi yer alıyor. Doğanlar konumunu tarif ederken cadde veya sokak ve giriş bilgisini ekleyin.",
+      "source_paths": [
+        "/doganlar-cekici"
+      ],
+      "stem": "doganlar"
+    },
+    {
+      "name": "Egemenlik",
+      "path": "/bolgeler/bornova/egemenlik/",
+      "kind": "noktalar",
+      "district": "Bornova",
+      "candidates": [
+        "Bornova"
+      ],
+      "roads": [],
+      "source_note": "Egemenlik için belediye kayıtlarında Bornova ilçe bilgisi yer alıyor. Egemenlik konumunu tarif ederken cadde veya sokak ve giriş bilgisini ekleyin.",
+      "source_paths": [
+        "/egemenlik-cekici"
+      ],
+      "stem": "egemenlik"
+    },
+    {
+      "name": "Erzene Mahallesi",
+      "path": "/bolgeler/bornova/erzene-mahallesi/",
+      "kind": "noktalar",
+      "district": "Bornova",
+      "candidates": [
+        "Bornova"
+      ],
+      "roads": [],
+      "source_note": "Erzene Mahallesi için belediye kayıtlarında Bornova ilçe bilgisi yer alıyor. Erzene konumunu tarif ederken cadde veya sokak ve giriş bilgisini ekleyin.",
+      "source_paths": [
+        "/erzene-mahallesi-cekici"
+      ],
+      "stem": "erzene-mahallesi"
+    },
+    {
+      "name": "Esendere",
+      "path": "/bolgeler/noktalar/esendere/",
+      "kind": "noktalar",
+      "district": null,
+      "candidates": [],
+      "roads": [],
+      "source_note": "Esendere adıyla yardım isterken ilçe, resmi mahalle adı ve konum bağlantısını birlikte paylaşın. Semt, site veya tesis adı ile resmi adres farklı olabilir; yalnızca yer adıyla ekip yönlendirmesi yapılmadan konum netleştirilir.",
+      "source_paths": [
+        "/esendere-cekici"
+      ],
+      "stem": "esendere"
+    },
+    {
+      "name": "Esenkent",
+      "path": "/bolgeler/noktalar/esenkent/",
+      "kind": "noktalar",
+      "district": null,
+      "candidates": [],
+      "roads": [],
+      "source_note": "Esenkent adıyla yardım isterken ilçe, resmi mahalle adı ve konum bağlantısını birlikte paylaşın. Semt, site veya tesis adı ile resmi adres farklı olabilir; yalnızca yer adıyla ekip yönlendirmesi yapılmadan konum netleştirilir.",
+      "source_paths": [
+        "/esenkent-cekici"
+      ],
+      "stem": "esenkent"
+    },
+    {
+      "name": "Esentepe",
+      "path": "/bolgeler/noktalar/esentepe/",
+      "kind": "noktalar",
+      "district": null,
+      "candidates": [
+        "Çiğli",
+        "Dikili"
+      ],
+      "roads": [],
+      "source_note": "Esentepe adı belediyenin mahalle kayıtlarında Çiğli, Dikili için geçiyor. Ekibin yanlış ilçeye yönlenmemesi için ilçe adını, mahalleyi ve konum bağlantısını birlikte paylaşın.",
+      "source_paths": [
+        "/esentepe-cekici"
+      ],
+      "stem": "esentepe"
+    },
+    {
+      "name": "Evka 1",
+      "path": "/bolgeler/buca/evka-1/",
+      "kind": "noktalar",
+      "district": "Buca",
+      "candidates": [
+        "Buca"
+      ],
+      "roads": [],
+      "source_note": "Buca Belediyesi faaliyet raporunda EVKA 1 Kent Konseyi Murathan konumunda listelenir. EVKA 1 adı tek başına aracın bulunduğu sokağı belirtmez; Murathan ya da farklı mahalledeki tam adresi ve konum bağlantısını paylaşın.",
+      "source_paths": [
+        "/evka1-cekici"
+      ],
+      "stem": "evka1"
+    },
+    {
+      "name": "Evka 2",
+      "path": "/bolgeler/cigli/evka-2/",
+      "kind": "noktalar",
+      "district": "Çiğli",
+      "candidates": [
+        "Çiğli"
+      ],
+      "roads": [],
+      "source_note": "Evka2 için belediye kayıtlarında Çiğli ilçe bilgisi yer alıyor. Evka-2 konumunu tarif ederken cadde veya sokak ve giriş bilgisini ekleyin.",
+      "source_paths": [
+        "/evka2-cekici"
+      ],
+      "stem": "evka2"
+    },
+    {
+      "name": "Evka 3",
+      "path": "/bolgeler/bornova/evka-3/",
+      "kind": "noktalar",
+      "district": "Bornova",
+      "candidates": [
+        "Bornova"
+      ],
+      "roads": [],
+      "source_note": "Evka3 için belediye kayıtlarında Bornova ilçe bilgisi yer alıyor. Evka 3 konumunu tarif ederken cadde veya sokak ve giriş bilgisini ekleyin.",
+      "source_paths": [
+        "/evka3-cekici"
+      ],
+      "stem": "evka3"
+    },
+    {
+      "name": "Evka 4",
+      "path": "/bolgeler/bornova/evka-4/",
+      "kind": "noktalar",
+      "district": "Bornova",
+      "candidates": [
+        "Bornova"
+      ],
+      "roads": [],
+      "source_note": "Evka4 için belediye kayıtlarında Bornova ilçe bilgisi yer alıyor. Evka 4 konumunu tarif ederken cadde veya sokak ve giriş bilgisini ekleyin.",
+      "source_paths": [
+        "/evka4-cekici"
+      ],
+      "stem": "evka4"
+    },
+    {
+      "name": "Evka 5",
+      "path": "/bolgeler/cigli/evka-5/",
+      "kind": "noktalar",
+      "district": "Çiğli",
+      "candidates": [
+        "Çiğli"
+      ],
+      "roads": [],
+      "source_note": "Evka5 için belediye kayıtlarında Çiğli ilçe bilgisi yer alıyor. Evka-5 konumunu tarif ederken cadde veya sokak ve giriş bilgisini ekleyin.",
+      "source_paths": [
+        "/evka5-cekici"
+      ],
+      "stem": "evka5"
+    },
+    {
+      "name": "Evka 6",
+      "path": "/bolgeler/cigli/evka-6/",
+      "kind": "noktalar",
+      "district": "Çiğli",
+      "candidates": [
+        "Çiğli"
+      ],
+      "roads": [],
+      "source_note": "Evka6 için belediye kayıtlarında Çiğli ilçe bilgisi yer alıyor. Evka-6 konumunu tarif ederken cadde veya sokak ve giriş bilgisini ekleyin.",
+      "source_paths": [
+        "/evka6-cekici"
+      ],
+      "stem": "evka6"
+    },
+    {
+      "name": "Evka 7",
+      "path": "/bolgeler/cigli/evka-7/",
+      "kind": "noktalar",
+      "district": "Çiğli",
+      "candidates": [
+        "Çiğli"
+      ],
+      "roads": [],
+      "source_note": "Evka7 adıyla yardım isterken ilçe, resmi mahalle adı ve konum bağlantısını birlikte paylaşın. Semt, site veya tesis adı ile resmi adres farklı olabilir; yalnızca yer adıyla ekip yönlendirmesi yapılmadan konum netleştirilir.",
+      "source_paths": [
+        "/evka7-cekici"
+      ],
+      "stem": "evka7"
+    },
+    {
+      "name": "Fahrettin Altay",
+      "path": "/bolgeler/karabaglar/fahrettin-altay/",
+      "kind": "noktalar",
+      "district": "Karabağlar",
+      "candidates": [
+        "Karabağlar"
+      ],
+      "roads": [],
+      "source_note": "Fahrettin Altay için belediye kayıtlarında Karabağlar ilçe bilgisi yer alıyor. Fahrettin Altay konumunu tarif ederken cadde veya sokak ve giriş bilgisini ekleyin.",
+      "source_paths": [
+        "/fahrettin-altay-cekici"
+      ],
+      "stem": "fahrettin-altay"
+    },
+    {
+      "name": "Gediz",
+      "path": "/bolgeler/noktalar/gediz/",
+      "kind": "noktalar",
+      "district": null,
+      "candidates": [],
+      "roads": [],
+      "source_note": "Gediz adıyla yardım isterken ilçe, resmi mahalle adı ve konum bağlantısını birlikte paylaşın. Semt, site veya tesis adı ile resmi adres farklı olabilir; yalnızca yer adıyla ekip yönlendirmesi yapılmadan konum netleştirilir.",
+      "source_paths": [
+        "/gediz-cekici"
+      ],
+      "stem": "gediz"
+    },
+    {
+      "name": "Gökdere",
+      "path": "/bolgeler/bornova/gokdere/",
+      "kind": "noktalar",
+      "district": "Bornova",
+      "candidates": [
+        "Bornova"
+      ],
+      "roads": [],
+      "source_note": "Gökdere için belediye kayıtlarında Bornova ilçe bilgisi yer alıyor. Gökdere konumunu tarif ederken cadde veya sokak ve giriş bilgisini ekleyin.",
+      "source_paths": [
+        "/gokdere-cekici"
+      ],
+      "stem": "gokdere"
+    },
+    {
+      "name": "Göksu",
+      "path": "/bolgeler/buca/goksu/",
+      "kind": "noktalar",
+      "district": "Buca",
+      "candidates": [
+        "Buca"
+      ],
+      "roads": [],
+      "source_note": "Göksu için belediye kayıtlarında Buca ilçe bilgisi yer alıyor. Göksu konumunu tarif ederken cadde veya sokak ve giriş bilgisini ekleyin.",
+      "source_paths": [
+        "/goksu-cekici"
+      ],
+      "stem": "goksu"
+    },
+    {
+      "name": "Görece",
+      "path": "/bolgeler/menemen/gorece/",
+      "kind": "noktalar",
+      "district": "Menemen",
+      "candidates": [
+        "Menemen"
+      ],
+      "roads": [],
+      "source_note": "Görece için belediye kayıtlarında Menemen ilçe bilgisi yer alıyor. Görece konumunu tarif ederken cadde veya sokak ve giriş bilgisini ekleyin.",
+      "source_paths": [
+        "/gorece-cekici"
+      ],
+      "stem": "gorece"
+    },
+    {
+      "name": "Gülbahçe",
+      "path": "/bolgeler/urla/gulbahce/",
+      "kind": "noktalar",
+      "district": "Urla",
+      "candidates": [
+        "Urla"
+      ],
+      "roads": [],
+      "source_note": "Gülbahçe için belediye kayıtlarında Urla ilçe bilgisi yer alıyor. Gülbahçe konumunu tarif ederken cadde veya sokak ve giriş bilgisini ekleyin.",
+      "source_paths": [
+        "/gulbahce-cekici"
+      ],
+      "stem": "gulbahce"
+    },
+    {
+      "name": "Gülyaka",
+      "path": "/bolgeler/karabaglar/gulyaka/",
+      "kind": "noktalar",
+      "district": "Karabağlar",
+      "candidates": [
+        "Karabağlar"
+      ],
+      "roads": [],
+      "source_note": "Gülyaka için belediye kayıtlarında Karabağlar ilçe bilgisi yer alıyor. Gülyaka konumunu tarif ederken cadde veya sokak ve giriş bilgisini ekleyin.",
+      "source_paths": [
+        "/gulyaka-cekici"
+      ],
+      "stem": "gulyaka"
+    },
+    {
+      "name": "Gümüldür",
+      "path": "/bolgeler/menderes/gumuldur/",
+      "kind": "noktalar",
+      "district": "Menderes",
+      "candidates": [
+        "Menderes"
+      ],
+      "roads": [],
+      "source_note": "Gümüldür için belediye kayıtlarında Menderes ilçe bilgisi yer alıyor. Gümüldür Fevzi Çakmak, Gümüldür Cumhuriyet, Gümüldür İnönü konumunu tarif ederken cadde veya sokak ve giriş bilgisini ekleyin.",
+      "source_paths": [
+        "/gumuldur-cekici"
+      ],
+      "stem": "gumuldur"
+    },
+    {
+      "name": "Günaltay",
+      "path": "/bolgeler/karabaglar/gunaltay/",
+      "kind": "noktalar",
+      "district": "Karabağlar",
+      "candidates": [
+        "Karabağlar"
+      ],
+      "roads": [],
+      "source_note": "Günaltay için belediye kayıtlarında Karabağlar ilçe bilgisi yer alıyor. Günaltay konumunu tarif ederken cadde veya sokak ve giriş bilgisini ekleyin.",
+      "source_paths": [
+        "/gunaltay-cekici"
+      ],
+      "stem": "gunaltay"
+    },
+    {
+      "name": "Güzelyalı",
+      "path": "/bolgeler/konak/guzelyali/",
+      "kind": "noktalar",
+      "district": "Konak",
+      "candidates": [
+        "Konak"
+      ],
+      "roads": [],
+      "source_note": "Güzelyalı için belediye kayıtlarında Konak ilçe bilgisi yer alıyor. Güzelyalı konumunu tarif ederken cadde veya sokak ve giriş bilgisini ekleyin.",
+      "source_paths": [
+        "/guzelyali-cekici"
+      ],
+      "stem": "guzelyali"
+    },
+    {
+      "name": "Havalimanı",
+      "path": "/bolgeler/gaziemir/havalimani/",
+      "kind": "noktalar",
+      "district": "Gaziemir",
+      "candidates": [
+        "Gaziemir"
+      ],
+      "roads": [],
+      "source_note": "Adnan Menderes Havalimanı iç ve dış hatlar terminalleri Gaziemir'dedir. Terminal, otopark katı veya açık park alanı, kapı ve giriş yüksekliği bilgilerini paylaşın. Terminal önü ile otopark içi erişim aynı şekilde planlanmaz.",
+      "source_paths": [
+        "/havalimani-cekici"
+      ],
+      "stem": "havalimani"
+    },
+    {
+      "name": "Irmak Mahallesi",
+      "path": "/bolgeler/noktalar/irmak-mahallesi/",
+      "kind": "noktalar",
+      "district": null,
+      "candidates": [
+        "Gaziemir",
+        "Menemen"
+      ],
+      "roads": [],
+      "source_note": "Irmak Mahallesi adı belediyenin mahalle kayıtlarında Gaziemir, Menemen için geçiyor. Ekibin yanlış ilçeye yönlenmemesi için ilçe adını, mahalleyi ve konum bağlantısını birlikte paylaşın.",
+      "source_paths": [
+        "/irmak-mahallesi-cekici"
+      ],
+      "stem": "irmak-mahallesi"
+    },
+    {
+      "name": "İçmeler",
+      "path": "/bolgeler/urla/icmeler/",
+      "kind": "noktalar",
+      "district": "Urla",
+      "candidates": [
+        "Urla"
+      ],
+      "roads": [],
+      "source_note": "İçmeler için belediye kayıtlarında Urla ilçe bilgisi yer alıyor. İçmeler konumunu tarif ederken cadde veya sokak ve giriş bilgisini ekleyin.",
+      "source_paths": [
+        "/icmeler-cekici"
+      ],
+      "stem": "icmeler"
+    },
+    {
+      "name": "İnciraltı",
+      "path": "/bolgeler/balcova/inciralti/",
+      "kind": "noktalar",
+      "district": "Balçova",
+      "candidates": [
+        "Balçova"
+      ],
+      "roads": [],
+      "source_note": "İnciraltı için belediye kayıtlarında Balçova ilçe bilgisi yer alıyor. İnciraltı konumunu tarif ederken cadde veya sokak ve giriş bilgisini ekleyin.",
+      "source_paths": [
+        "/inciralti-cekici"
+      ],
+      "stem": "inciralti"
+    },
+    {
+      "name": "İnönü",
+      "path": "/bolgeler/noktalar/inonu/",
+      "kind": "noktalar",
+      "district": null,
+      "candidates": [
+        "Bornova",
+        "Buca",
+        "Çiğli",
+        "Ödemiş",
+        "Torbalı"
+      ],
+      "roads": [],
+      "source_note": "İnönü adı belediyenin mahalle kayıtlarında Buca, Ödemiş, Bornova, Çiğli, Torbalı için geçiyor. Ekibin yanlış ilçeye yönlenmemesi için ilçe adını, mahalleyi ve konum bağlantısını birlikte paylaşın.",
+      "source_paths": [
+        "/inonu-cekici"
+      ],
+      "stem": "inonu"
+    },
+    {
+      "name": "Karataş",
+      "path": "/bolgeler/noktalar/karatas/",
+      "kind": "noktalar",
+      "district": null,
+      "candidates": [],
+      "roads": [],
+      "source_note": "Karataş adıyla yardım isterken ilçe, resmi mahalle adı ve konum bağlantısını birlikte paylaşın. Semt, site veya tesis adı ile resmi adres farklı olabilir; yalnızca yer adıyla ekip yönlendirmesi yapılmadan konum netleştirilir.",
+      "source_paths": [
+        "/karatas-cekici"
+      ],
+      "stem": "karatas"
+    },
+    {
+      "name": "Kavaklıdere",
+      "path": "/bolgeler/bornova/kavaklidere/",
+      "kind": "noktalar",
+      "district": "Bornova",
+      "candidates": [
+        "Bornova"
+      ],
+      "roads": [],
+      "source_note": "Kavaklıdere için belediye kayıtlarında Bornova ilçe bilgisi yer alıyor. Kavaklıdere konumunu tarif ederken cadde veya sokak ve giriş bilgisini ekleyin.",
+      "source_paths": [
+        "/kavaklidere-cekici"
+      ],
+      "stem": "kavaklidere"
+    },
+    {
+      "name": "Kaynaklar",
+      "path": "/bolgeler/buca/kaynaklar/",
+      "kind": "noktalar",
+      "district": "Buca",
+      "candidates": [
+        "Buca"
+      ],
+      "roads": [],
+      "source_note": "Buca Belediyesi kayıtlarında Kaynaklar Merkez adı geçer. Kaynaklar içinde yardım isterken mahalle, tesis girişi veya yol üzerindeki güvenli bekleme noktasını ve canlı konum bağlantısını belirtin.",
+      "source_paths": [
+        "/kaynaklar-cekici"
+      ],
+      "stem": "kaynaklar"
+    },
+    {
+      "name": "Kazımdirik",
+      "path": "/bolgeler/noktalar/kazimdirik/",
+      "kind": "noktalar",
+      "district": null,
+      "candidates": [
+        "Aliağa",
+        "Bornova",
+        "Foça"
+      ],
+      "roads": [],
+      "source_note": "Kazımdirik adı belediyenin mahalle kayıtlarında Foça, Aliağa, Bornova için geçiyor. Ekibin yanlış ilçeye yönlenmemesi için ilçe adını, mahalleyi ve konum bağlantısını birlikte paylaşın.",
+      "source_paths": [
+        "/kazimdirik-cekici"
+      ],
+      "stem": "kazimdirik"
+    },
+    {
+      "name": "Kısık",
+      "path": "/bolgeler/menderes/kisik/",
+      "kind": "noktalar",
+      "district": "Menderes",
+      "candidates": [
+        "Menderes"
+      ],
+      "roads": [
+        "İzmir-Aydın Asfaltı Kısık Mevkii",
+        "Kısıkköy Sanayi Sitesi İçi",
+        "Menderes Bağlantı Kavşağı",
+        "Görece Yolu"
+      ],
+      "source_note": "Kısık ve Kısıkköy sanayi bölgesi ile İzmir-Aydın karayolu üzerinde arızalanan binek otomobil, kamyonet ve ticari araçlar için 7/24 hızlı kayar kasa kurtarıcı hizmeti sunuyoruz.",
+      "source_paths": [
+        "/kisik-cekici"
+      ],
+      "stem": "kisik"
+    },
+    {
+      "name": "Kozağaç",
+      "path": "/bolgeler/buca/kozagac/",
+      "kind": "noktalar",
+      "district": "Buca",
+      "candidates": [
+        "Buca"
+      ],
+      "roads": [],
+      "source_note": "Kozağaç için belediye kayıtlarında Buca ilçe bilgisi yer alıyor. Kozağaç konumunu tarif ederken cadde veya sokak ve giriş bilgisini ekleyin.",
+      "source_paths": [
+        "/kozagac-cekici"
+      ],
+      "stem": "kozagac"
+    },
+    {
+      "name": "Kuruçeşme",
+      "path": "/bolgeler/buca/kurucesme/",
+      "kind": "noktalar",
+      "district": "Buca",
+      "candidates": [
+        "Buca"
+      ],
+      "roads": [],
+      "source_note": "Kuruçeşme için belediye kayıtlarında Buca ilçe bilgisi yer alıyor. Kuruçeşme konumunu tarif ederken cadde veya sokak ve giriş bilgisini ekleyin.",
+      "source_paths": [
+        "/kurucesme-cekici"
+      ],
+      "stem": "kurucesme"
+    },
+    {
+      "name": "Küçük Park",
+      "path": "/bolgeler/noktalar/kucuk-park/",
+      "kind": "noktalar",
+      "district": null,
+      "candidates": [],
+      "roads": [],
+      "source_note": "Küçük Park adıyla yardım isterken ilçe, resmi mahalle adı ve konum bağlantısını birlikte paylaşın. Semt, site veya tesis adı ile resmi adres farklı olabilir; yalnızca yer adıyla ekip yönlendirmesi yapılmadan konum netleştirilir.",
+      "source_paths": [
+        "/kucuk-park-cekici"
+      ],
+      "stem": "kucuk-park"
+    },
+    {
+      "name": "Küçükyalı",
+      "path": "/bolgeler/noktalar/kucukyali/",
+      "kind": "noktalar",
+      "district": null,
+      "candidates": [],
+      "roads": [],
+      "source_note": "Küçükyalı adıyla yardım isterken ilçe, resmi mahalle adı ve konum bağlantısını birlikte paylaşın. Semt, site veya tesis adı ile resmi adres farklı olabilir; yalnızca yer adıyla ekip yönlendirmesi yapılmadan konum netleştirilir.",
+      "source_paths": [
+        "/kucukyali-cekici"
+      ],
+      "stem": "kucukyali"
+    },
+    {
+      "name": "Küner",
+      "path": "/bolgeler/menderes/kuner/",
+      "kind": "noktalar",
+      "district": "Menderes",
+      "candidates": [
+        "Menderes"
+      ],
+      "roads": [],
+      "source_note": "Küner için belediye kayıtlarında Menderes ilçe bilgisi yer alıyor. Küner konumunu tarif ederken cadde veya sokak ve giriş bilgisini ekleyin.",
+      "source_paths": [
+        "/kuner-cekici"
+      ],
+      "stem": "kuner"
+    },
+    {
+      "name": "Laka Mahallesi",
+      "path": "/bolgeler/bornova/laka-mahallesi/",
+      "kind": "noktalar",
+      "district": "Bornova",
+      "candidates": [
+        "Bornova"
+      ],
+      "roads": [],
+      "source_note": "Laka Mahallesi için belediye kayıtlarında Bornova ilçe bilgisi yer alıyor. Laka konumunu tarif ederken cadde veya sokak ve giriş bilgisini ekleyin.",
+      "source_paths": [
+        "/laka-mahallesi-cekici"
+      ],
+      "stem": "laka-mahallesi"
+    },
+    {
+      "name": "Liman Reis",
+      "path": "/bolgeler/guzelbahce/liman-reis/",
+      "kind": "noktalar",
+      "district": "Güzelbahçe",
+      "candidates": [
+        "Güzelbahçe"
+      ],
+      "roads": [],
+      "source_note": "Liman Reis için belediye kayıtlarında Narlıdere ilçe bilgisi yer alıyor. Limanreis konumunu tarif ederken cadde veya sokak ve giriş bilgisini ekleyin.",
+      "source_paths": [
+        "/liman-reis-cekici",
+        "/limanreis-cekici"
+      ],
+      "stem": "liman-reis"
+    },
+    {
+      "name": "Limontepe",
+      "path": "/bolgeler/karabaglar/limontepe/",
+      "kind": "noktalar",
+      "district": "Karabağlar",
+      "candidates": [
+        "Karabağlar"
+      ],
+      "roads": [],
+      "source_note": "Limontepe için belediye kayıtlarında Karabağlar ilçe bilgisi yer alıyor. Limontepe konumunu tarif ederken cadde veya sokak ve giriş bilgisini ekleyin.",
+      "source_paths": [
+        "/limontepe-cekici"
+      ],
+      "stem": "limontepe"
+    },
+    {
+      "name": "Maltepe",
+      "path": "/bolgeler/noktalar/maltepe/",
+      "kind": "noktalar",
+      "district": null,
+      "candidates": [
+        "Bergama",
+        "Çiğli",
+        "Güzelbahçe"
+      ],
+      "roads": [],
+      "source_note": "Maltepe adı belediyenin mahalle kayıtlarında Çiğli, Güzelbahçe, Bergama için geçiyor. Ekibin yanlış ilçeye yönlenmemesi için ilçe adını, mahalleyi ve konum bağlantısını birlikte paylaşın.",
+      "source_paths": [
+        "/maltepe-cekici"
+      ],
+      "stem": "maltepe"
+    },
+    {
+      "name": "Manavkuyu",
+      "path": "/bolgeler/bayrakli/manavkuyu/",
+      "kind": "noktalar",
+      "district": "Bayraklı",
+      "candidates": [
+        "Bayraklı"
+      ],
+      "roads": [],
+      "source_note": "Manavkuyu için belediye kayıtlarında Bayraklı ilçe bilgisi yer alıyor. Manavkuyu konumunu tarif ederken cadde veya sokak ve giriş bilgisini ekleyin.",
+      "source_paths": [
+        "/manavkuyu-cekici"
+      ],
+      "stem": "manavkuyu"
+    },
+    {
+      "name": "Menderes Mahallesi",
+      "path": "/bolgeler/noktalar/menderes-mahallesi/",
+      "kind": "noktalar",
+      "district": null,
+      "candidates": [],
+      "roads": [],
+      "source_note": "Menderes Mahallesi içindeki Ahmetbeyli, Akçaköy, Mithatpaşa, Ata, Ataköy belediye kayıtlarında yer alan mahallelerden bazılarıdır. İlçe merkezi ile farklı bir mahalleye erişim aynı olmayabilir; çağrıda mahalle ve cadde bilgisini belirtin.",
+      "source_paths": [
+        "/menderes-mahallesi-cekici"
+      ],
+      "stem": "menderes-mahallesi"
+    },
+    {
+      "name": "Mevlana Mahallesi",
+      "path": "/bolgeler/bornova/mevlana-mahallesi/",
+      "kind": "noktalar",
+      "district": "Bornova",
+      "candidates": [
+        "Bornova"
+      ],
+      "roads": [],
+      "source_note": "Mevlana Mahallesi için belediye kayıtlarında Bornova ilçe bilgisi yer alıyor. Mevlana konumunu tarif ederken cadde veya sokak ve giriş bilgisini ekleyin.",
+      "source_paths": [
+        "/mevlana-mahallesi-cekici"
+      ],
+      "stem": "mevlana-mahallesi"
+    },
+    {
+      "name": "Naldöken",
+      "path": "/bolgeler/bornova/naldoken/",
+      "kind": "noktalar",
+      "district": "Bornova",
+      "candidates": [
+        "Bornova"
+      ],
+      "roads": [],
+      "source_note": "Naldöken için belediye kayıtlarında Bornova ilçe bilgisi yer alıyor. Naldöken konumunu tarif ederken cadde veya sokak ve giriş bilgisini ekleyin.",
+      "source_paths": [
+        "/naldoken-cekici"
+      ],
+      "stem": "naldoken"
+    },
+    {
+      "name": "Narbel",
+      "path": "/bolgeler/noktalar/narbel/",
+      "kind": "noktalar",
+      "district": null,
+      "candidates": [],
+      "roads": [],
+      "source_note": "Narbel adıyla yardım isterken ilçe, resmi mahalle adı ve konum bağlantısını birlikte paylaşın. Semt, site veya tesis adı ile resmi adres farklı olabilir; yalnızca yer adıyla ekip yönlendirmesi yapılmadan konum netleştirilir.",
+      "source_paths": [
+        "/narbel-cekici"
+      ],
+      "stem": "narbel"
+    },
+    {
+      "name": "Narlı",
+      "path": "/bolgeler/narlidere/narli/",
+      "kind": "noktalar",
+      "district": "Narlıdere",
+      "candidates": [
+        "Narlıdere"
+      ],
+      "roads": [],
+      "source_note": "Narlı için belediye kayıtlarında Narlıdere ilçe bilgisi yer alıyor. Narlı konumunu tarif ederken cadde veya sokak ve giriş bilgisini ekleyin.",
+      "source_paths": [
+        "/narli-cekici"
+      ],
+      "stem": "narli"
+    },
+    {
+      "name": "Oğlananası",
+      "path": "/bolgeler/menderes/oglananasi/",
+      "kind": "noktalar",
+      "district": "Menderes",
+      "candidates": [
+        "Menderes"
+      ],
+      "roads": [],
+      "source_note": "Oğlananası için belediye kayıtlarında Menderes ilçe bilgisi yer alıyor. Oğlananası Atatürk konumunu tarif ederken cadde veya sokak ve giriş bilgisini ekleyin.",
+      "source_paths": [
+        "/oglananasi-cekici"
+      ],
+      "stem": "oglananasi"
+    },
+    {
+      "name": "Onur Mahallesi",
+      "path": "/bolgeler/noktalar/onur-mahallesi/",
+      "kind": "noktalar",
+      "district": null,
+      "candidates": [
+        "Balçova",
+        "Bayraklı"
+      ],
+      "roads": [],
+      "source_note": "Onur Mahallesi adı belediyenin mahalle kayıtlarında Bayraklı, Balçova için geçiyor. Ekibin yanlış ilçeye yönlenmemesi için ilçe adını, mahalleyi ve konum bağlantısını birlikte paylaşın.",
+      "source_paths": [
+        "/onur-mahallesi-cekici"
+      ],
+      "stem": "onur-mahallesi"
+    },
+    {
+      "name": "Özbek",
+      "path": "/bolgeler/urla/ozbek/",
+      "kind": "noktalar",
+      "district": "Urla",
+      "candidates": [
+        "Urla"
+      ],
+      "roads": [],
+      "source_note": "Özbek için belediye kayıtlarında Urla ilçe bilgisi yer alıyor. Özbek konumunu tarif ederken cadde veya sokak ve giriş bilgisini ekleyin.",
+      "source_paths": [
+        "/ozbek-cekici"
+      ],
+      "stem": "ozbek"
+    },
+    {
+      "name": "Özdere",
+      "path": "/bolgeler/menderes/ozdere/",
+      "kind": "noktalar",
+      "district": "Menderes",
+      "candidates": [
+        "Menderes"
+      ],
+      "roads": [],
+      "source_note": "Özdere için belediye kayıtlarında Menderes ilçe bilgisi yer alıyor. Özdere Cumhuriyet konumunu tarif ederken cadde veya sokak ve giriş bilgisini ekleyin.",
+      "source_paths": [
+        "/ozdere-cekici"
+      ],
+      "stem": "ozdere"
+    },
+    {
+      "name": "Payamlı",
+      "path": "/bolgeler/noktalar/payamli/",
+      "kind": "noktalar",
+      "district": null,
+      "candidates": [
+        "Güzelbahçe",
+        "Seferihisar"
+      ],
+      "roads": [],
+      "source_note": "Payamlı adı belediyenin mahalle kayıtlarında Güzelbahçe, Seferihisar için geçiyor. Ekibin yanlış ilçeye yönlenmemesi için ilçe adını, mahalleyi ve konum bağlantısını birlikte paylaşın.",
+      "source_paths": [
+        "/payamli-cekici"
+      ],
+      "stem": "payamli"
+    },
+    {
+      "name": "Peker Mahallesi",
+      "path": "/bolgeler/noktalar/peker-mahallesi/",
+      "kind": "noktalar",
+      "district": null,
+      "candidates": [],
+      "roads": [],
+      "source_note": "Peker Mahallesi adıyla yardım isterken ilçe, resmi mahalle adı ve konum bağlantısını birlikte paylaşın. Semt, site veya tesis adı ile resmi adres farklı olabilir; yalnızca yer adıyla ekip yönlendirmesi yapılmadan konum netleştirilir.",
+      "source_paths": [
+        "/peker-mahallesi-cekici"
+      ],
+      "stem": "peker-mahallesi"
+    },
+    {
+      "name": "Poligon",
+      "path": "/bolgeler/karabaglar/poligon/",
+      "kind": "noktalar",
+      "district": "Karabağlar",
+      "candidates": [
+        "Karabağlar"
+      ],
+      "roads": [],
+      "source_note": "Poligon için belediye kayıtlarında Karabağlar ilçe bilgisi yer alıyor. Poligon konumunu tarif ederken cadde veya sokak ve giriş bilgisini ekleyin.",
+      "source_paths": [
+        "/poligon-cekici"
+      ],
+      "stem": "poligon"
+    },
+    {
+      "name": "Selway",
+      "path": "/bolgeler/noktalar/selway/",
+      "kind": "noktalar",
+      "district": null,
+      "candidates": [],
+      "roads": [],
+      "source_note": "Selway adıyla yardım isterken ilçe, resmi mahalle adı ve konum bağlantısını birlikte paylaşın. Semt, site veya tesis adı ile resmi adres farklı olabilir; yalnızca yer adıyla ekip yönlendirmesi yapılmadan konum netleştirilir.",
+      "source_paths": [
+        "/selway-cekici"
+      ],
+      "stem": "selway"
+    },
+    {
+      "name": "Sığacık",
+      "path": "/bolgeler/seferihisar/sigacik/",
+      "kind": "noktalar",
+      "district": "Seferihisar",
+      "candidates": [
+        "Seferihisar"
+      ],
+      "roads": [],
+      "source_note": "Sığacık için belediye kayıtlarında Seferihisar ilçe bilgisi yer alıyor. Sığacık konumunu tarif ederken cadde veya sokak ve giriş bilgisini ekleyin.",
+      "source_paths": [
+        "/sigacik-cekici"
+      ],
+      "stem": "sigacik"
+    },
+    {
+      "name": "Siteler",
+      "path": "/bolgeler/noktalar/siteler/",
+      "kind": "noktalar",
+      "district": null,
+      "candidates": [
+        "Aliağa",
+        "Güzelbahçe"
+      ],
+      "roads": [],
+      "source_note": "Siteler adı belediyenin mahalle kayıtlarında Aliağa, Güzelbahçe için geçiyor. Ekibin yanlış ilçeye yönlenmemesi için ilçe adını, mahalleyi ve konum bağlantısını birlikte paylaşın.",
+      "source_paths": [
+        "/siteler-cekici"
+      ],
+      "stem": "siteler"
+    },
+    {
+      "name": "Şaşal",
+      "path": "/bolgeler/menderes/sasal/",
+      "kind": "noktalar",
+      "district": "Menderes",
+      "candidates": [
+        "Menderes"
+      ],
+      "roads": [],
+      "source_note": "Şaşal için belediye kayıtlarında Menderes ilçe bilgisi yer alıyor. Şaşal konumunu tarif ederken cadde veya sokak ve giriş bilgisini ekleyin.",
+      "source_paths": [
+        "/sasal-cekici"
+      ],
+      "stem": "sasal"
+    },
+    {
+      "name": "Şemikler",
+      "path": "/bolgeler/karsiyaka/semikler/",
+      "kind": "noktalar",
+      "district": "Karşıyaka",
+      "candidates": [
+        "Karşıyaka"
+      ],
+      "roads": [],
+      "source_note": "Şemikler için belediye kayıtlarında Karşıyaka ilçe bilgisi yer alıyor. Şemikler konumunu tarif ederken cadde veya sokak ve giriş bilgisini ekleyin.",
+      "source_paths": [
+        "/semikler-cekici"
+      ],
+      "stem": "semikler"
+    },
+    {
+      "name": "Tekeli Türkmen",
+      "path": "/bolgeler/noktalar/tekeli-turkmen/",
+      "kind": "noktalar",
+      "district": null,
+      "candidates": [],
+      "roads": [],
+      "source_note": "Tekeli Türkmen adıyla yardım isterken ilçe, resmi mahalle adı ve konum bağlantısını birlikte paylaşın. Semt, site veya tesis adı ile resmi adres farklı olabilir; yalnızca yer adıyla ekip yönlendirmesi yapılmadan konum netleştirilir.",
+      "source_paths": [
+        "/tekeli-turkmen-cekici"
+      ],
+      "stem": "tekeli-turkmen"
+    },
+    {
+      "name": "Teleferik",
+      "path": "/bolgeler/balcova/teleferik/",
+      "kind": "noktalar",
+      "district": "Balçova",
+      "candidates": [
+        "Balçova"
+      ],
+      "roads": [],
+      "source_note": "Teleferik için belediye kayıtlarında Balçova ilçe bilgisi yer alıyor. Teleferik konumunu tarif ederken cadde veya sokak ve giriş bilgisini ekleyin.",
+      "source_paths": [
+        "/teleferik-cekici"
+      ],
+      "stem": "teleferik"
+    },
+    {
+      "name": "Tuna",
+      "path": "/bolgeler/bornova/tuna/",
+      "kind": "noktalar",
+      "district": "Bornova",
+      "candidates": [
+        "Bornova"
+      ],
+      "roads": [],
+      "source_note": "Tuna için belediye kayıtlarında Bornova ilçe bilgisi yer alıyor. Tuna konumunu tarif ederken cadde veya sokak ve giriş bilgisini ekleyin.",
+      "source_paths": [
+        "/tuna-cekici"
+      ],
+      "stem": "tuna"
+    },
+    {
+      "name": "Ulamış",
+      "path": "/bolgeler/seferihisar/ulamis/",
+      "kind": "noktalar",
+      "district": "Seferihisar",
+      "candidates": [
+        "Seferihisar"
+      ],
+      "roads": [],
+      "source_note": "Ulamış için belediye kayıtlarında Seferihisar ilçe bilgisi yer alıyor. Ulamış konumunu tarif ederken cadde veya sokak ve giriş bilgisini ekleyin.",
+      "source_paths": [
+        "/ulamis-cekici"
+      ],
+      "stem": "ulamis"
+    },
+    {
+      "name": "Ulucak",
+      "path": "/bolgeler/kemalpasa/ulucak/",
+      "kind": "noktalar",
+      "district": "Kemalpaşa",
+      "candidates": [
+        "Kemalpaşa"
+      ],
+      "roads": [],
+      "source_note": "Ulucak için belediye kayıtlarında Kemalpaşa ilçe bilgisi yer alıyor. Ulucak İstiklal, Ulucak Mustafa Kemal Atatürk, Ulucak Cumhuriyet konumunu tarif ederken cadde veya sokak ve giriş bilgisini ekleyin.",
+      "source_paths": [
+        "/ulucak-cekici"
+      ],
+      "stem": "ulucak"
+    },
+    {
+      "name": "Urla İskele",
+      "path": "/bolgeler/urla/iskele/",
+      "kind": "noktalar",
+      "district": "Urla",
+      "candidates": [
+        "Urla"
+      ],
+      "roads": [],
+      "source_note": "İzmir Büyükşehir Belediyesi, Urla İskele Mahallesi'ndeki Limantepe'yi yerel bir konum olarak tanımlar. İskele adıyla yardım isterken sahil, sokak veya otopark girişini ve aracın tam konumunu ayrıca paylaşın.",
+      "source_paths": [
+        "/urla-iskele-cekici"
+      ],
+      "stem": "urla-iskele"
+    },
+    {
+      "name": "Uzundere",
+      "path": "/bolgeler/noktalar/uzundere/",
+      "kind": "noktalar",
+      "district": null,
+      "candidates": [
+        "Karabağlar",
+        "Ödemiş"
+      ],
+      "roads": [],
+      "source_note": "Uzundere adı belediyenin mahalle kayıtlarında Karabağlar, Ödemiş için geçiyor. Ekibin yanlış ilçeye yönlenmemesi için ilçe adını, mahalleyi ve konum bağlantısını birlikte paylaşın.",
+      "source_paths": [
+        "/uzundere-cekici"
+      ],
+      "stem": "uzundere"
+    },
+    {
+      "name": "Ürkmez",
+      "path": "/bolgeler/seferihisar/urkmez/",
+      "kind": "noktalar",
+      "district": "Seferihisar",
+      "candidates": [
+        "Seferihisar"
+      ],
+      "roads": [],
+      "source_note": "İzmir Büyükşehir Belediyesi Ürkmez–Seferihisar güzergâhını ayrı bir yerel hat olarak belirtir. Ürkmez içinde veya bağlantı yolunda kaldıysanız yönü, en yakın kavşağı ve güvenli bekleme noktasını konum bağlantısıyla birlikte paylaşın.",
+      "source_paths": [
+        "/urkmez-cekici"
+      ],
+      "stem": "urkmez"
+    },
+    {
+      "name": "Yaka Mahallesi",
+      "path": "/bolgeler/noktalar/yaka-mahallesi/",
+      "kind": "noktalar",
+      "district": null,
+      "candidates": [
+        "Güzelbahçe",
+        "Urla"
+      ],
+      "roads": [],
+      "source_note": "Yaka Mahallesi adı belediyenin mahalle kayıtlarında Urla, Güzelbahçe için geçiyor. Ekibin yanlış ilçeye yönlenmemesi için ilçe adını, mahalleyi ve konum bağlantısını birlikte paylaşın.",
+      "source_paths": [
+        "/yaka-koyu-cekici",
+        "/yaka-mahallesi-cekici",
+        "/yaka-cekici"
+      ],
+      "stem": "yaka-mahallesi"
+    },
+    {
+      "name": "Yalı Mahallesi",
+      "path": "/bolgeler/noktalar/yali-mahallesi/",
+      "kind": "noktalar",
+      "district": null,
+      "candidates": [
+        "Aliağa",
+        "Çeşme",
+        "Güzelbahçe",
+        "Karşıyaka"
+      ],
+      "roads": [],
+      "source_note": "Yalı Mahallesi adı belediyenin mahalle kayıtlarında Güzelbahçe, Karşıyaka, Aliağa, Çeşme için geçiyor. Ekibin yanlış ilçeye yönlenmemesi için ilçe adını, mahalleyi ve konum bağlantısını birlikte paylaşın.",
+      "source_paths": [
+        "/yali-cekici",
+        "/yali-mahallesi-cekici"
+      ],
+      "stem": "yali-mahallesi"
+    },
+    {
+      "name": "Yenikale",
+      "path": "/bolgeler/narlidere/yenikale/",
+      "kind": "noktalar",
+      "district": "Narlıdere",
+      "candidates": [
+        "Narlıdere"
+      ],
+      "roads": [],
+      "source_note": "Yenikale için belediye kayıtlarında Narlıdere ilçe bilgisi yer alıyor. Yenikale konumunu tarif ederken cadde veya sokak ve giriş bilgisini ekleyin.",
+      "source_paths": [
+        "/yenikale-cekici"
+      ],
+      "stem": "yenikale"
+    },
+    {
+      "name": "Yeniköy",
+      "path": "/bolgeler/noktalar/yenikoy/",
+      "kind": "noktalar",
+      "district": null,
+      "candidates": [
+        "Foça",
+        "Kiraz",
+        "Menderes",
+        "Ödemiş",
+        "Torbalı"
+      ],
+      "roads": [],
+      "source_note": "Yeniköy adı belediyenin mahalle kayıtlarında Ödemiş, Torbalı, Kiraz, Foça, Menderes için geçiyor. Ekibin yanlış ilçeye yönlenmemesi için ilçe adını, mahalleyi ve konum bağlantısını birlikte paylaşın.",
+      "source_paths": [
+        "/yenikoy-cekici"
+      ],
+      "stem": "yenikoy"
+    },
+    {
+      "name": "Yeşilova",
+      "path": "/bolgeler/noktalar/yesilova/",
+      "kind": "noktalar",
+      "district": null,
+      "candidates": [
+        "Bayındır",
+        "Bornova"
+      ],
+      "roads": [],
+      "source_note": "Yeşilova adı belediyenin mahalle kayıtlarında Bayındır, Bornova için geçiyor. Ekibin yanlış ilçeye yönlenmemesi için ilçe adını, mahalleyi ve konum bağlantısını birlikte paylaşın.",
+      "source_paths": [
+        "/yesilova-cekici"
+      ],
+      "stem": "yesilova"
+    },
+    {
+      "name": "Yıldız Mahallesi",
+      "path": "/bolgeler/noktalar/yildiz-mahallesi/",
+      "kind": "noktalar",
+      "district": null,
+      "candidates": [
+        "Buca",
+        "Konak"
+      ],
+      "roads": [],
+      "source_note": "Yıldız Mahallesi adı belediyenin mahalle kayıtlarında Konak, Buca için geçiyor. Ekibin yanlış ilçeye yönlenmemesi için ilçe adını, mahalleyi ve konum bağlantısını birlikte paylaşın.",
+      "source_paths": [
+        "/yildiz-mahallesi-cekici"
+      ],
+      "stem": "yildiz-mahallesi"
+    },
+    {
+      "name": "Zeytinler",
+      "path": "/bolgeler/urla/zeytinler/",
+      "kind": "noktalar",
+      "district": "Urla",
+      "candidates": [
+        "Urla"
+      ],
+      "roads": [],
+      "source_note": "Zeytinler için belediye kayıtlarında Urla ilçe bilgisi yer alıyor. Zeytinler konumunu tarif ederken cadde veya sokak ve giriş bilgisini ekleyin.",
+      "source_paths": [
+        "/zeytinler-cekici"
+      ],
+      "stem": "zeytinler"
+    },
+    {
+      "name": "Üçkuyular",
+      "path": "/bolgeler/karabaglar/uckuyular/",
+      "kind": "noktalar",
+      "district": "Karabağlar",
+      "candidates": [
+        "Karabağlar"
+      ],
+      "roads": [],
+      "source_note": "Üçkuyular için belediye kayıtlarında Karabağlar ilçe bilgisi yer alıyor. Üçkuyular konumunu tarif ederken cadde veya sokak ve giriş bilgisini ekleyin.",
+      "source_paths": [
+        "/uckuyular-cekici"
+      ],
+      "stem": "uckuyular"
+    },
+    {
+      "name": "Eskiizmir",
+      "path": "/bolgeler/noktalar/eskiizmir/",
+      "kind": "noktalar",
+      "district": null,
+      "candidates": [],
+      "roads": [],
+      "source_note": "Eskiizmir adıyla yardım isterken ilçe, resmi mahalle adı ve konum bağlantısını birlikte paylaşın. Semt, site veya tesis adı ile resmi adres farklı olabilir; yalnızca yer adıyla ekip yönlendirmesi yapılmadan konum netleştirilir.",
+      "source_paths": [
+        "/eskiizmir-cekici"
+      ],
+      "stem": "eskiizmir"
+    },
+    {
+      "name": "Sahilevleri",
+      "path": "/bolgeler/narlidere/sahilevleri/",
+      "kind": "noktalar",
+      "district": "Narlıdere",
+      "candidates": [
+        "Narlıdere"
+      ],
+      "roads": [],
+      "source_note": "Sahilevleri için belediye kayıtlarında Narlıdere ilçe bilgisi yer alıyor. Sahilevleri konumunu tarif ederken cadde veya sokak ve giriş bilgisini ekleyin.",
+      "source_paths": [
+        "/sahilevleri-cekici"
+      ],
+      "stem": "sahilevleri"
+    },
+    {
+      "name": "Şirince",
+      "path": "/bolgeler/selcuk/sirince/",
+      "kind": "noktalar",
+      "district": "Selçuk",
+      "candidates": [
+        "Selçuk"
+      ],
+      "roads": [],
+      "source_note": "Şirince için belediye kayıtlarında Selçuk ilçe bilgisi yer alıyor. Şirince konumunu tarif ederken cadde veya sokak ve giriş bilgisini ekleyin.",
+      "source_paths": [
+        "/sirince-cekici"
+      ],
+      "stem": "sirince"
+    },
+    {
+      "name": "Manisa Yolu",
+      "path": "/guzergahlar/manisa-yolu/",
+      "kind": "guzergahlar",
+      "district": null,
+      "candidates": [],
+      "roads": [],
+      "source_note": "Sabuncubeli Tüneli, İzmir–Manisa devlet yolu bağlantısındadır. Tünel içi, giriş veya çıkış konumunu ve İzmir ya da Manisa yönünde olduğunuzu belirtin. Eski yol ile tünel güzergâhı aynı buluşma noktası değildir.",
+      "source_paths": [
+        "/manisa-yolu-cekici"
+      ],
+      "stem": "manisa-yolu"
+    },
+    {
+      "name": "Karaköy",
+      "path": "/bolgeler/noktalar/karakoy/",
+      "kind": "noktalar",
+      "district": null,
+      "candidates": [
+        "Aliağa",
+        "Çeşme"
+      ],
+      "roads": [],
+      "source_note": "Karaköy adı belediyenin mahalle kayıtlarında Çeşme, Aliağa için geçiyor. Ekibin yanlış ilçeye yönlenmemesi için ilçe adını, mahalleyi ve konum bağlantısını birlikte paylaşın.",
+      "source_paths": [
+        "/karakoy-cekici"
+      ],
+      "stem": "karakoy"
+    },
+    {
+      "name": "Atatürk Mahallesi",
+      "path": "/bolgeler/noktalar/ataturk-mahallesi/",
+      "kind": "noktalar",
+      "district": null,
+      "candidates": [
+        "Bayındır",
+        "Bergama",
+        "Çiğli",
+        "Kemalpaşa",
+        "Narlıdere"
+      ],
+      "roads": [],
+      "source_note": "Atatürk Mahallesi adı belediyenin mahalle kayıtlarında Bergama, Çiğli, Bayındır, Narlıdere, Kemalpaşa ve başka 12 ilçe için geçiyor. Ekibin yanlış ilçeye yönlenmemesi için ilçe adını, mahalleyi ve konum bağlantısını birlikte paylaşın.",
+      "source_paths": [
+        "/ataturk-mahallesi-cekici"
+      ],
+      "stem": "ataturk-mahallesi"
+    },
+    {
+      "name": "Çelebi Mahallesi",
+      "path": "/bolgeler/guzelbahce/celebi-mahallesi/",
+      "kind": "noktalar",
+      "district": "Güzelbahçe",
+      "candidates": [
+        "Güzelbahçe"
+      ],
+      "roads": [],
+      "source_note": "Çelebi Mahallesi için belediye kayıtlarında Güzelbahçe ilçe bilgisi yer alıyor. Çelebi konumunu tarif ederken cadde veya sokak ve giriş bilgisini ekleyin.",
+      "source_paths": [
+        "/celebi-mahallesi-cekici"
+      ],
+      "stem": "celebi-mahallesi"
+    },
+    {
+      "name": "Küçükkaya",
+      "path": "/bolgeler/noktalar/kucukkaya/",
+      "kind": "noktalar",
+      "district": null,
+      "candidates": [
+        "Bergama",
+        "Güzelbahçe"
+      ],
+      "roads": [],
+      "source_note": "Küçükkaya adı belediyenin mahalle kayıtlarında Güzelbahçe, Bergama için geçiyor. Ekibin yanlış ilçeye yönlenmemesi için ilçe adını, mahalleyi ve konum bağlantısını birlikte paylaşın.",
+      "source_paths": [
+        "/kucukkaya-cekici"
+      ],
+      "stem": "kucukkaya"
+    },
+    {
+      "name": "Eserkent",
+      "path": "/bolgeler/noktalar/eserkent/",
+      "kind": "noktalar",
+      "district": null,
+      "candidates": [],
+      "roads": [],
+      "source_note": "Eserkent adıyla yardım isterken ilçe, resmi mahalle adı ve konum bağlantısını birlikte paylaşın. Semt, site veya tesis adı ile resmi adres farklı olabilir; yalnızca yer adıyla ekip yönlendirmesi yapılmadan konum netleştirilir.",
+      "source_paths": [
+        "/eserkent-cekici"
+      ],
+      "stem": "eserkent"
+    },
+    {
+      "name": "Zeytinköy",
+      "path": "/bolgeler/selcuk/zeytinkoy/",
+      "kind": "noktalar",
+      "district": "Selçuk",
+      "candidates": [
+        "Selçuk"
+      ],
+      "roads": [],
+      "source_note": "Zeytinköy için belediye kayıtlarında Selçuk ilçe bilgisi yer alıyor. Zeytinköy konumunu tarif ederken cadde veya sokak ve giriş bilgisini ekleyin.",
+      "source_paths": [
+        "/zeytinkoy-cekici"
+      ],
+      "stem": "zeytinkoy"
+    },
+    {
+      "name": "Acarlar",
+      "path": "/bolgeler/selcuk/acarlar/",
+      "kind": "noktalar",
+      "district": "Selçuk",
+      "candidates": [
+        "Selçuk"
+      ],
+      "roads": [],
+      "source_note": "Acarlar için belediye kayıtlarında Selçuk ilçe bilgisi yer alıyor. Acarlar konumunu tarif ederken cadde veya sokak ve giriş bilgisini ekleyin.",
+      "source_paths": [
+        "/acarlar-cekici"
+      ],
+      "stem": "acarlar"
+    },
+    {
+      "name": "Barutçu",
+      "path": "/bolgeler/selcuk/barutcu/",
+      "kind": "noktalar",
+      "district": "Selçuk",
+      "candidates": [
+        "Selçuk"
+      ],
+      "roads": [],
+      "source_note": "Barutçu için belediye kayıtlarında Selçuk ilçe bilgisi yer alıyor. Barutçu konumunu tarif ederken cadde veya sokak ve giriş bilgisini ekleyin.",
+      "source_paths": [
+        "/barutcu-cekici"
+      ],
+      "stem": "barutcu"
+    },
+    {
+      "name": "Torbalı 19 Mayıs",
+      "path": "/bolgeler/torbali/19-mayis/",
+      "kind": "noktalar",
+      "district": "Torbalı",
+      "candidates": [
+        "Torbalı"
+      ],
+      "roads": [],
+      "source_note": "Torbalı 19 Mayıs için belediye kayıtlarında Torbalı ilçe bilgisi yer alıyor. 19 Mayıs (Subaşı) konumunu tarif ederken cadde veya sokak ve giriş bilgisini ekleyin.",
+      "source_paths": [
+        "/torbali-19-mayis-cekici"
+      ],
+      "stem": "torbali-19-mayis"
+    },
+    {
+      "name": "Torbalı Arslanlar",
+      "path": "/bolgeler/torbali/arslanlar/",
+      "kind": "noktalar",
+      "district": "Torbalı",
+      "candidates": [
+        "Torbalı"
+      ],
+      "roads": [],
+      "source_note": "Torbalı Arslanlar için belediye kayıtlarında Torbalı ilçe bilgisi yer alıyor. Arslanlar konumunu tarif ederken cadde veya sokak ve giriş bilgisini ekleyin.",
+      "source_paths": [
+        "/torbali-arslanlar-cekici"
+      ],
+      "stem": "torbali-arslanlar"
+    },
+    {
+      "name": "Torbalı Atalan",
+      "path": "/bolgeler/torbali/atalan/",
+      "kind": "noktalar",
+      "district": "Torbalı",
+      "candidates": [
+        "Torbalı"
+      ],
+      "roads": [],
+      "source_note": "Torbalı Atalan için belediye kayıtlarında Torbalı ilçe bilgisi yer alıyor. Atalan konumunu tarif ederken cadde veya sokak ve giriş bilgisini ekleyin.",
+      "source_paths": [
+        "/torbali-atalan-cekici"
+      ],
+      "stem": "torbali-atalan"
+    },
+    {
+      "name": "Torbalı Atatürk",
+      "path": "/bolgeler/torbali/ataturk/",
+      "kind": "noktalar",
+      "district": "Torbalı",
+      "candidates": [
+        "Torbalı"
+      ],
+      "roads": [],
+      "source_note": "Torbalı Atatürk için belediye kayıtlarında Torbalı ilçe bilgisi yer alıyor. Atatürk konumunu tarif ederken cadde veya sokak ve giriş bilgisini ekleyin.",
+      "source_paths": [
+        "/torbali-ataturk-cekici"
+      ],
+      "stem": "torbali-ataturk"
+    },
+    {
+      "name": "Torbalı Bahçelievler",
+      "path": "/bolgeler/torbali/bahcelievler/",
+      "kind": "noktalar",
+      "district": "Torbalı",
+      "candidates": [
+        "Torbalı"
+      ],
+      "roads": [],
+      "source_note": "Torbalı Bahçelievler için belediye kayıtlarında Torbalı ilçe bilgisi yer alıyor. Bahçelievler konumunu tarif ederken cadde veya sokak ve giriş bilgisini ekleyin.",
+      "source_paths": [
+        "/torbali-bahcelievler-cekici"
+      ],
+      "stem": "torbali-bahcelievler"
+    },
+    {
+      "name": "Torbalı Bozköy",
+      "path": "/bolgeler/torbali/bozkoy/",
+      "kind": "noktalar",
+      "district": "Torbalı",
+      "candidates": [
+        "Torbalı"
+      ],
+      "roads": [],
+      "source_note": "Torbalı Bozköy için belediye kayıtlarında Torbalı ilçe bilgisi yer alıyor. Bozköy konumunu tarif ederken cadde veya sokak ve giriş bilgisini ekleyin.",
+      "source_paths": [
+        "/torbali-bozkoy-cekici"
+      ],
+      "stem": "torbali-bozkoy"
+    },
+    {
+      "name": "Torbalı Bülbüldere",
+      "path": "/bolgeler/torbali/bulbuldere/",
+      "kind": "noktalar",
+      "district": "Torbalı",
+      "candidates": [
+        "Torbalı"
+      ],
+      "roads": [],
+      "source_note": "Torbalı Bülbüldere için belediye kayıtlarında Torbalı ilçe bilgisi yer alıyor. Bülbüldere konumunu tarif ederken cadde veya sokak ve giriş bilgisini ekleyin.",
+      "source_paths": [
+        "/torbali-bulbuldere-cekici"
+      ],
+      "stem": "torbali-bulbuldere"
+    },
+    {
+      "name": "Torbalı Cumhuriyet",
+      "path": "/bolgeler/torbali/cumhuriyet/",
+      "kind": "noktalar",
+      "district": "Torbalı",
+      "candidates": [
+        "Torbalı"
+      ],
+      "roads": [],
+      "source_note": "Torbalı Cumhuriyet için belediye kayıtlarında Torbalı ilçe bilgisi yer alıyor. Cumhuriyet konumunu tarif ederken cadde veya sokak ve giriş bilgisini ekleyin.",
+      "source_paths": [
+        "/torbali-cumhuriyet-cekici"
+      ],
+      "stem": "torbali-cumhuriyet"
+    },
+    {
+      "name": "Torbalı Çakırbeyli",
+      "path": "/bolgeler/torbali/cakirbeyli/",
+      "kind": "noktalar",
+      "district": "Torbalı",
+      "candidates": [
+        "Torbalı"
+      ],
+      "roads": [],
+      "source_note": "Torbalı Çakırbeyli için belediye kayıtlarında Torbalı ilçe bilgisi yer alıyor. Çakırbeyli konumunu tarif ederken cadde veya sokak ve giriş bilgisini ekleyin.",
+      "source_paths": [
+        "/torbali-cakirbeyli-cekici"
+      ],
+      "stem": "torbali-cakirbeyli"
+    },
+    {
+      "name": "Torbalı Çamlıca",
+      "path": "/bolgeler/torbali/camlica/",
+      "kind": "noktalar",
+      "district": "Torbalı",
+      "candidates": [
+        "Torbalı"
+      ],
+      "roads": [],
+      "source_note": "Torbalı Çamlıca için belediye kayıtlarında Torbalı ilçe bilgisi yer alıyor. Çamlıca konumunu tarif ederken cadde veya sokak ve giriş bilgisini ekleyin.",
+      "source_paths": [
+        "/torbali-camlica-cekici"
+      ],
+      "stem": "torbali-camlica"
+    },
+    {
+      "name": "Torbalı Dağkızılca",
+      "path": "/bolgeler/torbali/dagkizilca/",
+      "kind": "noktalar",
+      "district": "Torbalı",
+      "candidates": [
+        "Torbalı"
+      ],
+      "roads": [],
+      "source_note": "Torbalı Dağkızılca için belediye kayıtlarında Torbalı ilçe bilgisi yer alıyor. Dağkızılca konumunu tarif ederken cadde veya sokak ve giriş bilgisini ekleyin.",
+      "source_paths": [
+        "/torbali-dagkizilca-cekici"
+      ],
+      "stem": "torbali-dagkizilca"
+    },
+    {
+      "name": "Torbalı Demirci",
+      "path": "/bolgeler/torbali/demirci/",
+      "kind": "noktalar",
+      "district": "Torbalı",
+      "candidates": [
+        "Torbalı"
+      ],
+      "roads": [],
+      "source_note": "Torbalı Demirci için belediye kayıtlarında Torbalı ilçe bilgisi yer alıyor. Demirci konumunu tarif ederken cadde veya sokak ve giriş bilgisini ekleyin.",
+      "source_paths": [
+        "/torbali-demirci-cekici"
+      ],
+      "stem": "torbali-demirci"
+    },
+    {
+      "name": "Torbalı Ertuğrul",
+      "path": "/bolgeler/torbali/ertugrul/",
+      "kind": "noktalar",
+      "district": "Torbalı",
+      "candidates": [
+        "Torbalı"
+      ],
+      "roads": [],
+      "source_note": "Torbalı Ertuğrul için belediye kayıtlarında Torbalı ilçe bilgisi yer alıyor. Ertuğrul konumunu tarif ederken cadde veya sokak ve giriş bilgisini ekleyin.",
+      "source_paths": [
+        "/torbali-ertugrul-cekici"
+      ],
+      "stem": "torbali-ertugrul"
+    },
+    {
+      "name": "Torbalı Fevzi Çakmak",
+      "path": "/bolgeler/torbali/fevzi-cakmak/",
+      "kind": "noktalar",
+      "district": "Torbalı",
+      "candidates": [
+        "Torbalı"
+      ],
+      "roads": [],
+      "source_note": "Torbalı Fevzi Çakmak için belediye kayıtlarında Torbalı ilçe bilgisi yer alıyor. Fevzi Çakmak konumunu tarif ederken cadde veya sokak ve giriş bilgisini ekleyin.",
+      "source_paths": [
+        "/torbali-fevzi-cakmak-cekici"
+      ],
+      "stem": "torbali-fevzi-cakmak"
+    },
+    {
+      "name": "Torbalı Göllüce",
+      "path": "/bolgeler/torbali/golluce/",
+      "kind": "noktalar",
+      "district": "Torbalı",
+      "candidates": [
+        "Torbalı"
+      ],
+      "roads": [],
+      "source_note": "Torbalı Göllüce için belediye kayıtlarında Torbalı ilçe bilgisi yer alıyor. Göllüce konumunu tarif ederken cadde veya sokak ve giriş bilgisini ekleyin.",
+      "source_paths": [
+        "/torbali-golluce-cekici"
+      ],
+      "stem": "torbali-golluce"
+    },
+    {
+      "name": "Torbalı Helvacı",
+      "path": "/bolgeler/torbali/helvaci/",
+      "kind": "noktalar",
+      "district": "Torbalı",
+      "candidates": [
+        "Torbalı"
+      ],
+      "roads": [],
+      "source_note": "Torbalı Helvacı için belediye kayıtlarında Torbalı ilçe bilgisi yer alıyor. Helvacı konumunu tarif ederken cadde veya sokak ve giriş bilgisini ekleyin.",
+      "source_paths": [
+        "/torbali-helvaci-cekici"
+      ],
+      "stem": "torbali-helvaci"
+    },
+    {
+      "name": "Torbalı İstiklal",
+      "path": "/bolgeler/torbali/istiklal/",
+      "kind": "noktalar",
+      "district": "Torbalı",
+      "candidates": [
+        "Torbalı"
+      ],
+      "roads": [],
+      "source_note": "Torbalı İstiklal için belediye kayıtlarında Torbalı ilçe bilgisi yer alıyor. İstiklal (Yazıbaşı) konumunu tarif ederken cadde veya sokak ve giriş bilgisini ekleyin.",
+      "source_paths": [
+        "/torbali-istiklal-cekici"
+      ],
+      "stem": "torbali-istiklal"
+    },
+    {
+      "name": "Torbalı Kaplancık",
+      "path": "/bolgeler/torbali/kaplancik/",
+      "kind": "noktalar",
+      "district": "Torbalı",
+      "candidates": [
+        "Torbalı"
+      ],
+      "roads": [],
+      "source_note": "Torbalı Kaplancık için belediye kayıtlarında Torbalı ilçe bilgisi yer alıyor. Kaplancık konumunu tarif ederken cadde veya sokak ve giriş bilgisini ekleyin.",
+      "source_paths": [
+        "/torbali-kaplancik-cekici"
+      ],
+      "stem": "torbali-kaplancik"
+    },
+    {
+      "name": "Torbalı Karakuyu",
+      "path": "/bolgeler/torbali/karakuyu/",
+      "kind": "noktalar",
+      "district": "Torbalı",
+      "candidates": [
+        "Torbalı"
+      ],
+      "roads": [],
+      "source_note": "Torbalı Karakuyu için belediye kayıtlarında Torbalı ilçe bilgisi yer alıyor. Karakuyu konumunu tarif ederken cadde veya sokak ve giriş bilgisini ekleyin.",
+      "source_paths": [
+        "/torbali-karakuyu-cekici"
+      ],
+      "stem": "torbali-karakuyu"
+    },
+    {
+      "name": "Torbalı Karşıyaka",
+      "path": "/bolgeler/torbali/karsiyaka/",
+      "kind": "noktalar",
+      "district": "Torbalı",
+      "candidates": [
+        "Torbalı"
+      ],
+      "roads": [],
+      "source_note": "Torbalı Karşıyaka için belediye kayıtlarında Torbalı ilçe bilgisi yer alıyor. Karşıyaka konumunu tarif ederken cadde veya sokak ve giriş bilgisini ekleyin.",
+      "source_paths": [
+        "/torbali-karsiyaka-cekici"
+      ],
+      "stem": "torbali-karsiyaka"
+    },
+    {
+      "name": "Torbalı Pamukyazı",
+      "path": "/bolgeler/torbali/pamukyazi/",
+      "kind": "noktalar",
+      "district": "Torbalı",
+      "candidates": [
+        "Torbalı"
+      ],
+      "roads": [],
+      "source_note": "Torbalı Pamukyazı için belediye kayıtlarında Torbalı ilçe bilgisi yer alıyor. Pamukyazı konumunu tarif ederken cadde veya sokak ve giriş bilgisini ekleyin.",
+      "source_paths": [
+        "/torbali-pamukyazi-cekici"
+      ],
+      "stem": "torbali-pamukyazi"
+    },
+    {
+      "name": "Torbalı Sağlık",
+      "path": "/bolgeler/torbali/saglik/",
+      "kind": "noktalar",
+      "district": "Torbalı",
+      "candidates": [
+        "Torbalı"
+      ],
+      "roads": [],
+      "source_note": "Torbalı Sağlık için belediye kayıtlarında Torbalı ilçe bilgisi yer alıyor. Sağlık konumunu tarif ederken cadde veya sokak ve giriş bilgisini ekleyin.",
+      "source_paths": [
+        "/torbali-saglik-cekici"
+      ],
+      "stem": "torbali-saglik"
+    },
+    {
+      "name": "Torbalı Tulum",
+      "path": "/bolgeler/torbali/tulum/",
+      "kind": "noktalar",
+      "district": "Torbalı",
+      "candidates": [
+        "Torbalı"
+      ],
+      "roads": [],
+      "source_note": "Torbalı Tulum için belediye kayıtlarında Torbalı ilçe bilgisi yer alıyor. Tulum konumunu tarif ederken cadde veya sokak ve giriş bilgisini ekleyin.",
+      "source_paths": [
+        "/torbali-tulum-cekici"
+      ],
+      "stem": "torbali-tulum"
+    },
+    {
+      "name": "Torbalı Yoğurtçular",
+      "path": "/bolgeler/torbali/yogurtcular/",
+      "kind": "noktalar",
+      "district": "Torbalı",
+      "candidates": [
+        "Torbalı"
+      ],
+      "roads": [],
+      "source_note": "Torbalı Yoğurtçular için belediye kayıtlarında Torbalı ilçe bilgisi yer alıyor. Yoğurtçular konumunu tarif ederken cadde veya sokak ve giriş bilgisini ekleyin.",
+      "source_paths": [
+        "/torbali-yogurtcular-cekici"
+      ],
+      "stem": "torbali-yogurtcular"
+    },
+    {
+      "name": "İzmir Otoyolu",
+      "path": "/guzergahlar/izmir-otoyolu/",
+      "kind": "guzergahlar",
+      "district": null,
+      "candidates": [],
+      "roads": [],
+      "source_note": "İzmir Otoyolu talebinde yolun tabela üzerindeki adı veya numarası, gidiş yönü ve en yakın çıkış önemlidir. Şehir adı ya da genel güzergâh adı tek başına aracın yerini belirlemez. Otoyol, devlet yolu ve bağlantı yolundan hangisinde bulunduğunuzu belirtin.",
+      "source_paths": [
+        "/izmir-otoyolu-cekici"
+      ],
+      "stem": "izmir-otoyolu"
+    },
+    {
+      "name": "Otogar Otoyolu",
+      "path": "/guzergahlar/otogar-otoyolu/",
+      "kind": "guzergahlar",
+      "district": null,
+      "candidates": [],
+      "roads": [],
+      "source_note": "Otogar Otoyolu talebinde yolun tabela üzerindeki adı veya numarası, gidiş yönü ve en yakın çıkış önemlidir. Şehir adı ya da genel güzergâh adı tek başına aracın yerini belirlemez. Otoyol, devlet yolu ve bağlantı yolundan hangisinde bulunduğunuzu belirtin.",
+      "source_paths": [
+        "/otogar-otoyolu-cekici"
+      ],
+      "stem": "otogar-otoyolu"
+    },
+    {
+      "name": "Belkahve Tünelleri",
+      "path": "/guzergahlar/belkahve-tunelleri/",
+      "kind": "guzergahlar",
+      "district": null,
+      "candidates": [],
+      "roads": [],
+      "source_note": "Belkahve Tünelleri talebinde yolun tabela üzerindeki adı veya numarası, gidiş yönü ve en yakın çıkış önemlidir. Şehir adı ya da genel güzergâh adı tek başına aracın yerini belirlemez. Otoyol, devlet yolu ve bağlantı yolundan hangisinde bulunduğunuzu belirtin.",
+      "source_paths": [
+        "/belkahve-tunelleri-cekici"
+      ],
+      "stem": "belkahve-tunelleri"
+    },
+    {
+      "name": "Kordon",
+      "path": "/bolgeler/konak/kordon/",
+      "kind": "noktalar",
+      "district": "Konak",
+      "candidates": [
+        "Konak"
+      ],
+      "roads": [],
+      "source_note": "İzmir Kordon sahil şeridi, Cumhuriyet Meydanı ve Liman hattında acil oto kurtarıcı.",
+      "source_paths": [
+        "/kordon-cekici"
+      ],
+      "stem": "kordon"
+    },
+    {
+      "name": "Pasaport",
+      "path": "/bolgeler/konak/pasaport/",
+      "kind": "noktalar",
+      "district": "Konak",
+      "candidates": [
+        "Konak"
+      ],
+      "roads": [],
+      "source_note": "Pasaport İskelesi, Cumhuriyet Bulvarı ve Konak sahil bandında 7/24 çekici desteği.",
+      "source_paths": [
+        "/pasaport-cekici"
+      ],
+      "stem": "pasaport"
+    },
+    {
+      "name": "Çiftlikköy",
+      "path": "/bolgeler/cesme/ciftlikkoy/",
+      "kind": "noktalar",
+      "district": "Çeşme",
+      "candidates": [
+        "Çeşme"
+      ],
+      "roads": [],
+      "source_note": "Çeşme Çiftlikköy plajları, marinalar ve virajlı yollarda kayar kasa kurtarma hizmeti.",
+      "source_paths": [
+        "/ciftlikkoy-cekici"
+      ],
+      "stem": "ciftlikkoy"
+    }
+  ],
+  "reference_url_mapping": {
+    "/izmir-cekici": "/",
+    "/izmir-cevre-yolu-cekici": "/guzergahlar/izmir-cevre-yolu/",
+    "/izmir-aydin-otoyolu-cekici": "/guzergahlar/izmir-aydin-otoyolu/",
+    "/aydin-otoban-cekici": "/guzergahlar/izmir-aydin-otoyolu/",
+    "/izmir-cesme-otoyolu-cekici": "/guzergahlar/izmir-cesme-otoyolu/",
+    "/cesme-otoyolu-cekici": "/guzergahlar/izmir-cesme-otoyolu/",
+    "/sabuncubeli-tuneli-cekici": "/guzergahlar/sabuncubeli-tuneli/",
+    "/sabuncubeli-cekici": "/guzergahlar/sabuncubeli-tuneli/",
+    "/belkahve-rampasi-cekici": "/guzergahlar/belkahve-rampasi/",
+    "/belkahve-cekici": "/guzergahlar/belkahve-rampasi/",
+    "/bayrakli-tunelleri-cekici": "/guzergahlar/bayrakli-tunelleri/",
+    "/konak-tuneli-cekici": "/guzergahlar/konak-tuneli/",
+    "/kuzey-cevre-yolu-cekici": "/guzergahlar/kuzey-cevre-yolu/",
+    "/guney-cevre-yolu-cekici": "/guzergahlar/guney-cevre-yolu/",
+    "/bornova-cevre-yolu-cekici": "/guzergahlar/bornova-cevre-yolu/",
+    "/karsiyaka-cevre-yolu-cekici": "/guzergahlar/karsiyaka-cevre-yolu/",
+    "/altinyol-sahil-yolu-cekici": "/guzergahlar/altinyol-sahil-yolu/",
+    "/istanbul-otoyolu-cekici": "/guzergahlar/istanbul-otoyolu/",
+    "/istanbul-yolu-cekici": "/guzergahlar/istanbul-otoyolu/",
+    "/ankara-yolu-cekici": "/guzergahlar/ankara-yolu/",
+    "/ankara-otoyolu-cekici": "/guzergahlar/ankara-yolu/",
+    "/bursa-yolu-cekici": "/guzergahlar/bursa-yolu/",
+    "/bursa-otoyolu-cekici": "/guzergahlar/bursa-yolu/",
+    "/torbali-otoyolu-cekici": "/guzergahlar/torbali-otoyolu/",
+    "/liman-yolu-cekici": "/guzergahlar/liman-yolu/",
+    "/1-sanayi-cekici": "/sanayi/1-sanayi-sitesi/",
+    "/2-sanayi-cekici": "/sanayi/2-sanayi-sitesi/",
+    "/3-sanayi-cekici": "/sanayi/3-sanayi-sitesi/",
+    "/4-sanayi-cekici": "/sanayi/4-sanayi-sitesi/",
+    "/5-sanayi-cekici": "/sanayi/5-sanayi-sitesi/",
+    "/6-sanayi-cekici": "/sanayi/6-sanayi-sitesi/",
+    "/7-sanayi-cekici": "/sanayi/7-sanayi-sitesi/",
+    "/kisikkoy-sanayi-sitesi-cekici": "/sanayi/kisikkoy-sanayi-sitesi/",
+    "/kisikkoy-cekici": "/sanayi/kisikkoy-sanayi-sitesi/",
+    "/alacati-cekici": "/bolgeler/cesme/alacati/",
+    "/ilica-cekici": "/bolgeler/cesme/ilica/",
+    "/boyalik-cekici": "/bolgeler/cesme/boyalik/",
+    "/altinkum-cekici": "/bolgeler/cesme/altinkum/",
+    "/dalyan-cekici": "/bolgeler/cesme/dalyan/",
+    "/ildir-cekici": "/bolgeler/cesme/ildir/",
+    "/sifne-cekici": "/bolgeler/cesme/sifne/",
+    "/16-eylul-cekici": "/bolgeler/cesme/16-eylul/",
+    "/ovacik-cekici": "/bolgeler/cesme/ovacik/",
+    "/yelki-cekici": "/bolgeler/guzelbahce/yelki/",
+    "/kahramandere-cekici": "/bolgeler/guzelbahce/kahramandere/",
+    "/camli-cekici": "/bolgeler/guzelbahce/camli/",
+    "/torbali-cekici": "/bolgeler/torbali/",
+    "/torbali-ayrancilar-cekici": "/bolgeler/torbali/ayrancilar/",
+    "/ayrancilar-cekici": "/bolgeler/torbali/ayrancilar/",
+    "/torbali-pancar-cekici": "/bolgeler/torbali/pancar/",
+    "/torbali-yazibasi-cekici": "/bolgeler/torbali/yazibasi/",
+    "/torbali-caybasi-cekici": "/bolgeler/torbali/caybasi/",
+    "/torbali-subasi-cekici": "/bolgeler/torbali/subasi/",
+    "/torbali-capak-cekici": "/bolgeler/torbali/capak/",
+    "/torbali-karakizlar-cekici": "/bolgeler/torbali/karakizlar/",
+    "/torbali-ahmetli-cekici": "/bolgeler/torbali/ahmetli/",
+    "/torbali-kuscuburun-cekici": "/bolgeler/torbali/kuscuburun/",
+    "/menemen-cekici": "/bolgeler/menemen/",
+    "/bergama-cekici": "/bolgeler/bergama/",
+    "/odemis-cekici": "/bolgeler/odemis/",
+    "/tire-cekici": "/bolgeler/tire/",
+    "/bayindir-cekici": "/bolgeler/bayindir/",
+    "/selcuk-cekici": "/bolgeler/selcuk/",
+    "/kinik-cekici": "/bolgeler/kinik/",
+    "/kiraz-cekici": "/bolgeler/kiraz/",
+    "/nazilli-cekici": "/bolgeler/noktalar/nazilli/",
+    "/buca-golet-cekici": "/bolgeler/buca/golet/",
+    "/belenbasi-cekici": "/bolgeler/buca/belenbasi/",
+    "/pinarbasi-cekici": "/bolgeler/bornova/pinarbasi/",
+    "/aliaga-cekici": "/bolgeler/aliaga/",
+    "/balcova-cekici": "/bolgeler/balcova/",
+    "/bayrakli-cekici": "/bolgeler/bayrakli/",
+    "/beydag-cekici": "/bolgeler/beydag/",
+    "/bornova-cekici": "/bolgeler/bornova/",
+    "/buca-cekici": "/bolgeler/buca/",
+    "/cesme-cekici": "/bolgeler/cesme/",
+    "/cigli-cekici": "/bolgeler/cigli/",
+    "/dikili-cekici": "/bolgeler/dikili/",
+    "/foca-cekici": "/bolgeler/foca/",
+    "/gaziemir-cekici": "/bolgeler/gaziemir/",
+    "/guzelbahce-cekici": "/bolgeler/guzelbahce/",
+    "/karabaglar-cekici": "/bolgeler/karabaglar/",
+    "/karaburun-cekici": "/bolgeler/karaburun/",
+    "/karsiyaka-cekici": "/bolgeler/karsiyaka/",
+    "/kemalpasa-cekici": "/bolgeler/kemalpasa/",
+    "/konak-cekici": "/bolgeler/konak/",
+    "/menderes-cekici": "/bolgeler/menderes/",
+    "/narlidere-cekici": "/bolgeler/narlidere/",
+    "/seferihisar-cekici": "/bolgeler/seferihisar/",
+    "/urla-cekici": "/bolgeler/urla/",
+    "/alsancak-cekici": "/bolgeler/konak/alsancak/",
+    "/bostanli-cekici": "/bolgeler/karsiyaka/bostanli/",
+    "/mavisehir-cekici": "/bolgeler/karsiyaka/mavisehir/",
+    "/sirinyer-cekici": "/bolgeler/buca/sirinyer/",
+    "/sarnic-cekici": "/bolgeler/gaziemir/sarnic/",
+    "/isikkoy-cekici": "/bolgeler/bornova/isikkent/",
+    "/isikkent-cekici": "/bolgeler/bornova/isikkent/",
+    "/goztepe-cekici": "/bolgeler/konak/goztepe/",
+    "/hatay-cekici": "/bolgeler/konak/hatay/",
+    "/camdibi-cekici": "/bolgeler/bornova/camdibi/",
+    "/ozkanlar-cekici": "/bolgeler/bornova/ozkanlar/",
+    "/ucyol-cekici": "/bolgeler/karabaglar/ucyol/",
+    "/yesilyurt-cekici": "/bolgeler/kemalpasa/yesilyurt/",
+    "/cesmealti-cekici": "/bolgeler/urla/cesmealti/",
+    "/adatepe-cekici": "/bolgeler/buca/adatepe/",
+    "/ahmetbeyli-cekici": "/bolgeler/menderes/ahmetbeyli/",
+    "/akcakoy-cekici": "/bolgeler/menderes/akcakoy/",
+    "/akincilar-cekici": "/bolgeler/noktalar/akincilar/",
+    "/aktepe-cekici": "/bolgeler/noktalar/aktepe/",
+    "/altindag-cekici": "/bolgeler/bornova/altindag/",
+    "/altinevler-cekici": "/bolgeler/noktalar/altinevler/",
+    "/altintas-cekici": "/bolgeler/noktalar/altintas/",
+    "/atakoy-cekici": "/bolgeler/menderes/atakoy/",
+    "/aydin-mahallesi-cekici": "/bolgeler/karabaglar/aydin-mahallesi/",
+    "/bahcelerarasi-cekici": "/bolgeler/balcova/bahcelerarasi/",
+    "/bahcelievler-cekici": "/bolgeler/noktalar/bahcelievler/",
+    "/balikli-ova-cekici": "/bolgeler/urla/balikli-ova/",
+    "/barbaros-mahallesi-cekici": "/bolgeler/noktalar/barbaros-mahallesi/",
+    "/basin-sitesi-cekici": "/bolgeler/karabaglar/basin-sitesi/",
+    "/basmane-cekici": "/bolgeler/konak/basmane/",
+    "/belevi-cekici": "/bolgeler/selcuk/belevi/",
+    "/beton-yol-cekici": "/bolgeler/noktalar/beton-yol/",
+    "/beyazevler-cekici": "/bolgeler/gaziemir/beyazevler/",
+    "/bozyaka-cekici": "/bolgeler/karabaglar/bozyaka/",
+    "/bulgurca-cekici": "/bolgeler/menderes/bulgurca/",
+    "/cennet-cesme-cekici": "/bolgeler/karabaglar/cennet-cesme/",
+    "/cennetoglu-cekici": "/bolgeler/karabaglar/cennetoglu/",
+    "/cam-tepe-cekici": "/bolgeler/noktalar/cam-tepe/",
+    "/camkoy-cekici": "/bolgeler/bergama/camkoy/",
+    "/camlikule-cekici": "/bolgeler/buca/camlikule/",
+    "/camonu-cekici": "/bolgeler/menderes/camonu/",
+    "/cankaya-cekici": "/bolgeler/konak/cankaya/",
+    "/catalca-cekici": "/bolgeler/menderes/catalca/",
+    "/catalkaya-cekici": "/bolgeler/noktalar/catalkaya/",
+    "/cataltepe-cekici": "/bolgeler/noktalar/cataltepe/",
+    "/cinarli-cekici": "/bolgeler/konak/cinarli/",
+    "/ciceklikoy-cekici": "/bolgeler/noktalar/ciceklikoy/",
+    "/cile-cekici": "/bolgeler/menderes/cile/",
+    "/cileme-cekici": "/bolgeler/menderes/cileme/",
+    "/degirmendere-cekici": "/bolgeler/menemen/degirmendere/",
+    "/develi-cekici": "/bolgeler/menderes/develi/",
+    "/doganlar-cekici": "/bolgeler/bornova/doganlar/",
+    "/egemenlik-cekici": "/bolgeler/bornova/egemenlik/",
+    "/erzene-mahallesi-cekici": "/bolgeler/bornova/erzene-mahallesi/",
+    "/esendere-cekici": "/bolgeler/noktalar/esendere/",
+    "/esenkent-cekici": "/bolgeler/noktalar/esenkent/",
+    "/esentepe-cekici": "/bolgeler/noktalar/esentepe/",
+    "/evka1-cekici": "/bolgeler/buca/evka-1/",
+    "/evka2-cekici": "/bolgeler/cigli/evka-2/",
+    "/evka3-cekici": "/bolgeler/bornova/evka-3/",
+    "/evka4-cekici": "/bolgeler/bornova/evka-4/",
+    "/evka5-cekici": "/bolgeler/cigli/evka-5/",
+    "/evka6-cekici": "/bolgeler/cigli/evka-6/",
+    "/evka7-cekici": "/bolgeler/cigli/evka-7/",
+    "/fahrettin-altay-cekici": "/bolgeler/karabaglar/fahrettin-altay/",
+    "/gediz-cekici": "/bolgeler/noktalar/gediz/",
+    "/gokdere-cekici": "/bolgeler/bornova/gokdere/",
+    "/goksu-cekici": "/bolgeler/buca/goksu/",
+    "/gorece-cekici": "/bolgeler/menemen/gorece/",
+    "/gulbahce-cekici": "/bolgeler/urla/gulbahce/",
+    "/gulyaka-cekici": "/bolgeler/karabaglar/gulyaka/",
+    "/gumuldur-cekici": "/bolgeler/menderes/gumuldur/",
+    "/gunaltay-cekici": "/bolgeler/karabaglar/gunaltay/",
+    "/guzelyali-cekici": "/bolgeler/konak/guzelyali/",
+    "/havalimani-cekici": "/bolgeler/gaziemir/havalimani/",
+    "/irmak-mahallesi-cekici": "/bolgeler/noktalar/irmak-mahallesi/",
+    "/icmeler-cekici": "/bolgeler/urla/icmeler/",
+    "/inciralti-cekici": "/bolgeler/balcova/inciralti/",
+    "/inonu-cekici": "/bolgeler/noktalar/inonu/",
+    "/karatas-cekici": "/bolgeler/noktalar/karatas/",
+    "/kavaklidere-cekici": "/bolgeler/bornova/kavaklidere/",
+    "/kaynaklar-cekici": "/bolgeler/buca/kaynaklar/",
+    "/kazimdirik-cekici": "/bolgeler/noktalar/kazimdirik/",
+    "/kisik-cekici": "/bolgeler/menderes/kisik/",
+    "/kozagac-cekici": "/bolgeler/buca/kozagac/",
+    "/kurucesme-cekici": "/bolgeler/buca/kurucesme/",
+    "/kucuk-park-cekici": "/bolgeler/noktalar/kucuk-park/",
+    "/kucukyali-cekici": "/bolgeler/noktalar/kucukyali/",
+    "/kuner-cekici": "/bolgeler/menderes/kuner/",
+    "/laka-mahallesi-cekici": "/bolgeler/bornova/laka-mahallesi/",
+    "/liman-reis-cekici": "/bolgeler/guzelbahce/liman-reis/",
+    "/limanreis-cekici": "/bolgeler/guzelbahce/liman-reis/",
+    "/limontepe-cekici": "/bolgeler/karabaglar/limontepe/",
+    "/maltepe-cekici": "/bolgeler/noktalar/maltepe/",
+    "/manavkuyu-cekici": "/bolgeler/bayrakli/manavkuyu/",
+    "/menderes-mahallesi-cekici": "/bolgeler/noktalar/menderes-mahallesi/",
+    "/mevlana-mahallesi-cekici": "/bolgeler/bornova/mevlana-mahallesi/",
+    "/naldoken-cekici": "/bolgeler/bornova/naldoken/",
+    "/narbel-cekici": "/bolgeler/noktalar/narbel/",
+    "/narli-cekici": "/bolgeler/narlidere/narli/",
+    "/oglananasi-cekici": "/bolgeler/menderes/oglananasi/",
+    "/onur-mahallesi-cekici": "/bolgeler/noktalar/onur-mahallesi/",
+    "/ozbek-cekici": "/bolgeler/urla/ozbek/",
+    "/ozdere-cekici": "/bolgeler/menderes/ozdere/",
+    "/payamli-cekici": "/bolgeler/noktalar/payamli/",
+    "/peker-mahallesi-cekici": "/bolgeler/noktalar/peker-mahallesi/",
+    "/poligon-cekici": "/bolgeler/karabaglar/poligon/",
+    "/selway-cekici": "/bolgeler/noktalar/selway/",
+    "/sigacik-cekici": "/bolgeler/seferihisar/sigacik/",
+    "/siteler-cekici": "/bolgeler/noktalar/siteler/",
+    "/sasal-cekici": "/bolgeler/menderes/sasal/",
+    "/semikler-cekici": "/bolgeler/karsiyaka/semikler/",
+    "/tekeli-turkmen-cekici": "/bolgeler/noktalar/tekeli-turkmen/",
+    "/teleferik-cekici": "/bolgeler/balcova/teleferik/",
+    "/tuna-cekici": "/bolgeler/bornova/tuna/",
+    "/ulamis-cekici": "/bolgeler/seferihisar/ulamis/",
+    "/ulucak-cekici": "/bolgeler/kemalpasa/ulucak/",
+    "/urla-iskele-cekici": "/bolgeler/urla/iskele/",
+    "/uzundere-cekici": "/bolgeler/noktalar/uzundere/",
+    "/urkmez-cekici": "/bolgeler/seferihisar/urkmez/",
+    "/yaka-koyu-cekici": "/bolgeler/noktalar/yaka-mahallesi/",
+    "/yaka-mahallesi-cekici": "/bolgeler/noktalar/yaka-mahallesi/",
+    "/yaka-cekici": "/bolgeler/noktalar/yaka-mahallesi/",
+    "/yali-cekici": "/bolgeler/noktalar/yali-mahallesi/",
+    "/yali-mahallesi-cekici": "/bolgeler/noktalar/yali-mahallesi/",
+    "/yenikale-cekici": "/bolgeler/narlidere/yenikale/",
+    "/yenikoy-cekici": "/bolgeler/noktalar/yenikoy/",
+    "/yesilova-cekici": "/bolgeler/noktalar/yesilova/",
+    "/yildiz-mahallesi-cekici": "/bolgeler/noktalar/yildiz-mahallesi/",
+    "/zeytinler-cekici": "/bolgeler/urla/zeytinler/",
+    "/uckuyular-cekici": "/bolgeler/karabaglar/uckuyular/",
+    "/eskiizmir-cekici": "/bolgeler/noktalar/eskiizmir/",
+    "/sahilevleri-cekici": "/bolgeler/narlidere/sahilevleri/",
+    "/sirince-cekici": "/bolgeler/selcuk/sirince/",
+    "/manisa-yolu-cekici": "/guzergahlar/manisa-yolu/",
+    "/karakoy-cekici": "/bolgeler/noktalar/karakoy/",
+    "/ataturk-mahallesi-cekici": "/bolgeler/noktalar/ataturk-mahallesi/",
+    "/celebi-mahallesi-cekici": "/bolgeler/guzelbahce/celebi-mahallesi/",
+    "/kucukkaya-cekici": "/bolgeler/noktalar/kucukkaya/",
+    "/eserkent-cekici": "/bolgeler/noktalar/eserkent/",
+    "/zeytinkoy-cekici": "/bolgeler/selcuk/zeytinkoy/",
+    "/acarlar-cekici": "/bolgeler/selcuk/acarlar/",
+    "/barutcu-cekici": "/bolgeler/selcuk/barutcu/",
+    "/torbali-19-mayis-cekici": "/bolgeler/torbali/19-mayis/",
+    "/torbali-arslanlar-cekici": "/bolgeler/torbali/arslanlar/",
+    "/torbali-atalan-cekici": "/bolgeler/torbali/atalan/",
+    "/torbali-ataturk-cekici": "/bolgeler/torbali/ataturk/",
+    "/torbali-bahcelievler-cekici": "/bolgeler/torbali/bahcelievler/",
+    "/torbali-bozkoy-cekici": "/bolgeler/torbali/bozkoy/",
+    "/torbali-bulbuldere-cekici": "/bolgeler/torbali/bulbuldere/",
+    "/torbali-cumhuriyet-cekici": "/bolgeler/torbali/cumhuriyet/",
+    "/torbali-cakirbeyli-cekici": "/bolgeler/torbali/cakirbeyli/",
+    "/torbali-camlica-cekici": "/bolgeler/torbali/camlica/",
+    "/torbali-dagkizilca-cekici": "/bolgeler/torbali/dagkizilca/",
+    "/torbali-demirci-cekici": "/bolgeler/torbali/demirci/",
+    "/torbali-ertugrul-cekici": "/bolgeler/torbali/ertugrul/",
+    "/torbali-fevzi-cakmak-cekici": "/bolgeler/torbali/fevzi-cakmak/",
+    "/torbali-golluce-cekici": "/bolgeler/torbali/golluce/",
+    "/torbali-helvaci-cekici": "/bolgeler/torbali/helvaci/",
+    "/torbali-istiklal-cekici": "/bolgeler/torbali/istiklal/",
+    "/torbali-kaplancik-cekici": "/bolgeler/torbali/kaplancik/",
+    "/torbali-karakuyu-cekici": "/bolgeler/torbali/karakuyu/",
+    "/torbali-karsiyaka-cekici": "/bolgeler/torbali/karsiyaka/",
+    "/torbali-pamukyazi-cekici": "/bolgeler/torbali/pamukyazi/",
+    "/torbali-saglik-cekici": "/bolgeler/torbali/saglik/",
+    "/torbali-tulum-cekici": "/bolgeler/torbali/tulum/",
+    "/torbali-yogurtcular-cekici": "/bolgeler/torbali/yogurtcular/",
+    "/izmir-otoyolu-cekici": "/guzergahlar/izmir-otoyolu/",
+    "/otogar-otoyolu-cekici": "/guzergahlar/otogar-otoyolu/",
+    "/belkahve-tunelleri-cekici": "/guzergahlar/belkahve-tunelleri/",
+    "/kordon-cekici": "/bolgeler/konak/kordon/",
+    "/pasaport-cekici": "/bolgeler/konak/pasaport/",
+    "/ciftlikkoy-cekici": "/bolgeler/cesme/ciftlikkoy/"
+  }
+}

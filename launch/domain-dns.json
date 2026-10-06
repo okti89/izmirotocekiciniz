@@ -1,0 +1,29 @@
+{
+  "id": "appgdom_6ac56f0bb1f48191997f06f55a331182",
+  "project_id": "appgprj_6ac56baf7a8881918d11349fb66b2658",
+  "hostname": "izmirotocekiciniz.com",
+  "worker_name": "site---6ac56baf7a8881918d11349fb66b2658",
+  "status": "pending",
+  "provider_status": "pending",
+  "ssl_status": "initializing",
+  "cname_target": "custom-domains.chatgpt.site.",
+  "apex_proxy_ipv4_targets": [
+    "162.159.143.30",
+    "172.66.3.26"
+  ],
+  "validation_records": [
+    {
+      "record_type": "TXT",
+      "name": "_openai-site-verification.izmirotocekiciniz.com",
+      "value": "openai-site-verification=9efvN8R1J6AU5JVuSauEep07zwcxSR-mX9rq0a6C3e8"
+    },
+    {
+      "record_type": "TXT",
+      "name": "_cf-custom-hostname.izmirotocekiciniz.com",
+      "value": "7b8f20fc-7e43-41e9-8adf-cd6207cbc369"
+    }
+  ],
+  "last_error": null,
+  "created_at": "2026-10-06T21:58:35.695423+00:00",
+  "updated_at": "2026-10-06T21:58:38.107371+00:00"
+}

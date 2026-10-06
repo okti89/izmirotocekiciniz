@@ -1,1846 +1,2109 @@
 {
-  "note": "Referanstaki tüm hedefler korunmuştur. İlk aşamada bağımsız bölge sayfası hazır olanlar Gaziemir ve Menderes; kalanları özgün içerik ve kapsam doğrulaması sonrası açın. Aynı yerin eşanlamlı URL yolları birleştirilecek.",
+  "note": "Tüm referans bölgeleri oluşturuldu. Eşdeğer adlar tek içerik adresinde; indeksleme publication-plan.json ve index-regions.json ile aşamalı yönetilir.",
   "regions": [
     {
       "reference_path": "/izmir-cevre-yolu-cekici",
       "reference_label": "İzmir Çevre Yolu Çekici7/24 Devriye",
       "in_reference_sitemap": true,
       "new_site_status": "needs_business_and_content_verification",
-      "status": "content-needed"
+      "status": "rendered",
+      "canonical_path": "/guzergahlar/izmir-cevre-yolu/"
     },
     {
       "reference_path": "/izmir-aydin-otoyolu-cekici",
       "reference_label": "İzmir - Aydın Otoyolu Çekici",
       "in_reference_sitemap": true,
       "new_site_status": "needs_business_and_content_verification",
-      "status": "content-needed"
+      "status": "rendered",
+      "canonical_path": "/guzergahlar/izmir-aydin-otoyolu/"
     },
     {
       "reference_path": "/izmir-cesme-otoyolu-cekici",
       "reference_label": "İzmir - Çeşme Otoyolu Çekici",
       "in_reference_sitemap": true,
       "new_site_status": "needs_business_and_content_verification",
-      "status": "content-needed"
+      "status": "rendered",
+      "canonical_path": "/guzergahlar/izmir-cesme-otoyolu/"
     },
     {
       "reference_path": "/sabuncubeli-tuneli-cekici",
       "reference_label": "Sabuncubeli Tüneli & Yolu ÇekiciKritik Geçiş",
       "in_reference_sitemap": true,
       "new_site_status": "needs_business_and_content_verification",
-      "status": "content-needed"
+      "status": "rendered",
+      "canonical_path": "/guzergahlar/sabuncubeli-tuneli/"
     },
     {
       "reference_path": "/belkahve-rampasi-cekici",
       "reference_label": "Belkahve Rampası & Tünelleri ÇekiciAcil Hat",
       "in_reference_sitemap": false,
       "new_site_status": "needs_business_and_content_verification",
-      "status": "content-needed"
+      "status": "rendered",
+      "canonical_path": "/guzergahlar/belkahve-rampasi/"
     },
     {
       "reference_path": "/bayrakli-tunelleri-cekici",
       "reference_label": "Bayraklı Tünelleri Çekici",
       "in_reference_sitemap": true,
       "new_site_status": "needs_business_and_content_verification",
-      "status": "content-needed"
+      "status": "rendered",
+      "canonical_path": "/guzergahlar/bayrakli-tunelleri/"
     },
     {
       "reference_path": "/konak-tuneli-cekici",
       "reference_label": "Konak Tüneli Çekici",
       "in_reference_sitemap": true,
       "new_site_status": "needs_business_and_content_verification",
-      "status": "content-needed"
+      "status": "rendered",
+      "canonical_path": "/guzergahlar/konak-tuneli/"
     },
     {
       "reference_path": "/kuzey-cevre-yolu-cekici",
       "reference_label": "Kuzey Çevre Yolu Çekici",
       "in_reference_sitemap": false,
       "new_site_status": "needs_business_and_content_verification",
-      "status": "content-needed"
+      "status": "rendered",
+      "canonical_path": "/guzergahlar/kuzey-cevre-yolu/"
     },
     {
       "reference_path": "/guney-cevre-yolu-cekici",
       "reference_label": "Güney Çevre Yolu Çekici",
       "in_reference_sitemap": false,
       "new_site_status": "needs_business_and_content_verification",
-      "status": "content-needed"
+      "status": "rendered",
+      "canonical_path": "/guzergahlar/guney-cevre-yolu/"
     },
     {
       "reference_path": "/bornova-cevre-yolu-cekici",
       "reference_label": "Bornova Çevre Yolu Çekici",
       "in_reference_sitemap": false,
       "new_site_status": "needs_business_and_content_verification",
-      "status": "content-needed"
+      "status": "rendered",
+      "canonical_path": "/guzergahlar/bornova-cevre-yolu/"
     },
     {
       "reference_path": "/karsiyaka-cevre-yolu-cekici",
       "reference_label": "Karşıyaka Çevre Yolu Çekici",
       "in_reference_sitemap": false,
       "new_site_status": "needs_business_and_content_verification",
-      "status": "content-needed"
+      "status": "rendered",
+      "canonical_path": "/guzergahlar/karsiyaka-cevre-yolu/"
     },
     {
       "reference_path": "/altinyol-sahil-yolu-cekici",
       "reference_label": "Altınyol Sahil Yolu Çekici",
       "in_reference_sitemap": false,
       "new_site_status": "needs_business_and_content_verification",
-      "status": "content-needed"
+      "status": "rendered",
+      "canonical_path": "/guzergahlar/altinyol-sahil-yolu/"
     },
     {
       "reference_path": "/istanbul-otoyolu-cekici",
       "reference_label": "İstanbul - İzmir Otoyolu Çekici",
       "in_reference_sitemap": true,
       "new_site_status": "needs_business_and_content_verification",
-      "status": "content-needed"
+      "status": "rendered",
+      "canonical_path": "/guzergahlar/istanbul-otoyolu/"
     },
     {
       "reference_path": "/ankara-yolu-cekici",
       "reference_label": "Ankara Yolu & Otoyolu Çekici",
       "in_reference_sitemap": false,
       "new_site_status": "needs_business_and_content_verification",
-      "status": "content-needed"
+      "status": "rendered",
+      "canonical_path": "/guzergahlar/ankara-yolu/"
     },
     {
       "reference_path": "/bursa-yolu-cekici",
       "reference_label": "Bursa Yolu & Otoyolu Çekici",
       "in_reference_sitemap": false,
       "new_site_status": "needs_business_and_content_verification",
-      "status": "content-needed"
+      "status": "rendered",
+      "canonical_path": "/guzergahlar/bursa-yolu/"
     },
     {
       "reference_path": "/torbali-otoyolu-cekici",
       "reference_label": "Torbalı Otoyolu Çekici",
       "in_reference_sitemap": false,
       "new_site_status": "needs_business_and_content_verification",
-      "status": "content-needed"
+      "status": "rendered",
+      "canonical_path": "/guzergahlar/torbali-otoyolu/"
     },
     {
       "reference_path": "/liman-yolu-cekici",
       "reference_label": "Liman & Otogar Otoyolu Çekici",
       "in_reference_sitemap": false,
       "new_site_status": "needs_business_and_content_verification",
-      "status": "content-needed"
+      "status": "rendered",
+      "canonical_path": "/guzergahlar/liman-yolu/"
     },
     {
       "reference_path": "/1-sanayi-cekici",
       "reference_label": "1. Sanayi Sitesi Çekici",
       "in_reference_sitemap": false,
       "new_site_status": "needs_business_and_content_verification",
-      "status": "content-needed"
+      "status": "rendered",
+      "canonical_path": "/sanayi/1-sanayi-sitesi/"
     },
     {
       "reference_path": "/2-sanayi-cekici",
       "reference_label": "2. Sanayi Sitesi Çekici",
       "in_reference_sitemap": false,
       "new_site_status": "needs_business_and_content_verification",
-      "status": "content-needed"
+      "status": "rendered",
+      "canonical_path": "/sanayi/2-sanayi-sitesi/"
     },
     {
       "reference_path": "/3-sanayi-cekici",
       "reference_label": "3. Sanayi Sitesi Çekici",
       "in_reference_sitemap": false,
       "new_site_status": "needs_business_and_content_verification",
-      "status": "content-needed"
+      "status": "rendered",
+      "canonical_path": "/sanayi/3-sanayi-sitesi/"
     },
     {
       "reference_path": "/4-sanayi-cekici",
       "reference_label": "4. Sanayi Sitesi Çekici",
       "in_reference_sitemap": false,
       "new_site_status": "needs_business_and_content_verification",
-      "status": "content-needed"
+      "status": "rendered",
+      "canonical_path": "/sanayi/4-sanayi-sitesi/"
     },
     {
       "reference_path": "/5-sanayi-cekici",
       "reference_label": "5. Sanayi Sitesi Çekici",
       "in_reference_sitemap": false,
       "new_site_status": "needs_business_and_content_verification",
-      "status": "content-needed"
+      "status": "rendered",
+      "canonical_path": "/sanayi/5-sanayi-sitesi/"
     },
     {
       "reference_path": "/6-sanayi-cekici",
       "reference_label": "6. Sanayi Sitesi Çekici",
       "in_reference_sitemap": false,
       "new_site_status": "needs_business_and_content_verification",
-      "status": "content-needed"
+      "status": "rendered",
+      "canonical_path": "/sanayi/6-sanayi-sitesi/"
     },
     {
       "reference_path": "/7-sanayi-cekici",
       "reference_label": "7. Sanayi Sitesi Çekici",
       "in_reference_sitemap": false,
       "new_site_status": "needs_business_and_content_verification",
-      "status": "content-needed"
+      "status": "rendered",
+      "canonical_path": "/sanayi/7-sanayi-sitesi/"
     },
     {
       "reference_path": "/kisikkoy-sanayi-sitesi-cekici",
       "reference_label": "Kısıkköy Sanayi Sitesi Çekici",
       "in_reference_sitemap": false,
       "new_site_status": "needs_business_and_content_verification",
-      "status": "content-needed"
+      "status": "rendered",
+      "canonical_path": "/sanayi/kisikkoy-sanayi-sitesi/"
     },
     {
       "reference_path": "/alacati-cekici",
       "reference_label": "Alaçatı Çekici",
       "in_reference_sitemap": true,
       "new_site_status": "needs_business_and_content_verification",
-      "status": "content-needed"
+      "status": "rendered",
+      "canonical_path": "/bolgeler/cesme/alacati/"
     },
     {
       "reference_path": "/ilica-cekici",
       "reference_label": "Ilıca Çekici",
       "in_reference_sitemap": true,
       "new_site_status": "needs_business_and_content_verification",
-      "status": "content-needed"
+      "status": "rendered",
+      "canonical_path": "/bolgeler/cesme/ilica/"
     },
     {
       "reference_path": "/boyalik-cekici",
       "reference_label": "Boyalık Çekici",
       "in_reference_sitemap": true,
       "new_site_status": "needs_business_and_content_verification",
-      "status": "content-needed"
+      "status": "rendered",
+      "canonical_path": "/bolgeler/cesme/boyalik/"
     },
     {
       "reference_path": "/altinkum-cekici",
       "reference_label": "Altınkum Çekici",
       "in_reference_sitemap": true,
       "new_site_status": "needs_business_and_content_verification",
-      "status": "content-needed"
+      "status": "rendered",
+      "canonical_path": "/bolgeler/cesme/altinkum/"
     },
     {
       "reference_path": "/dalyan-cekici",
       "reference_label": "Dalyan Çekici",
       "in_reference_sitemap": true,
       "new_site_status": "needs_business_and_content_verification",
-      "status": "content-needed"
+      "status": "rendered",
+      "canonical_path": "/bolgeler/cesme/dalyan/"
     },
     {
       "reference_path": "/ildir-cekici",
       "reference_label": "Ildır Çekici",
       "in_reference_sitemap": true,
       "new_site_status": "needs_business_and_content_verification",
-      "status": "content-needed"
+      "status": "rendered",
+      "canonical_path": "/bolgeler/cesme/ildir/"
     },
     {
       "reference_path": "/sifne-cekici",
       "reference_label": "Şifne Çekici",
       "in_reference_sitemap": true,
       "new_site_status": "needs_business_and_content_verification",
-      "status": "content-needed"
+      "status": "rendered",
+      "canonical_path": "/bolgeler/cesme/sifne/"
     },
     {
       "reference_path": "/16-eylul-cekici",
       "reference_label": "16 Eylül Çekici",
       "in_reference_sitemap": true,
       "new_site_status": "needs_business_and_content_verification",
-      "status": "content-needed"
+      "status": "rendered",
+      "canonical_path": "/bolgeler/cesme/16-eylul/"
     },
     {
       "reference_path": "/ovacik-cekici",
       "reference_label": "Ovacık Çekici",
       "in_reference_sitemap": true,
       "new_site_status": "needs_business_and_content_verification",
-      "status": "content-needed"
+      "status": "rendered",
+      "canonical_path": "/bolgeler/cesme/ovacik/"
     },
     {
       "reference_path": "/yelki-cekici",
       "reference_label": "Yelki Çekici",
       "in_reference_sitemap": true,
       "new_site_status": "needs_business_and_content_verification",
-      "status": "content-needed"
+      "status": "rendered",
+      "canonical_path": "/bolgeler/guzelbahce/yelki/"
     },
     {
       "reference_path": "/kahramandere-cekici",
       "reference_label": "Kahramandere Çekici",
       "in_reference_sitemap": true,
       "new_site_status": "needs_business_and_content_verification",
-      "status": "content-needed"
+      "status": "rendered",
+      "canonical_path": "/bolgeler/guzelbahce/kahramandere/"
     },
     {
       "reference_path": "/camli-cekici",
       "reference_label": "Çamlı Çekici",
       "in_reference_sitemap": true,
       "new_site_status": "needs_business_and_content_verification",
-      "status": "content-needed"
+      "status": "rendered",
+      "canonical_path": "/bolgeler/guzelbahce/camli/"
     },
     {
       "reference_path": "/torbali-cekici",
       "reference_label": "Torbalı Merkez Çekici",
       "in_reference_sitemap": true,
       "new_site_status": "needs_business_and_content_verification",
-      "status": "content-needed"
+      "status": "rendered",
+      "canonical_path": "/bolgeler/torbali/"
     },
     {
       "reference_path": "/torbali-ayrancilar-cekici",
       "reference_label": "Ayrancılar Çekici",
       "in_reference_sitemap": true,
       "new_site_status": "needs_business_and_content_verification",
-      "status": "content-needed"
+      "status": "rendered",
+      "canonical_path": "/bolgeler/torbali/ayrancilar/"
     },
     {
       "reference_path": "/torbali-pancar-cekici",
       "reference_label": "Pancar Çekici",
       "in_reference_sitemap": true,
       "new_site_status": "needs_business_and_content_verification",
-      "status": "content-needed"
+      "status": "rendered",
+      "canonical_path": "/bolgeler/torbali/pancar/"
     },
     {
       "reference_path": "/torbali-yazibasi-cekici",
       "reference_label": "Yazıbaşı Çekici",
       "in_reference_sitemap": true,
       "new_site_status": "needs_business_and_content_verification",
-      "status": "content-needed"
+      "status": "rendered",
+      "canonical_path": "/bolgeler/torbali/yazibasi/"
     },
     {
       "reference_path": "/torbali-caybasi-cekici",
       "reference_label": "Çaybaşı Çekici",
       "in_reference_sitemap": true,
       "new_site_status": "needs_business_and_content_verification",
-      "status": "content-needed"
+      "status": "rendered",
+      "canonical_path": "/bolgeler/torbali/caybasi/"
     },
     {
       "reference_path": "/torbali-subasi-cekici",
       "reference_label": "Subaşı Çekici",
       "in_reference_sitemap": true,
       "new_site_status": "needs_business_and_content_verification",
-      "status": "content-needed"
+      "status": "rendered",
+      "canonical_path": "/bolgeler/torbali/subasi/"
     },
     {
       "reference_path": "/torbali-capak-cekici",
       "reference_label": "Çapak Çekici",
       "in_reference_sitemap": true,
       "new_site_status": "needs_business_and_content_verification",
-      "status": "content-needed"
+      "status": "rendered",
+      "canonical_path": "/bolgeler/torbali/capak/"
     },
     {
       "reference_path": "/torbali-karakizlar-cekici",
       "reference_label": "Karakızlar Çekici",
       "in_reference_sitemap": true,
       "new_site_status": "needs_business_and_content_verification",
-      "status": "content-needed"
+      "status": "rendered",
+      "canonical_path": "/bolgeler/torbali/karakizlar/"
     },
     {
       "reference_path": "/torbali-ahmetli-cekici",
       "reference_label": "Ahmetli Çekici",
       "in_reference_sitemap": true,
       "new_site_status": "needs_business_and_content_verification",
-      "status": "content-needed"
+      "status": "rendered",
+      "canonical_path": "/bolgeler/torbali/ahmetli/"
     },
     {
       "reference_path": "/torbali-kuscuburun-cekici",
       "reference_label": "Kuşçuburun Çekici",
       "in_reference_sitemap": true,
       "new_site_status": "needs_business_and_content_verification",
-      "status": "content-needed"
+      "status": "rendered",
+      "canonical_path": "/bolgeler/torbali/kuscuburun/"
     },
     {
       "reference_path": "/menemen-cekici",
       "reference_label": "Menemen Çekici",
       "in_reference_sitemap": true,
       "new_site_status": "needs_business_and_content_verification",
-      "status": "content-needed"
+      "status": "rendered",
+      "canonical_path": "/bolgeler/menemen/"
     },
     {
       "reference_path": "/bergama-cekici",
       "reference_label": "Bergama Çekici",
       "in_reference_sitemap": true,
       "new_site_status": "needs_business_and_content_verification",
-      "status": "content-needed"
+      "status": "rendered",
+      "canonical_path": "/bolgeler/bergama/"
     },
     {
       "reference_path": "/odemis-cekici",
       "reference_label": "Ödemiş Çekici",
       "in_reference_sitemap": true,
       "new_site_status": "needs_business_and_content_verification",
-      "status": "content-needed"
+      "status": "rendered",
+      "canonical_path": "/bolgeler/odemis/"
     },
     {
       "reference_path": "/tire-cekici",
       "reference_label": "Tire Çekici",
       "in_reference_sitemap": true,
       "new_site_status": "needs_business_and_content_verification",
-      "status": "content-needed"
+      "status": "rendered",
+      "canonical_path": "/bolgeler/tire/"
     },
     {
       "reference_path": "/bayindir-cekici",
       "reference_label": "Bayındır Çekici",
       "in_reference_sitemap": true,
       "new_site_status": "needs_business_and_content_verification",
-      "status": "content-needed"
+      "status": "rendered",
+      "canonical_path": "/bolgeler/bayindir/"
     },
     {
       "reference_path": "/selcuk-cekici",
       "reference_label": "Selçuk Çekici",
       "in_reference_sitemap": true,
       "new_site_status": "needs_business_and_content_verification",
-      "status": "content-needed"
+      "status": "rendered",
+      "canonical_path": "/bolgeler/selcuk/"
     },
     {
       "reference_path": "/kinik-cekici",
       "reference_label": "Kınık Çekici",
       "in_reference_sitemap": true,
       "new_site_status": "needs_business_and_content_verification",
-      "status": "content-needed"
+      "status": "rendered",
+      "canonical_path": "/bolgeler/kinik/"
     },
     {
       "reference_path": "/kiraz-cekici",
       "reference_label": "Kiraz Çekici",
       "in_reference_sitemap": true,
       "new_site_status": "needs_business_and_content_verification",
-      "status": "content-needed"
+      "status": "rendered",
+      "canonical_path": "/bolgeler/kiraz/"
     },
     {
       "reference_path": "/nazilli-cekici",
       "reference_label": "Nazilli Çekici",
       "in_reference_sitemap": false,
       "new_site_status": "needs_business_and_content_verification",
-      "status": "content-needed"
+      "status": "rendered",
+      "canonical_path": "/bolgeler/noktalar/nazilli/"
     },
     {
       "reference_path": "/buca-golet-cekici",
       "reference_label": "Buca Gölet Çekici",
       "in_reference_sitemap": true,
       "new_site_status": "needs_business_and_content_verification",
-      "status": "content-needed"
+      "status": "rendered",
+      "canonical_path": "/bolgeler/buca/golet/"
     },
     {
       "reference_path": "/belenbasi-cekici",
       "reference_label": "Belenbaşı Çekici",
       "in_reference_sitemap": true,
       "new_site_status": "needs_business_and_content_verification",
-      "status": "content-needed"
+      "status": "rendered",
+      "canonical_path": "/bolgeler/buca/belenbasi/"
     },
     {
       "reference_path": "/pinarbasi-cekici",
       "reference_label": "Pınarbaşı Çekici",
       "in_reference_sitemap": true,
       "new_site_status": "needs_business_and_content_verification",
-      "status": "content-needed"
+      "status": "rendered",
+      "canonical_path": "/bolgeler/bornova/pinarbasi/"
     },
     {
       "reference_path": "/aliaga-cekici",
       "reference_label": "Aliağa Çekici",
       "in_reference_sitemap": true,
       "new_site_status": "needs_business_and_content_verification",
-      "status": "content-needed"
+      "status": "rendered",
+      "canonical_path": "/bolgeler/aliaga/"
     },
     {
       "reference_path": "/balcova-cekici",
       "reference_label": "Balçova Çekici",
       "in_reference_sitemap": true,
       "new_site_status": "needs_business_and_content_verification",
-      "status": "content-needed"
+      "status": "rendered",
+      "canonical_path": "/bolgeler/balcova/"
     },
     {
       "reference_path": "/bayrakli-cekici",
       "reference_label": "Bayraklı Çekici",
       "in_reference_sitemap": true,
       "new_site_status": "needs_business_and_content_verification",
-      "status": "content-needed"
+      "status": "rendered",
+      "canonical_path": "/bolgeler/bayrakli/"
     },
     {
       "reference_path": "/beydag-cekici",
       "reference_label": "Beydağ Çekici",
       "in_reference_sitemap": true,
       "new_site_status": "needs_business_and_content_verification",
-      "status": "content-needed"
+      "status": "rendered",
+      "canonical_path": "/bolgeler/beydag/"
     },
     {
       "reference_path": "/bornova-cekici",
       "reference_label": "Bornova Çekici",
       "in_reference_sitemap": true,
       "new_site_status": "needs_business_and_content_verification",
-      "status": "content-needed"
+      "status": "rendered",
+      "canonical_path": "/bolgeler/bornova/"
     },
     {
       "reference_path": "/buca-cekici",
       "reference_label": "Buca Çekici",
       "in_reference_sitemap": true,
       "new_site_status": "needs_business_and_content_verification",
-      "status": "content-needed"
+      "status": "rendered",
+      "canonical_path": "/bolgeler/buca/"
     },
     {
       "reference_path": "/cesme-cekici",
       "reference_label": "Çeşme Çekici",
       "in_reference_sitemap": true,
       "new_site_status": "needs_business_and_content_verification",
-      "status": "content-needed"
+      "status": "rendered",
+      "canonical_path": "/bolgeler/cesme/"
     },
     {
       "reference_path": "/cigli-cekici",
       "reference_label": "Çiğli Çekici",
       "in_reference_sitemap": true,
       "new_site_status": "needs_business_and_content_verification",
-      "status": "content-needed"
+      "status": "rendered",
+      "canonical_path": "/bolgeler/cigli/"
     },
     {
       "reference_path": "/dikili-cekici",
       "reference_label": "Dikili Çekici",
       "in_reference_sitemap": true,
       "new_site_status": "needs_business_and_content_verification",
-      "status": "content-needed"
+      "status": "rendered",
+      "canonical_path": "/bolgeler/dikili/"
     },
     {
       "reference_path": "/foca-cekici",
       "reference_label": "Foça Çekici",
       "in_reference_sitemap": true,
       "new_site_status": "needs_business_and_content_verification",
-      "status": "content-needed"
+      "status": "rendered",
+      "canonical_path": "/bolgeler/foca/"
     },
     {
       "reference_path": "/gaziemir-cekici",
       "reference_label": "Gaziemir Çekici",
       "in_reference_sitemap": true,
       "new_site_status": "needs_business_and_content_verification",
-      "status": "content-needed"
+      "status": "rendered",
+      "canonical_path": "/bolgeler/gaziemir/"
     },
     {
       "reference_path": "/guzelbahce-cekici",
       "reference_label": "Güzelbahçe Çekici",
       "in_reference_sitemap": true,
       "new_site_status": "needs_business_and_content_verification",
-      "status": "content-needed"
+      "status": "rendered",
+      "canonical_path": "/bolgeler/guzelbahce/"
     },
     {
       "reference_path": "/karabaglar-cekici",
       "reference_label": "Karabağlar Çekici",
       "in_reference_sitemap": true,
       "new_site_status": "needs_business_and_content_verification",
-      "status": "content-needed"
+      "status": "rendered",
+      "canonical_path": "/bolgeler/karabaglar/"
     },
     {
       "reference_path": "/karaburun-cekici",
       "reference_label": "Karaburun Çekici",
       "in_reference_sitemap": true,
       "new_site_status": "needs_business_and_content_verification",
-      "status": "content-needed"
+      "status": "rendered",
+      "canonical_path": "/bolgeler/karaburun/"
     },
     {
       "reference_path": "/karsiyaka-cekici",
       "reference_label": "Karşıyaka Çekici",
       "in_reference_sitemap": true,
       "new_site_status": "needs_business_and_content_verification",
-      "status": "content-needed"
+      "status": "rendered",
+      "canonical_path": "/bolgeler/karsiyaka/"
     },
     {
       "reference_path": "/kemalpasa-cekici",
       "reference_label": "Kemalpaşa Çekici",
       "in_reference_sitemap": true,
       "new_site_status": "needs_business_and_content_verification",
-      "status": "content-needed"
+      "status": "rendered",
+      "canonical_path": "/bolgeler/kemalpasa/"
     },
     {
       "reference_path": "/konak-cekici",
       "reference_label": "Konak Çekici",
       "in_reference_sitemap": true,
       "new_site_status": "needs_business_and_content_verification",
-      "status": "content-needed"
+      "status": "rendered",
+      "canonical_path": "/bolgeler/konak/"
     },
     {
       "reference_path": "/menderes-cekici",
       "reference_label": "Menderes Çekici",
       "in_reference_sitemap": true,
       "new_site_status": "needs_business_and_content_verification",
-      "status": "content-needed"
+      "status": "rendered",
+      "canonical_path": "/bolgeler/menderes/"
     },
     {
       "reference_path": "/narlidere-cekici",
       "reference_label": "Narlıdere Çekici",
       "in_reference_sitemap": true,
       "new_site_status": "needs_business_and_content_verification",
-      "status": "content-needed"
+      "status": "rendered",
+      "canonical_path": "/bolgeler/narlidere/"
     },
     {
       "reference_path": "/seferihisar-cekici",
       "reference_label": "Seferihisar Çekici",
       "in_reference_sitemap": true,
       "new_site_status": "needs_business_and_content_verification",
-      "status": "content-needed"
+      "status": "rendered",
+      "canonical_path": "/bolgeler/seferihisar/"
     },
     {
       "reference_path": "/urla-cekici",
       "reference_label": "Urla Çekici",
       "in_reference_sitemap": true,
       "new_site_status": "needs_business_and_content_verification",
-      "status": "content-needed"
+      "status": "rendered",
+      "canonical_path": "/bolgeler/urla/"
     },
     {
       "reference_path": "/kisikkoy-cekici",
       "reference_label": "Kısıkköy Çekici",
       "in_reference_sitemap": false,
       "new_site_status": "needs_business_and_content_verification",
-      "status": "content-needed"
+      "status": "rendered",
+      "canonical_path": "/sanayi/kisikkoy-sanayi-sitesi/"
     },
     {
       "reference_path": "/aydin-otoban-cekici",
       "reference_label": "Aydın Otoban Çekici",
       "in_reference_sitemap": true,
       "new_site_status": "needs_business_and_content_verification",
-      "status": "content-needed"
+      "status": "rendered",
+      "canonical_path": "/guzergahlar/izmir-aydin-otoyolu/"
     },
     {
       "reference_path": "/cesme-otoyolu-cekici",
       "reference_label": "Çeşme Otoyolu Çekici",
       "in_reference_sitemap": true,
       "new_site_status": "needs_business_and_content_verification",
-      "status": "content-needed"
+      "status": "rendered",
+      "canonical_path": "/guzergahlar/izmir-cesme-otoyolu/"
     },
     {
       "reference_path": "/alsancak-cekici",
       "reference_label": "KonakAlsancak Çekici10 - 15 Dk Varış Süresi →",
       "in_reference_sitemap": true,
       "new_site_status": "needs_business_and_content_verification",
-      "status": "content-needed"
+      "status": "rendered",
+      "canonical_path": "/bolgeler/konak/alsancak/"
     },
     {
       "reference_path": "/bostanli-cekici",
       "reference_label": "KarşıyakaBostanlı Çekici10 - 15 Dk Varış Süresi →",
       "in_reference_sitemap": true,
       "new_site_status": "needs_business_and_content_verification",
-      "status": "content-needed"
+      "status": "rendered",
+      "canonical_path": "/bolgeler/karsiyaka/bostanli/"
     },
     {
       "reference_path": "/mavisehir-cekici",
       "reference_label": "KarşıyakaMavişehir Çekici10 - 15 Dk Varış Süresi →",
       "in_reference_sitemap": true,
       "new_site_status": "needs_business_and_content_verification",
-      "status": "content-needed"
+      "status": "rendered",
+      "canonical_path": "/bolgeler/karsiyaka/mavisehir/"
     },
     {
       "reference_path": "/sirinyer-cekici",
       "reference_label": "BucaŞirinyer Çekici10 - 15 Dk Varış Süresi →",
       "in_reference_sitemap": false,
       "new_site_status": "needs_business_and_content_verification",
-      "status": "content-needed"
+      "status": "rendered",
+      "canonical_path": "/bolgeler/buca/sirinyer/"
     },
     {
       "reference_path": "/ayrancilar-cekici",
       "reference_label": "TorbalıAyrancılar Çekici10 - 15 Dk Varış Süresi →",
       "in_reference_sitemap": true,
       "new_site_status": "needs_business_and_content_verification",
-      "status": "content-needed"
+      "status": "rendered",
+      "canonical_path": "/bolgeler/torbali/ayrancilar/"
     },
     {
       "reference_path": "/sarnic-cekici",
       "reference_label": "GaziemirSarnıç Çekici10 - 15 Dk Varış Süresi →",
       "in_reference_sitemap": true,
       "new_site_status": "needs_business_and_content_verification",
-      "status": "content-needed"
+      "status": "rendered",
+      "canonical_path": "/bolgeler/gaziemir/sarnic/"
     },
     {
       "reference_path": "/isikkoy-cekici",
       "reference_label": "BornovaIşıkkent Çekici10 - 15 Dk Varış Süresi →",
       "in_reference_sitemap": false,
       "new_site_status": "needs_business_and_content_verification",
-      "status": "content-needed"
+      "status": "rendered",
+      "canonical_path": "/bolgeler/bornova/isikkent/"
     },
     {
       "reference_path": "/goztepe-cekici",
       "reference_label": "KonakGöztepe Çekici10 - 15 Dk Varış Süresi →",
       "in_reference_sitemap": true,
       "new_site_status": "needs_business_and_content_verification",
-      "status": "content-needed"
+      "status": "rendered",
+      "canonical_path": "/bolgeler/konak/goztepe/"
     },
     {
       "reference_path": "/hatay-cekici",
       "reference_label": "KonakHatay Çekici10 - 15 Dk Varış Süresi →",
       "in_reference_sitemap": true,
       "new_site_status": "needs_business_and_content_verification",
-      "status": "content-needed"
+      "status": "rendered",
+      "canonical_path": "/bolgeler/konak/hatay/"
     },
     {
       "reference_path": "/camdibi-cekici",
       "reference_label": "BornovaÇamdibi Çekici10 - 15 Dk Varış Süresi →",
       "in_reference_sitemap": true,
       "new_site_status": "needs_business_and_content_verification",
-      "status": "content-needed"
+      "status": "rendered",
+      "canonical_path": "/bolgeler/bornova/camdibi/"
     },
     {
       "reference_path": "/ozkanlar-cekici",
       "reference_label": "BornovaÖzkanlar Çekici10 - 15 Dk Varış Süresi →",
       "in_reference_sitemap": false,
       "new_site_status": "needs_business_and_content_verification",
-      "status": "content-needed"
+      "status": "rendered",
+      "canonical_path": "/bolgeler/bornova/ozkanlar/"
     },
     {
       "reference_path": "/ucyol-cekici",
       "reference_label": "KarabağlarÜçyol Çekici10 - 15 Dk Varış Süresi →",
       "in_reference_sitemap": false,
       "new_site_status": "needs_business_and_content_verification",
-      "status": "content-needed"
+      "status": "rendered",
+      "canonical_path": "/bolgeler/karabaglar/ucyol/"
     },
     {
       "reference_path": "/yesilyurt-cekici",
       "reference_label": "KarabağlarYeşilyurt Çekici10 - 15 Dk Varış Süresi →",
       "in_reference_sitemap": true,
       "new_site_status": "needs_business_and_content_verification",
-      "status": "content-needed"
+      "status": "rendered",
+      "canonical_path": "/bolgeler/kemalpasa/yesilyurt/"
     },
     {
       "reference_path": "/cesmealti-cekici",
       "reference_label": "UrlaÇeşmealtı Çekici10 - 15 Dk Varış Süresi →",
       "in_reference_sitemap": true,
       "new_site_status": "needs_business_and_content_verification",
-      "status": "content-needed"
+      "status": "rendered",
+      "canonical_path": "/bolgeler/urla/cesmealti/"
     },
     {
       "reference_path": "/adatepe-cekici",
       "reference_label": "Adatepe Çekici",
       "in_reference_sitemap": true,
       "new_site_status": "needs_business_and_content_verification",
-      "status": "content-needed"
+      "status": "rendered",
+      "canonical_path": "/bolgeler/buca/adatepe/"
     },
     {
       "reference_path": "/ahmetbeyli-cekici",
       "reference_label": "Ahmetbeyli Çekici",
       "in_reference_sitemap": true,
       "new_site_status": "needs_business_and_content_verification",
-      "status": "content-needed"
+      "status": "rendered",
+      "canonical_path": "/bolgeler/menderes/ahmetbeyli/"
     },
     {
       "reference_path": "/akcakoy-cekici",
       "reference_label": "Akçaköy Çekici",
       "in_reference_sitemap": true,
       "new_site_status": "needs_business_and_content_verification",
-      "status": "content-needed"
+      "status": "rendered",
+      "canonical_path": "/bolgeler/menderes/akcakoy/"
     },
     {
       "reference_path": "/akincilar-cekici",
       "reference_label": "Akıncılar Çekici",
       "in_reference_sitemap": true,
       "new_site_status": "needs_business_and_content_verification",
-      "status": "content-needed"
+      "status": "rendered",
+      "canonical_path": "/bolgeler/noktalar/akincilar/"
     },
     {
       "reference_path": "/aktepe-cekici",
       "reference_label": "Aktepe Çekici",
       "in_reference_sitemap": true,
       "new_site_status": "needs_business_and_content_verification",
-      "status": "content-needed"
+      "status": "rendered",
+      "canonical_path": "/bolgeler/noktalar/aktepe/"
     },
     {
       "reference_path": "/altindag-cekici",
       "reference_label": "Altındağ Çekici",
       "in_reference_sitemap": true,
       "new_site_status": "needs_business_and_content_verification",
-      "status": "content-needed"
+      "status": "rendered",
+      "canonical_path": "/bolgeler/bornova/altindag/"
     },
     {
       "reference_path": "/altinevler-cekici",
       "reference_label": "Altınevler Çekici",
       "in_reference_sitemap": false,
       "new_site_status": "needs_business_and_content_verification",
-      "status": "content-needed"
+      "status": "rendered",
+      "canonical_path": "/bolgeler/noktalar/altinevler/"
     },
     {
       "reference_path": "/altintas-cekici",
       "reference_label": "Altıntaş Çekici",
       "in_reference_sitemap": true,
       "new_site_status": "needs_business_and_content_verification",
-      "status": "content-needed"
+      "status": "rendered",
+      "canonical_path": "/bolgeler/noktalar/altintas/"
     },
     {
       "reference_path": "/atakoy-cekici",
       "reference_label": "Ataköy Çekici",
       "in_reference_sitemap": true,
       "new_site_status": "needs_business_and_content_verification",
-      "status": "content-needed"
+      "status": "rendered",
+      "canonical_path": "/bolgeler/menderes/atakoy/"
     },
     {
       "reference_path": "/aydin-mahallesi-cekici",
       "reference_label": "Aydın Mahallesi Çekici",
       "in_reference_sitemap": true,
       "new_site_status": "needs_business_and_content_verification",
-      "status": "content-needed"
+      "status": "rendered",
+      "canonical_path": "/bolgeler/karabaglar/aydin-mahallesi/"
     },
     {
       "reference_path": "/bahcelerarasi-cekici",
       "reference_label": "Bahçelerarası Çekici",
       "in_reference_sitemap": true,
       "new_site_status": "needs_business_and_content_verification",
-      "status": "content-needed"
+      "status": "rendered",
+      "canonical_path": "/bolgeler/balcova/bahcelerarasi/"
     },
     {
       "reference_path": "/bahcelievler-cekici",
       "reference_label": "Bahçelievler Çekici",
       "in_reference_sitemap": true,
       "new_site_status": "needs_business_and_content_verification",
-      "status": "content-needed"
+      "status": "rendered",
+      "canonical_path": "/bolgeler/noktalar/bahcelievler/"
     },
     {
       "reference_path": "/balikli-ova-cekici",
       "reference_label": "Balıklı Ova Çekici",
       "in_reference_sitemap": true,
       "new_site_status": "needs_business_and_content_verification",
-      "status": "content-needed"
+      "status": "rendered",
+      "canonical_path": "/bolgeler/urla/balikli-ova/"
     },
     {
       "reference_path": "/barbaros-mahallesi-cekici",
       "reference_label": "Barbaros Mahallesi Çekici",
       "in_reference_sitemap": true,
       "new_site_status": "needs_business_and_content_verification",
-      "status": "content-needed"
+      "status": "rendered",
+      "canonical_path": "/bolgeler/noktalar/barbaros-mahallesi/"
     },
     {
       "reference_path": "/basin-sitesi-cekici",
       "reference_label": "Basın Sitesi Çekici",
       "in_reference_sitemap": true,
       "new_site_status": "needs_business_and_content_verification",
-      "status": "content-needed"
+      "status": "rendered",
+      "canonical_path": "/bolgeler/karabaglar/basin-sitesi/"
     },
     {
       "reference_path": "/basmane-cekici",
       "reference_label": "Basmane Çekici",
       "in_reference_sitemap": true,
       "new_site_status": "needs_business_and_content_verification",
-      "status": "content-needed"
+      "status": "rendered",
+      "canonical_path": "/bolgeler/konak/basmane/"
     },
     {
       "reference_path": "/belevi-cekici",
       "reference_label": "Belevi Çekici",
       "in_reference_sitemap": true,
       "new_site_status": "needs_business_and_content_verification",
-      "status": "content-needed"
+      "status": "rendered",
+      "canonical_path": "/bolgeler/selcuk/belevi/"
     },
     {
       "reference_path": "/beton-yol-cekici",
       "reference_label": "Beton Yol Çekici",
       "in_reference_sitemap": false,
       "new_site_status": "needs_business_and_content_verification",
-      "status": "content-needed"
+      "status": "rendered",
+      "canonical_path": "/bolgeler/noktalar/beton-yol/"
     },
     {
       "reference_path": "/beyazevler-cekici",
       "reference_label": "Beyazevler Çekici",
       "in_reference_sitemap": true,
       "new_site_status": "needs_business_and_content_verification",
-      "status": "content-needed"
+      "status": "rendered",
+      "canonical_path": "/bolgeler/gaziemir/beyazevler/"
     },
     {
       "reference_path": "/bozyaka-cekici",
       "reference_label": "Bozyaka Çekici",
       "in_reference_sitemap": true,
       "new_site_status": "needs_business_and_content_verification",
-      "status": "content-needed"
+      "status": "rendered",
+      "canonical_path": "/bolgeler/karabaglar/bozyaka/"
     },
     {
       "reference_path": "/bulgurca-cekici",
       "reference_label": "Bulgurca Çekici",
       "in_reference_sitemap": true,
       "new_site_status": "needs_business_and_content_verification",
-      "status": "content-needed"
+      "status": "rendered",
+      "canonical_path": "/bolgeler/menderes/bulgurca/"
     },
     {
       "reference_path": "/cennet-cesme-cekici",
       "reference_label": "Cennet Çeşme Çekici",
       "in_reference_sitemap": true,
       "new_site_status": "needs_business_and_content_verification",
-      "status": "content-needed"
+      "status": "rendered",
+      "canonical_path": "/bolgeler/karabaglar/cennet-cesme/"
     },
     {
       "reference_path": "/cennetoglu-cekici",
       "reference_label": "Cennetoğlu Çekici",
       "in_reference_sitemap": true,
       "new_site_status": "needs_business_and_content_verification",
-      "status": "content-needed"
+      "status": "rendered",
+      "canonical_path": "/bolgeler/karabaglar/cennetoglu/"
     },
     {
       "reference_path": "/cam-tepe-cekici",
       "reference_label": "Çam Tepe Çekici",
       "in_reference_sitemap": true,
       "new_site_status": "needs_business_and_content_verification",
-      "status": "content-needed"
+      "status": "rendered",
+      "canonical_path": "/bolgeler/noktalar/cam-tepe/"
     },
     {
       "reference_path": "/camkoy-cekici",
       "reference_label": "Çamköy Çekici",
       "in_reference_sitemap": true,
       "new_site_status": "needs_business_and_content_verification",
-      "status": "content-needed"
+      "status": "rendered",
+      "canonical_path": "/bolgeler/bergama/camkoy/"
     },
     {
       "reference_path": "/camlikule-cekici",
       "reference_label": "Çamlıkule Çekici",
       "in_reference_sitemap": true,
       "new_site_status": "needs_business_and_content_verification",
-      "status": "content-needed"
+      "status": "rendered",
+      "canonical_path": "/bolgeler/buca/camlikule/"
     },
     {
       "reference_path": "/camonu-cekici",
       "reference_label": "Çamönü Çekici",
       "in_reference_sitemap": true,
       "new_site_status": "needs_business_and_content_verification",
-      "status": "content-needed"
+      "status": "rendered",
+      "canonical_path": "/bolgeler/menderes/camonu/"
     },
     {
       "reference_path": "/cankaya-cekici",
       "reference_label": "Çankaya Çekici",
       "in_reference_sitemap": true,
       "new_site_status": "needs_business_and_content_verification",
-      "status": "content-needed"
+      "status": "rendered",
+      "canonical_path": "/bolgeler/konak/cankaya/"
     },
     {
       "reference_path": "/catalca-cekici",
       "reference_label": "Çatalca Çekici",
       "in_reference_sitemap": true,
       "new_site_status": "needs_business_and_content_verification",
-      "status": "content-needed"
+      "status": "rendered",
+      "canonical_path": "/bolgeler/menderes/catalca/"
     },
     {
       "reference_path": "/catalkaya-cekici",
       "reference_label": "Çatalkaya Çekici",
       "in_reference_sitemap": false,
       "new_site_status": "needs_business_and_content_verification",
-      "status": "content-needed"
+      "status": "rendered",
+      "canonical_path": "/bolgeler/noktalar/catalkaya/"
     },
     {
       "reference_path": "/cataltepe-cekici",
       "reference_label": "Çataltepe Çekici",
       "in_reference_sitemap": false,
       "new_site_status": "needs_business_and_content_verification",
-      "status": "content-needed"
+      "status": "rendered",
+      "canonical_path": "/bolgeler/noktalar/cataltepe/"
     },
     {
       "reference_path": "/cinarli-cekici",
       "reference_label": "Çınarlı Çekici",
       "in_reference_sitemap": true,
       "new_site_status": "needs_business_and_content_verification",
-      "status": "content-needed"
+      "status": "rendered",
+      "canonical_path": "/bolgeler/konak/cinarli/"
     },
     {
       "reference_path": "/ciceklikoy-cekici",
       "reference_label": "Çiçekliköy Çekici",
       "in_reference_sitemap": false,
       "new_site_status": "needs_business_and_content_verification",
-      "status": "content-needed"
+      "status": "rendered",
+      "canonical_path": "/bolgeler/noktalar/ciceklikoy/"
     },
     {
       "reference_path": "/cile-cekici",
       "reference_label": "Çile Çekici",
       "in_reference_sitemap": true,
       "new_site_status": "needs_business_and_content_verification",
-      "status": "content-needed"
+      "status": "rendered",
+      "canonical_path": "/bolgeler/menderes/cile/"
     },
     {
       "reference_path": "/cileme-cekici",
       "reference_label": "Çileme Çekici",
       "in_reference_sitemap": true,
       "new_site_status": "needs_business_and_content_verification",
-      "status": "content-needed"
+      "status": "rendered",
+      "canonical_path": "/bolgeler/menderes/cileme/"
     },
     {
       "reference_path": "/degirmendere-cekici",
       "reference_label": "Değirmendere Çekici",
       "in_reference_sitemap": true,
       "new_site_status": "needs_business_and_content_verification",
-      "status": "content-needed"
+      "status": "rendered",
+      "canonical_path": "/bolgeler/menemen/degirmendere/"
     },
     {
       "reference_path": "/develi-cekici",
       "reference_label": "Develi Çekici",
       "in_reference_sitemap": true,
       "new_site_status": "needs_business_and_content_verification",
-      "status": "content-needed"
+      "status": "rendered",
+      "canonical_path": "/bolgeler/menderes/develi/"
     },
     {
       "reference_path": "/doganlar-cekici",
       "reference_label": "Doğanlar Çekici",
       "in_reference_sitemap": true,
       "new_site_status": "needs_business_and_content_verification",
-      "status": "content-needed"
+      "status": "rendered",
+      "canonical_path": "/bolgeler/bornova/doganlar/"
     },
     {
       "reference_path": "/egemenlik-cekici",
       "reference_label": "Egemenlik Çekici",
       "in_reference_sitemap": true,
       "new_site_status": "needs_business_and_content_verification",
-      "status": "content-needed"
+      "status": "rendered",
+      "canonical_path": "/bolgeler/bornova/egemenlik/"
     },
     {
       "reference_path": "/erzene-mahallesi-cekici",
       "reference_label": "Erzene Mahallesi Çekici",
       "in_reference_sitemap": true,
       "new_site_status": "needs_business_and_content_verification",
-      "status": "content-needed"
+      "status": "rendered",
+      "canonical_path": "/bolgeler/bornova/erzene-mahallesi/"
     },
     {
       "reference_path": "/esendere-cekici",
       "reference_label": "Esendere Çekici",
       "in_reference_sitemap": false,
       "new_site_status": "needs_business_and_content_verification",
-      "status": "content-needed"
+      "status": "rendered",
+      "canonical_path": "/bolgeler/noktalar/esendere/"
     },
     {
       "reference_path": "/esenkent-cekici",
       "reference_label": "Esenkent Çekici",
       "in_reference_sitemap": false,
       "new_site_status": "needs_business_and_content_verification",
-      "status": "content-needed"
+      "status": "rendered",
+      "canonical_path": "/bolgeler/noktalar/esenkent/"
     },
     {
       "reference_path": "/esentepe-cekici",
       "reference_label": "Esentepe Çekici",
       "in_reference_sitemap": true,
       "new_site_status": "needs_business_and_content_verification",
-      "status": "content-needed"
+      "status": "rendered",
+      "canonical_path": "/bolgeler/noktalar/esentepe/"
     },
     {
       "reference_path": "/evka1-cekici",
       "reference_label": "Evka1 Çekici",
       "in_reference_sitemap": true,
       "new_site_status": "needs_business_and_content_verification",
-      "status": "content-needed"
+      "status": "rendered",
+      "canonical_path": "/bolgeler/buca/evka-1/"
     },
     {
       "reference_path": "/evka2-cekici",
       "reference_label": "Evka2 Çekici",
       "in_reference_sitemap": true,
       "new_site_status": "needs_business_and_content_verification",
-      "status": "content-needed"
+      "status": "rendered",
+      "canonical_path": "/bolgeler/cigli/evka-2/"
     },
     {
       "reference_path": "/evka3-cekici",
       "reference_label": "Evka3 Çekici",
       "in_reference_sitemap": true,
       "new_site_status": "needs_business_and_content_verification",
-      "status": "content-needed"
+      "status": "rendered",
+      "canonical_path": "/bolgeler/bornova/evka-3/"
     },
     {
       "reference_path": "/evka4-cekici",
       "reference_label": "Evka4 Çekici",
       "in_reference_sitemap": true,
       "new_site_status": "needs_business_and_content_verification",
-      "status": "content-needed"
+      "status": "rendered",
+      "canonical_path": "/bolgeler/bornova/evka-4/"
     },
     {
       "reference_path": "/evka5-cekici",
       "reference_label": "Evka5 Çekici",
       "in_reference_sitemap": true,
       "new_site_status": "needs_business_and_content_verification",
-      "status": "content-needed"
+      "status": "rendered",
+      "canonical_path": "/bolgeler/cigli/evka-5/"
     },
     {
       "reference_path": "/evka6-cekici",
       "reference_label": "Evka6 Çekici",
       "in_reference_sitemap": true,
       "new_site_status": "needs_business_and_content_verification",
-      "status": "content-needed"
+      "status": "rendered",
+      "canonical_path": "/bolgeler/cigli/evka-6/"
     },
     {
       "reference_path": "/evka7-cekici",
       "reference_label": "Evka7 Çekici",
       "in_reference_sitemap": false,
       "new_site_status": "needs_business_and_content_verification",
-      "status": "content-needed"
+      "status": "rendered",
+      "canonical_path": "/bolgeler/cigli/evka-7/"
     },
     {
       "reference_path": "/fahrettin-altay-cekici",
       "reference_label": "Fahrettin Altay Çekici",
       "in_reference_sitemap": true,
       "new_site_status": "needs_business_and_content_verification",
-      "status": "content-needed"
+      "status": "rendered",
+      "canonical_path": "/bolgeler/karabaglar/fahrettin-altay/"
     },
     {
       "reference_path": "/gediz-cekici",
       "reference_label": "Gediz Çekici",
       "in_reference_sitemap": false,
       "new_site_status": "needs_business_and_content_verification",
-      "status": "content-needed"
+      "status": "rendered",
+      "canonical_path": "/bolgeler/noktalar/gediz/"
     },
     {
       "reference_path": "/gokdere-cekici",
       "reference_label": "Gökdere Çekici",
       "in_reference_sitemap": true,
       "new_site_status": "needs_business_and_content_verification",
-      "status": "content-needed"
+      "status": "rendered",
+      "canonical_path": "/bolgeler/bornova/gokdere/"
     },
     {
       "reference_path": "/goksu-cekici",
       "reference_label": "Göksu Çekici",
       "in_reference_sitemap": true,
       "new_site_status": "needs_business_and_content_verification",
-      "status": "content-needed"
+      "status": "rendered",
+      "canonical_path": "/bolgeler/buca/goksu/"
     },
     {
       "reference_path": "/gorece-cekici",
       "reference_label": "Görece Çekici",
       "in_reference_sitemap": true,
       "new_site_status": "needs_business_and_content_verification",
-      "status": "content-needed"
+      "status": "rendered",
+      "canonical_path": "/bolgeler/menemen/gorece/"
     },
     {
       "reference_path": "/gulbahce-cekici",
       "reference_label": "Gülbahçe Çekici",
       "in_reference_sitemap": true,
       "new_site_status": "needs_business_and_content_verification",
-      "status": "content-needed"
+      "status": "rendered",
+      "canonical_path": "/bolgeler/urla/gulbahce/"
     },
     {
       "reference_path": "/gulyaka-cekici",
       "reference_label": "Gülyaka Çekici",
       "in_reference_sitemap": true,
       "new_site_status": "needs_business_and_content_verification",
-      "status": "content-needed"
+      "status": "rendered",
+      "canonical_path": "/bolgeler/karabaglar/gulyaka/"
     },
     {
       "reference_path": "/gumuldur-cekici",
       "reference_label": "Gümüldür Çekici",
       "in_reference_sitemap": true,
       "new_site_status": "needs_business_and_content_verification",
-      "status": "content-needed"
+      "status": "rendered",
+      "canonical_path": "/bolgeler/menderes/gumuldur/"
     },
     {
       "reference_path": "/gunaltay-cekici",
       "reference_label": "Günaltay Çekici",
       "in_reference_sitemap": true,
       "new_site_status": "needs_business_and_content_verification",
-      "status": "content-needed"
+      "status": "rendered",
+      "canonical_path": "/bolgeler/karabaglar/gunaltay/"
     },
     {
       "reference_path": "/guzelyali-cekici",
       "reference_label": "Güzelyalı Çekici",
       "in_reference_sitemap": true,
       "new_site_status": "needs_business_and_content_verification",
-      "status": "content-needed"
+      "status": "rendered",
+      "canonical_path": "/bolgeler/konak/guzelyali/"
     },
     {
       "reference_path": "/havalimani-cekici",
       "reference_label": "Havalimanı Çekici",
       "in_reference_sitemap": true,
       "new_site_status": "needs_business_and_content_verification",
-      "status": "content-needed"
+      "status": "rendered",
+      "canonical_path": "/bolgeler/gaziemir/havalimani/"
     },
     {
       "reference_path": "/irmak-mahallesi-cekici",
       "reference_label": "Irmak Mahallesi Çekici",
       "in_reference_sitemap": true,
       "new_site_status": "needs_business_and_content_verification",
-      "status": "content-needed"
+      "status": "rendered",
+      "canonical_path": "/bolgeler/noktalar/irmak-mahallesi/"
     },
     {
       "reference_path": "/isikkent-cekici",
       "reference_label": "Işıkkent Çekici",
       "in_reference_sitemap": true,
       "new_site_status": "needs_business_and_content_verification",
-      "status": "content-needed"
+      "status": "rendered",
+      "canonical_path": "/bolgeler/bornova/isikkent/"
     },
     {
       "reference_path": "/icmeler-cekici",
       "reference_label": "İçmeler Çekici",
       "in_reference_sitemap": true,
       "new_site_status": "needs_business_and_content_verification",
-      "status": "content-needed"
+      "status": "rendered",
+      "canonical_path": "/bolgeler/urla/icmeler/"
     },
     {
       "reference_path": "/inciralti-cekici",
       "reference_label": "İnciraltı Çekici",
       "in_reference_sitemap": true,
       "new_site_status": "needs_business_and_content_verification",
-      "status": "content-needed"
+      "status": "rendered",
+      "canonical_path": "/bolgeler/balcova/inciralti/"
     },
     {
       "reference_path": "/inonu-cekici",
       "reference_label": "İnönü Çekici",
       "in_reference_sitemap": true,
       "new_site_status": "needs_business_and_content_verification",
-      "status": "content-needed"
+      "status": "rendered",
+      "canonical_path": "/bolgeler/noktalar/inonu/"
     },
     {
       "reference_path": "/izmir-cekici",
       "reference_label": "İzmir Çekici",
       "in_reference_sitemap": true,
       "new_site_status": "needs_business_and_content_verification",
-      "status": "content-needed"
+      "status": "rendered",
+      "canonical_path": "/"
     },
     {
       "reference_path": "/karatas-cekici",
       "reference_label": "Karataş Çekici",
       "in_reference_sitemap": false,
       "new_site_status": "needs_business_and_content_verification",
-      "status": "content-needed"
+      "status": "rendered",
+      "canonical_path": "/bolgeler/noktalar/karatas/"
     },
     {
       "reference_path": "/kavaklidere-cekici",
       "reference_label": "Kavaklıdere Çekici",
       "in_reference_sitemap": true,
       "new_site_status": "needs_business_and_content_verification",
-      "status": "content-needed"
+      "status": "rendered",
+      "canonical_path": "/bolgeler/bornova/kavaklidere/"
     },
     {
       "reference_path": "/kaynaklar-cekici",
       "reference_label": "Kaynaklar Çekici",
       "in_reference_sitemap": true,
       "new_site_status": "needs_business_and_content_verification",
-      "status": "content-needed"
+      "status": "rendered",
+      "canonical_path": "/bolgeler/buca/kaynaklar/"
     },
     {
       "reference_path": "/kazimdirik-cekici",
       "reference_label": "Kazımdirik Çekici",
       "in_reference_sitemap": true,
       "new_site_status": "needs_business_and_content_verification",
-      "status": "content-needed"
+      "status": "rendered",
+      "canonical_path": "/bolgeler/noktalar/kazimdirik/"
     },
     {
       "reference_path": "/kisik-cekici",
       "reference_label": "Kısık Çekici",
       "in_reference_sitemap": true,
       "new_site_status": "needs_business_and_content_verification",
-      "status": "content-needed"
+      "status": "rendered",
+      "canonical_path": "/bolgeler/menderes/kisik/"
     },
     {
       "reference_path": "/kozagac-cekici",
       "reference_label": "Kozağaç Çekici",
       "in_reference_sitemap": true,
       "new_site_status": "needs_business_and_content_verification",
-      "status": "content-needed"
+      "status": "rendered",
+      "canonical_path": "/bolgeler/buca/kozagac/"
     },
     {
       "reference_path": "/kurucesme-cekici",
       "reference_label": "Kuruçeşme Çekici",
       "in_reference_sitemap": true,
       "new_site_status": "needs_business_and_content_verification",
-      "status": "content-needed"
+      "status": "rendered",
+      "canonical_path": "/bolgeler/buca/kurucesme/"
     },
     {
       "reference_path": "/kucuk-park-cekici",
       "reference_label": "Küçük Park Çekici",
       "in_reference_sitemap": false,
       "new_site_status": "needs_business_and_content_verification",
-      "status": "content-needed"
+      "status": "rendered",
+      "canonical_path": "/bolgeler/noktalar/kucuk-park/"
     },
     {
       "reference_path": "/kucukyali-cekici",
       "reference_label": "Küçükyalı Çekici",
       "in_reference_sitemap": false,
       "new_site_status": "needs_business_and_content_verification",
-      "status": "content-needed"
+      "status": "rendered",
+      "canonical_path": "/bolgeler/noktalar/kucukyali/"
     },
     {
       "reference_path": "/kuner-cekici",
       "reference_label": "Küner Çekici",
       "in_reference_sitemap": true,
       "new_site_status": "needs_business_and_content_verification",
-      "status": "content-needed"
+      "status": "rendered",
+      "canonical_path": "/bolgeler/menderes/kuner/"
     },
     {
       "reference_path": "/laka-mahallesi-cekici",
       "reference_label": "Laka Mahallesi Çekici",
       "in_reference_sitemap": true,
       "new_site_status": "needs_business_and_content_verification",
-      "status": "content-needed"
+      "status": "rendered",
+      "canonical_path": "/bolgeler/bornova/laka-mahallesi/"
     },
     {
       "reference_path": "/liman-reis-cekici",
       "reference_label": "Liman Reis Çekici",
       "in_reference_sitemap": true,
       "new_site_status": "needs_business_and_content_verification",
-      "status": "content-needed"
+      "status": "rendered",
+      "canonical_path": "/bolgeler/guzelbahce/liman-reis/"
     },
     {
       "reference_path": "/limontepe-cekici",
       "reference_label": "Limontepe Çekici",
       "in_reference_sitemap": true,
       "new_site_status": "needs_business_and_content_verification",
-      "status": "content-needed"
+      "status": "rendered",
+      "canonical_path": "/bolgeler/karabaglar/limontepe/"
     },
     {
       "reference_path": "/maltepe-cekici",
       "reference_label": "Maltepe Çekici",
       "in_reference_sitemap": true,
       "new_site_status": "needs_business_and_content_verification",
-      "status": "content-needed"
+      "status": "rendered",
+      "canonical_path": "/bolgeler/noktalar/maltepe/"
     },
     {
       "reference_path": "/manavkuyu-cekici",
       "reference_label": "Manavkuyu Çekici",
       "in_reference_sitemap": true,
       "new_site_status": "needs_business_and_content_verification",
-      "status": "content-needed"
+      "status": "rendered",
+      "canonical_path": "/bolgeler/bayrakli/manavkuyu/"
     },
     {
       "reference_path": "/menderes-mahallesi-cekici",
       "reference_label": "Menderes Mahallesi Çekici",
       "in_reference_sitemap": true,
       "new_site_status": "needs_business_and_content_verification",
-      "status": "content-needed"
+      "status": "rendered",
+      "canonical_path": "/bolgeler/noktalar/menderes-mahallesi/"
     },
     {
       "reference_path": "/mevlana-mahallesi-cekici",
       "reference_label": "Mevlana Mahallesi Çekici",
       "in_reference_sitemap": true,
       "new_site_status": "needs_business_and_content_verification",
-      "status": "content-needed"
+      "status": "rendered",
+      "canonical_path": "/bolgeler/bornova/mevlana-mahallesi/"
     },
     {
       "reference_path": "/naldoken-cekici",
       "reference_label": "Naldöken Çekici",
       "in_reference_sitemap": true,
       "new_site_status": "needs_business_and_content_verification",
-      "status": "content-needed"
+      "status": "rendered",
+      "canonical_path": "/bolgeler/bornova/naldoken/"
     },
     {
       "reference_path": "/narbel-cekici",
       "reference_label": "Narbel Çekici",
       "in_reference_sitemap": false,
       "new_site_status": "needs_business_and_content_verification",
-      "status": "content-needed"
+      "status": "rendered",
+      "canonical_path": "/bolgeler/noktalar/narbel/"
     },
     {
       "reference_path": "/narli-cekici",
       "reference_label": "Narlı Çekici",
       "in_reference_sitemap": true,
       "new_site_status": "needs_business_and_content_verification",
-      "status": "content-needed"
+      "status": "rendered",
+      "canonical_path": "/bolgeler/narlidere/narli/"
     },
     {
       "reference_path": "/oglananasi-cekici",
       "reference_label": "Oğlananası Çekici",
       "in_reference_sitemap": true,
       "new_site_status": "needs_business_and_content_verification",
-      "status": "content-needed"
+      "status": "rendered",
+      "canonical_path": "/bolgeler/menderes/oglananasi/"
     },
     {
       "reference_path": "/onur-mahallesi-cekici",
       "reference_label": "Onur Mahallesi Çekici",
       "in_reference_sitemap": true,
       "new_site_status": "needs_business_and_content_verification",
-      "status": "content-needed"
+      "status": "rendered",
+      "canonical_path": "/bolgeler/noktalar/onur-mahallesi/"
     },
     {
       "reference_path": "/ozbek-cekici",
       "reference_label": "Özbek Çekici",
       "in_reference_sitemap": true,
       "new_site_status": "needs_business_and_content_verification",
-      "status": "content-needed"
+      "status": "rendered",
+      "canonical_path": "/bolgeler/urla/ozbek/"
     },
     {
       "reference_path": "/ozdere-cekici",
       "reference_label": "Özdere Çekici",
       "in_reference_sitemap": true,
       "new_site_status": "needs_business_and_content_verification",
-      "status": "content-needed"
+      "status": "rendered",
+      "canonical_path": "/bolgeler/menderes/ozdere/"
     },
     {
       "reference_path": "/payamli-cekici",
       "reference_label": "Payamlı Çekici",
       "in_reference_sitemap": true,
       "new_site_status": "needs_business_and_content_verification",
-      "status": "content-needed"
+      "status": "rendered",
+      "canonical_path": "/bolgeler/noktalar/payamli/"
     },
     {
       "reference_path": "/peker-mahallesi-cekici",
       "reference_label": "Peker Mahallesi Çekici",
       "in_reference_sitemap": false,
       "new_site_status": "needs_business_and_content_verification",
-      "status": "content-needed"
+      "status": "rendered",
+      "canonical_path": "/bolgeler/noktalar/peker-mahallesi/"
     },
     {
       "reference_path": "/poligon-cekici",
       "reference_label": "Poligon Çekici",
       "in_reference_sitemap": true,
       "new_site_status": "needs_business_and_content_verification",
-      "status": "content-needed"
+      "status": "rendered",
+      "canonical_path": "/bolgeler/karabaglar/poligon/"
     },
     {
       "reference_path": "/selway-cekici",
       "reference_label": "Selway Çekici",
       "in_reference_sitemap": false,
       "new_site_status": "needs_business_and_content_verification",
-      "status": "content-needed"
+      "status": "rendered",
+      "canonical_path": "/bolgeler/noktalar/selway/"
     },
     {
       "reference_path": "/sigacik-cekici",
       "reference_label": "Sığacık Çekici",
       "in_reference_sitemap": true,
       "new_site_status": "needs_business_and_content_verification",
-      "status": "content-needed"
+      "status": "rendered",
+      "canonical_path": "/bolgeler/seferihisar/sigacik/"
     },
     {
       "reference_path": "/siteler-cekici",
       "reference_label": "Siteler Çekici",
       "in_reference_sitemap": true,
       "new_site_status": "needs_business_and_content_verification",
-      "status": "content-needed"
+      "status": "rendered",
+      "canonical_path": "/bolgeler/noktalar/siteler/"
     },
     {
       "reference_path": "/sasal-cekici",
       "reference_label": "Şaşal Çekici",
       "in_reference_sitemap": true,
       "new_site_status": "needs_business_and_content_verification",
-      "status": "content-needed"
+      "status": "rendered",
+      "canonical_path": "/bolgeler/menderes/sasal/"
     },
     {
       "reference_path": "/semikler-cekici",
       "reference_label": "Şemikler Çekici",
       "in_reference_sitemap": true,
       "new_site_status": "needs_business_and_content_verification",
-      "status": "content-needed"
+      "status": "rendered",
+      "canonical_path": "/bolgeler/karsiyaka/semikler/"
     },
     {
       "reference_path": "/tekeli-turkmen-cekici",
       "reference_label": "Tekeli Türkmen Çekici",
       "in_reference_sitemap": false,
       "new_site_status": "needs_business_and_content_verification",
-      "status": "content-needed"
+      "status": "rendered",
+      "canonical_path": "/bolgeler/noktalar/tekeli-turkmen/"
     },
     {
       "reference_path": "/teleferik-cekici",
       "reference_label": "Teleferik Çekici",
       "in_reference_sitemap": true,
       "new_site_status": "needs_business_and_content_verification",
-      "status": "content-needed"
+      "status": "rendered",
+      "canonical_path": "/bolgeler/balcova/teleferik/"
     },
     {
       "reference_path": "/tuna-cekici",
       "reference_label": "Tuna Çekici",
       "in_reference_sitemap": true,
       "new_site_status": "needs_business_and_content_verification",
-      "status": "content-needed"
+      "status": "rendered",
+      "canonical_path": "/bolgeler/bornova/tuna/"
     },
     {
       "reference_path": "/ulamis-cekici",
       "reference_label": "Ulamış Çekici",
       "in_reference_sitemap": true,
       "new_site_status": "needs_business_and_content_verification",
-      "status": "content-needed"
+      "status": "rendered",
+      "canonical_path": "/bolgeler/seferihisar/ulamis/"
     },
     {
       "reference_path": "/ulucak-cekici",
       "reference_label": "Ulucak Çekici",
       "in_reference_sitemap": true,
       "new_site_status": "needs_business_and_content_verification",
-      "status": "content-needed"
+      "status": "rendered",
+      "canonical_path": "/bolgeler/kemalpasa/ulucak/"
     },
     {
       "reference_path": "/urla-iskele-cekici",
       "reference_label": "Urla İskele Çekici",
       "in_reference_sitemap": true,
       "new_site_status": "needs_business_and_content_verification",
-      "status": "content-needed"
+      "status": "rendered",
+      "canonical_path": "/bolgeler/urla/iskele/"
     },
     {
       "reference_path": "/uzundere-cekici",
       "reference_label": "Uzundere Çekici",
       "in_reference_sitemap": true,
       "new_site_status": "needs_business_and_content_verification",
-      "status": "content-needed"
+      "status": "rendered",
+      "canonical_path": "/bolgeler/noktalar/uzundere/"
     },
     {
       "reference_path": "/urkmez-cekici",
       "reference_label": "Ürkmez Çekici",
       "in_reference_sitemap": true,
       "new_site_status": "needs_business_and_content_verification",
-      "status": "content-needed"
+      "status": "rendered",
+      "canonical_path": "/bolgeler/seferihisar/urkmez/"
     },
     {
       "reference_path": "/yaka-koyu-cekici",
       "reference_label": "Yaka Köyü Çekici",
       "in_reference_sitemap": true,
       "new_site_status": "needs_business_and_content_verification",
-      "status": "content-needed"
+      "status": "rendered",
+      "canonical_path": "/bolgeler/noktalar/yaka-mahallesi/"
     },
     {
       "reference_path": "/yaka-mahallesi-cekici",
       "reference_label": "Yaka Mahallesi Çekici",
       "in_reference_sitemap": true,
       "new_site_status": "needs_business_and_content_verification",
-      "status": "content-needed"
+      "status": "rendered",
+      "canonical_path": "/bolgeler/noktalar/yaka-mahallesi/"
     },
     {
       "reference_path": "/yali-cekici",
       "reference_label": "Yalı Çekici",
       "in_reference_sitemap": true,
       "new_site_status": "needs_business_and_content_verification",
-      "status": "content-needed"
+      "status": "rendered",
+      "canonical_path": "/bolgeler/noktalar/yali-mahallesi/"
     },
     {
       "reference_path": "/yali-mahallesi-cekici",
       "reference_label": "Yalı Mahallesi Çekici",
       "in_reference_sitemap": true,
       "new_site_status": "needs_business_and_content_verification",
-      "status": "content-needed"
+      "status": "rendered",
+      "canonical_path": "/bolgeler/noktalar/yali-mahallesi/"
     },
     {
       "reference_path": "/yenikale-cekici",
       "reference_label": "Yenikale Çekici",
       "in_reference_sitemap": true,
       "new_site_status": "needs_business_and_content_verification",
-      "status": "content-needed"
+      "status": "rendered",
+      "canonical_path": "/bolgeler/narlidere/yenikale/"
     },
     {
       "reference_path": "/yenikoy-cekici",
       "reference_label": "Yeniköy Çekici",
       "in_reference_sitemap": true,
       "new_site_status": "needs_business_and_content_verification",
-      "status": "content-needed"
+      "status": "rendered",
+      "canonical_path": "/bolgeler/noktalar/yenikoy/"
     },
     {
       "reference_path": "/yesilova-cekici",
       "reference_label": "Yeşilova Çekici",
       "in_reference_sitemap": true,
       "new_site_status": "needs_business_and_content_verification",
-      "status": "content-needed"
+      "status": "rendered",
+      "canonical_path": "/bolgeler/noktalar/yesilova/"
     },
     {
       "reference_path": "/yildiz-mahallesi-cekici",
       "reference_label": "Yıldız Mahallesi Çekici",
       "in_reference_sitemap": true,
       "new_site_status": "needs_business_and_content_verification",
-      "status": "content-needed"
+      "status": "rendered",
+      "canonical_path": "/bolgeler/noktalar/yildiz-mahallesi/"
     },
     {
       "reference_path": "/zeytinler-cekici",
       "reference_label": "Zeytinler Çekici",
       "in_reference_sitemap": true,
       "new_site_status": "needs_business_and_content_verification",
-      "status": "content-needed"
+      "status": "rendered",
+      "canonical_path": "/bolgeler/urla/zeytinler/"
     },
     {
       "reference_path": "/uckuyular-cekici",
       "reference_label": "Üçkuyular Çekici",
       "in_reference_sitemap": true,
       "new_site_status": "needs_business_and_content_verification",
-      "status": "content-needed"
+      "status": "rendered",
+      "canonical_path": "/bolgeler/karabaglar/uckuyular/"
     },
     {
       "reference_path": "/eskiizmir-cekici",
       "reference_label": "Eskiizmir Çekici",
       "in_reference_sitemap": false,
       "new_site_status": "needs_business_and_content_verification",
-      "status": "content-needed"
+      "status": "rendered",
+      "canonical_path": "/bolgeler/noktalar/eskiizmir/"
     },
     {
       "reference_path": "/sahilevleri-cekici",
       "reference_label": "Sahilevleri Çekici",
       "in_reference_sitemap": true,
       "new_site_status": "needs_business_and_content_verification",
-      "status": "content-needed"
+      "status": "rendered",
+      "canonical_path": "/bolgeler/narlidere/sahilevleri/"
     },
     {
       "reference_path": "/sirince-cekici",
       "reference_label": "Şirince Çekici",
       "in_reference_sitemap": true,
       "new_site_status": "needs_business_and_content_verification",
-      "status": "content-needed"
+      "status": "rendered",
+      "canonical_path": "/bolgeler/selcuk/sirince/"
     },
     {
       "reference_path": "/belkahve-cekici",
       "reference_label": "Belkahve Çekici",
       "in_reference_sitemap": false,
       "new_site_status": "needs_business_and_content_verification",
-      "status": "content-needed"
+      "status": "rendered",
+      "canonical_path": "/guzergahlar/belkahve-rampasi/"
     },
     {
       "reference_path": "/sabuncubeli-cekici",
       "reference_label": "Sabuncubeli Çekici",
       "in_reference_sitemap": true,
       "new_site_status": "needs_business_and_content_verification",
-      "status": "content-needed"
+      "status": "rendered",
+      "canonical_path": "/guzergahlar/sabuncubeli-tuneli/"
     },
     {
       "reference_path": "/manisa-yolu-cekici",
       "reference_label": "Manisa Yolu Çekici",
       "in_reference_sitemap": true,
       "new_site_status": "needs_business_and_content_verification",
-      "status": "content-needed"
+      "status": "rendered",
+      "canonical_path": "/guzergahlar/manisa-yolu/"
     },
     {
       "reference_path": "/karakoy-cekici",
       "reference_label": "Karaköy Çekici",
       "in_reference_sitemap": true,
       "new_site_status": "needs_business_and_content_verification",
-      "status": "content-needed"
+      "status": "rendered",
+      "canonical_path": "/bolgeler/noktalar/karakoy/"
     },
     {
       "reference_path": "/ataturk-mahallesi-cekici",
       "reference_label": "Atatürk Mahallesi Çekici",
       "in_reference_sitemap": true,
       "new_site_status": "needs_business_and_content_verification",
-      "status": "content-needed"
+      "status": "rendered",
+      "canonical_path": "/bolgeler/noktalar/ataturk-mahallesi/"
     },
     {
       "reference_path": "/celebi-mahallesi-cekici",
       "reference_label": "Çelebi Mahallesi Çekici",
       "in_reference_sitemap": true,
       "new_site_status": "needs_business_and_content_verification",
-      "status": "content-needed"
+      "status": "rendered",
+      "canonical_path": "/bolgeler/guzelbahce/celebi-mahallesi/"
     },
     {
       "reference_path": "/kucukkaya-cekici",
       "reference_label": "Küçükkaya Çekici",
       "in_reference_sitemap": true,
       "new_site_status": "needs_business_and_content_verification",
-      "status": "content-needed"
+      "status": "rendered",
+      "canonical_path": "/bolgeler/noktalar/kucukkaya/"
     },
     {
       "reference_path": "/eserkent-cekici",
       "reference_label": "Eserkent Çekici",
       "in_reference_sitemap": false,
       "new_site_status": "needs_business_and_content_verification",
-      "status": "content-needed"
+      "status": "rendered",
+      "canonical_path": "/bolgeler/noktalar/eserkent/"
     },
     {
       "reference_path": "/zeytinkoy-cekici",
       "reference_label": "Zeytinköy Çekici",
       "in_reference_sitemap": true,
       "new_site_status": "needs_business_and_content_verification",
-      "status": "content-needed"
+      "status": "rendered",
+      "canonical_path": "/bolgeler/selcuk/zeytinkoy/"
     },
     {
       "reference_path": "/acarlar-cekici",
       "reference_label": "Acarlar Çekici",
       "in_reference_sitemap": true,
       "new_site_status": "needs_business_and_content_verification",
-      "status": "content-needed"
+      "status": "rendered",
+      "canonical_path": "/bolgeler/selcuk/acarlar/"
     },
     {
       "reference_path": "/barutcu-cekici",
       "reference_label": "Barutçu Çekici",
       "in_reference_sitemap": true,
       "new_site_status": "needs_business_and_content_verification",
-      "status": "content-needed"
+      "status": "rendered",
+      "canonical_path": "/bolgeler/selcuk/barutcu/"
     },
     {
       "reference_path": "/torbali-19-mayis-cekici",
       "reference_label": "Torbalı 19 Mayıs Çekici",
       "in_reference_sitemap": true,
       "new_site_status": "needs_business_and_content_verification",
-      "status": "content-needed"
+      "status": "rendered",
+      "canonical_path": "/bolgeler/torbali/19-mayis/"
     },
     {
       "reference_path": "/torbali-arslanlar-cekici",
       "reference_label": "Torbalı Arslanlar Çekici",
       "in_reference_sitemap": true,
       "new_site_status": "needs_business_and_content_verification",
-      "status": "content-needed"
+      "status": "rendered",
+      "canonical_path": "/bolgeler/torbali/arslanlar/"
     },
     {
       "reference_path": "/torbali-atalan-cekici",
       "reference_label": "Torbalı Atalan Çekici",
       "in_reference_sitemap": true,
       "new_site_status": "needs_business_and_content_verification",
-      "status": "content-needed"
+      "status": "rendered",
+      "canonical_path": "/bolgeler/torbali/atalan/"
     },
     {
       "reference_path": "/torbali-ataturk-cekici",
       "reference_label": "Torbalı Atatürk Çekici",
       "in_reference_sitemap": true,
       "new_site_status": "needs_business_and_content_verification",
-      "status": "content-needed"
+      "status": "rendered",
+      "canonical_path": "/bolgeler/torbali/ataturk/"
     },
     {
       "reference_path": "/torbali-bahcelievler-cekici",
       "reference_label": "Torbalı Bahçelievler Çekici",
       "in_reference_sitemap": true,
       "new_site_status": "needs_business_and_content_verification",
-      "status": "content-needed"
+      "status": "rendered",
+      "canonical_path": "/bolgeler/torbali/bahcelievler/"
     },
     {
       "reference_path": "/torbali-bozkoy-cekici",
       "reference_label": "Torbalı Bozköy Çekici",
       "in_reference_sitemap": true,
       "new_site_status": "needs_business_and_content_verification",
-      "status": "content-needed"
+      "status": "rendered",
+      "canonical_path": "/bolgeler/torbali/bozkoy/"
     },
     {
       "reference_path": "/torbali-bulbuldere-cekici",
       "reference_label": "Torbalı Bülbüldere Çekici",
       "in_reference_sitemap": true,
       "new_site_status": "needs_business_and_content_verification",
-      "status": "content-needed"
+      "status": "rendered",
+      "canonical_path": "/bolgeler/torbali/bulbuldere/"
     },
     {
       "reference_path": "/torbali-cumhuriyet-cekici",
       "reference_label": "Torbalı Cumhuriyet Çekici",
       "in_reference_sitemap": true,
       "new_site_status": "needs_business_and_content_verification",
-      "status": "content-needed"
+      "status": "rendered",
+      "canonical_path": "/bolgeler/torbali/cumhuriyet/"
     },
     {
       "reference_path": "/torbali-cakirbeyli-cekici",
       "reference_label": "Torbalı Çakırbeyli Çekici",
       "in_reference_sitemap": true,
       "new_site_status": "needs_business_and_content_verification",
-      "status": "content-needed"
+      "status": "rendered",
+      "canonical_path": "/bolgeler/torbali/cakirbeyli/"
     },
     {
       "reference_path": "/torbali-camlica-cekici",
       "reference_label": "Torbalı Çamlıca Çekici",
       "in_reference_sitemap": true,
       "new_site_status": "needs_business_and_content_verification",
-      "status": "content-needed"
+      "status": "rendered",
+      "canonical_path": "/bolgeler/torbali/camlica/"
     },
     {
       "reference_path": "/torbali-dagkizilca-cekici",
       "reference_label": "Torbalı Dağkızılca Çekici",
       "in_reference_sitemap": true,
       "new_site_status": "needs_business_and_content_verification",
-      "status": "content-needed"
+      "status": "rendered",
+      "canonical_path": "/bolgeler/torbali/dagkizilca/"
     },
     {
       "reference_path": "/torbali-demirci-cekici",
       "reference_label": "Torbalı Demirci Çekici",
       "in_reference_sitemap": true,
       "new_site_status": "needs_business_and_content_verification",
-      "status": "content-needed"
+      "status": "rendered",
+      "canonical_path": "/bolgeler/torbali/demirci/"
     },
     {
       "reference_path": "/torbali-ertugrul-cekici",
       "reference_label": "Torbalı Ertuğrul Çekici",
       "in_reference_sitemap": true,
       "new_site_status": "needs_business_and_content_verification",
-      "status": "content-needed"
+      "status": "rendered",
+      "canonical_path": "/bolgeler/torbali/ertugrul/"
     },
     {
       "reference_path": "/torbali-fevzi-cakmak-cekici",
       "reference_label": "Torbalı Fevzi Çakmak Çekici",
       "in_reference_sitemap": true,
       "new_site_status": "needs_business_and_content_verification",
-      "status": "content-needed"
+      "status": "rendered",
+      "canonical_path": "/bolgeler/torbali/fevzi-cakmak/"
     },
     {
       "reference_path": "/torbali-golluce-cekici",
       "reference_label": "Torbalı Göllüce Çekici",
       "in_reference_sitemap": true,
       "new_site_status": "needs_business_and_content_verification",
-      "status": "content-needed"
+      "status": "rendered",
+      "canonical_path": "/bolgeler/torbali/golluce/"
     },
     {
       "reference_path": "/torbali-helvaci-cekici",
       "reference_label": "Torbalı Helvacı Çekici",
       "in_reference_sitemap": true,
       "new_site_status": "needs_business_and_content_verification",
-      "status": "content-needed"
+      "status": "rendered",
+      "canonical_path": "/bolgeler/torbali/helvaci/"
     },
     {
       "reference_path": "/torbali-istiklal-cekici",
       "reference_label": "Torbalı İstiklal Çekici",
       "in_reference_sitemap": true,
       "new_site_status": "needs_business_and_content_verification",
-      "status": "content-needed"
+      "status": "rendered",
+      "canonical_path": "/bolgeler/torbali/istiklal/"
     },
     {
       "reference_path": "/torbali-kaplancik-cekici",
       "reference_label": "Torbalı Kaplancık Çekici",
       "in_reference_sitemap": true,
       "new_site_status": "needs_business_and_content_verification",
-      "status": "content-needed"
+      "status": "rendered",
+      "canonical_path": "/bolgeler/torbali/kaplancik/"
     },
     {
       "reference_path": "/torbali-karakuyu-cekici",
       "reference_label": "Torbalı Karakuyu Çekici",
       "in_reference_sitemap": true,
       "new_site_status": "needs_business_and_content_verification",
-      "status": "content-needed"
+      "status": "rendered",
+      "canonical_path": "/bolgeler/torbali/karakuyu/"
     },
     {
       "reference_path": "/torbali-karsiyaka-cekici",
       "reference_label": "Torbalı Karşıyaka Çekici",
       "in_reference_sitemap": true,
       "new_site_status": "needs_business_and_content_verification",
-      "status": "content-needed"
+      "status": "rendered",
+      "canonical_path": "/bolgeler/torbali/karsiyaka/"
     },
     {
       "reference_path": "/torbali-pamukyazi-cekici",
       "reference_label": "Torbalı Pamukyazı Çekici",
       "in_reference_sitemap": true,
       "new_site_status": "needs_business_and_content_verification",
-      "status": "content-needed"
+      "status": "rendered",
+      "canonical_path": "/bolgeler/torbali/pamukyazi/"
     },
     {
       "reference_path": "/torbali-saglik-cekici",
       "reference_label": "Torbalı Sağlık Çekici",
       "in_reference_sitemap": true,
       "new_site_status": "needs_business_and_content_verification",
-      "status": "content-needed"
+      "status": "rendered",
+      "canonical_path": "/bolgeler/torbali/saglik/"
     },
     {
       "reference_path": "/torbali-tulum-cekici",
       "reference_label": "Torbalı Tulum Çekici",
       "in_reference_sitemap": true,
       "new_site_status": "needs_business_and_content_verification",
-      "status": "content-needed"
+      "status": "rendered",
+      "canonical_path": "/bolgeler/torbali/tulum/"
     },
     {
       "reference_path": "/torbali-yogurtcular-cekici",
       "reference_label": "Torbalı Yoğurtçular Çekici",
       "in_reference_sitemap": true,
       "new_site_status": "needs_business_and_content_verification",
-      "status": "content-needed"
+      "status": "rendered",
+      "canonical_path": "/bolgeler/torbali/yogurtcular/"
     },
     {
       "reference_path": "/izmir-otoyolu-cekici",
       "reference_label": "İzmir Otoyolu Çekici",
       "in_reference_sitemap": false,
       "new_site_status": "needs_business_and_content_verification",
-      "status": "content-needed"
+      "status": "rendered",
+      "canonical_path": "/guzergahlar/izmir-otoyolu/"
     },
     {
       "reference_path": "/otogar-otoyolu-cekici",
       "reference_label": "Otogar Otoyolu Çekici",
       "in_reference_sitemap": false,
       "new_site_status": "needs_business_and_content_verification",
-      "status": "content-needed"
+      "status": "rendered",
+      "canonical_path": "/guzergahlar/otogar-otoyolu/"
     },
     {
       "reference_path": "/istanbul-yolu-cekici",
       "reference_label": "İstanbul Yolu Çekici",
       "in_reference_sitemap": false,
       "new_site_status": "needs_business_and_content_verification",
-      "status": "content-needed"
+      "status": "rendered",
+      "canonical_path": "/guzergahlar/istanbul-otoyolu/"
     },
     {
       "reference_path": "/belkahve-tunelleri-cekici",
       "reference_label": "Belkahve Tünelleri Çekici",
       "in_reference_sitemap": false,
       "new_site_status": "needs_business_and_content_verification",
-      "status": "content-needed"
+      "status": "rendered",
+      "canonical_path": "/guzergahlar/belkahve-tunelleri/"
     },
     {
       "reference_path": "/ankara-otoyolu-cekici",
       "reference_label": "Ankara Otoyolu Çekici",
       "in_reference_sitemap": false,
       "new_site_status": "needs_business_and_content_verification",
-      "status": "content-needed"
+      "status": "rendered",
+      "canonical_path": "/guzergahlar/ankara-yolu/"
     },
     {
       "reference_path": "/bursa-otoyolu-cekici",
       "reference_label": "Bursa Otoyolu Çekici",
       "in_reference_sitemap": true,
       "new_site_status": "needs_business_and_content_verification",
-      "status": "content-needed"
+      "status": "rendered",
+      "canonical_path": "/guzergahlar/bursa-yolu/"
     },
     {
       "reference_path": "/yaka-cekici",
       "reference_label": "Yaka Çekici",
       "in_reference_sitemap": true,
       "new_site_status": "needs_business_and_content_verification",
-      "status": "content-needed"
+      "status": "rendered",
+      "canonical_path": "/bolgeler/noktalar/yaka-mahallesi/"
     },
     {
       "reference_path": "/limanreis-cekici",
       "reference_label": "Limanreis Çekici",
       "in_reference_sitemap": true,
       "new_site_status": "needs_business_and_content_verification",
-      "status": "content-needed"
+      "status": "rendered",
+      "canonical_path": "/bolgeler/guzelbahce/liman-reis/"
     },
     {
       "reference_path": "/kordon-cekici",
       "reference_label": "Kordon Çekici",
       "in_reference_sitemap": true,
       "new_site_status": "needs_business_and_content_verification",
-      "status": "content-needed"
+      "status": "rendered",
+      "canonical_path": "/bolgeler/konak/kordon/"
     },
     {
       "reference_path": "/pasaport-cekici",
       "reference_label": "Pasaport Çekici",
       "in_reference_sitemap": true,
       "new_site_status": "needs_business_and_content_verification",
-      "status": "content-needed"
+      "status": "rendered",
+      "canonical_path": "/bolgeler/konak/pasaport/"
     },
     {
       "reference_path": "/ciftlikkoy-cekici",
       "reference_label": "Çiftlikköy Çekici",
       "in_reference_sitemap": true,
       "new_site_status": "needs_business_and_content_verification",
-      "status": "content-needed"
+      "status": "rendered",
+      "canonical_path": "/bolgeler/cesme/ciftlikkoy/"
     }
   ]
 }

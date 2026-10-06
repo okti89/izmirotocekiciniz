@@ -1,27 +1,46 @@
 # İzmir Oto Çekiciniz
 
-İlk aşama: 16 içerik sayfası ve bir 404 rotası. 8 özgün hizmet sayfası, Gaziemir ve Menderes bölge sayfaları; 30 ilçeyi ve referanstaki diğer hedefleri kapsayan aramalı rehber.
+Hedef alan adı: https://izmirotocekiciniz.com
+Telefon ve WhatsApp: +90 536 676 28 66. Çalışma saatleri: 7/24. Ana çıkış ilçeleri: Gaziemir ve Menderes.
 
-## Önizleme
+262 içerik sayfası + 404. 248 tekil bölge sayfası: 30 ilçe, 189 mahalle/semt/diğer nokta, 21 güzergâh ve 8 sanayi sitesi. Sekiz hizmet sayfası ve yardımcı sayfalar korunur. Referanstaki 275 hedefin tamamı `url-mapping.json` içinde eşlenmiştir; aynı yerin farklı yazımları 301 ile tek içerik adresine gider. Eski sitede yönlendirme veya DNS değişikliği yapılmadı.
 
-`python3 build.py` tüm sayfalara noindex verir. Özel önizleme sitemap'i boş tutulur. Sahte adres, şube, yıldız veya müşteri yorumu bulunmaz. Telefon/WhatsApp: +90 536 676 28 66; çalışma saatleri 7/24.
+## Hazırlama ve doğrulama
 
-`python3 -m http.server 4173 --bind 127.0.0.1 --directory dist`
+`python3 build.py` özel önizlemeyi üretir. Tüm sayfalar noindex; canonical adresler hedef alan adını kullanır. Önizleme sitemap'i Google'a duyurulmaz.
 
-## Asıl alan adına geçiş
+`python3 tools/validate.py`
 
-`python3 build.py --public --origin https://GERCEK-ALAN-ADI`
+`python3 server.py` yerel önizlemeyi http://127.0.0.1:4173 üzerinde açar. Yerel sunucu, yönlendirmeleri ve gerçek 404 yanıtını da uygular.
 
-Bu komut 16 hazır içerik sayfasını indekslenebilir yapar ve yalnızca bu URL'leri sitemap'e ekler. Önce gerçek alan adını seçin; iki siteyi eşdeğer içerikle indekslemeye açmayın. Mevcut alan adının yerini alacaksa eski URL'ler için sayfa bazında 301 eşlemesi hazırlayın; eski SEO değeri olan bölge sayfalarını otomatik olarak kaldırmayın. Farklı markalı yeni alan adıysa içerik ve işletme ilişkisini ayrıca değerlendirin. Yönlendirmeler ve DNS henüz uygulanmadı.
+## İlk kamuya açık yayın
 
-`content-backlog.json` tüm kalan referans hedeflerini içerir. Kalan hedefler yayınlanmış bağımsız sayfalar değildir. İlçe/mahalle/güzergâh adının değişmesi bir sayfayı özgün yapmaz; doğrulanmış yerel fayda sağlandıktan sonra sayfa ekleyin.
+`python3 build.py --public`
 
-Her yayın öncesi: gerçek hizmet kapsamı, iletişim, robots/noindex ve canonical alan adı, sitemap, iç bağlantılar ve görsel erişimi kontrol edilmeli. Search Console gönderimi için alan adı doğrulaması gerekir. Performans saha verileri henüz mevcut değildir.
+Bu işlem yalnızca ilk aşamadaki 16 sayfayı index yapar. Diğer 246 içerik sayfası noindex,follow kalır. İlk aşama sitemap'i `launch/sitemap.xml` dosyasında ayrıca hazırlanmıştır. Canonical, Open Graph, yapılandırılmış veri ve sitemap https://izmirotocekiciniz.com adresini kullanır.
 
-## Görseller
+DNS kaydı: `launch/DNS-VE-YAYIN.md`. Alan adı bağlantısı DNS/SSL doğrulaması bekliyor. Site erişimi halen sahibine özeldir; alan adı bağlanması bu ayarı değiştirmez. Kamuya açık erişim ve üretim çıktısı birlikte yayımlanmadan Search Console'a sitemap göndermeyin.
 
-İşletme sahibinin izniyle izmircekicioto.com'dan alındı. Açılış görseli sıkıştırıldı; galeri aşağıda gecikmeli yüklenir. Görsellerden iş tarihi, müdahale süresi veya müşteri referansı çıkarılmadı.
+İlk aşama kontrolü: `python3 tools/validate.py --public`. Değişiklikten sonra özel önizlemeye dönmek için `python3 build.py` çalıştırın.
 
-## Google İşletme Profili
+## Diğer sayfaların indekslenmesi
 
-Çekici olmak tek başına profil oluşturmayı engellemez. Müşterinin bulunduğu yere giden işletmeler hizmet bölgesi modeli kapsamında değerlendirilebilir. Gerçek adres/işletme bilgileriyle uygunluk ve doğrulama ayrıca yapılmalı. Kaynak: https://support.google.com/business/answer/9157481?hl=tr
+`index-regions.json` içindeki `indexable_paths` listesine yalnızca onaylanan canonical yolları ekleyin. Üretim derlemesi bunları sitemap'e ekler ve index etiketine geçirir. `publication-plan.json` mevcut aşamaları listeler.
+
+Bölge sayfaları hizmet talebine yardımcı olan kısa rehberlerdir; başlık, gerçek ilçe ilişkisi, güzergâh/erişim bilgisi ve bölgeye özel WhatsApp talep bağlantısı içerir. Aynı mahalle adının birden fazla ilçede geçtiği durumlarda ilçe seçimi açıklanır. Ortak taşıma prosedürleri tekrar edebilir; yalnızca kelimeleri değiştirmek özgün yerel değer sayılmaz.
+
+Kaynak yer bilgisi sınırlı olan sayfalarda özel ekip, şube, gerçek vaka, kesin süre veya fiyat uydurulmadı. İndeksleme genişletilmeden önce gerçek hizmet kayıtları, güncel erişim bilgileri ve varsa izinli operasyon örnekleriyle içerik incelenmelidir. Bütün sayfaların oluşturulması, bütün sayfaların Google tarafından indeksleneceği veya sıralanacağı anlamına gelmez.
+
+`reference-facts.json` işletme sahibine ait referans siteden okunan yer bilgilerini; `region-catalog.json` birleşen adları ve yeni yolları saklar. Bu kaynak verileri operasyon iddialarını veya resmî coğrafi doğruluğu bağımsız olarak kanıtlamaz. Hatalı kaynak adres `/isikkoy-cekici`, Işıkkent sayfasına eşlenmiştir.
+
+## Görseller ve işletme bilgisi
+
+Görseller işletme sahibinin izniyle izmircekicioto.com'dan alındı. Ana görsel sıkıştırıldı; aşağıdaki galeri gecikmeli yüklenir. Görsellerden tarih, müşteri kimliği veya müdahale süresi türetilmedi. Sahte adres, yıldız ve yorum kullanılmadı. İşletme profili mevcutmuş gibi gösterilmez.
+
+## Ölçüm ve SEO
+
+Başlık, description, H1, canonical, JSON-LD, yerel bağlantılar, yönlendirme hedefleri, sitemap kapsamı ve indeksleme durumları kontrol edilir. Bunlar içerik kalitesi incelemesi veya sıralama garantisi değildir. Search Console gönderimi ve saha performans ölçümü henüz yapılmadı.
+
+## Onaylanan tasarım ve içerik güncellemesi
+
+Koyu lacivert, amber/sarı ve beyaz tasarım bütün sayfalarda kullanılır. Mobil hamburger menü sağdan kayar; Escape, arka plan ve kapatma düğmesiyle kapanır, klavye odağını korur. Ana sayfa, sekiz hizmet sayfası, Gaziemir, Menderes, fiyatlandırma ve hakkımızda içerikleri genişletildi. Hizmete özgü editoryal metinler content_enrichment.py dosyasında yönetilir. Diğer bölge sayfalarının ek yerel ve işletme kaynaklarıyla doğrulanması hâlâ gerekir; bu sayfalar varsayılan olarak noindex tutulur. Kelime sayısı veya sıralama garantisi verilmez.
