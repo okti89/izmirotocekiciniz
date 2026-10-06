@@ -3,7 +3,7 @@ from html import escape as e
 import json,argparse
 from urllib.parse import quote
 ROOT=Path(__file__).parent;DIST=ROOT/'dist'
-parser=argparse.ArgumentParser();parser.add_argument('--origin',default='https://izmir-oto-cekiciniz.jolly-plum-8834.chatgpt.site');parser.add_argument('--public',action='store_true');args=parser.parse_args();ORIGIN=args.origin.rstrip('/');PHONE='0536 676 28 66';TEL='tel:+905366762866';WA='https://wa.me/905366762866?text='+quote('Merhaba, çekici veya yol yardım için destek almak istiyorum.');PUBLIC=args.public
+parser=argparse.ArgumentParser();parser.add_argument('--origin',default='https://izmir-oto-cekiciniz.cinarservisinfo2.chatgpt.site');parser.add_argument('--public',action='store_true');args=parser.parse_args();ORIGIN=args.origin.rstrip('/');PHONE='0536 676 28 66';TEL='tel:+905366762866';WA='https://wa.me/905366762866?text='+quote('Merhaba, çekici veya yol yardım için destek almak istiyorum.');PUBLIC=args.public
 services=[
 ('oto-cekici','Oto çekici','Arıza veya kaza sonrası aracınızın servise taşınması.'),
 ('aku-takviye','Akü takviye','Marş almayan araçlar için yerinde destek değerlendirmesi.'),
@@ -87,7 +87,7 @@ detail('/bolgeler/menderes/','Menderes çekici ve yol yardım','Menderes’te 7/
 ('Gümüldür, Özdere ve sahil hattı','Sahil hattındaki bir talepte ilçe merkezine göre mesafe değişebilir. Yolun yönü, yakın görünür nokta ve konum bağlantısı sevk planını kolaylaştırır. Özellikle tatil dönemlerinde trafik ve ekibin mevcut durumu tahmini varış süresini etkileyebileceği için sabit dakika vaadi verilmez.'),
 ('Kırsal erişim ve teslim planı','Aracın dar bir yolda, eğimli zeminde veya ana yoldan uzakta bulunması yükleme erişimini etkileyebilir. Konumla birlikte aracın çevresini gösteren fotoğraf paylaşın. Seçtiğiniz servisin ya da teslim adresinin konumu ve kabul koşulları belirlenerek taşıma kapsamı görüşülür.')],questions=[('Özdere ve Gümüldür için nasıl konum göndermeliyim?','WhatsApp üzerinden konum bağlantısı, aracın fotoğrafı ve yakın görünür noktayı paylaşabilirsiniz. Alınacak ve teslim edilecek adresi birlikte belirtin.'),('Menderes’te yerinde akü desteği var mı?','Araç modeli, belirti ve konum bilgisiyle akü takviye uygunluğu değerlendirilir. Yerinde çözüm mümkün değilse servis transferi planlanır.')],parent=('Hizmet bölgeleri','/hizmet-bolgeleri/'),service='Menderes oto çekici')
 import re
-inventory=json.loads((ROOT.parent/'referans-sayfa-envanteri.json').read_text())['pages']
+inventory=json.loads((ROOT/'content-backlog.json').read_text())['regions']
 districts='Aliağa Balçova Bayındır Bayraklı Bergama Beydağ Bornova Buca Çeşme Çiğli Dikili Foça Gaziemir Güzelbahçe Karabağlar Karaburun Karşıyaka Kemalpaşa Kınık Kiraz Konak Menderes Menemen Narlıdere Ödemiş Seferihisar Selçuk Tire Torbalı Urla'.split()
 nonregions={'/','/cekici','/aku-takviye','/oto-elektrik','/motorsiklet-cekici','/agir-vasita-kurtarma','/agir-ticari-cekici','/hizmet-bolgeleri','/iletisim','/fiyatlar','/oto-kurtarma','/lastik-yol-yardim'}
 groups={'ilceler':('İzmir’in 30 ilçesi',[]),'guzergahlar':('Otoyollar, bağlantı yolları ve tüneller',[]),'sanayi':('Sanayi siteleri',[]),'noktalar':('Mahalle, semt ve diğer hizmet noktaları',[])}
