@@ -21,9 +21,9 @@ scrim.addEventListener('click',()=>setOpen(false));
 drawer.addEventListener('click',event=>{if(event.target.closest('a'))setOpen(false,false);});
 document.addEventListener('keydown',event=>{
  if(!opened)return;
- if(event.key==='Escape'){event.preventDefault();setOpen(false);}
+ if(event.key==='Escape'){event.preventDefault();const activeGroup=[...drawer.querySelectorAll('.nav-group[open]')].find(group=>group.contains(document.activeElement));if(activeGroup){activeGroup.open=false;activeGroup.querySelector('summary').focus();}else{setOpen(false);}}
  if(event.key==='Tab'){
- const items=[...drawer.querySelectorAll('a,button')].filter(item=>item.getClientRects().length);
+ const items=[...drawer.querySelectorAll('a,button,summary')].filter(item=>item.getClientRects().length);
  const first=items[0],last=items[items.length-1];
  if(event.shiftKey&&document.activeElement===first){event.preventDefault();last.focus();}
  else if(!event.shiftKey&&document.activeElement===last){event.preventDefault();first.focus();}
@@ -32,3 +32,8 @@ document.addEventListener('keydown',event=>{
 mobile.addEventListener('change',()=>setOpen(false,false));setOpen(false,false);
 
 const search=document.querySelector('#region-search');search?.addEventListener('input',()=>{const query=search.value.toLocaleLowerCase('tr').trim();let total=0;document.querySelectorAll('.location').forEach(item=>{const match=item.textContent.toLocaleLowerCase('tr').includes(query);item.hidden=!match;if(match)total++});document.querySelector('#result-count').textContent=total+' hizmet noktası gösteriliyor.'});
+
+const navGroups=[...document.querySelectorAll('.nav-group')];
+navGroups.forEach(group=>group.addEventListener('toggle',()=>{if(group.open)navGroups.forEach(other=>{if(other!==group)other.open=false;});}));
+document.addEventListener('click',event=>{if(!drawer.contains(event.target))navGroups.forEach(group=>group.open=false);});
+document.addEventListener('keydown',event=>{if(event.key==='Escape'&&!mobile.matches)navGroups.filter(group=>group.open).forEach(group=>{group.open=false;group.querySelector('summary').focus();});});
