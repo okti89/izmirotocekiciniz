@@ -1,7 +1,7 @@
 # İzmir Oto Çekiciniz
 
 Hedef alan adı: https://izmirotocekiciniz.com
-Telefon ve WhatsApp: +90 536 676 28 66. Çalışma saatleri: 7/24. Ana çıkış ilçeleri: Gaziemir ve Menderes.
+Telefon ve WhatsApp: +90 536 676 28 66. Çalışma saatleri: 7/24. Hedef hizmet alanı: İzmir’in 30 ilçesi.
 
 262 içerik sayfası + 404. 248 tekil bölge sayfası: 30 ilçe, 189 mahalle/semt/diğer nokta, 21 güzergâh ve 8 sanayi sitesi. Sekiz hizmet sayfası ve yardımcı sayfalar korunur. Referanstaki 275 hedefin tamamı `url-mapping.json` içinde eşlenmiştir; aynı yerin farklı yazımları 301 ile tek içerik adresine gider. Eski sitede yönlendirme veya DNS değişikliği yapılmadı.
 
