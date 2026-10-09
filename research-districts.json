@@ -1,0 +1,527 @@
+{
+  "checked_on": "2026-10-09",
+  "scope": "30 İzmir ilçesi: resmi coğrafya ve yerleşim bilgileri; bağlantılı talep önerileri editoryal çıkarımdır.",
+  "limitations": [
+    "Valilik tanıtımlarında 2009 nüfusları ve eski idari sınırlar vardır; nüfus, belde/köy sayıları, merkez mesafeleri, eski kurum sayıları ve tartışmalı komşuluklar kullanılmadı.",
+    "Foça, Güzelbahçe ve Karşıyaka bilgileri resmi kaynağın arama motorunda görünen içeriği üzerinden doğrulandı; sayfa açma denemesinde geçici hatalar oluştu.",
+    "Talep önerileri resmi kurumların çekici hizmeti önerisi değildir; sabit coğrafi bilgilerden oluşturulmuş editoryal yönlendirmedir.",
+    "Bu araştırma işletmenin şubesini, filosunu, varış süresini, belirli yerde gerçekleştirdiği işi veya müşteri yorumunu doğrulamaz."
+  ],
+  "districts": {
+    "aliaga": {
+      "name": "Aliağa",
+      "status": "verified_static_facts",
+      "facts": [
+        "İzmir’in kuzeyinde Ege kıyısında yer alır.",
+        "Nemrut Koyu, liman ve sanayi tesisleri ilçenin belirgin noktalarıdır."
+      ],
+      "sources": [
+        {
+          "title": "İzmir Valiliği — Aliağa",
+          "url": "https://www.izmir.gov.tr/aliaga",
+          "type": "official_primary"
+        }
+      ],
+      "paragraph": "Aliağa’da ilçe merkezi ile Nemrut Koyu çevresindeki sanayi ve liman alanları farklı konumlar olabilir. Çekici talebinde tesis adıyla birlikte giriş kapısı ve aracın beklediği yolun paylaşılması, yalnızca ilçe adının verilmesinden daha açıklayıcıdır.",
+      "paragraph_type": "editorial_guidance_based_on_verified_geography"
+    },
+    "balcova": {
+      "name": "Balçova",
+      "status": "verified_static_facts",
+      "facts": [
+        "İzmir Körfezi kıyısında yer alır.",
+        "İnciraltı ve Teleferik ilçedeki rekreasyon alanlarıdır."
+      ],
+      "sources": [
+        {
+          "title": "İzmir Valiliği — Balçova",
+          "url": "https://www.izmir.gov.tr/balcova",
+          "type": "official_primary"
+        }
+      ],
+      "paragraph": "Balçova’da İnciraltı çevresi, Teleferik ve termal tesisler ayrı konum tarifleri gerektirir. Aracınız tesis otoparkındaysa otopark adı ve giriş bilgisi; cadde üzerindeyse açık adres ve harita pini paylaşılmalıdır.",
+      "paragraph_type": "editorial_guidance_based_on_verified_geography"
+    },
+    "bayindir": {
+      "name": "Bayındır",
+      "status": "verified_static_facts",
+      "facts": [
+        "Küçükmenderes Havzasında bulunur.",
+        "Torbalı, Tire ve Ödemiş ile çevrili tarımsal bir ilçedir."
+      ],
+      "sources": [
+        {
+          "title": "İzmir Valiliği — Bayındır",
+          "url": "https://www.izmir.gov.tr/bayindir",
+          "type": "official_primary"
+        }
+      ],
+      "paragraph": "Bayındır, Küçükmenderes Havzasındaki yerleşimlerden biridir. İlçe merkezi dışında kalan bir noktada araç taşıma talebi verirken bulunduğunuz mahalleyi ve bağlantı yolunu birlikte belirtin; tarla veya özel mülk girişindeyseniz aracın yol üzerindeki konumunu da açıklayın.",
+      "paragraph_type": "editorial_guidance_based_on_verified_geography"
+    },
+    "bayrakli": {
+      "name": "Bayraklı",
+      "status": "verified_static_facts",
+      "facts": [
+        "İzmir Körfezi’nin kuzeydoğu köşesinde yer alır.",
+        "İzmir–Çanakkale karayolu hattı üzerinde bulunur."
+      ],
+      "sources": [
+        {
+          "title": "İzmir İl Kültür ve Turizm Müdürlüğü — Bayraklı",
+          "url": "https://izmir.ktb.gov.tr/TR-77441/bayrakli.html",
+          "type": "official_primary"
+        }
+      ],
+      "paragraph": "Bayraklı’da körfez çevresindeki kent içi konum ile İzmir–Çanakkale bağlantısı üzerindeki konum aynı tarif değildir. Ana yol üzerinde bekliyorsanız hareket yönünü ve en yakın çıkış veya tabelayı; mahalle içindeyseniz cadde ve sokak bilgisini paylaşın.",
+      "paragraph_type": "editorial_guidance_based_on_verified_geography"
+    },
+    "bergama": {
+      "name": "Bergama",
+      "status": "verified_static_facts",
+      "facts": [
+        "Bakırçay Havzasında yer alır.",
+        "Kozak Yaylası ilçe merkezinden farklı bir kırsal konumdur."
+      ],
+      "sources": [
+        {
+          "title": "İzmir Valiliği — Bergama",
+          "url": "https://www.izmir.gov.tr/bergama",
+          "type": "official_primary"
+        }
+      ],
+      "paragraph": "Bergama merkezindeki bir araç ile Kozak Yaylası çevresindeki bir araç için konum tarifi değişir. Yayla veya kırsal bir noktadaysanız mahalle adını, izlediğiniz yolu ve harita konumunu birlikte gönderin; taşıma hedefinin Bergama içinde mi yoksa başka ilçede mi olduğunu belirtin.",
+      "paragraph_type": "editorial_guidance_based_on_verified_geography"
+    },
+    "beydag": {
+      "name": "Beydağ",
+      "status": "verified_static_facts",
+      "facts": [
+        "İzmir’in doğusunda Ödemiş ve Kiraz yakınındadır.",
+        "Tarım ve hayvancılığın yer aldığı bir ilçedir."
+      ],
+      "sources": [
+        {
+          "title": "İzmir Valiliği — Beydağ",
+          "url": "https://www.izmir.gov.tr/beydag",
+          "type": "official_primary"
+        }
+      ],
+      "paragraph": "Beydağ’da merkez dışında bir konumdan talep oluştururken mahalle adı ve yol üzerindeki yakın bir işaret birlikte kullanılmalıdır. Aracın tarımsal bir alanda mı yoksa asfalt yol kenarında mı olduğunu açıklamak, erişim koşullarının görüşülmesine yardımcı olur.",
+      "paragraph_type": "editorial_guidance_based_on_verified_geography"
+    },
+    "bornova": {
+      "name": "Bornova",
+      "status": "verified_static_facts",
+      "facts": [
+        "Ege Üniversitesi ana kampüsü Bornova’dadır.",
+        "Yerleşim ve üniversite alanlarının yanında sanayi alanları bulunur."
+      ],
+      "sources": [
+        {
+          "title": "İzmir Valiliği — Bornova",
+          "url": "https://www.izmir.gov.tr/bornova",
+          "type": "official_primary"
+        }
+      ],
+      "paragraph": "Bornova’da kampüs, konut veya sanayi tesisi konumunu açıkça ayırın. Kampüs ve iş yeri içindeki taleplerde giriş kapısını; sokak üzerindeki taleplerde cadde, sokak ve araç bekleme noktasını belirtin. Kapalı otopark söz konusuysa erişim bilgisi ayrıca konuşulmalıdır.",
+      "paragraph_type": "editorial_guidance_based_on_verified_geography"
+    },
+    "buca": {
+      "name": "Buca",
+      "status": "verified_static_facts",
+      "facts": [
+        "Dokuz Eylül Üniversitesi fakültelerinin önemli bir bölümü ilçededir.",
+        "Kaynaklar, Kırıklar ve Belenbaşı ilçe içindeki ayrı yerleşim noktalarıdır."
+      ],
+      "sources": [
+        {
+          "title": "İzmir Valiliği — Buca",
+          "url": "https://www.izmir.gov.tr/buca",
+          "type": "official_primary"
+        }
+      ],
+      "paragraph": "Buca’daki bir talebi yalnızca ilçe adıyla tarif etmek yerine üniversite yerleşkesi, kent içi mahalle veya Kaynaklar–Kırıklar çevresindeki konum olarak açıklayın. Özel giriş veya otopark varsa kapı bilgisini ve aracın bulunduğu alanı paylaşın.",
+      "paragraph_type": "editorial_guidance_based_on_verified_geography"
+    },
+    "cesme": {
+      "name": "Çeşme",
+      "status": "verified_static_facts",
+      "facts": [
+        "İzmir’in batısında Ege kıyısındadır.",
+        "Alaçatı, Ilıca, Şifne ve Ildırı ilçenin farklı kıyı noktalarıdır."
+      ],
+      "sources": [
+        {
+          "title": "İzmir Valiliği — Çeşme",
+          "url": "https://www.izmir.gov.tr/cesme",
+          "type": "official_primary"
+        }
+      ],
+      "paragraph": "Çeşme merkez, Alaçatı, Ilıca, Şifne ve Ildırı aynı konum olarak değerlendirilmemelidir. Çekici talebinde bulunduğunuz yerleşimi, otel veya otopark adını ve harita konumunu birlikte belirtin. Aracın bırakılacağı servis farklı ilçedeyse bunu baştan paylaşın.",
+      "paragraph_type": "editorial_guidance_based_on_verified_geography"
+    },
+    "cigli": {
+      "name": "Çiğli",
+      "status": "verified_static_facts",
+      "facts": [
+        "İzmir Körfezi’nin kuzeyinde eski Gediz yatağının oluşturduğu ovada bulunur.",
+        "Atatürk Organize Sanayi Bölgesi ilçededir."
+      ],
+      "sources": [
+        {
+          "title": "İzmir Valiliği — Çiğli",
+          "url": "https://www.izmir.gov.tr/cigli",
+          "type": "official_primary"
+        }
+      ],
+      "paragraph": "Çiğli’de kent içindeki bir adres ile Atatürk Organize Sanayi Bölgesi içindeki tesis girişi farklı konum bilgileri gerektirir. Sanayi alanındaysanız firma adı, kapı ve sokak bilgisini; konut çevresindeyseniz mahalle ve açık adresi paylaşın.",
+      "paragraph_type": "editorial_guidance_based_on_verified_geography"
+    },
+    "dikili": {
+      "name": "Dikili",
+      "status": "verified_static_facts",
+      "facts": [
+        "İzmir’in kuzeyinde Ege Denizi kıyısındadır.",
+        "Çandarlı ile Merdivenli ve Denizköy çevresi ilçede farklı konumlardır."
+      ],
+      "sources": [
+        {
+          "title": "İzmir Valiliği — Dikili",
+          "url": "https://www.izmir.gov.tr/dikili",
+          "type": "official_primary"
+        }
+      ],
+      "paragraph": "Dikili merkez, Çandarlı ve Denizköy çevresindeki talepler için yerleşim adını ayrıca belirtin. Kıyı tesisi ya da konaklama alanındaysanız giriş noktasını paylaşın; merkez dışındaki bir yol üzerindeyseniz mahalle ve yol tarifiyle birlikte harita pini gönderin.",
+      "paragraph_type": "editorial_guidance_based_on_verified_geography"
+    },
+    "foca": {
+      "name": "Foça",
+      "status": "verified_static_facts",
+      "facts": [
+        "Eski Foça ile Yeni Foça ayrı kıyı yerleşimleridir.",
+        "İki Foça arasındaki kıyı hattında koylar ve yerleşimler bulunur."
+      ],
+      "sources": [
+        {
+          "title": "Foça Kaymakamlığı — Karadan ve Denizden Foça",
+          "url": "https://foca.gov.tr/karadan-ve-denizden-foca",
+          "type": "official_primary"
+        }
+      ],
+      "paragraph": "Foça talebinde Eski Foça’da mı, Yeni Foça’da mı yoksa iki yerleşim arasındaki bir noktada mı olduğunuzu belirtin. Kıyı yolundaki bir konum için en yakın koy, tesis veya tabelayla birlikte harita pini paylaşmak konumun karıştırılmasını azaltır.",
+      "paragraph_type": "editorial_guidance_based_on_verified_geography"
+    },
+    "gaziemir": {
+      "name": "Gaziemir",
+      "status": "verified_static_facts",
+      "facts": [
+        "Adnan Menderes Havalimanı ve Ege Serbest Bölgesi ilçededir.",
+        "Sarnıç çevresinde sanayi alanları bulunur."
+      ],
+      "sources": [
+        {
+          "title": "İzmir Valiliği — Gaziemir",
+          "url": "https://www.izmir.gov.tr/gaziemir",
+          "type": "official_primary"
+        }
+      ],
+      "paragraph": "Gaziemir’de havalimanı, Ege Serbest Bölgesi veya Sarnıç çevresinden talep verirken alanın adını ve giriş noktasını belirtin. Havalimanı otoparkı ya da kontrollü girişli bir tesisteyseniz araç bekleme yeri ve giriş koşulları telefon görüşmesinde ayrıca değerlendirilmelidir.",
+      "paragraph_type": "editorial_guidance_based_on_verified_geography"
+    },
+    "guzelbahce": {
+      "name": "Güzelbahçe",
+      "status": "verified_static_facts",
+      "facts": [
+        "İzmir Körfezi’nin güney kıyısında yer alır.",
+        "Narlıdere ile Urla arasında bulunur; Yelki ve Çamlı ilçedeki yerleşimlerdir."
+      ],
+      "sources": [
+        {
+          "title": "İzmir Valiliği — Güzelbahçe",
+          "url": "https://www.izmir.gov.tr/guzelbahce",
+          "type": "official_primary"
+        }
+      ],
+      "paragraph": "Güzelbahçe’de sahil çevresi ile Yelki veya Çamlı yönündeki bir konumu ayrı tarif edin. Aracın beklediği mahalle, cadde ve giriş bilgisini paylaşın. İzmir yönüne mi Urla yönüne mi ilerlediğinizi belirtmeniz yol üzerindeki talebi daha açık hale getirir.",
+      "paragraph_type": "editorial_guidance_based_on_verified_geography"
+    },
+    "karabaglar": {
+      "name": "Karabağlar",
+      "status": "verified_static_facts",
+      "facts": [
+        "Bozyaka, Uzundere, Kavacık ve Tırazlı resmi mahalle listesinde yer alır.",
+        "Belediyenin Kent Rehberi konum ve yol tarifi bilgileri sunar."
+      ],
+      "sources": [
+        {
+          "title": "Karabağlar Belediyesi — Muhtarlıklar",
+          "url": "https://karabaglar.bel.tr/tr/karabaglar/muhtarliklar",
+          "type": "official_primary"
+        },
+        {
+          "title": "Karabağlar Belediyesi — Kent Rehberi",
+          "url": "https://www.karabaglar.bel.tr/tr/projeler/dijital-projeler/kent-rehberi",
+          "type": "official_primary"
+        }
+      ],
+      "paragraph": "Karabağlar’da Bozyaka, Uzundere, Kavacık ve Tırazlı gibi farklı mahallelerden gelen taleplerde mahalle adını açıkça belirtin. Belediye Kent Rehberi adresin haritada bulunmasına yardımcı olabilir; çekici talebinde ise aracın beklediği noktayı ayrıca harita piniyle paylaşın.",
+      "paragraph_type": "editorial_guidance_based_on_verified_geography"
+    },
+    "karaburun": {
+      "name": "Karaburun",
+      "status": "verified_static_facts",
+      "facts": [
+        "Mordoğan İzmir–Karaburun yolu üzerinde yer alır.",
+        "Karaburun çevresindeki bazı koy ve plajların karayolu bağlantısı bulunmaz."
+      ],
+      "sources": [
+        {
+          "title": "İzmir Büyükşehir Belediyesi — Karaburun",
+          "url": "https://www.izmir.bel.tr/tr/MekanDetay/72/230",
+          "type": "official_primary"
+        }
+      ],
+      "paragraph": "Karaburun’da ilçe merkezi, Mordoğan ve koy çevresindeki noktaları ayrı tarif etmek gerekir. Koya yakın bir yerdeyseniz aracın ulaşılabilir karayolunda mı yoksa özel bir girişte mi olduğunu açıklayın; koy adı tek başına çekicinin erişebileceği noktayı göstermeyebilir.",
+      "paragraph_type": "editorial_guidance_based_on_verified_geography"
+    },
+    "karsiyaka": {
+      "name": "Karşıyaka",
+      "status": "verified_static_facts",
+      "facts": [
+        "İzmir Körfezi’nin kuzey kıyısındadır.",
+        "Kentleşme tarihinde demiryolu ve Konak’a vapur bağlantısının rolü bulunur."
+      ],
+      "sources": [
+        {
+          "title": "İzmir Valiliği — Karşıyaka",
+          "url": "https://www.izmir.gov.tr/karsiyaka",
+          "type": "official_primary"
+        }
+      ],
+      "paragraph": "Karşıyaka’da körfez kıyısındaki bir noktayı tarif ederken semt ve caddeyi de belirtin. İskele ya da sahil adını paylaşmak yararlı olsa da aracın tam bekleme noktasını harita piniyle göndermek gerekir. Taşıma hedefindeki servis adresini konumunuzdan ayrı iletin.",
+      "paragraph_type": "editorial_guidance_based_on_verified_geography"
+    },
+    "kemalpasa": {
+      "name": "Kemalpaşa",
+      "status": "verified_static_facts",
+      "facts": [
+        "İzmir’in doğusunda yer alır.",
+        "Karabel Anıtı Kemalpaşa–Torbalı yolu üzerindedir; Nif Dağı çevresi ilçenin coğrafi unsurlarındandır."
+      ],
+      "sources": [
+        {
+          "title": "İzmir Valiliği — Kemalpaşa",
+          "url": "https://www.izmir.gov.tr/kemalpasa",
+          "type": "official_primary"
+        }
+      ],
+      "paragraph": "Kemalpaşa’da ilçe merkezinden, bir sanayi tesisi girişinden veya Torbalı bağlantısından talep oluştururken konumu birbirinden ayırın. Karabel yönündeki bir yol üzerindeyseniz hareket yönünü ve en yakın tabelayı da gönderin. Tesis içindeki araçlar için kapı bilgisi ayrıca gereklidir.",
+      "paragraph_type": "editorial_guidance_based_on_verified_geography"
+    },
+    "kinik": {
+      "name": "Kınık",
+      "status": "verified_static_facts",
+      "facts": [
+        "İzmir’in kuzeyinde Bergama ve Manisa arasında yer alır.",
+        "Poyracık ve Yayakent ilçedeki yerleşim noktalarıdır."
+      ],
+      "sources": [
+        {
+          "title": "İzmir Valiliği — Kınık",
+          "url": "https://www.izmir.gov.tr/kinik",
+          "type": "official_primary"
+        }
+      ],
+      "paragraph": "Kınık merkez, Poyracık veya Yayakent çevresinde olduğunuzu talebin başında belirtin. Merkez dışındaki bir yol için mahalle adı ve harita pini birlikte paylaşılmalıdır. Aracın teslim edileceği adres Bergama veya başka bir ilçedeyse taşıma hedefini ayrıca yazın.",
+      "paragraph_type": "editorial_guidance_based_on_verified_geography"
+    },
+    "kiraz": {
+      "name": "Kiraz",
+      "status": "verified_static_facts",
+      "facts": [
+        "İzmir’in doğusunda bulunur.",
+        "Tarım ve hayvancılık ilçenin belirgin faaliyetleridir."
+      ],
+      "sources": [
+        {
+          "title": "İzmir Valiliği — Kiraz",
+          "url": "https://www.izmir.gov.tr/kiraz",
+          "type": "official_primary"
+        }
+      ],
+      "paragraph": "Kiraz’da mahalle veya kırsal bir noktadan yardım isterken yalnızca ilçe adını vermeyin. Mahalle adı, kullanılan yol ve en yakın belirgin noktayla konumu açıklayın. Aracın tarla, bahçe veya yol kenarında bulunması erişim koşullarını değiştirebileceği için bunu ayrıca belirtin.",
+      "paragraph_type": "editorial_guidance_based_on_verified_geography"
+    },
+    "konak": {
+      "name": "Konak",
+      "status": "verified_static_facts",
+      "facts": [
+        "İzmir’in yönetim, kültür ve ticaret merkezlerinden biridir.",
+        "Saat Kulesi ve Hükümet Konağı Konak Meydanı’ndadır."
+      ],
+      "sources": [
+        {
+          "title": "İzmir Valiliği — Konak",
+          "url": "https://www.izmir.gov.tr/konak",
+          "type": "official_primary"
+        }
+      ],
+      "paragraph": "Konak Meydanı gibi bilinen bir işareti belirtmek yararlı olsa da çekici talebinde aracın bulunduğu cadde, sokak veya otoparkın tam bilgisi gerekir. Aracın meydana yakın olduğunu söylemek yerine harita pini ve giriş noktasını paylaşın.",
+      "paragraph_type": "editorial_guidance_based_on_verified_geography"
+    },
+    "menderes": {
+      "name": "Menderes",
+      "status": "verified_static_facts",
+      "facts": [
+        "İzmir’in güneyinde yer alır; Tahtalı Barajı ilçe sınırlarındadır.",
+        "Görece ile kıyı yerleşimleri ilçenin farklı alanlarıdır."
+      ],
+      "sources": [
+        {
+          "title": "İzmir Valiliği — Menderes",
+          "url": "https://www.izmir.gov.tr/menderes",
+          "type": "official_primary"
+        }
+      ],
+      "paragraph": "Menderes’te Görece çevresindeki bir konum ile kıyı hattındaki bir konumun tarifini ayrı yapın. İlçe merkezi dışında mahalle adı, harita pini ve bağlantı yolunu paylaşın. Baraj veya kırsal alan yakınındaysanız aracın hangi yol üzerinde beklediğini özellikle belirtin.",
+      "paragraph_type": "editorial_guidance_based_on_verified_geography"
+    },
+    "menemen": {
+      "name": "Menemen",
+      "status": "verified_static_facts",
+      "facts": [
+        "İzmir’in kuzeyinde; Aliağa, Foça, Çiğli ve Manisa yönleri arasında yer alır.",
+        "Tarım ve deri üretimi ilçenin belirgin faaliyetleri arasındadır."
+      ],
+      "sources": [
+        {
+          "title": "İzmir Valiliği — Menemen",
+          "url": "https://www.izmir.gov.tr/menemen",
+          "type": "official_primary"
+        }
+      ],
+      "paragraph": "Menemen’de merkezde, kırsal bir mahallede veya üretim tesisi girişinde olduğunuzu belirtin. Aliağa, Foça ya da Manisa yönündeki bir yol üzerindeyseniz hareket yönüyle birlikte konum pini gönderin. Tesis adı verildiğinde kapı ve araç bekleme noktası da paylaşılmalıdır.",
+      "paragraph_type": "editorial_guidance_based_on_verified_geography"
+    },
+    "narlidere": {
+      "name": "Narlıdere",
+      "status": "verified_static_facts",
+      "facts": [
+        "Balçova ile Güzelbahçe arasında ve İzmir Körfezi kıyısında yer alır.",
+        "Balçova sınırı çevresinde sıcak su kaynakları vardır."
+      ],
+      "sources": [
+        {
+          "title": "İzmir Valiliği — Narlıdere",
+          "url": "https://www.izmir.gov.tr/narlidere",
+          "type": "official_primary"
+        }
+      ],
+      "paragraph": "Narlıdere’de konumu Balçova ya da Güzelbahçe yönüyle tarif ediyorsanız mahalle ve açık adresi de ekleyin. Site veya otopark içindeki bir araç için giriş kapısını ve erişim koşullarını paylaşın. Yol üzerindeki taleplerde aracın bulunduğu tarafı konum pininden ayrı belirtmek yararlıdır.",
+      "paragraph_type": "editorial_guidance_based_on_verified_geography"
+    },
+    "odemis": {
+      "name": "Ödemiş",
+      "status": "verified_static_facts",
+      "facts": [
+        "İzmir’in güneydoğusunda yer alır.",
+        "Birgi, Bozdağ ve Bademli ilçede farklı yerleşim noktalarıdır."
+      ],
+      "sources": [
+        {
+          "title": "İzmir Valiliği — Ödemiş",
+          "url": "https://www.izmir.gov.tr/odemis",
+          "type": "official_primary"
+        }
+      ],
+      "paragraph": "Ödemiş merkezindeki bir talep ile Birgi, Bozdağ veya Bademli çevresindeki bir talebi ayırmak gerekir. Bulunduğunuz yerleşimi ve bağlantı yolunu açıkça yazın. Aracın götürüleceği servisin ilçe merkezinde mi başka ilçede mi olduğunu görüşmenin başında belirtin.",
+      "paragraph_type": "editorial_guidance_based_on_verified_geography"
+    },
+    "seferihisar": {
+      "name": "Seferihisar",
+      "status": "verified_static_facts",
+      "facts": [
+        "İzmir’in batısında Ege kıyısında yer alır.",
+        "Sığacık, ilçe merkezinin batısındaki ayrı bir kıyı yerleşimidir."
+      ],
+      "sources": [
+        {
+          "title": "İzmir Valiliği — Seferihisar",
+          "url": "https://www.izmir.gov.tr/seferihisar",
+          "type": "official_primary"
+        }
+      ],
+      "paragraph": "Seferihisar merkez ile Sığacık çevresindeki konumları ayrı tarif edin. Sahil tesisi veya konaklama yerindeyseniz tesis adı ve araç girişini paylaşın. Merkez dışındaki taleplerde kıyı ya da yerleşim adıyla birlikte harita konumunun gönderilmesi gerekir.",
+      "paragraph_type": "editorial_guidance_based_on_verified_geography"
+    },
+    "selcuk": {
+      "name": "Selçuk",
+      "status": "verified_static_facts",
+      "facts": [
+        "İzmir–Aydın karayolu üzerinde yer alır.",
+        "Şirince ve Pamucak ilçedeki farklı kırsal ve kıyı noktalarıdır."
+      ],
+      "sources": [
+        {
+          "title": "İzmir Valiliği — Selçuk",
+          "url": "https://www.izmir.gov.tr/selcuk",
+          "type": "official_primary"
+        }
+      ],
+      "paragraph": "Selçuk merkez, Şirince ve Pamucak farklı araç alma noktalarıdır. Turistik alan veya tesis çevresindeyseniz otopark ve giriş bilgisini paylaşın. İzmir–Aydın yolu üzerinde bekliyorsanız hareket yönünü ve en yakın bağlantı veya tabelayı belirtin.",
+      "paragraph_type": "editorial_guidance_based_on_verified_geography"
+    },
+    "tire": {
+      "name": "Tire",
+      "status": "verified_static_facts",
+      "facts": [
+        "Bayındır, Ödemiş, Selçuk ve Torbalı ile çevrilidir.",
+        "Tire Organize Sanayi Bölgesi ilçededir."
+      ],
+      "sources": [
+        {
+          "title": "İzmir Valiliği — Tire",
+          "url": "https://www.izmir.gov.tr/tire",
+          "type": "official_primary"
+        }
+      ],
+      "paragraph": "Tire merkez, bir kırsal mahalle veya Tire Organize Sanayi Bölgesi içinden talep verirken yerleşim ve tesis bilgisini ayırın. Organize sanayi bölgesinde firma adı ve giriş kapısı; diğer konumlarda mahalle, yol ve harita pini paylaşılmalıdır.",
+      "paragraph_type": "editorial_guidance_based_on_verified_geography"
+    },
+    "torbali": {
+      "name": "Torbalı",
+      "status": "verified_static_facts",
+      "facts": [
+        "İzmir–Aydın otoyolu bağlantısı bulunur.",
+        "Karabel üzerinden Kemalpaşa–Ankara karayoluna bağlantısı vardır."
+      ],
+      "sources": [
+        {
+          "title": "İzmir Valiliği — Torbalı",
+          "url": "https://www.izmir.gov.tr/torbali",
+          "type": "official_primary"
+        }
+      ],
+      "paragraph": "Torbalı’da kent içindeki konum, İzmir–Aydın otoyolu veya Karabel yönündeki bağlantı için farklı tarif gerekir. Otoyoldaysanız çıkış ve hareket yönünü; tesis veya mahalle içindeyseniz açık adres ve giriş noktasını paylaşın. Taşıma hedefini bulunduğunuz konumdan ayrı belirtin.",
+      "paragraph_type": "editorial_guidance_based_on_verified_geography"
+    },
+    "urla": {
+      "name": "Urla",
+      "status": "verified_static_facts",
+      "facts": [
+        "Çeşme ve Güzelbahçe arasında, kuzey ve güney kıyıları bulunan bir ilçedir.",
+        "İskele, Bademler, Barbaros, Özbek, Balıklıova ve Gülbahçe farklı yerleşim noktalarıdır."
+      ],
+      "sources": [
+        {
+          "title": "İzmir Valiliği — Urla",
+          "url": "https://www.izmir.gov.tr/urla",
+          "type": "official_primary"
+        }
+      ],
+      "paragraph": "Urla’da merkez, İskele, Özbek, Balıklıova veya Gülbahçe çevresinde olduğunuzu özellikle belirtin. Bademler ve Barbaros gibi iç kesimlerdeki bir konumu sahil konumundan ayrı tarif edin. Mahalle adıyla birlikte tam konum ve araç giriş bilgisini gönderin.",
+      "paragraph_type": "editorial_guidance_based_on_verified_geography"
+    }
+  }
+}

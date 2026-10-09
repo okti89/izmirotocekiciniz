@@ -1,0 +1,429 @@
+{
+  "checked_on": "2026-10-09",
+  "limitations": [
+    "Güncel trafik, çalışma saatleri, şerit kapanması, fiyat ve varış süresi kullanılmadı.",
+    "KGM günlük yol bültenindeki bilgilerden yalnızca sabit yol adı/kodu ve kavşak adları alınmıştır; geçici çalışmalar aktarılmamıştır.",
+    "Çeşme Otoyolu O-32 kodu resmi metinde bu araştırmada ayrıca teyit edilmedi; istasyon isimleri doğrulandı.",
+    "Kooperatif kredi ofisi adresi sanayi sitesi adresi olarak kullanılmadı.",
+    "6. ve 7. Sanayi için güvenilir tesis adresi teyit edilemedi.",
+    "Genel veya halk arasında kullanılan yol adları tek bir resmi güzergâhla kesin eşleştirilmediğinde absent bırakıldı."
+  ],
+  "regions": {
+    "/guzergahlar/izmir-cevre-yolu/": {
+      "name": "İzmir Çevre Yolu",
+      "status": "verified_static_facts",
+      "facts": [
+        "KGM, İzmir Çevre Otoyolunu O-30 koduyla listeler.",
+        "Bornova Viyadüğü ve Üniversite Kavşağı aynı resmi bültende çevre yolu bağlantısı olarak yer alır."
+      ],
+      "sources": [
+        {
+          "title": "KGM — 2. Bölge yol bülteni",
+          "url": "https://www.kgm.gov.tr/Sayfalar/KGM/SiteTr/YolDanisma/CalismaYapilanYollarYeni.aspx?Bolge=2",
+          "type": "official_primary"
+        }
+      ],
+      "guidance": "O-30 talebinde kavşak veya çıkış adını ve hareket yönünü belirtin; bağlantı kolunda bekliyorsanız bunu ana yoldan ayrı açıklayın.",
+      "guidance_type": "editorial_request_guidance"
+    },
+    "/guzergahlar/izmir-aydin-otoyolu/": {
+      "name": "Aydın Otoban",
+      "status": "verified_static_facts",
+      "facts": [
+        "KGM, İzmir–Aydın Otoyolunu O-31 olarak tanımlar.",
+        "75. Yıl Selatin Tüneli İzmir–Aydın Otoyolu üzerindedir."
+      ],
+      "sources": [
+        {
+          "title": "KGM — Tünel envanteri",
+          "url": "https://www.kgm.gov.tr/SiteCollectionDocuments/KGMdocuments/Istatistikler/KopruveTunelBilgileri/TehMadTuneller.pdf",
+          "type": "official_primary"
+        }
+      ],
+      "guidance": "İzmir–Aydın hattında İzmir veya Aydın yönünü, görünen kilometre ve çıkış bilgisini iletin. Selatin Tüneli çevresindeyseniz tünel adı ve bulunduğunuz tarafı belirtin.",
+      "guidance_type": "editorial_request_guidance"
+    },
+    "/guzergahlar/izmir-cesme-otoyolu/": {
+      "name": "Çeşme Otoyolu",
+      "status": "verified_static_facts",
+      "facts": [
+        "KGM gişe listesinde Seferihisar (Güzelbahçe), Urla, Karaburun, Zeytinler, Alaçatı ve Çeşme istasyonları bulunur."
+      ],
+      "sources": [
+        {
+          "title": "KGM — İzmir Çeşme Otoyolu istasyon tablosu",
+          "url": "https://www.kgm.gov.tr/SiteCollectionDocuments/KGMdocuments/Otoyollar/OtoyolKopruUcret/2025Gecis_Ucret/KGM%20%C4%B0zmir%20-%20%C3%87e%C5%9Fme%20Otoyolu%20Ge%C3%A7i%C5%9F%20%C3%9Ccretleri.pdf",
+          "type": "official_primary"
+        }
+      ],
+      "guidance": "Talebinizde en yakın istasyon veya çıkış adını, İzmir ya da Çeşme yönünü ve konum pinini paylaşın. Gişe çevresindeyseniz gişeden önce mi sonra mı beklediğinizi de açıklayın.",
+      "guidance_type": "editorial_request_guidance"
+    },
+    "/guzergahlar/sabuncubeli-tuneli/": {
+      "name": "Sabuncubeli Tüneli",
+      "status": "verified_static_facts",
+      "facts": [
+        "Sabuncubeli Tüneli Manisa–İzmir devlet yolu üzerindedir.",
+        "KGM proje tanıtımı Bornova tarafındaki giriş ile Manisa tarafındaki çıkışı ayırır."
+      ],
+      "sources": [
+        {
+          "title": "KGM — Sabuncubeli Tüneli",
+          "url": "https://www.kgm.gov.tr/Sayfalar/KGM/SiteTr/Projeler/ProjelerDetay.aspx?q=22",
+          "type": "official_primary"
+        }
+      ],
+      "guidance": "Sabuncubeli talebinde İzmir veya Manisa yönünü ve tünel içinde mi, giriş ya da çıkış yakınında mı olduğunuzu belirtin. Portal tarafını harita piniyle birlikte paylaşın.",
+      "guidance_type": "editorial_request_guidance"
+    },
+    "/guzergahlar/belkahve-rampasi/": {
+      "name": "Belkahve Rampası",
+      "status": "absent",
+      "facts": [],
+      "sources": [],
+      "guidance": null,
+      "gap": "Bu adın kesin yol/tesis konumu için yeterli resmi kaynak bu araştırmada bulunamadı."
+    },
+    "/guzergahlar/bayrakli-tunelleri/": {
+      "name": "Bayraklı Tünelleri",
+      "status": "verified_static_facts",
+      "facts": [
+        "KGM envanterinde Bayraklı 1 ve Bayraklı 2 ayrı tünellerdir.",
+        "İkisi de İzmir Çevre Otoyolunun O30-13 kesiminde listelenir."
+      ],
+      "sources": [
+        {
+          "title": "KGM — Tünel envanteri",
+          "url": "https://www.kgm.gov.tr/SiteCollectionDocuments/KGMdocuments/Istatistikler/KopruveTunelBilgileri/TehMadTuneller.pdf",
+          "type": "official_primary"
+        }
+      ],
+      "guidance": "Bayraklı 1 mi Bayraklı 2 mi olduğunu, hareket yönünü ve tünel içi ya da portal yakınındaki konumu açıklayın. İki tüneli tek bir konum gibi tarif etmeyin.",
+      "guidance_type": "editorial_request_guidance"
+    },
+    "/guzergahlar/konak-tuneli/": {
+      "name": "Konak Tüneli",
+      "status": "verified_static_facts",
+      "facts": [
+        "Konak Tüneli bağlantısı Yeşildere kavşak düzenlemesini içerir.",
+        "Proje Konak çevresindeki kent içi bağlantıyı ele alır."
+      ],
+      "sources": [
+        {
+          "title": "KGM — Konak Tüneli",
+          "url": "https://www.kgm.gov.tr/Sayfalar/KGM/SiteTr/Projeler/OtoyolProjeleri/Konak.aspx",
+          "type": "official_primary"
+        }
+      ],
+      "guidance": "Konak Tüneli talebinde Konak tarafı mı Yeşildere tarafı mı olduğunu ve hareket yönünü belirtin. Tünel adı yanında bekleme noktasının konumunu paylaşın.",
+      "guidance_type": "editorial_request_guidance",
+      "note": "Kaynak eski proje sayfasıdır; inşaat durumu, uzunluk ve güncel çalışma bilgisi kullanılmadı."
+    },
+    "/guzergahlar/kuzey-cevre-yolu/": {
+      "name": "Kuzey Çevre Yolu",
+      "status": "absent",
+      "facts": [],
+      "sources": [],
+      "guidance": null,
+      "gap": "Bu adın kesin yol/tesis konumu için yeterli resmi kaynak bu araştırmada bulunamadı."
+    },
+    "/guzergahlar/guney-cevre-yolu/": {
+      "name": "Güney Çevre Yolu",
+      "status": "absent",
+      "facts": [],
+      "sources": [],
+      "guidance": null,
+      "gap": "Bu adın kesin yol/tesis konumu için yeterli resmi kaynak bu araştırmada bulunamadı."
+    },
+    "/guzergahlar/bornova-cevre-yolu/": {
+      "name": "Bornova Çevre Yolu",
+      "status": "verified_static_facts",
+      "facts": [
+        "KGM yol bülteninde O-30/11 Bornova Viyadüğü Üniversite Kavşağı adı bulunur.",
+        "Ankara Caddesinden Karşıyaka yönüne bağlantı kolu bu kesimde tanımlanır."
+      ],
+      "sources": [
+        {
+          "title": "KGM — 2. Bölge yol bülteni",
+          "url": "https://www.kgm.gov.tr/Sayfalar/KGM/SiteTr/YolDanisma/CalismaYapilanYollarYeni.aspx?Bolge=2",
+          "type": "official_primary"
+        }
+      ],
+      "guidance": "Bornova çevre yolu talebinde Üniversite Kavşağı çevresini ve ana yol ya da bağlantı kolunda olduğunuzu ayırın; hareket yönünü de gönderin.",
+      "guidance_type": "editorial_request_guidance"
+    },
+    "/guzergahlar/karsiyaka-cevre-yolu/": {
+      "name": "Karşıyaka Çevre Yolu",
+      "status": "absent",
+      "facts": [],
+      "sources": [],
+      "guidance": null,
+      "gap": "Bu adın kesin yol/tesis konumu için yeterli resmi kaynak bu araştırmada bulunamadı."
+    },
+    "/guzergahlar/altinyol-sahil-yolu/": {
+      "name": "Altınyol Sahil Yolu",
+      "status": "verified_static_facts",
+      "facts": [
+        "İBB plan açıklaması Altınyol ile Anadolu Caddesini kuzey ulaşım aksında ele alır.",
+        "Ankara Caddesi Bornova–Kemalpaşa yönünde bu akstan ayrılır."
+      ],
+      "sources": [
+        {
+          "title": "İBB — Konak Alsancak Kahramanlar plan açıklama raporu",
+          "url": "https://www.izmir.bel.tr/YuklenenDosyalar/NazimImarPlani/2810930_18144.pdf",
+          "type": "official_primary"
+        }
+      ],
+      "guidance": "Altınyol talebinde Alsancak veya Karşıyaka yönünü ve yakın kavşak adını paylaşın. Ankara Caddesi ayrımındaysanız bağlantı kolunu ayrıca belirtin.",
+      "guidance_type": "editorial_request_guidance"
+    },
+    "/guzergahlar/istanbul-otoyolu/": {
+      "name": "İstanbul Otoyolu",
+      "status": "verified_static_facts",
+      "facts": [
+        "Gebze–Orhangazi–İzmir Otoyolu İzmir Çevre Yolundaki Otogar Kavşağına bağlanır.",
+        "Güzergâh Bursa, Balıkesir ve Manisa çevresinden geçer."
+      ],
+      "sources": [
+        {
+          "title": "KGM — Gebze Orhangazi İzmir Otoyolu",
+          "url": "https://www.kgm.gov.tr/Sayfalar/KGM/SiteTr/Projeler/OtoyolProjeleri/GebzeOrhangazi.aspx",
+          "type": "official_primary"
+        }
+      ],
+      "guidance": "İstanbul yönündeki bir taleple İzmir yönündeki talebi ayırın; en yakın çıkış veya istasyon adını ve konumu iletin.",
+      "guidance_type": "editorial_request_guidance"
+    },
+    "/guzergahlar/ankara-yolu/": {
+      "name": "Ankara Yolu",
+      "status": "verified_static_facts",
+      "facts": [
+        "İBB plan açıklamasında Ankara Caddesi Bornova–Kemalpaşa yönünde İç Ege ve İç Anadolu bağlantısı olarak tanımlanır."
+      ],
+      "sources": [
+        {
+          "title": "İBB — Konak Alsancak Kahramanlar plan açıklama raporu",
+          "url": "https://www.izmir.bel.tr/YuklenenDosyalar/NazimImarPlani/2810930_18144.pdf",
+          "type": "official_primary"
+        }
+      ],
+      "guidance": "Ankara yolu talebinde Bornova kent içi kesiminde mi Kemalpaşa yönünde mi olduğunuzu açıklayın. Yol adı, hareket yönü ve konum pinini birlikte gönderin.",
+      "guidance_type": "editorial_request_guidance"
+    },
+    "/guzergahlar/bursa-yolu/": {
+      "name": "Bursa Yolu",
+      "status": "verified_static_facts",
+      "facts": [
+        "Gebze–Orhangazi–İzmir Otoyolu Bursa Çevre Otoyoluna bağlanır."
+      ],
+      "sources": [
+        {
+          "title": "KGM — Gebze Orhangazi İzmir Otoyolu",
+          "url": "https://www.kgm.gov.tr/Sayfalar/KGM/SiteTr/Projeler/OtoyolProjeleri/GebzeOrhangazi.aspx",
+          "type": "official_primary"
+        }
+      ],
+      "guidance": "Bursa yolu ifadesi tek başına kesin yol kesimini göstermez. Kullandığınız otoyol veya devlet yolunun adını, çıkışı ve hareket yönünü belirtin.",
+      "guidance_type": "editorial_request_guidance",
+      "note": "Bu kayıt yalnızca otoyol bağlantısını destekler; Bursa yönündeki bütün alternatif yolları doğrulamaz."
+    },
+    "/guzergahlar/torbali-otoyolu/": {
+      "name": "Torbalı Otoyolu",
+      "status": "verified_static_facts",
+      "facts": [
+        "Torbalı için İzmir–Aydın otoyolu bağlantısı resmi Valilik tanıtımında yer alır.",
+        "Karabel üzerinden Kemalpaşa–Ankara karayoluna bağlantı ayrıca belirtilir."
+      ],
+      "sources": [
+        {
+          "title": "İzmir Valiliği — Torbalı",
+          "url": "https://www.izmir.gov.tr/torbali",
+          "type": "official_primary"
+        }
+      ],
+      "guidance": "Torbalı çevresinde otoyol talebini kent içi veya Karabel yolu talebinden ayırın; en yakın çıkışı ve hareket yönünü belirtin.",
+      "guidance_type": "editorial_request_guidance"
+    },
+    "/guzergahlar/liman-yolu/": {
+      "name": "Liman Yolu",
+      "status": "absent",
+      "facts": [],
+      "sources": [],
+      "guidance": null,
+      "gap": "Bu adın kesin yol/tesis konumu için yeterli resmi kaynak bu araştırmada bulunamadı."
+    },
+    "/sanayi/1-sanayi-sitesi/": {
+      "name": "1. Sanayi Sitesi",
+      "status": "verified_static_facts",
+      "facts": [
+        "İBB plan raporu 1. Sanayi Sitesini Halkapınar adıyla ilişkilendirir."
+      ],
+      "sources": [
+        {
+          "title": "İBB — Plan açıklama raporu",
+          "url": "https://www.izmir.bel.tr/YuklenenDosyalar/NazimImarPlani/3118480_13233.pdf",
+          "type": "official_primary"
+        }
+      ],
+      "guidance": "Halkapınar 1. Sanayi talebinde sokak ve dükkân numarasıyla servis adını iletin; aracın alınacağı adresle bırakılacağı servis adresini ayrı yazın.",
+      "guidance_type": "editorial_request_guidance"
+    },
+    "/sanayi/2-sanayi-sitesi/": {
+      "name": "2. Sanayi Sitesi",
+      "status": "verified_static_facts",
+      "facts": [
+        "2. Sanayi Sitesi Bornova Belediyesinin resmi sanayi siteleri haberinde yer alır."
+      ],
+      "sources": [
+        {
+          "title": "Bornova Belediyesi — Sanayi siteleri",
+          "url": "https://bornova.bel.tr/bornovada-verilen-sozler-tutuluyor/muzeler",
+          "type": "official_primary"
+        }
+      ],
+      "guidance": "2. Sanayi talebinde sokak, dükkân ve teslim edilecek servis adını belirtin. Aracın servisten mi sokaktan mı alınacağını açıklayın.",
+      "guidance_type": "editorial_request_guidance",
+      "note": "Resmi kaynak site adı ve Bornova ilişkisini destekler; kapı, sokak veya yönetim adresi ayrıca doğrulanmadı."
+    },
+    "/sanayi/3-sanayi-sitesi/": {
+      "name": "3. Sanayi Sitesi",
+      "status": "verified_static_facts",
+      "facts": [
+        "3. Sanayi Sitesi Bornova Belediyesinin resmi sanayi siteleri haberinde yer alır."
+      ],
+      "sources": [
+        {
+          "title": "Bornova Belediyesi — Sanayi siteleri",
+          "url": "https://bornova.bel.tr/bornovada-verilen-sozler-tutuluyor/muzeler",
+          "type": "official_primary"
+        }
+      ],
+      "guidance": "3. Sanayi talebinde servis adı, sokak ve dükkân numarasını birlikte gönderin. Teslim noktası farklıysa açık adresini ayrıca yazın.",
+      "guidance_type": "editorial_request_guidance",
+      "note": "Resmi kaynak site adı ve Bornova ilişkisini destekler; kapı, sokak veya yönetim adresi ayrıca doğrulanmadı."
+    },
+    "/sanayi/4-sanayi-sitesi/": {
+      "name": "4. Sanayi Sitesi",
+      "status": "verified_static_facts",
+      "facts": [
+        "4. Sanayi Sitesi Bornova Belediyesinin resmi sanayi siteleri haberinde yer alır."
+      ],
+      "sources": [
+        {
+          "title": "Bornova Belediyesi — Sanayi siteleri",
+          "url": "https://bornova.bel.tr/bornovada-verilen-sozler-tutuluyor/muzeler",
+          "type": "official_primary"
+        }
+      ],
+      "guidance": "4. Sanayi içindeki bir araç için iş yeri adının yanında sokak ve giriş bilgisini paylaşın; çekicinin duracağı noktayı konum pininde işaretleyin.",
+      "guidance_type": "editorial_request_guidance",
+      "note": "Resmi kaynak site adı ve Bornova ilişkisini destekler; kapı, sokak veya yönetim adresi ayrıca doğrulanmadı."
+    },
+    "/sanayi/5-sanayi-sitesi/": {
+      "name": "5. Sanayi Sitesi",
+      "status": "verified_static_facts",
+      "facts": [
+        "5. Sanayi Sitesi Bornova Belediyesinin resmi sanayi siteleri haberinde yer alır."
+      ],
+      "sources": [
+        {
+          "title": "Bornova Belediyesi — Sanayi siteleri",
+          "url": "https://bornova.bel.tr/bornovada-verilen-sozler-tutuluyor/muzeler",
+          "type": "official_primary"
+        }
+      ],
+      "guidance": "5. Sanayi talebinde adres ve dükkân numarasını netleştirin; araç iş yeri içinde bekliyorsa erişim ve yükleme alanını ayrıca açıklayın.",
+      "guidance_type": "editorial_request_guidance",
+      "note": "Resmi kaynak site adı ve Bornova ilişkisini destekler; kapı, sokak veya yönetim adresi ayrıca doğrulanmadı."
+    },
+    "/sanayi/6-sanayi-sitesi/": {
+      "name": "6. Sanayi Sitesi",
+      "status": "absent",
+      "facts": [],
+      "sources": [],
+      "guidance": null,
+      "gap": "Bu adın kesin yol/tesis konumu için yeterli resmi kaynak bu araştırmada bulunamadı."
+    },
+    "/sanayi/7-sanayi-sitesi/": {
+      "name": "7. Sanayi Sitesi",
+      "status": "absent",
+      "facts": [],
+      "sources": [],
+      "guidance": null,
+      "gap": "Bu adın kesin yol/tesis konumu için yeterli resmi kaynak bu araştırmada bulunamadı."
+    },
+    "/sanayi/kisikkoy-sanayi-sitesi/": {
+      "name": "Kısıkköy Sanayi Sitesi",
+      "status": "verified_static_facts",
+      "facts": [
+        "Kısıkköy’deki ESTİM sanayi ve ticaret alanı İBB haberinde tanımlanır."
+      ],
+      "sources": [
+        {
+          "title": "İBB — Meslek Fabrikası ESTİM Kurs Merkezi",
+          "url": "https://basinhaberleri.izmir.bel.tr/tr/Haberler/1/62458",
+          "type": "official_primary"
+        }
+      ],
+      "guidance": "Kısıkköy talebinde ESTİM veya diğer tesis adını, blok, sokak ve iş yeri numarasını birlikte paylaşın. Araç alma noktasıyla servis teslim adresini ayrı belirtin.",
+      "guidance_type": "editorial_request_guidance"
+    },
+    "/guzergahlar/manisa-yolu/": {
+      "name": "Manisa Yolu",
+      "status": "verified_static_facts",
+      "facts": [
+        "İzmir–Manisa devlet yolu üzerinde Sabuncubeli Tüneli bulunur."
+      ],
+      "sources": [
+        {
+          "title": "KGM — Sabuncubeli Tüneli",
+          "url": "https://www.kgm.gov.tr/Sayfalar/KGM/SiteTr/Projeler/ProjelerDetay.aspx?q=22",
+          "type": "official_primary"
+        }
+      ],
+      "guidance": "Manisa yolu talebinde devlet yolunu mu başka bir bağlantıyı mı kullandığınızı belirtin. Sabuncubeli çevresindeyseniz tünel tarafını ve yönü iletin.",
+      "guidance_type": "editorial_request_guidance"
+    },
+    "/guzergahlar/izmir-otoyolu/": {
+      "name": "İzmir Otoyolu",
+      "status": "absent",
+      "facts": [],
+      "sources": [],
+      "guidance": null,
+      "gap": "Bu adın kesin yol/tesis konumu için yeterli resmi kaynak bu araştırmada bulunamadı."
+    },
+    "/guzergahlar/otogar-otoyolu/": {
+      "name": "Otogar Otoyolu",
+      "status": "verified_static_facts",
+      "facts": [
+        "Gebze–Orhangazi–İzmir Otoyolunun İzmir tarafında Otogar Kavşağı bağlantısı bulunur."
+      ],
+      "sources": [
+        {
+          "title": "KGM — Gebze Orhangazi İzmir Otoyolu",
+          "url": "https://www.kgm.gov.tr/Sayfalar/KGM/SiteTr/Projeler/OtoyolProjeleri/GebzeOrhangazi.aspx",
+          "type": "official_primary"
+        }
+      ],
+      "guidance": "Otogar çevresindeki talepte otoyol bağlantı kolunda mı, terminal yolunda mı olduğunuzu açıklayın. Terminal adı yerine tam bekleme noktası gönderin.",
+      "guidance_type": "editorial_request_guidance"
+    },
+    "/guzergahlar/belkahve-tunelleri/": {
+      "name": "Belkahve Tünelleri",
+      "status": "verified_static_facts",
+      "facts": [
+        "Belkahve Tüneli Gebze–Orhangazi–İzmir Otoyolu projesinde yer alır.",
+        "KGM bu tüneli çift tüplü yapı olarak tanımlar."
+      ],
+      "sources": [
+        {
+          "title": "KGM — Gebze Orhangazi İzmir Otoyolu",
+          "url": "https://www.kgm.gov.tr/Sayfalar/KGM/SiteTr/Projeler/OtoyolProjeleri/GebzeOrhangazi.aspx",
+          "type": "official_primary"
+        }
+      ],
+      "guidance": "Belkahve Tüneli talebinde giriş veya çıkış tarafı ile hareket yönünü belirtin. Tünel konumunu eski devlet yolu rampası tarifinden ayırın.",
+      "guidance_type": "editorial_request_guidance"
+    }
+  }
+}

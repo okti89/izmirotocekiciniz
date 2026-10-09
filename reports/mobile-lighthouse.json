@@ -1,0 +1,104 @@
+{
+  "before": {
+    "url": "http://127.0.0.1:4173/",
+    "tool": "12.8.2",
+    "fetch_time": "2026-10-09T20:02:16.663Z",
+    "environment": "Local HTTP; Lighthouse default mobile simulated throttling; cold cache",
+    "scores": {
+      "performance": 89,
+      "accessibility": 100,
+      "best-practices": 100,
+      "seo": 100
+    },
+    "metrics": {
+      "largest-contentful-paint": {
+        "value": 3453.393,
+        "display": "3.5 s"
+      },
+      "first-contentful-paint": {
+        "value": 2255.0895,
+        "display": "2.3 s"
+      },
+      "cumulative-layout-shift": {
+        "value": 0.001151008816225847,
+        "display": "0.001"
+      },
+      "total-blocking-time": {
+        "value": 0,
+        "display": "0 ms"
+      },
+      "total-byte-weight": {
+        "value": 459033,
+        "display": "Total size was 448 KiB"
+      }
+    }
+  },
+  "after": {
+    "url": "http://127.0.0.1:4173/",
+    "tool": "12.8.2",
+    "fetch_time": "2026-10-09T20:03:55.018Z",
+    "environment": "Local HTTP; Lighthouse default mobile simulated throttling; cold cache",
+    "scores": {
+      "performance": 99,
+      "accessibility": 100,
+      "best-practices": 100,
+      "seo": 100
+    },
+    "metrics": {
+      "largest-contentful-paint": {
+        "value": 1803.2820000000002,
+        "display": "1.8 s"
+      },
+      "first-contentful-paint": {
+        "value": 1203.2820000000002,
+        "display": "1.2 s"
+      },
+      "cumulative-layout-shift": {
+        "value": 0,
+        "display": "0"
+      },
+      "total-blocking-time": {
+        "value": 0,
+        "display": "0 ms"
+      },
+      "total-byte-weight": {
+        "value": 142131,
+        "display": "Total size was 139 KiB"
+      }
+    }
+  },
+  "bornova": {
+    "url": "http://127.0.0.1:4173/bolgeler/bornova/",
+    "tool": "12.8.2",
+    "fetch_time": "2026-10-09T20:05:01.632Z",
+    "environment": "Local HTTP; Lighthouse default mobile simulated throttling; cold cache",
+    "scores": {
+      "performance": 100,
+      "accessibility": 100,
+      "best-practices": 100,
+      "seo": 100
+    },
+    "metrics": {
+      "largest-contentful-paint": {
+        "value": 1651.848,
+        "display": "1.7 s"
+      },
+      "first-contentful-paint": {
+        "value": 1201.848,
+        "display": "1.2 s"
+      },
+      "cumulative-layout-shift": {
+        "value": 9.154240173140393e-05,
+        "display": "0"
+      },
+      "total-blocking-time": {
+        "value": 0,
+        "display": "0 ms"
+      },
+      "total-byte-weight": {
+        "value": 112499,
+        "display": "Total size was 110 KiB"
+      }
+    }
+  }
+}

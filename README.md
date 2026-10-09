@@ -48,3 +48,7 @@ Koyu lacivert, amber/sarı ve beyaz tasarım bütün sayfalarda kullanılır. Mo
 ## Tüm sayfaların indeksleme ayarı
 
 2026-10-07: Kullanıcının açık talebiyle tüm 248 bölge canonical yolu index-regions.json listesine alındı. Yayımlanan çıktı --public ile üretildi: 262 içerik sayfası index,follow; sitemap 262 URL; 404 noindex. Site erişimi halen sahibine özel olduğu için bu ayar Google erişimini veya indekslenmiş olmayı kanıtlamaz. DNS/SSL, herkese açık erişim ve Search Console adımları ayrıca tamamlanmalıdır. Bu değişiklikle doğrulanmamış gerçek iş, müşteri yorumu veya yerel şube kaydı eklenmedi.
+
+## 9 Ekim 2026 — kaynaklı yerel içerik ve mobil hız
+
+195 bölge sayfasında görünür resmî kaynaklı bilgiler, 53 bölgede açık bilgi eksikleri kaydedildi. İçerik üretimi `local_content.py` ve kaynak JSON dosyalarından yapılır. Ayrıntılar ve ölçüm sınırları: `reports/SEO-IYILESTIRME.md`. Ana sayfa yerel mobil Lighthouse performansı 89 → 99; bu bir genel SEO/sıralama puanı değildir. Yayın derlemesi hâlâ `python3 build.py --public` komutuyla yapılır. CSS ve JS içerik sürümü adresleri, eski önbelleğin yeni yayını gizlemesini önler.

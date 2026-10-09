@@ -3,6 +3,7 @@ from pathlib import Path
 from html import escape as e
 from urllib.parse import quote
 import json,re
+from local_content import region_sections
 DISTRICTS='Aliağa Balçova Bayındır Bayraklı Bergama Beydağ Bornova Buca Çeşme Çiğli Dikili Foça Gaziemir Güzelbahçe Karabağlar Karaburun Karşıyaka Kemalpaşa Kınık Kiraz Konak Menderes Menemen Narlıdere Ödemiş Seferihisar Selçuk Tire Torbalı Urla'.split()
 def slug(text):return re.sub(r'[^a-z0-9]+','-',text.translate(str.maketrans('ÇĞİÖŞÜçğıöşü','CGIOSUcgiosu')).lower()).strip('-')
 # Yalnızca eşdeğer yer/adres yazımları birleştirilir; farklı mahalleler birleştirilmez.
@@ -128,6 +129,8 @@ def build_region_catalog(root):
   elif kind=='guzergahlar':path='/guzergahlar/'+stem+'/'
   elif district:path='/bolgeler/'+slug(district)+'/'+slug(name.removeprefix(district+' '))+'/'
   else:path='/bolgeler/noktalar/'+slug(name)+'/'
+  # Eski URL korunur; resmî muhtarlık kaydı Liman Reis'i Narlıdere ile eşler.
+  if stem=='liman-reis':district,candidates='Narlıdere',['Narlıdere']
   roads=list(dict.fromkeys(y for x in valid for y in x.get('roads',[])))
   catalog.append({'name':name,'path':path,'kind':kind,'district':district,'candidates':candidates,'roads':roads,'source_note':record.get('hero_paragraphs',[''])[-1],'source_paths':group['references'],'stem':stem})
   for source in group['references']:mapping[source]=path
@@ -142,11 +145,9 @@ def render_regions(root,layout,subhero,buttons,ORIGIN,PUBLIC):
   parent_path='/bolgeler/'+slug(district)+'/'if district and district!=name else '/hizmet-bolgeleri/'
   parent_name=district+' çekici'if district and district!=name else 'Hizmet bölgeleri'
   desc=f'{name} için 7/24 çekici ve yol yardım talebi. '+(f'{district} bağlantılı konum ve erişim bilgileri. 'if district and district!=name else '')+'0536 676 28 66 üzerinden araç bilgisi ve konumunuzu paylaşın.'
-  sections=[]
+  sections=region_sections(item)
   if kind=='ilceler':
-   heading,text=EDITORIAL[slug(name)];sections.append((heading,text))
-  elif stem in LOCAL_NOTES:sections.append(LOCAL_NOTES[stem])
-  elif stem in ROAD_NOTES:sections.append(ROAD_NOTES[stem])
+   pass
   elif kind=='guzergahlar':
    if 'tunel' in stem:
     sections.append((name+' için giriş ve çıkış bilgisi',f'{name} talebinde aracın tünel içinde, yaklaşım yolunda veya çıkışında bulunduğunu belirtin. Gidiş yönünü ve yol üzerindeki görünür işareti konum bağlantısıyla birlikte iletin. Aracın hareket durumu, yüksekliği ve hasarı araca uygun ekipmanla erişimin değerlendirilmesinde kullanılır.'))
@@ -156,17 +157,12 @@ def render_regions(root,layout,subhero,buttons,ORIGIN,PUBLIC):
    sections.append(('Alınış ve teslim için kısa kontrol listesi','Serviste bulunan aracın anahtarını teslim edecek kişiyi, işyerinin kabul saatini ve yükleme alanını netleştirin. Araç sökülmüş, tekerlekleri kilitli veya üstyapısı standarttan farklıysa fotoğraf paylaşın. Bu bilgiler olmadan her araç için aynı transfer yöntemi veya sabit fiyat verilmez.'))
   elif len(item['candidates'])>1:
    names=', '.join(item['candidates'])
-   sections.append((name+' adını ilçeyle birlikte paylaşın',f'{name} adı, referans yer bilgilerinde {names} ilçeleriyle birlikte geçiyor. Bu adla çekici isterken ilçe, sokak ve tam konum bağlantısını birlikte belirtin. Bir mahalle adının tekrar etmesi, ekibin aynı noktaya yönlendirilmesi gerektiği anlamına gelmez; alınış adresi talep sırasında kesinleştirilir.'))
+   sections.append((name+' adını ilçeyle birlikte paylaşın',f'{name} adıyla talep geldiğinde ilçe bilgisi ayrıca netleştirilir. Bu adla çekici isterken ilçe, sokak ve tam konum bağlantısını birlikte belirtin. Bir mahalle adının tekrar etmesi, ekibin aynı noktaya yönlendirilmesi gerektiği anlamına gelmez; alınış adresi talep sırasında kesinleştirilir.'))
    sections.append(('Doğru bölgeyi seçmek için',f'İlçeniz aşağıdaki bağlantılarda varsa ilgili bölge rehberini inceleyebilirsiniz. Aracın {name} adıyla bilinen bir site veya tesis içinde bulunması durumunda resmî adresin yanında giriş ve blok bilgisini ekleyin. Konum paylaşırken yalnızca genel semt adını kullanmayın.'))
   elif district:
    sections.append((name+' talebinde '+district+' adresini tamamlayın',f'{name} için alınış adresini {district} ilçe bilgisi, cadde veya sokak ve aracın bulunduğu girişle birlikte paylaşın. Konum bağlantısı, yalnızca mahalle adıyla yapılan tarife göre araca erişimi daha açık hale getirir. Araç bir site ya da otoparktaysa bina, blok veya kat bilgisini de ekleyin.'))
   else:
    sections.append((name+' adını tam konumla eşleştirelim',f'{name} adıyla talep iletirken ilçe ve açık konum bağlantısını paylaşın. Semt, site, tesis ve resmî mahalle adı aynı olmayabilir. Bulunduğunuz noktanın ana yol, sokak veya otopark içinde olması, uygun yükleme erişiminin seçilmesinde belirleyicidir.'))
-  if item['roads']:
-   sections.append(('Konum tarifinde kullanabileceğiniz noktalar','Aşağıdaki adlar talep ettiğiniz konumu açıklamak için yardımcı olabilir. Bunlar şube, sabit ekip adresi veya garanti edilmiş varış noktası değildir. Aracın gerçek konumunu ayrıca paylaşın.<ul class="local-points">'+''.join('<li>'+e(x)+'</li>'for x in item['roads'])+'</ul>'))
-  if district and district!=name and slug(district) in EDITORIAL:
-   dh,dt=EDITORIAL[slug(district)]
-   sections.append((district+' içindeki bağlantıları birlikte değerlendirelim',dt))
   # Sayfada uzun ortak tanıtım metinleri yerine bölgeye göre önceden doldurulan gerçek talep bağlantısı kullanılır.
   request='Merhaba, '+name+' için çekici/yol yardım talebim var.\nİlçe ve tam konum: \nAraç marka-modeli: \nSorun ve hareket durumu: \nTeslim adresi: '
   wa='https://wa.me/905366762866?text='+quote(request)

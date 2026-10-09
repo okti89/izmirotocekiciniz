@@ -39,7 +39,7 @@ for p in pages:
  body=' '.join(parser.main);assert body not in content,(path,'duplicate complete body');content.add(body)
 for path,p in parsed.items():
  for link in p.links:
-  target,_,anchor=link.partition('#');file=DIST/target.lstrip('/');file=file/'index.html'if target.endswith('/')else file
+  parsed_link=urlsplit(link);target=parsed_link.path;anchor=parsed_link.fragment;file=DIST/target.lstrip('/');file=file/'index.html'if target.endswith('/')else file
   assert file.exists(),(path,'missing local target',link)
   if anchor:
    dest=parsed.get(target)
