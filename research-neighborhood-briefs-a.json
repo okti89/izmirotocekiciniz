@@ -1,0 +1,2699 @@
+{
+  "/bolgeler/cesme/alacati/": {
+    "name": "Alaçatı",
+    "status": "record_grounded_editorial",
+    "checked_on": "2026-10-11",
+    "facts": [
+      "Çeşme ilçesi ALAÇATI muhtarlık kaydının YOL alanı: 11002"
+    ],
+    "sections": [
+      {
+        "heading": "Alaçatı adresinde iki konumu ayırma",
+        "paragraphs": [
+          "İBB kaydı Alaçatı’yı Çeşme ilçesiyle ve muhtarlık için 11002 yol alanıyla eşleştirir. Bu numara aracınızın adresi değil, mahalleyi tanımaya yardımcı bir kamu kaydıdır. Talep gerçek park konumuyla tamamlanmalıdır.",
+          "Alaçatı’daki alma yeri ile seçtiğiniz servis farklı olabilir. Konaklama veya başka özel alan içindeyseniz araç girişini ayrıca yazın; yerleşim adından park koşulu veya yolun açıklığı çıkarılmaz."
+        ]
+      },
+      {
+        "heading": "Marş belirtisini olduğu gibi anlatın",
+        "paragraphs": [
+          "Anahtar çevrildiğinde hiç tepki olmaması, yalnızca bir ses duyulması ve motorun dönüp çalışmaması farklı gözlemlerdir. Alaçatı’daki park aracınız için hangisinin yaşandığını, gösterge ışıklarını ve son denemeden sonra değişen durumu anlatın. Belirtiyi doğrudan akü arızası diye adlandırmak yerine kısa bir video ile paylaşmak, talebin değerlendirilmesini kolaylaştırır. Gereksiz tekrar denemeleri yapmayın."
+        ]
+      },
+      {
+        "heading": "Konaklama çıkışını araç tesliminden ayırın",
+        "paragraphs": [
+          "Konaklamanız bitmeden araç için karar verilecekse anahtarın kimde kalacağını ve park görevlisine kimin bilgi vereceğini belirleyin. Ayrılış saatiniz tek başına bir çekici geliş saati oluşturmaz. Taşıma kararı verilirse servisle kabulü konuşun; bagajınızdaki gerekli eşyaları alıp aracı karşılayacak kişinin bilgilerini paylaşın. Böylece konaklama işlemleri ve araç teslimi ayrı ayrı tamamlanabilir."
+        ]
+      }
+    ],
+    "questions": [
+      {
+        "q": "Marş almayan park aracı için hangi görüntü faydalıdır?",
+        "a": "Güvenle çekilebiliyorsa gösterge ve ilk denemedeki tepkiyi gösteren kısa bir video gönderin. Parkın genel görünümü de aracın çevresindeki çalışma alanını anlamaya yardımcı olur."
+      },
+      {
+        "q": "Tesisten ayrılmam gerekirse anahtarı resepsiyona bırakabilir miyim?",
+        "a": "Tesisin bunu kabul ettiğini ve araca erişim sağlayacak yetkili kişinin kim olduğunu önceden doğrulayın. Anahtar teslimi ile servis kabulünü ayrıca koordine edin."
+      }
+    ],
+    "scenario": {
+      "title": "Konaklama parkında çalışmayan otomobil",
+      "situation": "Örnekte Alaçatı’daki bir konaklama parkında otomobil marş almaz. Sürücü yerleşim adını ve tesisin genel işaretini paylaşır, fakat otomobil farklı bir park bölümündedir. Araç noktası ile tesis işareti bu nedenle ayrılır.",
+      "assessment": "Görülen belirti, park girişi, vites ve tekerlek durumu konuşulur. Tesisin giriş koşulu görevliyle teyit edilir; akü arızası veya kolay erişim yalnızca anlatımdan kesinleştirilmez. Konaklama tesisinin adının doğru olması aracın giriş bölümünün doğru seçildiği anlamına gelmez; fotoğraf ile pin aynı park noktasını göstermelidir. Tesis sorumlusunun mevcut bilgisi ayrıca paylaşılır.",
+      "delivery": "Taşıma gerekirse seçilen servisin açık kabul adresi ve aracı karşılayacak kişi belirlenir.",
+      "type": "illustrative_not_historical"
+    },
+    "sources": [
+      {
+        "title": "İzmir Büyükşehir Belediyesi — Muhtarlıklar açık veri",
+        "url": "https://acikveri.bizizmir.com/dataset/muhtarliklar"
+      }
+    ],
+    "limitations": [
+      "Mahalle ve yol alanı kamu muhtarlık kaydına dayanır. YOL, aracın veya işletmenin adresi değildir; güncel yol erişimini doğrulamaz.",
+      "Senaryo varsayımsaldır; yapılmış iş, geçmiş müşteri, şube, geliş süresi, fiyat veya ekipman garantisi içermez."
+    ]
+  },
+  "/bolgeler/cesme/ilica/": {
+    "name": "Ilıca",
+    "status": "record_grounded_editorial",
+    "checked_on": "2026-10-11",
+    "facts": [
+      "Çeşme ilçesi ILICA muhtarlık kaydının YOL alanı: 5133"
+    ],
+    "sections": [
+      {
+        "heading": "Ilıca adını ilçeyle birlikte paylaşma",
+        "paragraphs": [
+          "Bu sayfadaki Ilıca, resmî muhtarlık verisinde Çeşme ile eşleşen kayıttır. YOL alanındaki 5133 kamu referansıdır. Talepte Çeşme–Ilıca ayrımını açık yazmak, başka ilçede benzer isimle yapılan bir tarifin önüne geçer.",
+          "Cadde veya park yeri biliniyorsa tam konuma ekleyin. Aracın durumuyla teslim hedefini ayrı belirtin; resmî mahalle eşleşmesi lastik hasarını, taşıma yöntemini veya aracın erişilebilir olduğunu açıklamaz."
+        ]
+      },
+      {
+        "heading": "Lastik hasarı ile hareket kararını ayırın",
+        "paragraphs": [
+          "Ilıca’da park halindeki aracın lastiği hasarlıysa yalnızca lastiğin havasına bakarak yola çıkma kararı vermeyin. Görülen kesik, yerinden ayrılma veya jant çevresindeki durumu fotoğraflayın; diğer tekerleklerin durumunu da bildirin. Aracın zorlanarak yer değiştirilmesi hasarı büyütebilir. Yedek lastik varsa kullanılabilirliği ve araçta gerekli malzemelerin bulunup bulunmadığı değerlendirme sırasında konuşulur."
+        ]
+      },
+      {
+        "heading": "Lastik servisine teslimi önceden netleştirin",
+        "paragraphs": [
+          "Seçtiğiniz lastik işletmesinin aracınızı kabul edip edemeyeceğini, uygun lastiği temin edip etmediğini ve aracı nerede karşılayacağını sorun. Taşıma hedefi yalnızca işletme adıyla bırakılmamalıdır. Hasarlı tekerleğin fotoğrafını kabul noktasına da iletmeniz ihtiyacın anlaşılmasına yardımcı olur. Taşınacak aracın içindeki kişisel eşyaları ve varsa jant ya da lastikle ilgili parçaları teslimden önce düzenleyin."
+        ]
+      }
+    ],
+    "questions": [
+      {
+        "q": "Yedek lastiğim olması taşıma ihtiyacını ortadan kaldırır mı?",
+        "a": "Tek başına kaldırmaz. Yedeğin durumu, görülen hasar ve işlem yapılabilecek alan birlikte değerlendirilir; yedek bulunduğu için aracın yürütülebileceği varsayılmaz."
+      },
+      {
+        "q": "Lastik işletmesini seçmeden çekici talebi verebilir miyim?",
+        "a": "Aracın konumunu ve hasarı paylaşabilirsiniz. Taşıma kararı kesinleşirken kabul edecek işletme ve teslim noktası belirlenmeli; uygun lastik bulunacağı önceden varsayılmamalıdır."
+      }
+    ],
+    "scenario": {
+      "title": "Lastik sorunu bulunan park aracı",
+      "situation": "Varsayımsal durumda Çeşme Ilıca’daki parkta otomobilin bir lastiği hasarlıdır. Sürücü yerinde yardımın mümkün olup olmadığını sorar. Mahalle kaydı konumu destekler, ancak hasarın türü veya aracın gerçek park bölümü hakkında bilgi vermez.",
+      "assessment": "Hasarlı tekerlek fotoğrafı ve bilinen yedek lastik durumu paylaşılır. Başka hareket sorunu olup olmadığı açıklanır; yerinde çözüm yapılacağı garanti edilmeden kapsam değerlendirilir. Lastik fotoğrafında görünmeyen jant veya başka parça durumu varmış gibi anlatılmaz. Sürücü yalnızca bildiği belirtiyi açıklar; yeni bir sorun fark ederse talep bilgisi görüşmede güncellenir.",
+      "delivery": "Taşıma seçilirse servisin kabul adresi ayrı alınır; Ilıca mahalle adı teslim noktası sayılmaz.",
+      "type": "illustrative_not_historical"
+    },
+    "sources": [
+      {
+        "title": "İzmir Büyükşehir Belediyesi — Muhtarlıklar açık veri",
+        "url": "https://acikveri.bizizmir.com/dataset/muhtarliklar"
+      }
+    ],
+    "limitations": [
+      "Mahalle ve yol alanı kamu muhtarlık kaydına dayanır. YOL, aracın veya işletmenin adresi değildir; güncel yol erişimini doğrulamaz.",
+      "Senaryo varsayımsaldır; yapılmış iş, geçmiş müşteri, şube, geliş süresi, fiyat veya ekipman garantisi içermez."
+    ]
+  },
+  "/bolgeler/cesme/boyalik/": {
+    "name": "Boyalık",
+    "status": "record_grounded_editorial",
+    "checked_on": "2026-10-11",
+    "facts": [
+      "Çeşme ilçesi BOYALIK muhtarlık kaydının YOL alanı: 3209"
+    ],
+    "sections": [
+      {
+        "heading": "Boyalık kaydıyla park noktasını karıştırmama",
+        "paragraphs": [
+          "Boyalık, İBB muhtarlık listesinde Çeşme altında yer alır; kayıt 3209 yol alanını içerir. Resmî eşleşme mahalle adını destekler. Aracın bu yolda olduğu veya muhtarlığın yanında beklediği ise ayrıca doğrulanmalıdır.",
+          "Park alanı, işletme veya bina adı biliniyorsa gerçek konumla birlikte iletin. Araç kapalı yerdeyse kat ve giriş sınırı gözleme göre anlatılır; Boyalık adı üzerinden otopark özellikleri varsayılmaz."
+        ]
+      },
+      {
+        "heading": "Kapalı park ölçüleri araca göre değerlendirilir",
+        "paragraphs": [
+          "Boyalık’ta aracınız alt kattaysa giriş üzerindeki yükseklik bilgisini, katı ve otomobilin bulunduğu sırayı paylaşın. Geçiş ölçüsü bilinmiyorsa tahmini bir değer vermeyin; görevlinin mevcut bilgisini veya giriş fotoğrafını iletin. Aracın direksiyon ve tekerlek durumu da geçiş ölçüsünden ayrı önem taşır. Uygun yöntem, parkın adıyla değil bu koşulların birlikte anlaşılmasıyla değerlendirilir."
+        ]
+      },
+      {
+        "heading": "Parktan çıkarma ve servise taşıma iki ayrı aşamadır",
+        "paragraphs": [
+          "Kapalı alandaki aracın önce güvenli bir teslim noktasına alınması gerekip gerekmediği görüşmede belirlenir. Park içindeki erişim çözüldüğünde servisin kabul adresi, alıcısı ve aracın orada bırakılacağı yer netleşmelidir. Otopark görevlisi çıkışı düzenleyebilir; bakım kararını ise servisle konuşun. Kat erişimi hakkında verilen bilgi, servis randevusunun yerine geçmez ve her iki aşama ayrıca teyit edilir."
+        ]
+      }
+    ],
+    "questions": [
+      {
+        "q": "Giriş yüksekliğini bilmiyorsam ne göndermeliyim?",
+        "a": "Girişteki levhanın ve geçişin fotoğrafını, kat bilgisini ve görevlinin teyit ettiği ölçüyü paylaşın. Görüntüden kesin ölçü çıkarılacağını varsaymayın."
+      },
+      {
+        "q": "Alt kattan çıkan araç doğrudan servise gider mi?",
+        "a": "Bu, aracın hareket koşulu ve kararlaştırılan taşıma planına bağlıdır. Parktan çıkış ile servise teslim ayrı değerlendirilir; kabul yeri ve karşılayıcı önceden belirlenir."
+      }
+    ],
+    "scenario": {
+      "title": "Kapalı parkta kat bilgisi unutulması",
+      "situation": "Boyalık’taki varsayımsal bir kapalı parkta araç çalışmaz. Sahibi bina konumunu gönderir ama otomobilin alt katta olduğunu ilk mesajda söylemez. Mahalle kaydındaki yol bilgisi bu erişim farkını ortaya koymaz.",
+      "assessment": "Park katı, araç kapısı ve görünen yükseklik sınırı paylaşılır. Direksiyon ile tekerlek hareketi açıklanır. Binanın genel işareti doğrudan araç alma noktası olarak kabul edilmez. Parkın alt katında olduğu bilgisinin sonradan eklenmesi alma planını etkileyebilir. Bu nedenle kapalı alan bilgisi konuşmanın başında ve gözlenen giriş sınırıyla birlikte paylaşılır; uygunluk varsayılmaz.",
+      "delivery": "Servis teslimi için ayrı adres belirlenir; bina veya muhtarlık referansı hedef adres yerine kullanılmaz.",
+      "type": "illustrative_not_historical"
+    },
+    "sources": [
+      {
+        "title": "İzmir Büyükşehir Belediyesi — Muhtarlıklar açık veri",
+        "url": "https://acikveri.bizizmir.com/dataset/muhtarliklar"
+      }
+    ],
+    "limitations": [
+      "Mahalle ve yol alanı kamu muhtarlık kaydına dayanır. YOL, aracın veya işletmenin adresi değildir; güncel yol erişimini doğrulamaz.",
+      "Senaryo varsayımsaldır; yapılmış iş, geçmiş müşteri, şube, geliş süresi, fiyat veya ekipman garantisi içermez."
+    ]
+  },
+  "/bolgeler/cesme/altinkum/": {
+    "name": "Altınkum",
+    "status": "record_grounded_editorial",
+    "checked_on": "2026-10-11",
+    "facts": [
+      "Çeşme ilçesi ALTINKUM muhtarlık kaydının YOL alanı: 200"
+    ],
+    "sections": [
+      {
+        "heading": "Altınkum numaralı referansını doğru okuma",
+        "paragraphs": [
+          "Çeşme Altınkum kaydının yol alanı 200’dür. Açık veri bir muhtarlığın kayıt bilgisini gösterir; tüm mahalledeki araçların bu noktadan alınacağı anlamına gelmez. Sizden istenen, otomobilin gerçek bekleme konumudur.",
+          "Özel alan içindeyseniz kapının yeri ve yola bağlantısını açıklayın. Alanın adından zemin koşulu tahmin edilmez. Aracın hareket edemeyen bölümü ve teslim edilecek servisin konumu da talebe eklenmelidir."
+        ]
+      },
+      {
+        "heading": "Çalışan motor hareket güvenliğini kanıtlamaz",
+        "paragraphs": [
+          "Altınkum’daki otomobilin motoru çalışsa bile ilerlemekte zorlanması, beklenmedik ses çıkarması veya hareketin güven vermemesi ayrı belirtilerdir. Hangi durumun görüldüğünü, ne zaman başladığını ve araç durdurulduktan sonra değişip değişmediğini anlatın. Sorunu kanıtlamak için aracı tekrar tekrar yürütmeyin. Motorun çalıştığı bilgisi, aracın kendi gücüyle park dışına çıkarılabileceği anlamına gelmez; değerlendirme gerçek belirtilere dayanır."
+        ]
+      },
+      {
+        "heading": "Özel alanın açılması ve kabul noktasının hazırlanması",
+        "paragraphs": [
+          "Araç özel kapının gerisindeyse kapıyı açacak kişi, anahtarı sağlayan kişi ve aracın sahibi farklı olabilir. Bu rolleri talepte belirtin; kapının açık olacağı varsayılmasın. Taşıma hedefindeki servis ise hareket sorununu önceden bilmeli ve aracı karşılayacak kişiyi belirlemelidir. Teslimde görülen belirtiyi tekrar tarif ederek aracı bırakın; çekici görüşmesi tek başına servis arıza tespiti yerine geçmez."
+        ]
+      }
+    ],
+    "questions": [
+      {
+        "q": "Motor çalışırken neden hareket bilgisi de sorulur?",
+        "a": "Motorun çalışması, vitesin kullanılabildiğini veya tekerleklerin döndüğünü göstermez. Gerçekte gözlediğiniz hareket sorununu ve varsa sesi ayrıca anlatmanız uygun değerlendirmeye yardımcı olur."
+      },
+      {
+        "q": "Özel alan kapısını açacak kişi araç sahibinden farklı olabilir mi?",
+        "a": "Olabilir; ancak giriş izni ve anahtarın kime teslim edileceği açıkça belirlenmelidir. Araç sahibiyle bağlantı kurulabilmesi ve teslim hedefinin onayı da gerekir."
+      }
+    ],
+    "scenario": {
+      "title": "Özel alanın kapısı arkasında duran araç",
+      "situation": "Altınkum’daki örnek özel alanda otomobil çalışır, ancak güvenilir şekilde hareket etmediği için taşıma istenir. Sürücü muhtarlık referansını paylaşır; araç ise bu referansın gösterdiği noktada değildir. Gerçek kapı ve park yeri ayrıca işaretlenir.",
+      "assessment": "Aracın hareket belirtisi, giriş açıklığı ve manevra alanı gözlendiği kadarıyla anlatılır. Belirli arıza veya taşıma yöntemi mahalle adından kesinleştirilmez. Sürücü çevreyi fotoğraflarken aracı hareket ettirmek zorunda değildir. Mevcut kapı, park ve otomobilin konumu anlatılır; normal yürüyebildiği veya güvenli ilerleyebildiği motorun çalışmasından tek başına çıkarılmaz.",
+      "delivery": "Servisin kabul edeceği açık adres alınır; mevcut özel alan konumu başlangıç noktası olarak tutulur.",
+      "type": "illustrative_not_historical"
+    },
+    "sources": [
+      {
+        "title": "İzmir Büyükşehir Belediyesi — Muhtarlıklar açık veri",
+        "url": "https://acikveri.bizizmir.com/dataset/muhtarliklar"
+      }
+    ],
+    "limitations": [
+      "Mahalle ve yol alanı kamu muhtarlık kaydına dayanır. YOL, aracın veya işletmenin adresi değildir; güncel yol erişimini doğrulamaz.",
+      "Senaryo varsayımsaldır; yapılmış iş, geçmiş müşteri, şube, geliş süresi, fiyat veya ekipman garantisi içermez."
+    ]
+  },
+  "/bolgeler/cesme/dalyan/": {
+    "name": "Dalyan",
+    "status": "record_grounded_editorial",
+    "checked_on": "2026-10-11",
+    "facts": [
+      "Çeşme ilçesi DALYAN muhtarlık kaydının YOL alanı: 4218"
+    ],
+    "sections": [
+      {
+        "heading": "Dalyan kayıt tekrarını ayrı yer sanmama",
+        "paragraphs": [
+          "Çeşme Dalyan için açık veride aynı 4218 yol alanıyla tekrarlanan kayıt bulunur. Bu tekrar, iki ayrı çekici noktası veya iki işletme şubesi anlamına gelmez. Mahalle adı araç konumuyla tamamlanmalıdır.",
+          "Talepte aynı adresin iki kez yazılması yerine gerçek park noktasını bir kez ve açıkça paylaşın. Teslimi başka bir kişi yapacaksa onun iletişimini netleştirin; kayıt satırı sayısından erişim veya hizmet kapsamı çıkarılmaz."
+        ]
+      },
+      {
+        "heading": "Araç başındaki kişi bilgiyi yerinden vermeli",
+        "paragraphs": [
+          "Dalyan’daki aracın yanında bir yakınınız bekliyorsa sizdeki eski bilgi ile onun gözlemini ayırın. Araçta hangi tepkinin görüldüğü, anahtarın kimde bulunduğu ve otomobilin çevresinin nasıl olduğu yerinde doğrulanmalıdır. Aynı talebe birkaç farklı konum göndermek yerine geçerli konumu seçin. Yakınınızın yalnızca bekleyen kişi mi yoksa teslimi yapacak kişi mi olduğunu da görüşmede belirtin."
+        ]
+      },
+      {
+        "heading": "Uzaktan verilen taşıma kararında alıcıyı belirleyin",
+        "paragraphs": [
+          "Araç sahibi başka yerdeyken servis seçimi, anahtar teslimi ve aracın bırakılması tek kişi üzerinden yürümeyebilir. Yetkilendirdiğiniz kişiye kararlaştırılan hedefi açıkça iletin; alıcı servisin de bu teslimi kabul ettiğini doğrulayın. Araçtaki size gerekli eşyaların kim tarafından alınacağını düşünün. Taşıma sırasında yeni bir hedef istenirse önce kabul adresi ve karşılayıcı yeniden netleştirilmeli, eski talep bilgisine güvenilmemelidir."
+        ]
+      }
+    ],
+    "questions": [
+      {
+        "q": "Yakınım araç başındaysa hangi bilgileri bizzat kontrol etmeli?",
+        "a": "Anahtarın yerini, aracın güncel belirtisini ve park çevresini kontrol edip konumu araç yanından paylaşmalı. Görülmeyen arızayı tahmin etmesi gerekmez."
+      },
+      {
+        "q": "Ben gelmeden servis hedefi değiştirilirse ne yapılmalı?",
+        "a": "Yeni servisin açık kabul adresi ve alıcısı teyit edilmeli; araç başındaki yetkili kişiye de değişiklik iletilmelidir. Eski hedef kendiliğinden geçersiz sayılarak hareket edilmez."
+      }
+    ],
+    "scenario": {
+      "title": "Araç sahibi yerine yakınının beklemesi",
+      "situation": "Dalyan’daki örnekte otomobil çalışmaz, sahibi ayrılmış ve bir yakını araç yanında beklemektedir. İlk mesajda araç sahibinin konumu gönderilir; bu pin otomobili göstermez. Talepte aracı gösterecek kişinin gerçek park konumu kullanılmalıdır.",
+      "assessment": "Yakının iletişimi, araç girişi ve motor–vites–tekerlek durumu konuşulur. Muhtarlık kaydının tekrarı araç konumuna ilişkin yeni bilgi sayılmaz. Yakının telefonunda görünen konum gerçek araç noktasını göstermiyorsa bunun düzeltilmesi gerekir. Aracı gösterecek kişinin park alanında bulunup bulunmadığı, adres teyidinden ayrı konuşulur; varsayılarak tamamlanmaz.",
+      "delivery": "Teslim servisi ve kabul kişisi belirlenir; araç sahibinin başka yerde olması hedef adresi kendiliğinden değiştirmez.",
+      "type": "illustrative_not_historical"
+    },
+    "sources": [
+      {
+        "title": "İzmir Büyükşehir Belediyesi — Muhtarlıklar açık veri",
+        "url": "https://acikveri.bizizmir.com/dataset/muhtarliklar"
+      }
+    ],
+    "limitations": [
+      "Mahalle ve yol alanı kamu muhtarlık kaydına dayanır. YOL, aracın veya işletmenin adresi değildir; güncel yol erişimini doğrulamaz.",
+      "Senaryo varsayımsaldır; yapılmış iş, geçmiş müşteri, şube, geliş süresi, fiyat veya ekipman garantisi içermez."
+    ]
+  },
+  "/bolgeler/cesme/ildir/": {
+    "name": "Ildır",
+    "status": "record_grounded_editorial",
+    "checked_on": "2026-10-11",
+    "facts": [
+      "Çeşme ilçesi ILDIR muhtarlık kaydının YOL alanı: ILDIR GAZİ MUSTAFA KEMAL"
+    ],
+    "sections": [
+      {
+        "heading": "Ildır ve Ildırı yazımını konumla birleştirme",
+        "paragraphs": [
+          "Bu sayfanın Ildır adı açık veride Çeşme altında ILDIR olarak yer alır; yol alanı ILDIR GAZİ MUSTAFA KEMAL’dir. Valilik tanıtımındaki Ildırı yazımıyla tarif yapılırken de gerçek araç konumu paylaşılmalıdır.",
+          "Yerleşim adının yazımı farklı görünse bile yanlış bir konum seçilmemelidir. Araç bir işletmede bekliyorsa araç kapısını, servise teslim isteniyorsa hedef adresini ayrıca açıklayın; kamu referansı aracın park yeri sayılmaz."
+        ]
+      },
+      {
+        "heading": "Vites bilgisi yerleşim yazımından bağımsızdır",
+        "paragraphs": [
+          "Ildır veya Ildırı yazımıyla tarif ettiğiniz aracın yeri anlaşıldıktan sonra vitesin hangi konumda kaldığını ve anahtarın mevcut olup olmadığını anlatın. Motor tepkisi ile vitesin hareket etmemesi aynı bilgi değildir. Kolu zorlayarak deneme yapmak yerine gözlemi paylaşın; aracın marka ve modelini de belirtin. Tekerleklerin görünür yönü, bulunduğu parkta hareketin nasıl değerlendirileceğine yardımcı olur."
+        ]
+      },
+      {
+        "heading": "Hareketi sınırlı aracın servis kabulü",
+        "paragraphs": [
+          "Vites sorunu bildirilen bir araç teslim edilirken kabul noktası bunu önceden bilmelidir. Servise yalnızca çalışmıyor demek, aracın indirilmesi sonrasında karşılaşılacak koşulu açıklamaz. Vites konumu, anahtar durumu ve gözlenen belirtiler birlikte iletilir. Servisin aracı hangi noktada karşılayacağını teyit edin; parça veya onarım ihtiyacı hakkında karar verilmeden önce aracın incelenmesi gerekeceğini göz önünde bulundurun."
+        ]
+      }
+    ],
+    "questions": [
+      {
+        "q": "Vites kolu hareket etmiyorsa bunu nasıl bildirmeliyim?",
+        "a": "Bulunduğu konumu, anahtarın mevcut olup olmadığını ve son denemede ne olduğunu söyleyin. Kolu zorlamayın; motor tepkisini bu gözlemden ayrı paylaşın."
+      },
+      {
+        "q": "Servise yalnızca aracın çalışmadığını söylemem yeterli mi?",
+        "a": "Vites hareket etmiyorsa bu bilgiyi de iletin. Servisin kabul ve karşılamayı gerçek araç durumuna göre hazırlaması için hareket kısıtı açıkça bilinmelidir."
+      }
+    ],
+    "scenario": {
+      "title": "Yerleşim yazımında belirsizlik",
+      "situation": "Ildır çevresindeki örnekte sürücü adresi Ildırı olarak yazıp yakın işletmenin genel konumunu yollar. Otomobil o işletmenin araç parkındaki başka bir bölümündedir. Yer adının iki yazımı üzerinden yeni alma noktası çıkarılmamalıdır.",
+      "assessment": "Gerçek araç pini ve giriş teyit edilir. Vitesin hareket etmediği bilgisi motor belirtisinden ayrı açıklanır; adres yazımının düzelmesi uygun taşıma yöntemini tek başına belirlemez. Yazım düzeltmesiyle birlikte önceki yanlış işaretin kullanılmaması açıkça belirtilir. Birim, park kapısı ve gerçek otomobil noktası arasında fark varsa bu fark görüşmede somut olarak açıklanır.",
+      "delivery": "Seçilen servisin açık konumu ve kabul koşulu görüşmede ayrıca netleştirilir.",
+      "type": "illustrative_not_historical"
+    },
+    "sources": [
+      {
+        "title": "İzmir Büyükşehir Belediyesi — Muhtarlıklar açık veri",
+        "url": "https://acikveri.bizizmir.com/dataset/muhtarliklar"
+      }
+    ],
+    "limitations": [
+      "Mahalle ve yol alanı kamu muhtarlık kaydına dayanır. YOL, aracın veya işletmenin adresi değildir; güncel yol erişimini doğrulamaz.",
+      "Senaryo varsayımsaldır; yapılmış iş, geçmiş müşteri, şube, geliş süresi, fiyat veya ekipman garantisi içermez."
+    ]
+  },
+  "/bolgeler/cesme/sifne/": {
+    "name": "Şifne",
+    "status": "record_grounded_editorial",
+    "checked_on": "2026-10-11",
+    "facts": [
+      "Çeşme ilçesi ŞİFNE muhtarlık kaydının YOL alanı: 6460"
+    ],
+    "sections": [
+      {
+        "heading": "Şifne kaydını gerçek girişten ayırma",
+        "paragraphs": [
+          "Şifne, Çeşme ilçesindeki resmî muhtarlık eşleşmesidir; YOL alanında 6460 bulunur. Bu kamu referansı yer adı kontrolüne yardımcı olur. Araç farklı sokak veya özel alandaysa onun konumu esas alınmalıdır.",
+          "Konaklama ya da tesis adı verilse bile kullanılacak araç girişini açıklayın. Tekerleklerin veya direksiyonun hareket etmemesi ayrı bir bilgidir. Mahalle adı ve numaralı referans, araç kapısının açık olduğunu göstermemektedir."
+        ]
+      },
+      {
+        "heading": "Direksiyon hareketini zorlayarak sınamayın",
+        "paragraphs": [
+          "Şifne’de park halindeki aracın direksiyonu dönmüyorsa anahtarın mevcut olup olmadığını, motorun verdiği tepkiyi ve tekerleklerin hangi yöne baktığını söyleyin. Direksiyonu zorlamak veya tekerlekleri sürükleyerek düzeltmek çözüm olarak görülmemelidir. Marka, model ve görülen gösterge uyarıları görüşmeyi destekler. Kilit veya mekanik arıza nedeni uzaktan kesinleştirilemez; doğru bilgi, uygulanabilecek taşımanın değerlendirilmesine yardımcı olur."
+        ]
+      },
+      {
+        "heading": "Alıcı servise yönlendirme kısıtını bildirin",
+        "paragraphs": [
+          "Taşıma kararı verilirse direksiyon sorunu kabul edecek servise önceden aktarılmalıdır. Aracın teslimden sonra kolayca yönlendirilebileceği varsayılmadan, karşılayıcının hazır olduğu bırakma noktası konuşulur. Anahtar veya ilgili araç bilgileri servisle birlikte teslim edilir. Tesis kapısında görevli bulunması servis kabulünü sağlamaz; araç başındaki yetkili ile teknik değerlendirmeyi yapacak alıcının bilgileri ayrı tutulmalıdır."
+        ]
+      }
+    ],
+    "questions": [
+      {
+        "q": "Direksiyon dönmüyor ama tekerlekler düzse bu yeterli bilgi mi?",
+        "a": "Tekerleklerin düz olduğu yararlıdır ancak direksiyon hareket kısıtı yine belirtilmelidir. Anahtar, marka ve model ile motor tepkisini de paylaşın; yönteme bunlar birlikte değerlendirilerek karar verilir."
+      },
+      {
+        "q": "Direksiyon sorununu teslimden sonra anlatabilir miyim?",
+        "a": "Önceden iletmek daha uygundur. Kabul edecek servis aracın yönlendirilemeyebileceğini bilerek karşılamayı planlayabilir; arızanın nedeni ise inceleme sonucunda belirlenir."
+      }
+    ],
+    "scenario": {
+      "title": "Direksiyonu dönmeyen park otomobili",
+      "situation": "Şifne’deki varsayımsal otomobilin motoru çalışmaz ve direksiyonun dönmediği görülür. İlk mesajda yalnızca tesis adı verilir. Araç o tesisin genel harita işaretinden farklı bir park noktasında olduğundan tam konum açıklanır.",
+      "assessment": "Tekerleklerin ve vitesin durumu ile kullanılacak kapı paylaşılır. Kapıdan giriş için tesis koşulu teyit edilir; 6460 kamu kaydı giriş yetkisini veya araç erişimini doğrulamaz. Direksiyonun dönmediği bilgisi paylaşılırken sorunun kesin nedeni uydurulmaz. Araç yanındaki kişinin gözlediği hareket koşulları anlatılır; motor arızasının adı veya gerekli taşıma yöntemi tahminle sabitlenmez.",
+      "delivery": "Taşıma hedefi açık servis adresiyle belirlenir; tesisin adı hedef kabul yeri gibi kullanılmaz.",
+      "type": "illustrative_not_historical"
+    },
+    "sources": [
+      {
+        "title": "İzmir Büyükşehir Belediyesi — Muhtarlıklar açık veri",
+        "url": "https://acikveri.bizizmir.com/dataset/muhtarliklar"
+      }
+    ],
+    "limitations": [
+      "Mahalle ve yol alanı kamu muhtarlık kaydına dayanır. YOL, aracın veya işletmenin adresi değildir; güncel yol erişimini doğrulamaz.",
+      "Senaryo varsayımsaldır; yapılmış iş, geçmiş müşteri, şube, geliş süresi, fiyat veya ekipman garantisi içermez."
+    ]
+  },
+  "/bolgeler/cesme/16-eylul/": {
+    "name": "16 Eylül",
+    "status": "record_grounded_editorial",
+    "checked_on": "2026-10-11",
+    "facts": [
+      "Çeşme ilçesi 16 EYLÜL muhtarlık kaydının YOL alanı: 3001"
+    ],
+    "sections": [
+      {
+        "heading": "16 Eylül mahalle adını açık yazma",
+        "paragraphs": [
+          "Çeşme ilçesinde 16 Eylül adı muhtarlık listesinde yer alır; yol alanı 3001’dir. Talepte bu adın bir mahalle olduğunu ve ilçeyi yazın. Sayı içeren ad tarih bilgisi veya taşıma günü olarak anlaşılmamalıdır.",
+          "Aracın beklediği cadde veya parkı konumla tamamlayın. Bakım amacıyla taşınacak çalışan araçta da alma ve teslim noktaları gereklidir. Mahalle kaydı aracın arızalı olduğunu veya belirli servise gideceğini göstermez."
+        ]
+      },
+      {
+        "heading": "Planlı taşımanın kapsamını baştan söyleyin",
+        "paragraphs": [
+          "16 Eylül’de çalışan bir otomobili bakım için taşıtmak istiyorsanız talebin arızadan değil planlı servis tesliminden kaynaklandığını belirtin. Aracın normal hareket edebildiğini ancak taşıma tercih edildiğini söylemek, ihtiyaçların doğru anlaşılmasını sağlar. Bakım randevusunu, anahtarı teslim edecek kişiyi ve parkın erişim koşulunu önceden hazırlayın. Sırf çekici kullanılacak diye araçta bulunmayan bir belirti tarif edilmemelidir."
+        ]
+      },
+      {
+        "heading": "Bakım randevusu ile araç kabulünü eşleştirin",
+        "paragraphs": [
+          "Servisin randevu vermesi, aracın her saatte bırakılabileceği anlamına gelmeyebilir. Kararlaştırılan kabul düzenini, açık teslim adresini ve bakım talebini servisle teyit edin. Araç sahibi teslimde bulunmayacaksa yapılmasını istediği işlem bilgisi alıcıya önceden ulaşmalıdır. Anahtarla birlikte iletilecek belgeleri ve kişisel eşyaları düzenlemek, taşıma sonrasında bakımın hangi taleple başlayacağı konusunda belirsizliği azaltır."
+        ]
+      }
+    ],
+    "questions": [
+      {
+        "q": "Aracım çalışırken bakım için çekici isteyebilir miyim?",
+        "a": "Planlı taşıma isteğinizi ve aracın hareket durumunu açıkça paylaşabilirsiniz. Taşımanın koşulları ve servis kabulü görüşmede belirlenir; olmayan bir arıza belirtilmez."
+      },
+      {
+        "q": "Bakım randevum varsa servis adresini tekrar teyit etmeli miyim?",
+        "a": "Evet; randevu ile araç bırakma düzeni farklı olabilir. Kabul noktası, karşılayıcı ve yapılmasını istediğiniz işlem alıcı servisle ayrıca netleştirilmelidir."
+      }
+    ],
+    "scenario": {
+      "title": "Bakım amacıyla çalışan aracın taşınması",
+      "situation": "16 Eylül Mahallesi’ndeki örnekte otomobil çalışır fakat sahibi bakım için başka servise taşıma ister. Talep arıza gibi varsayılmaz. Mahalle adı ve 3001 referansı yerine aracın mevcut park konumu paylaşılır.",
+      "assessment": "Çalışma ve hareket durumuyla araç girişine ilişkin koşullar açıklanır. Servisin aracı kabul edeceği bölüm sorulur; kamu mahallesi kaydından bakım içeriği veya taşıma yöntemi çıkarılmaz. Bakım için taşıma istemek belirli bir arıza iddiası oluşturmaz. Araç sahibinin tercih ettiği servis ve kabul koşulu ayrı konuşulur; çalışır aracın teslim adresi kendiliğinden belirlenmez.",
+      "delivery": "Seçilen servis hedefi açık adresle belirlenir; bakım talebinin hangi noktadan başladığı ayrı gösterilir.",
+      "type": "illustrative_not_historical"
+    },
+    "sources": [
+      {
+        "title": "İzmir Büyükşehir Belediyesi — Muhtarlıklar açık veri",
+        "url": "https://acikveri.bizizmir.com/dataset/muhtarliklar"
+      }
+    ],
+    "limitations": [
+      "Mahalle ve yol alanı kamu muhtarlık kaydına dayanır. YOL, aracın veya işletmenin adresi değildir; güncel yol erişimini doğrulamaz.",
+      "Senaryo varsayımsaldır; yapılmış iş, geçmiş müşteri, şube, geliş süresi, fiyat veya ekipman garantisi içermez."
+    ]
+  },
+  "/bolgeler/cesme/ovacik/": {
+    "name": "Ovacık",
+    "status": "record_grounded_editorial",
+    "checked_on": "2026-10-11",
+    "facts": [
+      "Çeşme ilçesi OVACIK muhtarlık kaydının YOL alanı: 7000"
+    ],
+    "sections": [
+      {
+        "heading": "Ovacık adını Çeşme ile eşleştirme",
+        "paragraphs": [
+          "Bu Ovacık sayfası İBB kaydında Çeşme ilçesi ve 7000 yol alanıyla eşleşir. İlçeyi yazmadan yalnızca Ovacık demek yeterli bir araç adresi değildir. Gerçek konum, kayıt referansından bağımsız olarak paylaşılmalıdır.",
+          "Araç özel mülk içindeyse giriş ve yol bağlantısını tarif edin. Yük veya hareket sorunu varsa ayrıca belirtin; mahalle adından tarla, tesis, yol yüzeyi ya da belirli araç türü varsayımı yapılamaz."
+        ]
+      },
+      {
+        "heading": "Hangi tekerleğin hareket etmediğini ayırın",
+        "paragraphs": [
+          "Ovacık’taki araçta bir tekerlek hareket etmiyorsa hangi tekerlek olduğunu ve durumun görülebildiği kadarını anlatın. Sıkışmanın nedenini bilmek zorunda değilsiniz. Yakın görüntünün yanında otomobilin bütününü ve bulunduğu alanı gösteren fotoğraf da paylaşın. Tekerlek yönü, vites konumu ve anahtar bilgisi ayrı ayrı sorulabilir; bu belirtiler olmadan standart bir yükleme yönteminin uygun olduğu varsayılamaz."
+        ]
+      },
+      {
+        "heading": "Kısıtlı hareketi teslim planına da aktarın",
+        "paragraphs": [
+          "Özel parkın kapısını açmak aracın hareket kısıtını çözmez. Aracın bulunduğu noktadan alınması değerlendirilirken servis hedefi de aynı kısıtı bilmeli ve karşılayacağı yeri belirtmelidir. Teslimde tekerleğin sorunsuz döneceği düşünülmeden alıcının kabulü alınır. Araç sahibi farklı bir servis seçerse, daha önce iletilmiş olan hareket bilgisi yeni alıcıya da aktarılmalıdır; yalnızca adres değişikliğiyle yetinilmemelidir."
+        ]
+      }
+    ],
+    "questions": [
+      {
+        "q": "Sıkışan tekerleğin arıza nedenini bilmeden talep verebilir miyim?",
+        "a": "Evet; görülen hareket kısıtını, hangi tekerlekte olduğunu ve fotoğrafları paylaşmanız yeterlidir. Arızayı teşhis etmeye veya zorlayarak hareket ettirmeye çalışmayın."
+      },
+      {
+        "q": "Servis değişirse tekerlek sorununu yeniden anlatmalı mıyım?",
+        "a": "Yeni kabul noktası bu bilgiyi bilmeli. Teslim adresinin yanı sıra aracın hareket kısıtı ve karşılayıcı teyit edilerek plan güncellenmelidir."
+      }
+    ],
+    "scenario": {
+      "title": "Özel girişte tekerlek hareket sorunu",
+      "situation": "Çeşme Ovacık’taki varsayımsal özel park alanında otomobilin bir tekerleği hareket etmez. Sahibi yalnızca mahalle adını yazar. Örnekte özel giriş ve araç pini eklenerek kamu kaydıyla gerçek park yerinin farklı olduğu açıklanır.",
+      "assessment": "Hangi tekerlekte sorun görüldüğü, direksiyon ve vites durumu konuşulur. Yol yüzeyi veya kapı açıklığı yalnızca gözleme göre tarif edilir; Ovacık adı üzerinden zemin koşulu çıkarılmaz. Özel alanın giriş fotoğrafı aracı ve yol bağlantısını birlikte gösterebiliyorsa konum tarifini destekler. Ancak fotoğraftan yüzeyin taşıma kapasitesi ya da kapının geçiş uygunluğu kesinleştirilmiş sayılmaz.",
+      "delivery": "Servisin açık kabul adresi alınır; mahalle adı teslim hedefi yerine kullanılmaz.",
+      "type": "illustrative_not_historical"
+    },
+    "sources": [
+      {
+        "title": "İzmir Büyükşehir Belediyesi — Muhtarlıklar açık veri",
+        "url": "https://acikveri.bizizmir.com/dataset/muhtarliklar"
+      }
+    ],
+    "limitations": [
+      "Mahalle ve yol alanı kamu muhtarlık kaydına dayanır. YOL, aracın veya işletmenin adresi değildir; güncel yol erişimini doğrulamaz.",
+      "Senaryo varsayımsaldır; yapılmış iş, geçmiş müşteri, şube, geliş süresi, fiyat veya ekipman garantisi içermez."
+    ]
+  },
+  "/bolgeler/guzelbahce/yelki/": {
+    "name": "Yelki",
+    "status": "record_grounded_editorial",
+    "checked_on": "2026-10-11",
+    "facts": [
+      "Güzelbahçe ilçesi YELKİ muhtarlık kaydının YOL alanı: 2251"
+    ],
+    "sections": [
+      {
+        "heading": "Yelki’de kapı ile mahalle referansını ayırma",
+        "paragraphs": [
+          "İBB muhtarlık listesi Yelki’yi Güzelbahçe altında ve 2251 yol alanıyla kaydeder. Bu bilgi yerleşim eşleşmesini destekler. Güzelbahçe sahili gibi geniş bir tarif yerine Yelki’deki gerçek araç noktası gönderilmelidir.",
+          "Kapılı bir alanda bulunuyorsanız girişin yeri ve araçla yol arasındaki konumu anlatın. Kapı açıklığı fotoğrafta görülebilir; bütün Yelki adreslerinde aynı erişim koşulunun bulunduğu varsayılmamalıdır. Teslim hedefini ayrı açıklayın."
+        ]
+      },
+      {
+        "heading": "Yaya girişi ile araç geçişini ayırt edin",
+        "paragraphs": [
+          "Yelki’de iki kapısı olan bir alandan araç alınacaksa otomobilin kullanılabilecek araç kapısına göre yerini gösterin. Kapının fotoğrafı, görevlinin verdiği erişim bilgisi ve park içindeki engeller yararlıdır. Kapı açılıyor olsa bile geçişin uygun olduğu varsayılmamalıdır. Motorun marş almaması, vitesin durumu ve otomobilin çevresinde çalışma alanı bulunup bulunmadığı ayrıca paylaşılmalıdır; giriş bilgisi teknik belirtilerin yerine geçmez."
+        ]
+      },
+      {
+        "heading": "Teslim ilçesi alma adresini değiştirmez",
+        "paragraphs": [
+          "Aracı Urla’da veya seçtiğiniz başka bir ilçede servise bırakmak isteyebilirsiniz. Yelki’deki alma noktası ile servisin açık kabul adresini iki ayrı bilgi olarak iletin. Alıcı, marş almayan otomobilin gelişinden haberdar olmalı ve karşılayacak kişiyi belirlemelidir. Özel alandaki görevlinin işi giriş erişimidir; servis kabulünün ayrıca onaylanması gerekir. Anahtarın kimden alınacağını ve kime bırakılacağını da netleştirin."
+        ]
+      }
+    ],
+    "questions": [
+      {
+        "q": "Kapı açılabiliyorsa başka erişim bilgisi gerekli mi?",
+        "a": "Evet; araç kapısının yeri, geçişin mevcut ölçü bilgisi ve otomobilin kapıya göre konumu önemlidir. Bilinmeyen bir ölçüyü tahmin etmeyin; görevlinin doğruladığı bilgiyi paylaşın."
+      },
+      {
+        "q": "Urla’daki servis hedefini konum olarak önce göndersem yeterli mi?",
+        "a": "Servis hedefini gönderebilirsiniz ancak Yelki’deki araç noktası ayrıca gerekir. İki konumu alma ve teslim olarak etiketleyin; servisin kabulünü de teyit edin."
+      }
+    ],
+    "scenario": {
+      "title": "İki kapılı özel park",
+      "situation": "Yelki’deki örnek özel parkın yaya ve araç kapıları farklıdır. Otomobil çalışmaz ve ilk gönderilen pin yaya kapısını gösterir. Talepte mahalle eşleşmesi doğru olsa da çekicinin görüşmede değerlendireceği giriş ayrı açıklanmalıdır.",
+      "assessment": "Araç kapısı ve park noktası paylaşılır. Görünen yükseklik veya açıklık sınırı ile tekerlek–direksiyon durumu belirtilir. Özel alana giriş yetkisi ilgili kişiyle teyit edilir. İki kapının arasındaki ilişki uzun bir sözlü tarif yerine doğru konumla açıklanır. Araç yanında bulunan kişi mevcut kapıyı teyit eder; geçmiş giriş düzeni güncelmiş gibi kullanılmaz.",
+      "delivery": "Urla veya başka yerde seçilen servisin açık kabul adresi başlangıç konumundan ayrı gönderilir.",
+      "type": "illustrative_not_historical"
+    },
+    "sources": [
+      {
+        "title": "İzmir Büyükşehir Belediyesi — Muhtarlıklar açık veri",
+        "url": "https://acikveri.bizizmir.com/dataset/muhtarliklar"
+      }
+    ],
+    "limitations": [
+      "Mahalle ve yol alanı kamu muhtarlık kaydına dayanır. YOL, aracın veya işletmenin adresi değildir; güncel yol erişimini doğrulamaz.",
+      "Senaryo varsayımsaldır; yapılmış iş, geçmiş müşteri, şube, geliş süresi, fiyat veya ekipman garantisi içermez."
+    ]
+  },
+  "/bolgeler/guzelbahce/kahramandere/": {
+    "name": "Kahramandere",
+    "status": "record_grounded_editorial",
+    "checked_on": "2026-10-11",
+    "facts": [
+      "Güzelbahçe ilçesi KAHRAMANDERE muhtarlık kaydının YOL alanı: ATA"
+    ],
+    "sections": [
+      {
+        "heading": "Kahramandere için ATA referansının anlamı",
+        "paragraphs": [
+          "Güzelbahçe Kahramandere muhtarlık kaydında YOL alanı ATA’dır. Bu alan mahalleye ilişkin kamu referansını gösterir; sizin aracınızın ATA üzerinde olduğunu kanıtlamaz. Sokak ve park noktası talepte ayrıca yazılmalıdır.",
+          "Bir bina veya iş yerindeki araç için giriş koşulunu o adrese göre açıklayın. Motor belirtisinin yanında vites durumu da paylaşılmalıdır. Teslimi Güzelbahçe dışında istiyorsanız açık servis adresini alma konumuyla karıştırmayın."
+        ]
+      },
+      {
+        "heading": "Vites ve park freni ayrı bilgilerdir",
+        "paragraphs": [
+          "Kahramandere’de vitesi hareket etmeyen park otomobili için kolun mevcut konumunu, anahtarın durumunu ve bildiğiniz park freni bilgisini ayrı anlatın. Birinin kullanılamaması diğerinin durumunu göstermez. Marka ve model, görüşmede sorulabilecek araç özelliklerini netleştirir. Zorlayarak vites değiştirmeye çalışmayın; aracın bulunduğu noktadaki fotoğraf ve tekerlek yönü ile gözlenen kısıtı aktarmak daha sağlıklı bir başlangıçtır."
+        ]
+      },
+      {
+        "heading": "Servisin kısıtlı hareketi karşılayabilmesi",
+        "paragraphs": [
+          "Taşıma kararı verilen aracın servis girişinde kendi gücüyle ilerleyemeyeceği veya vites hareketinin sınırlı olduğu önceden söylenmelidir. Alıcıyla uygun bırakma noktası konuşulur, kararlaştırılan hedef netleştirilir. Teknik arızanın nedeni ve onarım şekli servis incelemesinde ele alınır. Teslim sırasında anahtarla birlikte son gözlemlerin aktarılması, araç başında bulunmayan alıcının neyle karşılaşacağını anlamasına yardımcı olur."
+        ]
+      }
+    ],
+    "questions": [
+      {
+        "q": "Park freni bilgisini vites sorunuyla birlikte vermeli miyim?",
+        "a": "Evet; bildiğiniz durumları ayrı ayrı söyleyin. Vites kolunun hareket etmemesi park freninin durumunu açıklamaz; bilinmeyen işleyiş için tahminde bulunmayın."
+      },
+      {
+        "q": "Servis aracın vites sorununu ne zaman bilmeli?",
+        "a": "Kabul düzeni belirlenmeden önce. Hareket kısıtı teslimde yönlendirmeyi etkileyebilir; servis alıcısı belirtileri bilerek aracı karşılayacağı noktayı teyit etmelidir."
+      }
+    ],
+    "scenario": {
+      "title": "Vitesi hareket etmeyen otomobil",
+      "situation": "Kahramandere’deki varsayımsal bina parkında araç çalışmaz ve vites hareket etmez. Sahibi ATA kamu referansını alma yeri gibi paylaşır, ancak otomobil farklı bir sokaktadır. Örnekte gerçek park noktasının konumu düzeltilir.",
+      "assessment": "Vites, direksiyon ve tekerlek durumu açık anlatılır. Kullanılacak araç girişi ve parkın açık veya kapalı olduğu paylaşılır; mahalle referansından taşıma yöntemi kesinleştirilmez. Vitesin neden hareket etmediği bilinmiyorsa yalnızca gözlenen durum aktarılır. Marka ve model eklenir; aynı mahalledeki başka otomobilin taşıma yöntemi bu örneğe otomatik uygulanmış kabul edilmez.",
+      "delivery": "Seçilen servisin açık adresi ve kabul bölümü belirlenir; kamu referansı hedef adres sayılmaz.",
+      "type": "illustrative_not_historical"
+    },
+    "sources": [
+      {
+        "title": "İzmir Büyükşehir Belediyesi — Muhtarlıklar açık veri",
+        "url": "https://acikveri.bizizmir.com/dataset/muhtarliklar"
+      }
+    ],
+    "limitations": [
+      "Mahalle ve yol alanı kamu muhtarlık kaydına dayanır. YOL, aracın veya işletmenin adresi değildir; güncel yol erişimini doğrulamaz.",
+      "Senaryo varsayımsaldır; yapılmış iş, geçmiş müşteri, şube, geliş süresi, fiyat veya ekipman garantisi içermez."
+    ]
+  },
+  "/bolgeler/guzelbahce/camli/": {
+    "name": "Çamlı",
+    "status": "record_grounded_editorial",
+    "checked_on": "2026-10-11",
+    "facts": [
+      "Güzelbahçe ilçesi ÇAMLI muhtarlık kaydının YOL alanı: ÇAMLICA"
+    ],
+    "sections": [
+      {
+        "heading": "Çamlı ve Çamlıca adlarını ayırt etme",
+        "paragraphs": [
+          "Açık veride Çamlı, Güzelbahçe ilçesindeki mahalle adı; ÇAMLICA ise bu muhtarlık kaydının yol alanıdır. İki alanın farklı anlamı vardır. Talepte yol adını mahalleyle karıştırmadan gerçek araç konumu yazılmalıdır.",
+          "Araç bir iş yerinde veya özel alandaysa kapı bilgisi de ekleyin. Özel giriş bulunduğu, Çamlı’nın tüm adreslerinde aynı yol koşulu olduğu anlamına gelmez. Servis hedefini ve aracın mevcut hareket sorununu ayrıca paylaşın."
+        ]
+      },
+      {
+        "heading": "Atölye değişiminde güncel durumu aktarın",
+        "paragraphs": [
+          "Çamlı’daki iş yeri parkından başka bir servise taşıma istenirken otomobilin ilk gelişteki değil, şu anki hali anlatılmalıdır. Motorun çalışıp çalışmadığı, tekerleklerin ve direksiyonun durumu değişmiş olabilir. İş yeri sorumlusundan bu bilgileri teyit edin. Araçta bırakılan parçalar varsa bunların nerede olduğunu söyleyin; sökülmüş parça bulunduğunu varsaymadan, mevcut durumun anlaşılmasına yetecek görüntü paylaşın."
+        ]
+      },
+      {
+        "heading": "İki işletme arasında teslim sorumluluğunu netleştirin",
+        "paragraphs": [
+          "Çıkış yapılacak işletme ve yeni servis aynı talebin farklı taraflarıdır. İlk yerde anahtarı ve aracı teslim edecek kişiyi, ikinci yerde kabulü yapacak kişiyi belirleyin. Mevcut iş emri veya size ait parçaların yeni servise gönderilip gönderilmeyeceğini işletmelerle konuşun. Taşıma, önceki onarım hakkında karar vermez; yeni servisin hangi işlem için araç kabul ettiğini sahibinin açıklaması gerekir."
+        ]
+      }
+    ],
+    "questions": [
+      {
+        "q": "Atölye değiştirirken hangi araç durumunu bildirmeliyim?",
+        "a": "Aracın şu anki motor, tekerlek ve direksiyon durumunu bildirin. İlk arızalandığı andaki bilgi artık aynı olmayabilir; iş yeri sorumlusunun güncel gözlemini alın."
+      },
+      {
+        "q": "Yeni servise önceki iş emrini de ulaştırmalı mıyım?",
+        "a": "Bu kararı işletmelerle konuşun. Bakım talebi, mevcut belgeler ve size ait parçaların nasıl teslim edileceği açık olursa taşıma sonrasındaki kabul daha anlaşılır olur."
+      }
+    ],
+    "scenario": {
+      "title": "İş yeri parkından servis değişimi",
+      "situation": "Çamlı’daki örnek iş yeri parkında otomobil başka servise taşınacaktır. Sürücü Çamlıca yol alanını mahalle gibi kullanır ve aracın park kapısını belirtmez. Talep mahalle, gerçek sokak ve araç girişi olarak ayrılır.",
+      "assessment": "Aracın çalışan durumu, tekerlekleri ve direksiyonu hakkında bilinen bilgi paylaşılır. İş yeri kapısının erişim koşulu ilgili kişiyle konuşulur; kayıt alanı araç kapısı yerine kullanılmaz. Atölye veya parkın adresi ile servis hedefi benzer adlar taşısa bile iki konumun rolü ayrı yazılır. Aracın hangi noktada beklediği görüşmenin temel başlangıç bilgisidir; tahmin edilmez.",
+      "delivery": "Yeni servisin açık kabul noktası alınır; önceki iş yeri alma yeri olarak tutulur.",
+      "type": "illustrative_not_historical"
+    },
+    "sources": [
+      {
+        "title": "İzmir Büyükşehir Belediyesi — Muhtarlıklar açık veri",
+        "url": "https://acikveri.bizizmir.com/dataset/muhtarliklar"
+      }
+    ],
+    "limitations": [
+      "Mahalle ve yol alanı kamu muhtarlık kaydına dayanır. YOL, aracın veya işletmenin adresi değildir; güncel yol erişimini doğrulamaz.",
+      "Senaryo varsayımsaldır; yapılmış iş, geçmiş müşteri, şube, geliş süresi, fiyat veya ekipman garantisi içermez."
+    ]
+  },
+  "/bolgeler/torbali/ayrancilar/": {
+    "name": "Torbalı Ayrancılar",
+    "status": "record_grounded_editorial",
+    "checked_on": "2026-10-11",
+    "facts": [
+      "Torbalı ilçesi AYRANCILAR muhtarlık kaydının YOL alanı: 55"
+    ],
+    "sections": [
+      {
+        "heading": "Ayrancılar talebinde Torbalı bilgisini koruma",
+        "paragraphs": [
+          "Ayrancılar, İBB verisinde Torbalı altında 55 yol alanıyla yer alır. Talepte ilçe ile mahalleyi birlikte yazın. Otoyol veya başka bağlantıya yakınlık tarifi yapılmış olsa bile araç mahalle içinde mi yol üzerinde mi, bu ayrıca açıklanmalıdır.",
+          "Numaralı kamu referansı, tesis veya araç girişi değildir. Araç bir işletmede kalmışsa kapıyı; yük taşıyan araçsa bilinen yük bilgisini paylaşın. Bölge adı üzerinden ağır araç ya da belirli taşıma yöntemi varsayılmaz."
+        ]
+      },
+      {
+        "heading": "Panelvan yükünü araç ölçüsünden ayrı bildirin",
+        "paragraphs": [
+          "Ayrancılar’daki yüklü panelvan için marka, model ve bildiğiniz ölçü bilgilerini yükün niteliğinden ayrı paylaşın. Araçta malzeme bulunması tek başına toplam ağırlığı açıklamaz; bilinmeyen değeri tahmin etmeyin. Yükün sabitlenmiş olup olmadığını ve kabinde ya da yük bölümünde erişimi engelleyen eşya bulunup bulunmadığını söyleyin. Motor belirtisi ve tekerlek durumu da ticari kullanım bilgisinden bağımsız değerlendirilir."
+        ]
+      },
+      {
+        "heading": "Yükün ve aracın alıcısını belirleyin",
+        "paragraphs": [
+          "Panelvan servis için taşınacaksa yükün araçta kalıp kalmayacağını kabul eden işletmeyle konuşun. Yükü alacak kişi ile otomobili karşılayan servis görevlisi farklı olabilir. Gerekli eşyaları taşıma öncesinde düzenleyin ve araç sahibinin teslim kararını açıkça iletin. İşletmenin kapısına bırakılması, içerideki malzemenin de teslim alındığı anlamına gelmez; araç ve yük için kararlaştırılan alıcılar net olmalıdır."
+        ]
+      }
+    ],
+    "questions": [
+      {
+        "q": "Panelvanda malzeme olduğunu söylemem ağırlık bilgisi için yeterli mi?",
+        "a": "Hayır; yükün niteliği ile bildiğiniz ağırlık ve araç bilgilerini ayrı paylaşın. Kesin olmayan değeri belirtin, tahmini toplamı doğrulanmış bilgi gibi vermeyin."
+      },
+      {
+        "q": "Yüklü panelvan servise gittiğinde malzemeyi kim teslim alır?",
+        "a": "Bunu araç sahibi ve alıcı işletme önceden belirlemelidir. Servisin otomobili kabul etmesi içerideki yükün de sorumluluğunu üstlendiği anlamına kendiliğinden gelmez."
+      }
+    ],
+    "scenario": {
+      "title": "İşletme parkındaki yüklü panelvan",
+      "situation": "Torbalı Ayrancılar’daki örnek işletme parkında panelvan çalışmaz ve araçta yük vardır. İlk mesaj sadece Ayrancılar çekici şeklindedir. Araç tipi, yük ve gerçek kapı konumu mahalle adından ayrı paylaşılır.",
+      "assessment": "Yük hakkında bilinen bilgi, tekerlek ve vites durumu açıklanır. İşletme girişi teyit edilir; 55 muhtarlık referansı aracın park noktası gibi kullanılmaz. Panelvanın yük bilgisi sadece fotoğraftan eksiksiz anlaşılıyor sayılmaz. Araç sahibi bildiği durumu ayrıca anlatır; aynı kapıdan daha önce geçildiği iddiasıyla mevcut erişim varsayılmaz veya süre verilmez.",
+      "delivery": "Seçilen servis kabul adresi alınır. Torbalı merkez adı tek başına servis hedefini veya teslim bölümünü belirlemez.",
+      "type": "illustrative_not_historical"
+    },
+    "sources": [
+      {
+        "title": "İzmir Büyükşehir Belediyesi — Muhtarlıklar açık veri",
+        "url": "https://acikveri.bizizmir.com/dataset/muhtarliklar"
+      }
+    ],
+    "limitations": [
+      "Mahalle ve yol alanı kamu muhtarlık kaydına dayanır. YOL, aracın veya işletmenin adresi değildir; güncel yol erişimini doğrulamaz.",
+      "Senaryo varsayımsaldır; yapılmış iş, geçmiş müşteri, şube, geliş süresi, fiyat veya ekipman garantisi içermez."
+    ]
+  },
+  "/bolgeler/torbali/yazibasi/": {
+    "name": "Torbalı Yazıbaşı",
+    "status": "record_grounded_editorial",
+    "checked_on": "2026-10-11",
+    "facts": [
+      "Torbalı ilçesi YAZIBAŞI muhtarlık kaydının YOL alanı: ATATÜRK"
+    ],
+    "sections": [
+      {
+        "heading": "Yazıbaşı kaydındaki tekrarları değerlendirme",
+        "paragraphs": [
+          "Torbalı Yazıbaşı için aynı ATATÜRK yol alanının tekrarlandığı muhtarlık kayıtları bulunur. Tekrarlanan satırlar ayrı çekici şubesi veya buluşma adresi değildir. Mahalle eşleşmesi, aracın gerçek sokak konumuyla tamamlanmalıdır.",
+          "Çalışan bir aracı planlı taşıtmak istiyorsanız bunu arıza talebinden ayırın. Alma ve teslim adreslerini açık yazın. ATATÜRK kamu referansı, araç orada değilse başlangıç noktası olarak gönderilmemelidir."
+        ]
+      },
+      {
+        "heading": "Çalışır aracın planlı taşıma hazırlığı",
+        "paragraphs": [
+          "Yazıbaşı’ndaki aracınız normal çalışıyor ve servis teslimi için taşıma istiyorsanız bu tercihi belirtin. Anahtarın hazır olması, aracın etrafının erişilebilir kalması ve teslimi yapacak kişinin bulunması planlamaya yardımcı olur. Park alanı kapalıysa gerçek giriş koşullarını paylaşın. Aracın çalışıyor olması kapı erişimini açıklamaz; buna karşılık planlı taşıma isteği de acil bir arıza varmış gibi anlatılmamalıdır."
+        ]
+      },
+      {
+        "heading": "Randevu kapsamını alıcıya iletin",
+        "paragraphs": [
+          "Bakım için seçilen servis, otomobilin hangi işlem talebiyle geldiğini bilmelidir. Randevu tarihi dışında araç bırakılmasını kabul edip etmediğini ve anahtarın kim tarafından alınacağını sorabilirsiniz. Araç sahibi teslimde bulunmayacaksa yapılmasını istediği işlemleri doğrudan alıcıya iletsin. Taşıma tamamlandıktan sonra bakım kararının ayrıca onay gerektirip gerektirmediğini servisle konuşmak, araç bırakma ile onarım talebinin karışmasını önler."
+        ]
+      }
+    ],
+    "questions": [
+      {
+        "q": "Çalışır otomobilin anahtarını teslim için hazır tutmalı mıyım?",
+        "a": "Evet; anahtarın kimde olduğu ve aracı teslim edecek kişi planlamada bilinmelidir. Çalışır durumda olması özel parkın erişim koşullarını ayrıca paylaşma gereğini kaldırmaz."
+      },
+      {
+        "q": "Servise bırakılması bakımın otomatik başlaması anlamına gelir mi?",
+        "a": "Bu, servisle yaptığınız anlaşmaya bağlıdır. Taşıma talebi dışında bakım kapsamı ve işlem onayını alıcı işletmeyle açıkça konuşun."
+      }
+    ],
+    "scenario": {
+      "title": "Çalışır araç için planlı servis taşıması",
+      "situation": "Yazıbaşı’ndaki örnek otomobil çalışır; sahibi başka bir servise taşıma ister. Kamu verisinin iki satırını iki alma seçeneği gibi değerlendirmez. Gerçek park konumu bir kez ve açıkça gönderilir.",
+      "assessment": "Marka, model ve mevcut hareket durumu paylaşılır. Kapalı park varsa kat ve giriş bilgisi eklenir. Çalışır araç olması kapı veya teslim kabulünün otomatik uygun olduğu anlamına gelmez. Planlı taşıma isteğinde arıza varmış gibi anlatım eklenmez. Çalışır otomobilin mevcut parkı, araç kapısı ve kabul servisi teyit edilerek görüşmede konuşulan kapsam açık biçimde korunur; değiştirilmez.",
+      "delivery": "Servis hedefi ve kabul edecek kişi belirlenir; ATATÜRK referansı teslim adresi olarak kullanılmaz.",
+      "type": "illustrative_not_historical"
+    },
+    "sources": [
+      {
+        "title": "İzmir Büyükşehir Belediyesi — Muhtarlıklar açık veri",
+        "url": "https://acikveri.bizizmir.com/dataset/muhtarliklar"
+      }
+    ],
+    "limitations": [
+      "Mahalle ve yol alanı kamu muhtarlık kaydına dayanır. YOL, aracın veya işletmenin adresi değildir; güncel yol erişimini doğrulamaz.",
+      "Senaryo varsayımsaldır; yapılmış iş, geçmiş müşteri, şube, geliş süresi, fiyat veya ekipman garantisi içermez."
+    ]
+  },
+  "/bolgeler/torbali/caybasi/": {
+    "name": "Torbalı Çaybaşı",
+    "status": "record_grounded_editorial",
+    "checked_on": "2026-10-11",
+    "facts": [
+      "Torbalı ilçesi ÇAYBAŞI muhtarlık kaydının YOL alanı: MENDERES"
+    ],
+    "sections": [
+      {
+        "heading": "Çaybaşı ile Menderes alanını karıştırmama",
+        "paragraphs": [
+          "Bu kayıtta ilçe Torbalı, mahalle Çaybaşı ve yol alanı MENDERES’tir. MENDERES yazısı aracın Menderes ilçesinde bulunduğu anlamına gelmez. Talep Torbalı–Çaybaşı olarak açık yazılıp gerçek araç konumuyla desteklenmelidir.",
+          "Sokak veya yakın işaret bilinmiyorsa konum piniyle başlayın. Yanlış ilçeyi tahmin etmek yerine emin olduğunuz bilgileri paylaşın. Araç sorunu ile seçtiğiniz servis hedefi de yer adlarından ayrı konuşulmalıdır."
+        ]
+      },
+      {
+        "heading": "Belirti tarifini adres açıklamasından sonra tamamlayın",
+        "paragraphs": [
+          "Çaybaşı’ndaki alma noktasını netleştirdikten sonra aracın son denemede ne yaptığını anlatın. Marşın tepki vermemesi, motorun dönüp çalışmaması veya çalıştıktan sonra durması farklı gözlemlerdir. Bunları tek bir arıza adı altında toplamayın. Araç hâlâ park halindeyse vitesin mevcut konumu ve tekerleklerin görünür yönü de sorulabilir; konumun doğru bulunması teknik durumun bilindiği anlamına gelmez."
+        ]
+      },
+      {
+        "heading": "Teslim hedefinde yol adı yerine kabul noktasını kullanın",
+        "paragraphs": [
+          "Servis adresi paylaşırken ilçe, işletme adı ve aracın kabul edileceği açık nokta birlikte yazılmalıdır. Yol adının bir ilçe adıyla benzer olması teslimin başka ilçeye yapılacağı sonucunu doğurmaz. Karşılayıcıya aracın belirtilerini önceden iletin ve anahtar teslimini belirleyin. Talepte bir adres düzeltilirse bunun alma noktası mı servis hedefi mi olduğunu açıkça söyleyin; iki bilgi birbirinin yerine kullanılmasın."
+        ]
+      }
+    ],
+    "questions": [
+      {
+        "q": "Marşın sesini tarif edemiyorsam nasıl yardımcı olabilirim?",
+        "a": "Güvenle alınabiliyorsa ilk denemenin kısa videosunu paylaşın. Görmediğiniz arıza nedenini tahmin etmeyin; gösterge tepkisi ve motorun dönüp dönmediğini söylemeniz faydalıdır."
+      },
+      {
+        "q": "Adres düzeltmesi yaptığımda hangi noktayı değiştirdiğimi belirtmeli miyim?",
+        "a": "Evet; alma noktası ile servis kabul adresi ayrı bilgiler. İlçe ve işletme bilgisini de ekleyerek düzeltilen konumun hangi aşamaya ait olduğunu netleştirin."
+      }
+    ],
+    "scenario": {
+      "title": "Yol adının ilçe sanılması",
+      "situation": "Çaybaşı’ndaki örnekte sürücü kayıttaki MENDERES yazısını ilçe sanıp yanlış adres mesajı hazırlar. Araç gerçekte Torbalı Çaybaşı’nda park halindedir. İlçe, mahalle ve yol alanlarının ayrılmasıyla talep düzeltilir.",
+      "assessment": "Doğru araç pini teyit edilir. Marş ve hareket durumu konuşulur; kamu kayıt alanının açıklanması arızanın teşhis edildiği veya girişin uygun bulunduğu anlamına gelmez. Adres alanları düzeltildiğinde eski yanlış ilçe tarifinin geçersiz olduğu açıkça söylenir. Gerçek araç pini başlangıç, seçilen servis pini hedef olarak etiketlenir; iki rol birbirinden ayrılır.",
+      "delivery": "Hedef servisin ilçesi ve açık adresi ayrıca yazılır; yol alanı yanlış teslim yeri üretmez.",
+      "type": "illustrative_not_historical"
+    },
+    "sources": [
+      {
+        "title": "İzmir Büyükşehir Belediyesi — Muhtarlıklar açık veri",
+        "url": "https://acikveri.bizizmir.com/dataset/muhtarliklar"
+      }
+    ],
+    "limitations": [
+      "Mahalle ve yol alanı kamu muhtarlık kaydına dayanır. YOL, aracın veya işletmenin adresi değildir; güncel yol erişimini doğrulamaz.",
+      "Senaryo varsayımsaldır; yapılmış iş, geçmiş müşteri, şube, geliş süresi, fiyat veya ekipman garantisi içermez."
+    ]
+  },
+  "/bolgeler/torbali/subasi/": {
+    "name": "Torbalı Subaşı",
+    "status": "record_grounded_editorial",
+    "checked_on": "2026-10-11",
+    "facts": [
+      "Torbalı ilçesi SUBAŞI muhtarlık kaydının YOL alanı: OSMAN DİRİK"
+    ],
+    "sections": [
+      {
+        "heading": "Subaşı için Osman Dirik kamu referansı",
+        "paragraphs": [
+          "Torbalı Subaşı kaydı OSMAN DİRİK yol alanıyla tekrarlanır. Bu kayıt mahalle adının ilçe eşleşmesine yardımcı olur. Aracın muhtarlık çevresinde veya bu yol üzerinde olduğu görülmeden söz konusu alan alma noktası yapılmamalıdır.",
+          "Aracı başka bir kişi gösterecekse onun gerçek araç konumunu paylaşması gerekir. Araç sahibinin ev konumu park noktası yerine kullanılmamalıdır. Teslim servisinin iletişimi de aracı gösterecek kişiden ayrı belirlenebilir."
+        ]
+      },
+      {
+        "heading": "Yerindeki gözlem ile uzaktan gönderilen bilgiyi ayırın",
+        "paragraphs": [
+          "Subaşı’ndaki araca başka bir yakınınız bakıyorsa güncel fotoğrafı ve konumu onun araç yanından göndermesi yararlıdır. Ev adresi veya daha önce park edilen yer aynı nokta olmayabilir. Anahtarın kimde olduğunu, son belirtiyi kimin gözlediğini ve araçta eşyaların bulunup bulunmadığını konuşun. Yakınınızın gördüğü bilgiler esas alınır; araç sahibinin bulunmadığı yerde arızaya dair varsayım yapılmasına gerek yoktur."
+        ]
+      },
+      {
+        "heading": "Uzaktaki araç sahibi kabul kararını vermeli",
+        "paragraphs": [
+          "Taşıma hedefini araç sahibi seçiyorsa servisin açık kabul adresini araç başındaki kişiye de iletsin. Anahtarı teslim eden yakınınızın sonradan servisle iletişime geçip geçmeyeceğini belirleyin. Alıcı işletme aracın kim adına ve hangi taleple geldiğini bilmelidir. Teslimin tamamlandığı bilgisi hangi kişiye iletilecekse bunu baştan söylemek, birden fazla yakın arasında farklı talimatlar verilmesini önler."
+        ]
+      }
+    ],
+    "questions": [
+      {
+        "q": "Yakınım araç yanında değilse onun ev konumunu gönderebilir miyim?",
+        "a": "Bu konum aracın alma noktası yerine kullanılmamalı. Araç yanından güncel pin veya açık adres gerekir; yakınızın ev adresi ancak ayrı bir buluşma bilgisi olabilir."
+      },
+      {
+        "q": "İki yakınım farklı servis önerirse hangisi esas alınır?",
+        "a": "Araç sahibinin onayladığı hedef netleştirilmeli ve araç başındaki yetkiliye iletilmelidir. Alıcı servis kabulü teyit etmeden farklı öneriler taşıma talimatı sayılmamalıdır."
+      }
+    ],
+    "scenario": {
+      "title": "Yakının gönderdiği pin aracı göstermiyor",
+      "situation": "Subaşı’ndaki örnekte arızalı otomobile bir yakını yardımcı olur; ilk gönderdiği pin kendi evini gösterir. Kamu referansının OSMAN DİRİK olması da aracın orada bulunduğunu doğrulamaz. Gerçek park noktası yeniden paylaşılır.",
+      "assessment": "Aracı gösterecek kişinin iletişimi ve giriş bilgisi netleştirilir. Direksiyon, vites ve tekerlek belirtisi bildirilir; adres düzeltmesinden taşıma yöntemi veya geliş süresi çıkarılmaz. Aracı gösterecek kişinin konumuna ulaşılması otomobile de ulaşıldığı anlamına gelmez. Araç noktasıyla kişinin bulunduğu nokta farklıysa aradaki fark açıklanır; kendiliğinden aynı yer kabul edilmez.",
+      "delivery": "Seçilen servisin açık kabul adresi alınır; yakının ev adresi teslim hedefi sayılmaz.",
+      "type": "illustrative_not_historical"
+    },
+    "sources": [
+      {
+        "title": "İzmir Büyükşehir Belediyesi — Muhtarlıklar açık veri",
+        "url": "https://acikveri.bizizmir.com/dataset/muhtarliklar"
+      }
+    ],
+    "limitations": [
+      "Mahalle ve yol alanı kamu muhtarlık kaydına dayanır. YOL, aracın veya işletmenin adresi değildir; güncel yol erişimini doğrulamaz.",
+      "Senaryo varsayımsaldır; yapılmış iş, geçmiş müşteri, şube, geliş süresi, fiyat veya ekipman garantisi içermez."
+    ]
+  },
+  "/bolgeler/torbali/capak/": {
+    "name": "Torbalı Çapak",
+    "status": "record_grounded_editorial",
+    "checked_on": "2026-10-11",
+    "facts": [
+      "Torbalı ilçesi ÇAPAK muhtarlık kaydının YOL alanı: 2540"
+    ],
+    "sections": [
+      {
+        "heading": "Çapak kayıt numarasını adresle tamamlama",
+        "paragraphs": [
+          "Çapak, Torbalı altında 2540 yol alanıyla kayıtlıdır. Bir numaranın kamu listesinde görünmesi aracın o yol üzerinde bulunduğunu göstermez. Talepte mahalleyi ve otomobilin gerçek sokak, kapı veya park konumunu iletin.",
+          "Tekerlek hasarı varsa hangi tekerlekte görüldüğünü yazın. Aracın park yerinden hareketiyle ilgili başka belirti de paylaşılmalıdır. Yerleşim eşleşmesi lastik durumunu veya yerinde çözümün mümkün olup olmadığını açıklamaz."
+        ]
+      },
+      {
+        "heading": "Hasar fotoğrafını çevre görüntüsüyle tamamlayın",
+        "paragraphs": [
+          "Çapak’taki araç için lastiğin yakın çekimi hasarın görünen kısmını gösterebilir; otomobilin nerede ve nasıl durduğunu açıklamaz. Güvenli noktadan aracın bütünü ile park çevresini de paylaşın. Lastiğin havası, görülen yanak hasarı ve yedek lastik bilgisi ayrı anlatılmalıdır. Jantta sorun olup olmadığı bilinmiyorsa kesin ifade kullanmayın; taşıma ihtiyacı fotoğraftaki tek bir ayrıntıyla sonuçlandırılmaz."
+        ]
+      },
+      {
+        "heading": "Yedek seçenek yoksa alıcıyı hazırlayın",
+        "paragraphs": [
+          "Yedek lastiğiniz bulunmuyorsa veya durumunu bilmiyorsanız bunu açıkça söyleyin. Servis hedefi belirlenirken uygun lastik ya da inceleme imkânının bulunduğunu alıcı işletmeyle görüşün. Aracın bırakılacağı kabul noktasında hasarlı tekerlek hakkında bilgi olmalıdır. Lastik değişimi ve taşıma farklı kararlardır; hangi işlemin nerede yapılacağı konuşulmadan yalnızca bir servis adıyla teslimin tamamlanacağı varsayılmamalıdır."
+        ]
+      }
+    ],
+    "questions": [
+      {
+        "q": "Sadece lastiğin fotoğrafını göndermek neden yetmeyebilir?",
+        "a": "Yakın çekim hasarı gösterir ama araç konumunu ve çalışma alanını göstermez. Otomobilin bütünü, güvenli çevre görüntüsü ve gerçek alma konumu da gerekir."
+      },
+      {
+        "q": "Yedek lastiğin durumunu bilmiyorsam ne söylemeliyim?",
+        "a": "Bilmediğinizi açıkça belirtin. Lastiğin kullanılabilir olduğu varsayılmadan talep değerlendirilir; servis kabulünde uygun lastik veya inceleme imkânını alıcıyla ayrıca konuşun."
+      }
+    ],
+    "scenario": {
+      "title": "Hasar fotoğrafı var, konum eksik",
+      "situation": "Çapak’taki örnekte sürücü lastik fotoğrafını yollar ama otomobilin park konumunu paylaşmaz. Mahalle adı ve 2540 kamu referansı aracı bulmaya yetmez. Yardım kapsamı konuşulurken gerçek konum ve giriş de eklenir.",
+      "assessment": "Hasarlı tekerlek ile aracın diğer hareket durumu anlatılır. Bilinen yedek lastik bilgisi paylaşılır; fotoğraftan tüm sorunların yerinde giderileceği garanti edilmez. Hasar fotoğrafıyla birlikte gerçek otomobil noktasının gönderilmesi kapsamı konuşmayı kolaylaştırır. Yalnızca yakın bir muhtarlık işaretini kullanmak park erişimini ve mevcut lastik durumunu açıklamak için yeterli değildir.",
+      "delivery": "Taşıma gerekiyorsa kabul edecek servisin açık adresi alınır; lastik fotoğrafı teslim hedefini belirlemez.",
+      "type": "illustrative_not_historical"
+    },
+    "sources": [
+      {
+        "title": "İzmir Büyükşehir Belediyesi — Muhtarlıklar açık veri",
+        "url": "https://acikveri.bizizmir.com/dataset/muhtarliklar"
+      }
+    ],
+    "limitations": [
+      "Mahalle ve yol alanı kamu muhtarlık kaydına dayanır. YOL, aracın veya işletmenin adresi değildir; güncel yol erişimini doğrulamaz.",
+      "Senaryo varsayımsaldır; yapılmış iş, geçmiş müşteri, şube, geliş süresi, fiyat veya ekipman garantisi içermez."
+    ]
+  },
+  "/bolgeler/torbali/karakizlar/": {
+    "name": "Torbalı Karakızlar",
+    "status": "record_grounded_editorial",
+    "checked_on": "2026-10-11",
+    "facts": [
+      "Torbalı ilçesi KARAKIZLAR muhtarlık kaydının YOL alanı: KARAKIZLAR"
+    ],
+    "sections": [
+      {
+        "heading": "Karakızlar adı yol alanında da görünüyor",
+        "paragraphs": [
+          "Torbalı Karakızlar kaydında mahalle ve yol alanı aynı adla görünür. Bu durum yolun tam araç noktasını belirlediği anlamına gelmez. İlçe, yerleşim ve gerçek araç konumu ayrı açıklanmalıdır.",
+          "Özel alandaki aracın kullanılacak girişini gösterin; görülen zemin koşulunu kesin coğrafya iddiasına dönüştürmeyin. Aracın motorunun çalışması da sorunsuz ilerlediğini kanıtlamaz. Hedef servis adresini ayrıca paylaşın."
+        ]
+      },
+      {
+        "heading": "Motor tepkisi ile ilerleme sorununu ayırın",
+        "paragraphs": [
+          "Karakızlar’da motor çalıştığı halde otomobil ilerlemiyorsa son gözleminizi açık anlatın: vites seçiminin mümkün olup olmadığı, bir ses duyulması veya hareketin hiç oluşmaması önemlidir. Aracı tekrar yürütmeye çalışarak belirtiyi büyütmeyin. Görülen gösterge uyarısını ve model bilgisini paylaşabilirsiniz. Motorun çalışması bir taşıma yöntemini tek başına belirlemez; tekerlek ve direksiyon hareketi ayrıca değerlendirilir."
+        ]
+      },
+      {
+        "heading": "Servise hareket edemeyen araç olarak bildirin",
+        "paragraphs": [
+          "Kabul edecek işletmeye motorun çalıştığını söylemenin yanında aracın ilerlemediğini de belirtin. Böylece araç teslimden sonra kendi gücüyle servis içine alınacakmış gibi hazırlık yapılmaz. Alıcının karşılayacağı noktayı ve anahtar teslimini teyit edin. Kesin arıza nedenini taşıma görüşmesinde belirlemek yerine son belirtileri servise aktarın; onarım ve gerekli parçalar aracın incelenmesi sonrasında konuşulmalıdır."
+        ]
+      }
+    ],
+    "questions": [
+      {
+        "q": "Motoru tekrar çalıştırıp ilerlemeyi denemem gerekir mi?",
+        "a": "Talep için yeni denemeler yapmak zorunda değilsiniz. Son gördüğünüz belirtiyi, vites tepkisini ve varsa uyarıyı anlatın; aracı zorlayarak hareket ettirmeyin."
+      },
+      {
+        "q": "Servis çalışan motoru görünce aracın hareket ettiğini düşünür mü?",
+        "a": "Yanlış anlaşılmaması için ilerleme sorununu önceden açıkça söyleyin. Kabul noktasının, teslim sonrasında aracın kendi gücüyle hareket edemeyebileceğini bilmesi gerekir."
+      }
+    ],
+    "scenario": {
+      "title": "Motor çalışıyor ama otomobil ilerlemiyor",
+      "situation": "Karakızlar’daki örnek özel alanda otomobilin motoru çalışır fakat araç ilerlemez. Sahibi mahalle ve yolun aynı adı taşımasını yeterli tarif sayar. Gerçek kapı ile park konumu ayrı gönderilerek adres tamamlanır.",
+      "assessment": "Vites, tekerlek ve direksiyon belirtisi konuşulur. Giriş ve görünen zemin fotoğrafla desteklenir; Karakızlar adından belirli arıza veya erişim koşulu çıkarılmaz. Motorun çalışmasına rağmen ilerleyememe belirtisi kesin bir parça teşhisine dönüştürülmez. Araç sahibi gördüğü sorunu ayrı anlatır; giriş koşulu ve servis kabulü de farklı başlıklar olarak teyit edilir.",
+      "delivery": "Servisin açık kabul adresi ve iletişim kişisi belirlenir; yerleşim adı tek başına hedef olmaz.",
+      "type": "illustrative_not_historical"
+    },
+    "sources": [
+      {
+        "title": "İzmir Büyükşehir Belediyesi — Muhtarlıklar açık veri",
+        "url": "https://acikveri.bizizmir.com/dataset/muhtarliklar"
+      }
+    ],
+    "limitations": [
+      "Mahalle ve yol alanı kamu muhtarlık kaydına dayanır. YOL, aracın veya işletmenin adresi değildir; güncel yol erişimini doğrulamaz.",
+      "Senaryo varsayımsaldır; yapılmış iş, geçmiş müşteri, şube, geliş süresi, fiyat veya ekipman garantisi içermez."
+    ]
+  },
+  "/bolgeler/torbali/ahmetli/": {
+    "name": "Torbalı Ahmetli",
+    "status": "record_grounded_editorial",
+    "checked_on": "2026-10-11",
+    "facts": [
+      "Torbalı ilçesi AHMETLİ muhtarlık kaydının YOL alanı: 15."
+    ],
+    "sections": [
+      {
+        "heading": "Ahmetli talebinde ilçe ve noktalı sayı",
+        "paragraphs": [
+          "Bu sayfa Torbalı Ahmetli kaydına dayanır; YOL alanı 15. biçimindedir. Numarayı başka bir caddeye tahminle genişletmeyin. Talep Torbalı–Ahmetli ve gerçek araç konumuyla iletilmelidir; kamu yazımı araç adresi değildir.",
+          "Araç belirli bir otoparkın içindeyse bölüm ve araç kapısı eklenmelidir. Vites veya direksiyon sorunu varsa ayrı söyleyin. Bir adres alanı eksik olduğunda görünmeyen bilgi uydurmak yerine konum pinini kullanın."
+        ]
+      },
+      {
+        "heading": "Park bölümünü aracın hareket bilgisiyle birlikte verin",
+        "paragraphs": [
+          "Ahmetli’de parkın adı biliniyor fakat otomobilin yeri tam tarif edilemiyorsa sıra, bina girişi veya görülebilir bir işaret kullanabilirsiniz. Aracın bütünüyle çekilmiş fotoğrafı bu tarifi destekler. Aynı görüşmede motorun tepkisini, anahtarın mevcut olup olmadığını ve vites durumunu da belirtin. Park içindeki yeri bulmak ile aracı o noktadan alabilecek koşulları değerlendirmek farklı ihtiyaçlardır; her ikisi de hazırlanmalıdır."
+        ]
+      },
+      {
+        "heading": "Teslimde bulunacak kişi ve servis alıcısı",
+        "paragraphs": [
+          "Araç sahibi parkta beklemeyecekse anahtarı verecek kişiye otomobilin yerini gösterin ve servis hedefini açıkça aktarın. Alıcı servisin aracı kim adına kabul edeceğini teyit edin. Park bölümünün değiştirilmesi veya aracın başka yere alınması halinde güncel konum yeniden paylaşılmalıdır. Servis kabul adresi sabit kalsa bile alma noktasındaki değişiklik talep bilgisini etkiler; eski park tarifiyle işlem yapılmamalıdır."
+        ]
+      }
+    ],
+    "questions": [
+      {
+        "q": "Parkın sıra numarası yoksa aracı nasıl tarif edebilirim?",
+        "a": "Bina girişine göre yeri, görülebilir işaretleri ve aracın genel fotoğrafını paylaşın. Araç yanından konum gönderin; tek bir park adı araç bölümünü belirlemeyebilir."
+      },
+      {
+        "q": "Beklerken aracın park yeri değişirse bildirmeli miyim?",
+        "a": "Evet; alma konumu ve park çevresi güncellenmelidir. Anahtarı teslim edecek kişi de yeni yeri bilsin; servis hedefinin aynı kalması bu değişikliği önemsiz yapmaz."
+      }
+    ],
+    "scenario": {
+      "title": "Park bölümü belirtilmeyen talep",
+      "situation": "Torbalı Ahmetli’deki örnekte otomobil otoparkta çalışmaz. Sürücü mahallenin adını ve yalnızca 15. kamu yol alanını paylaşır. Araç otoparkın farklı bölümünde bulunduğundan gerçek park pini ayrıca istenir.",
+      "assessment": "Kullanılacak araç kapısı ve araç bölümünün konumu açıklanır. Marş belirtisi, tekerlek ve vites durumu konuşulur; eksik yol adını tahminle tamamlamak yerine gözlenen bilgi kullanılır. Yol alanının eksik görünmesi sürücünün bilmediği sokak bilgisini uydurmasını gerektirmez. Gerçek pin ve görülen yakın işaret kullanılır; otopark bölümünün adı biliniyorsa bu bilgi ayrıca açıklanır.",
+      "delivery": "Servis kabul adresi alma noktasından ayrı belirlenir; otopark bölümü servis hedefi gibi yazılmaz.",
+      "type": "illustrative_not_historical"
+    },
+    "sources": [
+      {
+        "title": "İzmir Büyükşehir Belediyesi — Muhtarlıklar açık veri",
+        "url": "https://acikveri.bizizmir.com/dataset/muhtarliklar"
+      }
+    ],
+    "limitations": [
+      "Mahalle ve yol alanı kamu muhtarlık kaydına dayanır. YOL, aracın veya işletmenin adresi değildir; güncel yol erişimini doğrulamaz.",
+      "Senaryo varsayımsaldır; yapılmış iş, geçmiş müşteri, şube, geliş süresi, fiyat veya ekipman garantisi içermez."
+    ]
+  },
+  "/bolgeler/torbali/kuscuburun/": {
+    "name": "Torbalı Kuşçuburun",
+    "status": "record_grounded_editorial",
+    "checked_on": "2026-10-11",
+    "facts": [
+      "Torbalı ilçesi KUŞÇUBURUN muhtarlık kaydının YOL alanı: YAZIBAŞI İZMİR"
+    ],
+    "sections": [
+      {
+        "heading": "Kuşçuburun ve Yazıbaşı İzmir alanını ayırma",
+        "paragraphs": [
+          "Kuşçuburun, Torbalı ilçesi altında YAZIBAŞI İZMİR yol alanıyla kayıtlıdır. Yol alanındaki Yazıbaşı sözcüğü mahalle eşleşmesini Kuşçuburun’dan Yazıbaşı’na değiştirmez. Adresin hangi bölümünü tarif ettiğiniz talepte açık olmalıdır.",
+          "Bir iş yerinden araç taşıtılacaksa tesis adı ve gerçek kapı konumu eklenir. Aracın bakım amaçlı mı arıza nedeniyle mi taşınacağı konuşulur. Kamu kaydındaki yol alanı, iş yerinin veya otomobilin adresi olarak varsayılmaz."
+        ]
+      },
+      {
+        "heading": "Sökülen parçalar taşıma koşulunu değiştirebilir",
+        "paragraphs": [
+          "Kuşçuburun’daki otomobil atölyeden başka servise gidecekse tekerlek, direksiyon veya hareketi etkileyen parçalarda değişiklik olup olmadığını mevcut işletmeye sorun. İlk gelişteki durum artık geçerli olmayabilir. Sökülmüş parçaları tek tek belirtmek, araçtan ayrı paketlenen malzemeyi tanımlamak ve güncel fotoğraf paylaşmak yararlıdır. Bilinmeyen parçayı varmış gibi yazmayın; ustanın doğruladığı mevcut durum üzerinden değerlendirme yapılmalıdır."
+        ]
+      },
+      {
+        "heading": "Yeni atölyenin kabulü parça bilgisine dayanmalı",
+        "paragraphs": [
+          "Alıcı servise otomobilin hangi halde geleceğini ve beraberinde hangi parçaların gönderileceğini önceden bildirin. Teslim alınacak parçaların sayımı ile aracın kabulünü işletmeler kendi aralarında ve araç sahibiyle netleştirebilir. Taşıma görüşmesi önceki onarımın kapsamını açıklamaz. Anahtar, belgeler ve parça paketlerinin kime verileceği belirlenirse servis değişimi sırasında aracın durumuna ilişkin önemli bilgi kaybolmadan aktarılabilir."
+        ]
+      }
+    ],
+    "questions": [
+      {
+        "q": "Sökülmüş parçalar varsa fotoğrafını göndermeli miyim?",
+        "a": "Güncel araç görüntüsü ve ayrılan parçaların listesi yararlıdır. Özellikle hareketi etkileyen değişiklikleri mevcut ustayla teyit edin; ilk gelişteki durumla yetinmeyin."
+      },
+      {
+        "q": "Parçalar da yeni servise gönderilecekse nasıl belirtilir?",
+        "a": "Hangi parçaların araçla birlikte gideceğini, nasıl paketlendiğini ve alıcısını açıkça yazın. Parça teslimi ile araç kabulünü işletmeler ve araç sahibi birlikte netleştirmelidir."
+      }
+    ],
+    "scenario": {
+      "title": "Atölyeden başka servise taşıma",
+      "situation": "Kuşçuburun’daki örnek atölyede otomobil başka servise götürülecektir. Sahibi YAZIBAŞI İZMİR alanını mahalle gibi yazar. Kuşçuburun’daki gerçek kapı ve araç noktası ayrı belirtilerek kayıt alanı karışıklığı düzeltilir.",
+      "assessment": "Atölyede sökülmüş parça bulunup bulunmadığı ve tekerlek–vites durumu açıklanır. Yol alanı taşıma yöntemi ya da servis kabulü için kanıt sayılmaz. Atölyedeki işlem durumu hedef servisin kabulünü etkileyebilir. Bu nedenle sökülmüş parça veya tekerlek bilgisi yeni servise aktarılır; taşıma isteğinin tamamlandığı yalnızca mahalle eşleşmesinden varsayılmaz veya kesinleştirilmez.",
+      "delivery": "Yeni servisin açık adresi ve kabul edecek kişi belirlenir; atölye kapısı başlangıç olarak tutulur.",
+      "type": "illustrative_not_historical"
+    },
+    "sources": [
+      {
+        "title": "İzmir Büyükşehir Belediyesi — Muhtarlıklar açık veri",
+        "url": "https://acikveri.bizizmir.com/dataset/muhtarliklar"
+      }
+    ],
+    "limitations": [
+      "Mahalle ve yol alanı kamu muhtarlık kaydına dayanır. YOL, aracın veya işletmenin adresi değildir; güncel yol erişimini doğrulamaz.",
+      "Senaryo varsayımsaldır; yapılmış iş, geçmiş müşteri, şube, geliş süresi, fiyat veya ekipman garantisi içermez."
+    ]
+  },
+  "/bolgeler/buca/belenbasi/": {
+    "name": "Belenbaşı",
+    "status": "record_grounded_editorial",
+    "checked_on": "2026-10-11",
+    "facts": [
+      "Buca ilçesi BELENBAŞI muhtarlık kaydının YOL alanı: HÜRRİYET"
+    ],
+    "sections": [
+      {
+        "heading": "Belenbaşı konumunu Buca ile birleştirme",
+        "paragraphs": [
+          "Belenbaşı, İBB kaydında Buca altında HÜRRİYET yol alanıyla yer alır. Buca’nın genel konumu yerine Belenbaşı’ndaki gerçek araç noktası paylaşılmalıdır. Kamu yol alanı araç o noktada değilse alma adresi değildir.",
+          "Özel bir alanda bekleyen araç için yol bağlantısı ve kapı ayrıca anlatılır. Girişin fotoğrafı, aracın yola göre konumunu açıklayabilir. Yerleşim adına bakılarak yolun dar, eğimli veya toprak olduğu varsayılmamalıdır."
+        ]
+      },
+      {
+        "heading": "Özel girişin gerçek koşullarını paylaşın",
+        "paragraphs": [
+          "Belenbaşı’ndaki otomobil özel alanda kaldığında girişin açık olup olmadığı, kapının nasıl açıldığı ve aracın çevresinde görülen engeller anlatılmalıdır. Yerleşim adından yol yüzeyi veya geçiş kolaylığı çıkarılmaz. Görevli varsa doğruladığı bilgi ve güvenli noktadan alınan fotoğraf paylaşılır. Motor çalışmıyorsa son tepkisini ayrıca söyleyin; kapıya ulaşabilmek, otomobili park ettiği yerden hareket ettirebilmekle aynı değerlendirme değildir."
+        ]
+      },
+      {
+        "heading": "İlçe içi veya farklı hedef için ayrı kabul",
+        "paragraphs": [
+          "Servisi Buca’da veya başka bir ilçede seçmeniz halinde açık adres ve aracı karşılayacak kişi belirlenir. Özel alanın sorumlusu girişe yardımcı olabilir; servis kabulünü onun yerine varsaymayın. Araç sahibi teslimde bulunmayacaksa anahtarı bırakacağı kişiyi bilgilendirsin. Alıcıya motor belirtisini ve hareketle ilgili bilinen kısıtı önceden aktarmak, otomobilin bırakılacağı noktayı gerçek durumuna göre konuşmaya yardımcı olur."
+        ]
+      }
+    ],
+    "questions": [
+      {
+        "q": "Özel giriş için yol yüzeyini nasıl anlatmalıyım?",
+        "a": "Aracın bulunduğu yerde gördüğünüz yüzeyi ve engelleri tarif edin; güvenle çekilmiş fotoğraf ekleyin. Mahalle adından zemin veya erişim koşulu tahmin etmeyin."
+      },
+      {
+        "q": "Buca dışındaki servis hedefini ne zaman belirtmeliyim?",
+        "a": "Taşıma planı belirlenirken açık kabul adresiyle paylaşın. Alma noktasından ayrı tutulmalı; alıcı servisin aracı kabul ettiği ve karşılayıcısı teyit edilmelidir."
+      }
+    ],
+    "scenario": {
+      "title": "Özel alanın içinde kalan otomobil",
+      "situation": "Belenbaşı’ndaki örnek özel alanda otomobil çalışmaz. İlk mesajda Buca merkezinin genel konumu gönderilir; araç orada değildir. Belenbaşı’ndaki park pini, giriş ve yola göre konum ayrıca paylaşılır.",
+      "assessment": "Mevcut kapı ve görünen zemin fotoğraflanır. Araç belirtisi, vites ve tekerlek hareketi açıklanır. Yerleşim adından güncel yol koşulu veya kurtarma ihtiyacı kesinleştirilmez. Merkez işaretinin yanlış olduğu anlaşıldığında yeni araç pini açıkça belirtilir. Yerleşim adından yolun dar, eğimli veya kapalı olduğu sonucu çıkarılmaz; mevcut erişim ayrı gözlemle konuşulur.",
+      "delivery": "Buca’da veya başka ilçede seçilen servisin açık kabul adresi ayrı belirlenir; merkez genel işareti hedef sayılmaz.",
+      "type": "illustrative_not_historical"
+    },
+    "sources": [
+      {
+        "title": "İzmir Büyükşehir Belediyesi — Muhtarlıklar açık veri",
+        "url": "https://acikveri.bizizmir.com/dataset/muhtarliklar"
+      }
+    ],
+    "limitations": [
+      "Mahalle ve yol alanı kamu muhtarlık kaydına dayanır. YOL, aracın veya işletmenin adresi değildir; güncel yol erişimini doğrulamaz.",
+      "Senaryo varsayımsaldır; yapılmış iş, geçmiş müşteri, şube, geliş süresi, fiyat veya ekipman garantisi içermez."
+    ]
+  },
+  "/bolgeler/konak/alsancak/": {
+    "name": "Alsancak",
+    "status": "record_grounded_editorial",
+    "checked_on": "2026-10-11",
+    "facts": [
+      "Konak ilçesi ALSANCAK muhtarlık kaydının YOL alanı: KIBRIS ŞEHİTLERİ"
+    ],
+    "sections": [
+      {
+        "heading": "Alsancak ve Kıbrıs Şehitleri kaydı",
+        "paragraphs": [
+          "Konak Alsancak kaydının YOL alanı KIBRIS ŞEHİTLERİ’dir. Bu kamu referansı mahalleyle ilişkilidir; aracın bu yolun üzerinde olduğu veya buradan araçla alınabileceği ayrıca doğrulanmalıdır. Konak, mahalle ve gerçek park noktası birlikte iletilmelidir.",
+          "Bilinen bir caddeyi yakın işaret olarak kullanabilirsiniz. Aracın hangi otopark ya da girişte olduğunu ayırın. Kamu kayıt alanından güncel trafik düzeni, araç giriş izni veya yolun açıklığı çıkarılmamalıdır; mevcut koşulu paylaşın."
+        ]
+      },
+      {
+        "heading": "Otopark sorumlusuyla erişimi teyit edin",
+        "paragraphs": [
+          "Alsancak’ta bir caddenin konumunu gönderip başka otoparktaki otomobili tarif ediyorsanız önce aracı gösteren noktayı paylaşın. Otopark görevlisinden kat, giriş ve çıkış için gerekli mevcut bilgileri alın. Anahtar veya geçiş kartı gereken bir alan varsa bunu belirtin. Bölgedeki trafik ya da park yapısı hakkında varsayım yapmadan, aracın bulunduğu özel alanın gerçek koşulları üzerinden talep hazırlanmalıdır."
+        ]
+      },
+      {
+        "heading": "Servis seçimi yapılmadıysa kabulü tamamlayın",
+        "paragraphs": [
+          "Marş almayan aracı taşımaya karar verildiğinde hangi servisin değerlendireceği ve nerede bırakılacağı konuşulur. Otoparktan çıkış izni alınması bu kararı yerine getirmez. Servisle belirtileri paylaşarak kabulünü teyit edin; kişisel eşyaları alıp anahtarın teslim edileceği kişiyi belirleyin. Araç sahibi otoparkta beklemeyecekse görevli ve alıcıya farklı kişilerle iletişim kurulacağı açıkça söylenmelidir."
+        ]
+      }
+    ],
+    "questions": [
+      {
+        "q": "Otopark kartı veya geçiş izni varsa talepte söylemeli miyim?",
+        "a": "Evet; erişim için gereken kart, anahtar veya görevli bilgisi önceden paylaşılmalıdır. Görevlinin teyit ettiği giriş koşulunu aktarın; cadde konumu otopark erişimini açıklamaz."
+      },
+      {
+        "q": "Çıkış izni verildiğinde servis kabulü de tamamlanmış olur mu?",
+        "a": "Hayır; seçilen servis açık hedefi ve aracın kabulünü ayrıca teyit etmelidir. Otopark erişimi ile teknik inceleme için teslim farklı aşamalardır."
+      }
+    ],
+    "scenario": {
+      "title": "Yakın cadde pini, farklı otopark",
+      "situation": "Alsancak’taki örnekte sürücü bilinen cadde konumunu gönderir, otomobil ise başka otoparkın içindedir. Motor çalışmaz. KIBRIS ŞEHİTLERİ kamu referansı bu park bölümünü göstermediğinden gerçek araç noktası ayrıca iletilir.",
+      "assessment": "Park kapısı, kat ve mevcut erişim bilgisi açıklanır. Motorun yanında tekerlek ve vites durumu konuşulur; cadde kaydından güncel giriş yetkisi veya trafik koşulu çıkarılmaz. Cadde adının bilinir olması araç girişinin serbest olduğunu kanıtlamaz. Sürücü mevcut park koşulunu açıklar; fotoğrafta görünmeyen yön düzeni, izin veya araçla geçiş hakkı varmış gibi yazılmaz.",
+      "delivery": "Seçilen servisin kabul adresi ayrı alınır; yakın cadde işareti hedef servis olarak kullanılmaz.",
+      "type": "illustrative_not_historical"
+    },
+    "sources": [
+      {
+        "title": "İzmir Büyükşehir Belediyesi — Muhtarlıklar açık veri",
+        "url": "https://acikveri.bizizmir.com/dataset/muhtarliklar"
+      }
+    ],
+    "limitations": [
+      "Mahalle ve yol alanı kamu muhtarlık kaydına dayanır. YOL, aracın veya işletmenin adresi değildir; güncel yol erişimini doğrulamaz.",
+      "Senaryo varsayımsaldır; yapılmış iş, geçmiş müşteri, şube, geliş süresi, fiyat veya ekipman garantisi içermez."
+    ]
+  },
+  "/bolgeler/karsiyaka/bostanli/": {
+    "name": "Bostanlı",
+    "status": "record_grounded_editorial",
+    "checked_on": "2026-10-11",
+    "facts": [
+      "Karşıyaka ilçesi BOSTANLI muhtarlık kaydının YOL alanı: CENGİZ KOCATOROS"
+    ],
+    "sections": [
+      {
+        "heading": "Bostanlı kamu referansıyla araç pinini ayırma",
+        "paragraphs": [
+          "Karşıyaka Bostanlı kaydında CENGİZ KOCATOROS yol alanı yer alır. Bu, muhtarlığa ait referanstır; aracın adresi veya çekici işletmesinin noktası değildir. Kıyı ya da bilinen başka işaretle tarif verirken gerçek araç pinini de ekleyin.",
+          "Araç park alanındaysa giriş ve bulunduğu bölüm açıklanmalıdır. Bir iskele adının paylaşılması otomobilin orada olduğunu göstermeyebilir. Servis teslimi için mahalle adı yerine seçilen kabul adresi gerekir."
+        ]
+      },
+      {
+        "heading": "Lastik için güvenli gözlemi kullanın",
+        "paragraphs": [
+          "Bostanlı’daki park aracında lastik sorunu varsa otomobili iskele işaretine yaklaştırmak için yürütmeye çalışmayın. Gerçek park konumunu paylaşın ve lastikte gördüğünüz hasarı anlatın. Yedek lastiğin mevcut olması, kullanılabilecek durumda olduğunu göstermez; bildiğiniz durumu açıkça belirtin. Jant çevresindeki görüntü ve otomobilin bütünü değerlendirmeyi destekler. Hasarın kaynağı fotoğraftan kesinleşmeden onarım veya yolda devam kararı verilmez."
+        ]
+      },
+      {
+        "heading": "Lastik işletmesinin gerçek kabul noktasını öğrenin",
+        "paragraphs": [
+          "Aracı seçtiğiniz lastik işletmesine taşımak istiyorsanız uygun inceleme ve kabul imkânını alıcıyla görüşün. İşletmenin genel konumu dışında aracın bırakılacağı yer sorulmalıdır. Hasarlı tekerlek ve yedek lastik hakkında bilinenleri önceden iletin. Karşılayıcı hazır olduğunda teslim daha anlaşılır olur; lastiğin değişeceği veya aracın hemen kullanılabilir hale geleceği sonucu taşıma talebinden kendiliğinden çıkarılmaz."
+        ]
+      }
+    ],
+    "questions": [
+      {
+        "q": "İskele yakınında tarif kolaylaşsın diye aracı yürütmeli miyim?",
+        "a": "Hasarlı lastikle yeni bir noktaya gitmeye çalışmayın. Mevcut park yerinden konum paylaşın; iskeleyi yalnızca ayrı bir çevre referansı olarak kullanabilirsiniz."
+      },
+      {
+        "q": "Lastik servisine hasarı önceden bildirmek ne sağlar?",
+        "a": "Alıcının inceleme ve kabul ihtiyacını anlamasına yardımcı olur. Uygun lastik bulunacağı veya anında değişim yapılacağı varsayılmaz; bunlar işletmeyle ayrıca konuşulur."
+      }
+    ],
+    "scenario": {
+      "title": "İskele işareti ile park yeri farklı",
+      "situation": "Bostanlı’daki örnekte sürücü iskele yakınındayım deyip iskele işaretini gönderir. Otomobil başka park bölümünde ve lastik hasarlıdır. Yer işaretiyle araç noktasının ayrılması, mahalle kaydını gerçek konumla tamamlar.",
+      "assessment": "Hasarlı tekerleğin fotoğrafı, bilinen yedek lastik bilgisi ve park giriş koşulu paylaşılır. Yerinde çözüm garantisi verilmeden mevcut ihtiyacın kapsamı konuşulur. İskele sözcüğü yakın çevre işaretidir; araç parkı aynı nokta değilse konum farkı açıklanır. Yedek lastik bilgisi bilinmiyorsa biliniyor gibi gösterilmez; yardım kapsamı bu belirsizlikle birlikte değerlendirilir.",
+      "delivery": "Taşıma gerekirse açık servis kabul adresi belirlenir; iskele veya muhtarlık referansı teslim hedefi olmaz.",
+      "type": "illustrative_not_historical"
+    },
+    "sources": [
+      {
+        "title": "İzmir Büyükşehir Belediyesi — Muhtarlıklar açık veri",
+        "url": "https://acikveri.bizizmir.com/dataset/muhtarliklar"
+      }
+    ],
+    "limitations": [
+      "Mahalle ve yol alanı kamu muhtarlık kaydına dayanır. YOL, aracın veya işletmenin adresi değildir; güncel yol erişimini doğrulamaz.",
+      "Senaryo varsayımsaldır; yapılmış iş, geçmiş müşteri, şube, geliş süresi, fiyat veya ekipman garantisi içermez."
+    ]
+  },
+  "/bolgeler/karsiyaka/mavisehir/": {
+    "name": "Mavişehir",
+    "status": "record_grounded_editorial",
+    "checked_on": "2026-10-11",
+    "facts": [
+      "Karşıyaka ilçesi MAVİŞEHİR muhtarlık kaydının YOL alanı: AZİZ NESİN"
+    ],
+    "sections": [
+      {
+        "heading": "Mavişehir’de mahalle kaydı site kapısını göstermez",
+        "paragraphs": [
+          "Mavişehir, Karşıyaka altında AZİZ NESİN yol alanıyla kayıtlıdır. Bu kamu verisi mahalle eşleşmesini destekler. Araç bir sitedeyse adı ve kullanılacak araç kapısı gerçek konumla ayrıca belirtilmelidir; yol alanı giriş adresini kanıtlamaz.",
+          "Kapalı parkta görünen yükseklik sınırı ve kat bilgisi paylaşılır. Farklı kapılar varsa hangisinin aracın yanına ulaştığını açıklayın. Bu koşullar Mavişehir’deki bütün binaların ortak özelliği değil, bulunduğunuz adrese ilişkin gözlemdir."
+        ]
+      },
+      {
+        "heading": "Site girişindeki kişi araç noktasını bilmeli",
+        "paragraphs": [
+          "Mavişehir’de çok kapılı bir sitede araç alt kattaysa güvenlik görevlisine hangi giriş ve park bölümünün kullanılacağını teyit ettirin. Yaya kapısı, araç girişi ve otomobilin konumu farklı bilgiler olabilir. Levhada görülen geçiş ölçüsünü ve katı paylaşın; boşlukların uygun olduğu tahmin edilmesin. Anahtara erişim, motor belirtisi ve tekerlek yönü de siteye giriş bilgisinden ayrı hazırlanmalıdır."
+        ]
+      },
+      {
+        "heading": "Araç sahibi ayrılacaksa teslim düzenini kurun",
+        "paragraphs": [
+          "Otomobil sahibi siteden ayrılacaksa anahtarı verecek yetkili kişinin kim olduğunu ve hangi park bölümünde bulunacağını belirlesin. Servise marş belirtisi ve kararlaştırılan açık kabul adresi aktarılır. Site görevlisi giriş düzenini açıklayabilir; aracın hangi işlem için servise bırakılacağı sahibinin kararıdır. Anahtarın ve size gerekli eşyaların yönetimi önceden konuşulursa, sahibin araç başında bulunmaması teslim hedefini belirsiz bırakmaz."
+        ]
+      }
+    ],
+    "questions": [
+      {
+        "q": "Güvenlik görevlisinin site girişini göstermesi yeterli olur mu?",
+        "a": "Görevli hangi araç kapısının ve park bölümünün kullanılacağını bilmelidir. Kat, mevcut geçiş ölçüsü ve anahtara erişim bilgisi de talebi tamamlar."
+      },
+      {
+        "q": "Siteden ayrılırsam servis kararını görevliye bırakmalı mıyım?",
+        "a": "Servis hedefini araç sahibi açıkça belirlemeli ve kabulünü teyit etmelidir. Görevli erişimi düzenleyebilir; anahtar teslimi için ayrıca yetkili kişi seçilebilir."
+      }
+    ],
+    "scenario": {
+      "title": "Çok kapılı sitede giriş karışıklığı",
+      "situation": "Mavişehir’deki varsayımsal sitede otomobil alt kat parkında çalışmaz. İlk gönderilen pin yaya kapısıdır. Mahalle kaydı doğru olsa da kullanılacak araç kapısı, park bölümü ve kat ayrıca paylaşılır.",
+      "assessment": "Görünen yükseklik sınırı ve aracın vites–direksiyon–tekerlek durumu açıklanır. Site giriş koşulu ilgili kişiyle teyit edilir; mahalle adından erişim uygunluğu kesinleştirilmez. Site sorumlusundan alınan giriş bilgisi mevcut park kapısıyla ilişkilendirilir. Bütün mahalle otoparklarının aynı yükseklikte olduğu varsayılmaz; araç sahibi yalnızca gördüğü sınırı ve bilinen kat bilgisini açıklar.",
+      "delivery": "Servisin açık adresi ile kabul edecek kişi belirlenir; yaya kapısı alma ya da teslim noktası gibi kullanılmaz.",
+      "type": "illustrative_not_historical"
+    },
+    "sources": [
+      {
+        "title": "İzmir Büyükşehir Belediyesi — Muhtarlıklar açık veri",
+        "url": "https://acikveri.bizizmir.com/dataset/muhtarliklar"
+      }
+    ],
+    "limitations": [
+      "Mahalle ve yol alanı kamu muhtarlık kaydına dayanır. YOL, aracın veya işletmenin adresi değildir; güncel yol erişimini doğrulamaz.",
+      "Senaryo varsayımsaldır; yapılmış iş, geçmiş müşteri, şube, geliş süresi, fiyat veya ekipman garantisi içermez."
+    ]
+  },
+  "/bolgeler/konak/goztepe/": {
+    "name": "Göztepe",
+    "status": "record_grounded_editorial",
+    "checked_on": "2026-10-11",
+    "facts": [
+      "Konak ilçesi GÖZTEPE muhtarlık kaydının YOL alanı: 103"
+    ],
+    "sections": [
+      {
+        "heading": "Göztepe adını Konak ilçesiyle belirtme",
+        "paragraphs": [
+          "Bu sayfadaki Göztepe, İBB açık verisinde Konak altında 103 yol alanıyla eşleşir. Mahalle adını ilçe bilgisiyle yazın; bilinen bir yer ya da işletme adının benzerliği gerçek araç adresini kesinleştirmez.",
+          "103 kamu referansını otomobilin adresi yerine kullanmayın. Aracın park ettiği yerin sokak veya giriş bilgisi ve konum pini gerekir. Arıza durumuyla servis tercihi de mahalle adından bağımsız açıklanmalıdır."
+        ]
+      },
+      {
+        "heading": "Hareket belirtisini motor sesinden ayırın",
+        "paragraphs": [
+          "Göztepe’de motor çalışırken hareket güven vermiyorsa hangi belirtiyi gördüğünüzü söyleyin. Vites tepkisi, beklenmedik ses veya otomobilin ilerlememesi ayrı bilgiler olarak anlatılabilir. Denemeyi sürdürüp sorunu kanıtlamak gerekmiyor. Fren veya başka bir parçanın arızalı olduğunu bilmeden teşhis koymayın; yalnızca gözlediğiniz durumu ve gösterge uyarısını paylaşın. Marka, model ve anahtar bilgisi değerlendirmeyi tamamlar."
+        ]
+      },
+      {
+        "heading": "Teslimden sonra yürütme varsayımı yapılmasın",
+        "paragraphs": [
+          "Seçilen servis motorun çalıştığını bilse de hareket sorununun sürdüğünü ayrıca öğrenmelidir. Aracın servise bırakıldıktan sonra kendi gücüyle içeri alınabileceği baştan kabul edilmemelidir. Alıcıyla uygun kabul noktasını ve karşılayıcıyı konuşun. Son görülen belirtileri teslimle birlikte iletmek, inceleme talebini açık hale getirir. Taşıma ihtiyacı ile onarımın kapsamı farklı kararlar olduğundan işlem onayını doğrudan servisle görüşün."
+        ]
+      }
+    ],
+    "questions": [
+      {
+        "q": "Fren arızası olduğunu düşünüyorsam bunu kesin bilgi gibi söylemeli miyim?",
+        "a": "Hayır; gözlediğiniz tepkiyi, sesi veya hareket sorununu anlatın. Şüphenizi ayrıca belirtebilirsiniz ancak kesin arıza nedenini inceleme olmadan doğrulanmış bilgi olarak vermeyin."
+      },
+      {
+        "q": "Motoru çalışan araç servis girişinde kendi gücüyle ilerletilir mi?",
+        "a": "Hareket sorunu varsa bu varsayılmaz. Kabul noktası alıcıyla konuşulmalı ve aracın kendi gücüyle yönlendirilemeyebileceği önceden bildirilmelidir."
+      }
+    ],
+    "scenario": {
+      "title": "Motor çalışan fakat hareket sorunu bulunan araç",
+      "situation": "Konak Göztepe’deki örnekte otomobilin motoru çalışır ama sahibi aracı güvenilir şekilde hareket ettiremediğini belirtir. İlk talep yalnızca mahalle adını içerir. Gerçek park noktası ve sorun ayrıca açıklanır.",
+      "assessment": "Vites, direksiyon ve tekerleklerle ilgili gözlem paylaşılır. Kapalı alan varsa kat ve giriş bilgisi alınır. Araç çalışıyor diye sorunsuz olduğu veya taşıma gerektirmediği varsayılmaz. Çalışan motordan fren, aktarma veya başka parçanın sorunsuz olduğu sonucu çıkarılmaz. Sürücü arızanın kesin adını bilmiyorsa bunu söyler; taşıma isteği görülen hareket belirtisi ve adresle değerlendirilir.",
+      "delivery": "Seçilen servisin açık kabul adresi netleştirilir; 103 kamu referansı aracın bulunduğu yer gibi kullanılmaz.",
+      "type": "illustrative_not_historical"
+    },
+    "sources": [
+      {
+        "title": "İzmir Büyükşehir Belediyesi — Muhtarlıklar açık veri",
+        "url": "https://acikveri.bizizmir.com/dataset/muhtarliklar"
+      }
+    ],
+    "limitations": [
+      "Mahalle ve yol alanı kamu muhtarlık kaydına dayanır. YOL, aracın veya işletmenin adresi değildir; güncel yol erişimini doğrulamaz.",
+      "Senaryo varsayımsaldır; yapılmış iş, geçmiş müşteri, şube, geliş süresi, fiyat veya ekipman garantisi içermez."
+    ]
+  },
+  "/bolgeler/kemalpasa/yesilyurt/": {
+    "name": "Yeşilyurt",
+    "status": "record_grounded_editorial",
+    "checked_on": "2026-10-11",
+    "facts": [
+      "Kemalpaşa ilçesi YEŞİLYURT muhtarlık kaydının YOL alanı: YEŞİLYURT YOLU"
+    ],
+    "sections": [
+      {
+        "heading": "Yeşilyurt eşleşmesinde Kemalpaşa ayrımı",
+        "paragraphs": [
+          "Bu sayfa Kemalpaşa altında YEŞİLYURT ve YEŞİLYURT YOLU alanlarıyla eşleşir. Yeşilyurt adını duyan herkesin aynı ilçeyi düşündüğü varsayılmamalıdır. Talepte Kemalpaşa’yı ve gerçek araç konumunu özellikle yazın.",
+          "Kamu yol alanı geniş bir referans olabilir; aracın hangi kapıda veya yol noktasında kaldığı ayrıca belirtilmelidir. İlçeyi doğrulamadan yakın görünen başka bir Yeşilyurt noktasını harita pini olarak seçmeyin."
+        ]
+      },
+      {
+        "heading": "Doğru alma noktası sonrası araç bilgisini tamamlayın",
+        "paragraphs": [
+          "Kemalpaşa’daki Yeşilyurt konumu netleştiğinde motorun verdiği tepkiyi, vitesin durumunu ve anahtarın kimde olduğunu paylaşın. Yanlış ilçeye ait konumun düzeltilmesi aracın teknik ihtiyacını açıklamaz. Son yaşanan belirtiyi kısa ve açık anlatmak, arıza adı tahmin etmekten daha faydalıdır. Park halindeyse tekerlek yönü ve otomobilin çevresini gösteren güvenli fotoğraf, yerinden alınmasının değerlendirilmesine yardımcı olur."
+        ]
+      },
+      {
+        "heading": "Servis hedefi farklı ilçede olabilir",
+        "paragraphs": [
+          "Alma yeri Kemalpaşa iken servis başka ilçede seçilebilir; bu iki konumu ayrı etiketleyin. Alıcıya aracın çalışmadığını ve bilinen hareket kısıtlarını önceden aktarın. Anahtarı teslim edecek kişi araç sahibinden farklıysa yetkisini ve iletişimini belirleyin. Servisin kabulü teyit edildiğinde taşıma hedefi netleşir; aynı yer adını içeren başka bir adres, açık onay olmadan yeni teslim noktası olarak kullanılmamalıdır."
+        ]
+      }
+    ],
+    "questions": [
+      {
+        "q": "Yanlış ilçe pini düzeltildikten sonra hangi bilgiler gerekir?",
+        "a": "Güncel motor tepkisi, anahtar ve vites bilgisi ile aracın park çevresini paylaşın. Konum düzeltmesi erişim ve hareket koşullarını tek başına tamamlamaz."
+      },
+      {
+        "q": "Alma yeri Kemalpaşa iken başka ilçede servis seçebilir miyim?",
+        "a": "Talebinizi ayrı bir teslim adresi olarak belirtin. Alıcı servisin kabulü ve açık hedefi teyit edilmelidir; hedef ilçesi araç alma ilçesinin yerine yazılmamalıdır."
+      }
+    ],
+    "scenario": {
+      "title": "Aynı yer adıyla yanlış konum seçilmesi",
+      "situation": "Kemalpaşa Yeşilyurt’taki örnekte sürücü haritada adını tanıdığı başka bir Yeşilyurt işaretini seçer. Otomobil o ilçede değildir. Doğru ilçe ve araç konumu birlikte gönderilerek adres karışıklığı giderilir.",
+      "assessment": "Gerçek yol veya kapı noktası, motor belirtisi ve hareket durumu açıklanır. Muhtarlık eşleşmesi araç durumunu veya erişimi kanıtlamaz; adı benzer bir noktadan rota varsayılmaz. Yanlış işaret düzeltilince önceki pinin araç noktasını göstermediği ayrıca söylenir. İlçe teyidi tamamlanmadan aynı adlı başka yerden rota, ulaşım süresi veya hizmet mevcudu hakkında sonuç çıkarılmaz.",
+      "delivery": "Servis hedefi de ilçe ve açık adresle yazılır; yanlış pin teslim adresi yerine tutulmaz.",
+      "type": "illustrative_not_historical"
+    },
+    "sources": [
+      {
+        "title": "İzmir Büyükşehir Belediyesi — Muhtarlıklar açık veri",
+        "url": "https://acikveri.bizizmir.com/dataset/muhtarliklar"
+      }
+    ],
+    "limitations": [
+      "Mahalle ve yol alanı kamu muhtarlık kaydına dayanır. YOL, aracın veya işletmenin adresi değildir; güncel yol erişimini doğrulamaz.",
+      "Senaryo varsayımsaldır; yapılmış iş, geçmiş müşteri, şube, geliş süresi, fiyat veya ekipman garantisi içermez."
+    ]
+  },
+  "/bolgeler/buca/adatepe/": {
+    "name": "Adatepe",
+    "status": "record_grounded_editorial",
+    "checked_on": "2026-10-11",
+    "facts": [
+      "Buca ilçesi ADATEPE muhtarlık kaydının YOL alanı: KIBRIS"
+    ],
+    "sections": [
+      {
+        "heading": "Adatepe ile Kıbrıs yol alanını ayırt etme",
+        "paragraphs": [
+          "Adatepe, Buca muhtarlık listesinde KIBRIS yol alanıyla görünür. Bu kayıt Alsancak’ın KIBRIS ŞEHİTLERİ referansıyla aynı mahalle veya yol eşleşmesi değildir. Talepte Buca–Adatepe ve gerçek araç konumu birlikte yazılmalıdır.",
+          "Bir bina parkındaki aracın girişini cadde referansından ayrı açıklayın. Giriş noktasında görülen sınırlamayı paylaşın; yalnızca KIBRIS alanından yolun erişimi ya da kapının yeri çıkarılamaz. Teslim servisini ayrıca belirtin."
+        ]
+      },
+      {
+        "heading": "Bina parkındaki kısıtları ayrı tarif edin",
+        "paragraphs": [
+          "Adatepe’deki otomobil bina parkında çalışmıyorsa katı, giriş fotoğrafını ve mevcut geçiş bilgilerini paylaşın. Bina önünden gönderilen pin alt kattaki otomobilin erişimini tek başına açıklamaz. Vites konumu, tekerlek yönü ve anahtarın durumu ayrıca sorulabilir. Güvenle görülmeyen ölçüyü tahmin etmeyin; bina görevlisinin doğruladığı bilgiler kullanılmalıdır. Park girişine erişim ile araç çevresindeki çalışma alanı ayrı değerlendirilir."
+        ]
+      },
+      {
+        "heading": "Motor belirtisini alıcı servise de iletin",
+        "paragraphs": [
+          "Servis seçerken marşın hiç tepki vermediğini mi, motorun dönüp çalışmadığını mı yoksa başka bir durumun mu görüldüğünü anlatın. Teslimde karşılayacak kişinin anahtarı alabileceğini ve kararlaştırılan kabul noktasının uygun olduğunu teyit edin. Bina parkından çıkarma hakkında verilen bilgi onarım talebini açıklamaz. Servise yapılmasını istediğiniz incelemeyi araç sahibi iletmeli; kişisel eşyalar ve gerekli belgeler teslimden önce düzenlenmelidir."
+        ]
+      }
+    ],
+    "questions": [
+      {
+        "q": "Bina önündeki konum alt kat için yeterli midir?",
+        "a": "Alt kat ve kullanılacak araç girişini ayrıca belirtin. Mevcut geçiş bilgisi, park bölümünün fotoğrafı ve anahtara erişim, bina önü konumunu tamamlar."
+      },
+      {
+        "q": "Servise hangi marş bilgisini aktarmalıyım?",
+        "a": "Son denemede gerçekten ne olduğunu söyleyin: tepki olmaması ve motorun dönüp çalışmaması farklıdır. Bilinmeyen arıza nedenini kesinleştirmeden gözleminizi aktarın."
+      }
+    ],
+    "scenario": {
+      "title": "Adres benzerliğiyle farklı mahalle seçimi",
+      "situation": "Buca Adatepe’deki örnekte sürücü kamu kaydında KIBRIS yazısını görünce başka yerdeki bilinen caddeyi haritada seçer. Araç bina parkında ve çalışmıyor durumdadır. İlçe, mahalle ve gerçek park piniyle talep düzeltilir.",
+      "assessment": "Kullanılacak araç girişi, kat ve görülen sınır paylaşılır. Marş, vites ve tekerlek bilgisi alınır; kayıt kelimesinin benzerliği araç erişimini veya yerini belirlemez. İki benzer kayıt kelimesiyle oluşturulan adres farkı açıkça anlatılır. Araç kapısı ve park katının teyit edilmesi, kamu kayıt satırının doğru okunmasından ayrı ve mevcut konuma ilişkin değerlendirmedir.",
+      "delivery": "Seçilen servis açık konumla yazılır. Yanlış cadde işareti alma ya da teslim noktası olarak kullanılmaz.",
+      "type": "illustrative_not_historical"
+    },
+    "sources": [
+      {
+        "title": "İzmir Büyükşehir Belediyesi — Muhtarlıklar açık veri",
+        "url": "https://acikveri.bizizmir.com/dataset/muhtarliklar"
+      }
+    ],
+    "limitations": [
+      "Mahalle ve yol alanı kamu muhtarlık kaydına dayanır. YOL, aracın veya işletmenin adresi değildir; güncel yol erişimini doğrulamaz.",
+      "Senaryo varsayımsaldır; yapılmış iş, geçmiş müşteri, şube, geliş süresi, fiyat veya ekipman garantisi içermez."
+    ]
+  },
+  "/bolgeler/menderes/ahmetbeyli/": {
+    "name": "Ahmetbeyli",
+    "status": "record_grounded_editorial",
+    "checked_on": "2026-10-11",
+    "facts": [
+      "Menderes ilçesi AHMETBEYLİ muhtarlık kaydının YOL alanı: 4062"
+    ],
+    "sections": [
+      {
+        "heading": "Ahmetbeyli’de numaralı kayıt ve gerçek adres",
+        "paragraphs": [
+          "Ahmetbeyli, Menderes altında 4062 yol alanıyla kayıtlıdır. Kamu referansı mahalle eşleşmesini doğrulamaya yardımcı olur; aracı orada görmeden alma adresine dönüştürülmemelidir. Sokak, özel giriş veya park konumu ayrı gönderilmelidir.",
+          "Araç konaklama, iş yeri veya başka özel alandaysa hangi kapıda beklediğini yazın. Mahalle adından tesis türü, yol yüzeyi veya kıyı erişimi varsaymayın. Görünen arıza ve teslim isteği açıkça anlatılmalıdır."
+        ]
+      },
+      {
+        "heading": "Hasarlı lastiği çevre alanıyla birlikte gösterin",
+        "paragraphs": [
+          "Ahmetbeyli’de özel park kapısındaki araçta lastik hasarı varsa yakın görüntüyü otomobilin genel fotoğrafıyla tamamlayın. Hangi lastikte sorun olduğunu, yedeğin mevcut ve kullanılabilir olup olmadığını bildiğiniz kadar söyleyin. Aracı kapıya yaklaştırmak için yürütmek zorunda değilsiniz. Kapı sorumlusu erişimi açabilir; tekerlek sorununun nasıl değerlendirileceği ise görülen hasar ve gerçek araç durumu üzerinden ayrıca konuşulur."
+        ]
+      },
+      {
+        "heading": "Lastik kabulü ve anahtar teslimini eşleştirin",
+        "paragraphs": [
+          "Taşıma kararı verilirse alıcı işletmenin lastik sorununu inceleyebildiğini ve aracı hangi noktada kabul edeceğini teyit edin. Yeni lastik veya hemen değişim imkânı bulunacağını varsaymayın. Özel alan kapısını açacak kişi ile anahtarı verecek kişi farklıysa bunu belirtin. Servise bırakıldığında alıcı hasarlı tekerleği ve varsa yedek durumunu bilmeli; teslimden sonraki işlem araç sahibiyle işletme arasında konuşulmalıdır."
+        ]
+      }
+    ],
+    "questions": [
+      {
+        "q": "Lastik hasarlıysa aracı özel kapıya kadar getirmeli miyim?",
+        "a": "Talep için aracı yürütmeniz gerekmiyor. Mevcut konumu, hasarı ve kapıya göre yerini paylaşın; zorlayarak hareket ettirmek yerine durumun değerlendirilmesini bekleyin."
+      },
+      {
+        "q": "Lastik servisi araç kabul ederken neyi bilmeli?",
+        "a": "Hangi tekerlekte hasar olduğunu ve yedek lastiğin bilinen durumunu iletin. Kabul noktası ile inceleme imkânı teyit edilmeli; lastik bulunacağı varsayılmamalıdır."
+      }
+    ],
+    "scenario": {
+      "title": "Özel alan kapısında hasarlı lastik",
+      "situation": "Ahmetbeyli’deki örnek özel parkta otomobilin lastiği hasarlıdır. Sürücü 4062 referansını yeterli görür, fakat araç farklı kapının içindedir. Talep kamu kaydı yerine gerçek araç piniyle tamamlanır.",
+      "assessment": "Hasarın fotoğrafı ve bilinen yedek lastik bilgisi paylaşılır. Giriş koşulu ilgili kişiyle konuşulur. Mahalle adından yerinde çözüm yapılabileceği veya her kapıya erişilebileceği garanti edilmez. Kapı arkasındaki araç için tesisin yaya adresiyle park adresi aynı kabul edilmez. Görevli mevcut giriş koşulunu açıklayabilir; bu bilgi bütün mahalledeki özel alanlara genellenerek otomatik izin oluşturmaz.",
+      "delivery": "Taşıma istenirse servisin açık kabul adresi belirlenir; özel kapı alma noktası olarak tutulur.",
+      "type": "illustrative_not_historical"
+    },
+    "sources": [
+      {
+        "title": "İzmir Büyükşehir Belediyesi — Muhtarlıklar açık veri",
+        "url": "https://acikveri.bizizmir.com/dataset/muhtarliklar"
+      }
+    ],
+    "limitations": [
+      "Mahalle ve yol alanı kamu muhtarlık kaydına dayanır. YOL, aracın veya işletmenin adresi değildir; güncel yol erişimini doğrulamaz.",
+      "Senaryo varsayımsaldır; yapılmış iş, geçmiş müşteri, şube, geliş süresi, fiyat veya ekipman garantisi içermez."
+    ]
+  },
+  "/bolgeler/menderes/akcakoy/": {
+    "name": "Akçaköy",
+    "status": "record_grounded_editorial",
+    "checked_on": "2026-10-11",
+    "facts": [
+      "Menderes ilçesi AKÇAKÖY muhtarlık kaydının YOL alanı: 7202"
+    ],
+    "sections": [
+      {
+        "heading": "Akçaköy kaydında Menderes bilgisini koruma",
+        "paragraphs": [
+          "Açık veri Akçaköy’ü Menderes altında 7202 yol alanıyla eşleştirir. Adında köy geçmesi belirli bir yol yüzeyi veya idari statü hakkında ek hüküm kurmak için yeterli değildir. Talep mevcut adres ve araç konumuna dayanmalıdır.",
+          "Özel bahçe veya iş yeri girişindeyseniz aracın yola göre yerini açıklayın. Toprak, asfalt ya da başka zemin bilgisi yalnızca gördüğünüz koşul olarak paylaşılır; yerleşim adından otomatik kurtarma ihtiyacı çıkarılmaz."
+        ]
+      },
+      {
+        "heading": "Gerçek yüzey ve araç belirtisi birlikte önemlidir",
+        "paragraphs": [
+          "Akçaköy’de özel alandaki otomobil için çevresinde görülen yüzeyi, kapı durumunu ve engelleri anlatın. Yerleşimin adından zeminin ne olduğu veya aracın kolay alınacağı sonucu çıkarılmaz. Fotoğrafta otomobilin bütünü ve girişe göre yeri görülebiliyorsa faydalıdır. Motor çalışmıyorsa son tepkiyi, vites konumunu ve anahtara erişimi ayrıca belirtin; yol görünümü aracın hareket durumunun yerine geçmez."
+        ]
+      },
+      {
+        "heading": "Teslimde yapılacak incelemeyi sahibinin belirtmesi",
+        "paragraphs": [
+          "Servise taşınacak araç için alıcı işletmeyi, açık kabul adresini ve karşılayıcıyı seçin. Araç sahibi teslimde bulunmayacaksa gözlediği belirtiyi alıcıya önceden iletsin. Özel alan sorumlusu erişimi sağlayabilir ancak hangi onarımın yapılacağına dair talep onun görevi olmayabilir. Anahtar teslimi ve gerekli eşyaların alınması planlanırsa taşıma sonrasında araç yalnızca belirsiz bir arıza sözüyle bırakılmamış olur."
+        ]
+      }
+    ],
+    "questions": [
+      {
+        "q": "Zemini tarif ederken neyi esas almalıyım?",
+        "a": "Aracın hemen bulunduğu yerde gördüğünüz yüzeyi ve engelleri esas alın. Güvenli fotoğraf ekleyin; mahalle adından yol veya arazi özelliği tahmin etmeyin."
+      },
+      {
+        "q": "Özel alanın sorumlusu servis talebimi de iletebilir mi?",
+        "a": "Yetkilendirdiğiniz kişinin rolünü açıkça belirleyin. Servis hedefi ve inceleme isteği araç sahibi tarafından onaylanmalı; kapı erişimini sağlayan kişinin bunları bildiği varsayılmamalıdır."
+      }
+    ],
+    "scenario": {
+      "title": "Yerleşim adından zemin tahmini",
+      "situation": "Akçaköy’deki örnekte araç sahibi otomobilin özel girişte çalışmadığını söyler. Yer adı nedeniyle yolun toprak olduğu varsayılmaz. Gerçek giriş fotoğrafı ve araç konumu mevcut koşulu göstermek için paylaşılır.",
+      "assessment": "Motor, vites ve tekerlek durumu açıklanır. Giriş açıklığı ve görünen yüzey tarif edilir; sadece köy sözcüğünden ekipman, kurtarma yöntemi veya geliş süresi seçilmez. Fotoğrafta görünen yüzey o talebin mevcut koşuludur; köy sözcüğüyle başka bir zemin varsayılmaz. Aracı zorlayarak dışarı çıkarmak gerekli bilgi gibi sunulmaz; bekleme noktası mevcut haliyle açıklanır.",
+      "delivery": "Menderes içindeki ya da başka ilçedeki seçilen servis açık kabul adresiyle ayrı belirlenir.",
+      "type": "illustrative_not_historical"
+    },
+    "sources": [
+      {
+        "title": "İzmir Büyükşehir Belediyesi — Muhtarlıklar açık veri",
+        "url": "https://acikveri.bizizmir.com/dataset/muhtarliklar"
+      }
+    ],
+    "limitations": [
+      "Mahalle ve yol alanı kamu muhtarlık kaydına dayanır. YOL, aracın veya işletmenin adresi değildir; güncel yol erişimini doğrulamaz.",
+      "Senaryo varsayımsaldır; yapılmış iş, geçmiş müşteri, şube, geliş süresi, fiyat veya ekipman garantisi içermez."
+    ]
+  },
+  "/bolgeler/noktalar/akincilar/": {
+    "name": "Akıncılar",
+    "status": "record_grounded_editorial",
+    "checked_on": "2026-10-11",
+    "facts": [
+      "Buca ilçesi AKINCILAR muhtarlık kaydının YOL alanı: 551",
+      "Ödemiş ilçesi AKINCILAR muhtarlık kaydının YOL alanı: HÜRRİYET"
+    ],
+    "sections": [
+      {
+        "heading": "Akıncılar için Buca ve Ödemiş seçenekleri",
+        "paragraphs": [
+          "İBB verisinde Akıncılar hem Buca’da 551 hem Ödemiş’te HÜRRİYET yol alanıyla yer alır. Tek mahalle adı iki ilçeyi ayıramaz. Bu sayfada ilçenin sizden teyit edilmesi gerekir; otomatik tek bölge seçimi yapılmamalıdır.",
+          "Ödemiş’e teslim istiyor olmanız aracın Ödemiş’te bulunduğu anlamına gelmez. İlçeyi alma konumu olarak, servis hedefini ayrı bilgi olarak yazın. Yol alanlarını da gerçek araç adresiyle ilişkileri varsa kullanın."
+        ]
+      },
+      {
+        "heading": "Alma noktası ve hedefi iki ayrı kayıt gibi düşünün",
+        "paragraphs": [
+          "Akıncılar adıyla talep verirken aracın Buca’da mı Ödemiş’te mi olduğunu açıkça belirleyin; seçtiğiniz servisin ilçesi bu soruya cevap değildir. Konum netleştikten sonra motor belirtisi, vites ve anahtar bilgisi aktarılır. Talepte eski bir pin varsa güncel olanı işaretleyin. Yer adı belirsizliği çözülse bile araçtaki hareket sorununun ayrıca anlaşılması gerekir; iki aşamayı tek bilgiye indirmeyin."
+        ]
+      },
+      {
+        "heading": "Ödemiş hedefi için kabulü ayrıca teyit edin",
+        "paragraphs": [
+          "Servis hedefiniz Ödemiş’teyse alıcı adresini araç konumundan ayrı gönderin ve kabul edecek kişiyi belirleyin. Talep, farklı iki noktayı içerebilir; teslim adresi otomobilin nereden alınacağı bilgisini değiştirmez. Alıcıya görülen belirtileri ve bilinen hareket kısıtını aktarın. Anahtarın kimden alınacağı da açık olmalı; işletmenin yalnızca adını bilmek, aracın kabul edileceği noktayı ve onarım isteğini tamamlamaz."
+        ]
+      }
+    ],
+    "questions": [
+      {
+        "q": "Ödemiş’teki servis pini aracın alma yerini de gösterir mi?",
+        "a": "Hayır; araç Buca veya Ödemiş Akıncılar’da olabilir. Gerçek araç konumunu alma, servis konumunu teslim olarak ayrı işaretleyin ve ilgili ilçeleri belirtin."
+      },
+      {
+        "q": "İlçe netleşince araç bilgilerini tekrar vermem gerekir mi?",
+        "a": "Motor belirtisi, vites ve anahtar durumu bilinmiyorsa tamamlayın. İlçe düzeltmesi teknik bilgiyi yerine getirmez; değişen gözlem varsa güncel durum esas alınmalıdır."
+      }
+    ],
+    "scenario": {
+      "title": "Aynı mahalle adı, farklı alma ilçesi",
+      "situation": "Örnekte araç sahibi Akıncılar deyip Ödemiş’teki bir servis hedefini gönderir. Otomobilin Buca’da mı Ödemiş’te mi kaldığı henüz belli değildir. Servis hedefi alma ilçesi olarak varsayılmadan ayrı teyit edilir.",
+      "assessment": "Araç pini ve ilçe istenir; doğru kayıtla ilişki kurulur. Motor ve hareket durumu ayrıca konuşulur. Kamu referansı tek başına gerçek park yerini veya güncel giriş koşulunu doğrulamaz. İki Akıncılar kaydı birden aynı araç talebine başlangıç yapılmaz. Araç sahibi bulunduğu ilçeyi teyit eder; Ödemiş servis hedefi tek başına Buca seçeneğini veya diğer başlangıç noktasını dışlamaz.",
+      "delivery": "Ödemiş’teki hedef servis açık adresle tutulur; aracın alma konumu farklıysa iki ilçe açıkça ayrılır.",
+      "type": "illustrative_not_historical"
+    },
+    "sources": [
+      {
+        "title": "İzmir Büyükşehir Belediyesi — Muhtarlıklar açık veri",
+        "url": "https://acikveri.bizizmir.com/dataset/muhtarliklar"
+      }
+    ],
+    "limitations": [
+      "Mahalle ve yol alanı kamu muhtarlık kaydına dayanır. YOL, aracın veya işletmenin adresi değildir; güncel yol erişimini doğrulamaz.",
+      "Senaryo varsayımsaldır; yapılmış iş, geçmiş müşteri, şube, geliş süresi, fiyat veya ekipman garantisi içermez."
+    ]
+  },
+  "/bolgeler/noktalar/aktepe/": {
+    "name": "Aktepe",
+    "status": "record_grounded_editorial",
+    "checked_on": "2026-10-11",
+    "facts": [
+      "Beydağ ilçesi AKTEPE muhtarlık kaydının YOL alanı: KÖPRÜBAŞI MEVKİİ",
+      "Gaziemir ilçesi AKTEPE muhtarlık kaydının YOL alanı: 126"
+    ],
+    "sections": [
+      {
+        "heading": "Aktepe adı için iki ilçe kaydı",
+        "paragraphs": [
+          "Aktepe kaydı Beydağ’da KÖPRÜBAŞI MEVKİİ, Gaziemir’de 126 yol alanıyla görünür. Bu iki referans aynı araç alma noktasına ait değildir. Talepte Aktepe adının yanında hangi ilçede olduğunuzu ve gerçek araç pinini belirtin.",
+          "Köprübaşı ifadesini görmeniz Beydağ’daki bütün araçların o noktada olduğunu göstermez. Gaziemir seçeneğini de hedef servis yönünden tahmin etmeyin. Aracın bulunduğu ilçe ile götürüleceği adres ayrı konuşulmalıdır."
+        ]
+      },
+      {
+        "heading": "Ticari araç ölçüsü ve yükü ayrı sorulabilir",
+        "paragraphs": [
+          "Aktepe talebinde Beydağ veya Gaziemir alma noktası netleştiğinde panelvanın marka, model ve bildiğiniz ölçülerini paylaşın. Yük varsa niteliğini ayrıca söyleyin; ticari araç olması tek başına boyut veya ağırlık bilgisi değildir. Motorun çalışmaması, vites tepkisi ve anahtarın mevcut olup olmaması da ayrı ihtiyaçlardır. Bilinmeyen değerleri tahmin etmek yerine eksik olduğunu belirtmek, talebin doğru değerlendirilmesine yardımcı olur."
+        ]
+      },
+      {
+        "heading": "Servis kabulü yükten bağımsız değildir",
+        "paragraphs": [
+          "Panelvan taşınacaksa kabul eden servisin araç tipini ve mevcut yük durumunu bildiğini teyit edin. Yükün teslim öncesinde çıkarılması veya araçta kalması işletmeyle konuşulur; kendiliğinden bir uygulama varsayılmamalıdır. Aracı karşılayacak kişi ile malzemeyi alacak kişi farklı olabilir. Taşıma hedefini açık adresle iletin; seçtiğiniz işletmenin ilçesi Aktepe’deki alma ilçesi belirsizliğini çözmek için kullanılmamalıdır."
+        ]
+      }
+    ],
+    "questions": [
+      {
+        "q": "Panelvan demek araç ölçüsünü belirlemek için yeterli mi?",
+        "a": "Yeterli değildir. Marka, model ve bildiğiniz ölçüler yararlıdır; yükün niteliği ayrıca açıklanır. Kesin olmayan boyut veya ağırlığı doğrulanmış bilgi gibi vermeyin."
+      },
+      {
+        "q": "Yük servis kabulünden önce çıkarılmalı mı?",
+        "a": "Bu, yükün niteliği ve alıcı işletmenin kabul koşuluna göre konuşulmalıdır. Araçla kalacağı veya mutlaka çıkarılacağı varsayılmaz; malzemenin alıcısı da belirlenir."
+      }
+    ],
+    "scenario": {
+      "title": "İlçe belirtilmeyen ticari araç talebi",
+      "situation": "Aktepe adlı yerde panelvanın çalışmadığı bir örnek talepte ilçe eksiktir. Araç türünün ticari olması Beydağ veya Gaziemir seçeneklerinden birini seçmek için kanıt değildir. İlçe ve gerçek park pini ilk olarak paylaşılır.",
+      "assessment": "Yük bulunup bulunmadığı, tekerlek ve vites durumu konuşulur. Seçilen ilçe kaydının yol alanı kamu referansı olarak tutulur; araç kapısı yerine kullanılmaz. Araç ticari olduğu için ilçe seçmek, coğrafi eşleşmenin yerine geçmez. Yük ve araç türü ayrı bilgiler olarak tutulur; Beydağ veya Gaziemir konumu fotoğraf ve gerçek pinle teyit edilir.",
+      "delivery": "Servisin açık kabul adresi ayrı alınır; alma ilçesi hedef adresinden çıkarılmaz.",
+      "type": "illustrative_not_historical"
+    },
+    "sources": [
+      {
+        "title": "İzmir Büyükşehir Belediyesi — Muhtarlıklar açık veri",
+        "url": "https://acikveri.bizizmir.com/dataset/muhtarliklar"
+      }
+    ],
+    "limitations": [
+      "Mahalle ve yol alanı kamu muhtarlık kaydına dayanır. YOL, aracın veya işletmenin adresi değildir; güncel yol erişimini doğrulamaz.",
+      "Senaryo varsayımsaldır; yapılmış iş, geçmiş müşteri, şube, geliş süresi, fiyat veya ekipman garantisi içermez."
+    ]
+  },
+  "/bolgeler/noktalar/altintas/": {
+    "name": "Altıntaş",
+    "status": "record_grounded_editorial",
+    "checked_on": "2026-10-11",
+    "facts": [
+      "Konak ilçesi ALTINTAŞ muhtarlık kaydının YOL alanı: İNÖNÜ",
+      "Urla ilçesi ALTINTAŞ muhtarlık kaydının YOL alanı: ZAFER"
+    ],
+    "sections": [
+      {
+        "heading": "Altıntaş için Konak ve Urla ayrımı",
+        "paragraphs": [
+          "Açık veride Altıntaş Konak altında İNÖNÜ, Urla altında ZAFER yol alanıyla kayıtlıdır. Talebin hangi ilçeden geldiği belirtilmeden bu iki noktadan biri seçilmemelidir. Mahalle adı tek başına aracı bulmak için yeterli değildir.",
+          "İnönü veya Zafer sözcüğünü araç adresi olarak kullanacaksanız gerçek konumla ilişkisini açıklayın. Kamu referansıyla servis hedefini karıştırmayın. Araç başka ilçeye götürülecekse başlangıç ve hedef ayrı etiketlenmelidir."
+        ]
+      },
+      {
+        "heading": "İki Altıntaş ihtimalini hedefle karıştırmayın",
+        "paragraphs": [
+          "Altıntaş için Konak veya Urla alma ilçesi belirlenirken Urla’daki servis randevusunu ayrıca yazın. Randevu hedefi otomobilin bulunduğu yeri kanıtlamaz. Doğru alma noktası hazır olduğunda motor belirtisini, vites konumunu ve araç çevresini paylaşın. Aynı mesajda iki pin varsa hangisinin otomobile ait olduğunu açıkça söyleyin. Teknik değerlendirme, bu ayrım tamamlanınca aracın güncel durumuna göre devam edebilir."
+        ]
+      },
+      {
+        "heading": "Yetkili kişi farklı noktada kalmasın",
+        "paragraphs": [
+          "Anahtarı verecek kişi otomobilin gerçek konumunu bilmeli ve servis hedefi hakkında aynı bilgiye sahip olmalıdır. Aracın Urla’da teslim edilmesi kararlaştırılırsa açık kabul adresi ve alıcı teyit edilir. Motor ya da hareket kısıtını servise önceden bildirin. Araç sahibi başka yerdeyse servisle iletişimi kimin sürdüreceği belirlenmeli; teslimde bulunmayan kişinin randevu bilgisi tek başına araç kabulünü sağlamaz."
+        ]
+      }
+    ],
+    "questions": [
+      {
+        "q": "Urla randevusunu paylaşmam alma ilçesini netleştirir mi?",
+        "a": "Netleştirmez. Otomobilin Konak veya Urla Altıntaş’ta bulunduğu ayrıca belirtilmelidir; randevu ve araç konumunu teslim ile alma olarak ayırın."
+      },
+      {
+        "q": "Anahtarı yakınınız verecekse servisle kim konuşmalı?",
+        "a": "Bunu araç sahibi önceden belirlemelidir. Yakınınız gerçek alma noktasını ve hedefi bilsin; alıcı servis kabulü ve iletişim kişisi ayrıca teyit edilsin."
+      }
+    ],
+    "scenario": {
+      "title": "Alma ilçesi ile teslim ilçesinin karışması",
+      "situation": "Altıntaş adlı yerdeki örnek otomobil için sahibi Urla’daki servis adresini yollar. Aracın Konak Altıntaş’ta mı Urla Altıntaş’ta mı olduğu belli değildir. Teslimin Urla olması alma yerinin Urla olduğu şeklinde yorumlanmaz.",
+      "assessment": "Gerçek araç pini, başlangıç ilçesi ve park girişi teyit edilir. Direksiyon, vites ve tekerlek durumu anlatılır; iki kamu yol alanı alternatif araç adresi sayılmaz. Altıntaş adının iki ilçede bulunması servis hedefinin ayrıca yazılmasını gerektirir. Konak veya Urla kaydı araç pininin yerine kullanılmaz; iki farklı kamu yol alanı alternatif buluşma adresi sayılmaz.",
+      "delivery": "Urla’daki seçilmiş servisin açık kabul noktası ayrı tutulur; gerekirse ilçeler arasındaki ayrım açık yazılır.",
+      "type": "illustrative_not_historical"
+    },
+    "sources": [
+      {
+        "title": "İzmir Büyükşehir Belediyesi — Muhtarlıklar açık veri",
+        "url": "https://acikveri.bizizmir.com/dataset/muhtarliklar"
+      }
+    ],
+    "limitations": [
+      "Mahalle ve yol alanı kamu muhtarlık kaydına dayanır. YOL, aracın veya işletmenin adresi değildir; güncel yol erişimini doğrulamaz.",
+      "Senaryo varsayımsaldır; yapılmış iş, geçmiş müşteri, şube, geliş süresi, fiyat veya ekipman garantisi içermez."
+    ]
+  },
+  "/bolgeler/menderes/atakoy/": {
+    "name": "Ataköy",
+    "status": "record_grounded_editorial",
+    "checked_on": "2026-10-11",
+    "facts": [
+      "Menderes ilçesi ATAKÖY muhtarlık kaydının YOL alanı: MUSTAFA KEMAL"
+    ],
+    "sections": [
+      {
+        "heading": "Ataköy kaydının yol alanını açıklama",
+        "paragraphs": [
+          "Menderes Ataköy kaydında MUSTAFA KEMAL yol alanı görünür. Bu sözcükler kayıt içindeki yol referansıdır; başka yerdeki aynı adlı mahalle veya kurumla otomatik eşleştirme yapılmamalıdır. Gerçek araç konumu talebe eklenmelidir.",
+          "Bir iş yerinin içinden talep veriyorsanız araç kapısı ve bekleme bölümü önemlidir. Aracın yükü veya sökülmüş parçası varsa açıklayın. Kamu referansı, iş yerinin giriş izni ya da araç erişimi hakkında bilgi sağlamaz."
+        ]
+      },
+      {
+        "heading": "Sökülmüş tekerleği mevcut durum olarak bildirin",
+        "paragraphs": [
+          "Ataköy’deki atölye otomobilinin tekerleği sökülmüşse hangi tekerleğin ve ilgili parçaların ayrıldığını ustadan teyit edin. İlk gelişteki yürür durum, şu anki taşıma koşulunu açıklamaz. Güncel araç fotoğrafı ve ayrı tutulan parçaların bilgisi yararlıdır. Tekerleği kendiniz takmaya çalışmanız gerekmez; vites ve direksiyonun mevcut durumu da paylaşılır. Taşıma yöntemi eksik parçaların gerçek durumuna göre değerlendirilmelidir."
+        ]
+      },
+      {
+        "heading": "Alıcı atölye eksik parçayı önceden bilmeli",
+        "paragraphs": [
+          "Yeni servis, otomobilin tekerleği sökülmüş halde geleceğini kabul planından önce öğrenmelidir. Ayrılan parçaların araçla birlikte gönderilip gönderilmeyeceği ve kime teslim edileceği konuşulur. Eski atölye anahtarı ve parçaları verecek kişiyi belirler; araç sahibi yeni servise işlem talebini açıklar. Taşıma, sökme işleminin doğruluğu hakkında karar vermez; önemli olan güncel durumun alıcıya eksiksiz aktarılmasıdır."
+        ]
+      }
+    ],
+    "questions": [
+      {
+        "q": "Sökülen tekerleği taşıma öncesinde kendim takmalı mıyım?",
+        "a": "Talep için böyle bir işlem yapmanız gerekmez. Mevcut ustanın doğruladığı parça durumu ve güncel fotoğraf paylaşılır; uygun yöntem bunlara göre değerlendirilir."
+      },
+      {
+        "q": "Yeni servis eksik tekerleği ne zaman öğrenmeli?",
+        "a": "Kabul noktası belirlenmeden önce. Ayrılan parçaların beraberinde gidip gitmeyeceği ve teslim alıcısı da konuşulmalı; aracın yürür olduğu varsayılmamalıdır."
+      }
+    ],
+    "scenario": {
+      "title": "Sökülmüş tekerlekli atölye otomobili",
+      "situation": "Ataköy’deki örnek atölyede otomobilin bir tekerleği sökülüdür ve başka servise taşıma istenir. Sahibi ilk mesajda yalnızca mahalleyi söyler. Kamu kaydı aracın mevcut işlem ve hareket durumunu göstermediğinden bu bilgi ayrıca verilir.",
+      "assessment": "Atölye kapısı, araç noktası ve hangi parçanın söküldüğü açıklanır. Vites ve direksiyon durumu konuşulur; taşıma yöntemi mahalle adından kesinleştirilmez. Sökülmüş parça bilgisi yalnızca atölye adından çıkarılamaz. Aracın mevcut hali açık anlatılır ve hedef servisle paylaşılır; yol alanındaki isim başka mahalle veya kurum adresine otomatik çevrilmez ya da genişletilmez.",
+      "delivery": "Yeni servisin kabul adresi ve aracı karşılayacak kişi belirlenir; MUSTAFA KEMAL referansı hedef olmaz.",
+      "type": "illustrative_not_historical"
+    },
+    "sources": [
+      {
+        "title": "İzmir Büyükşehir Belediyesi — Muhtarlıklar açık veri",
+        "url": "https://acikveri.bizizmir.com/dataset/muhtarliklar"
+      }
+    ],
+    "limitations": [
+      "Mahalle ve yol alanı kamu muhtarlık kaydına dayanır. YOL, aracın veya işletmenin adresi değildir; güncel yol erişimini doğrulamaz.",
+      "Senaryo varsayımsaldır; yapılmış iş, geçmiş müşteri, şube, geliş süresi, fiyat veya ekipman garantisi içermez."
+    ]
+  },
+  "/bolgeler/karabaglar/aydin-mahallesi/": {
+    "name": "Aydın Mahallesi",
+    "status": "record_grounded_editorial",
+    "checked_on": "2026-10-11",
+    "facts": [
+      "Karabağlar ilçesi AYDIN muhtarlık kaydının YOL alanı: 4275"
+    ],
+    "sections": [
+      {
+        "heading": "Aydın Mahallesi’ni il adıyla karıştırmama",
+        "paragraphs": [
+          "Bu sayfanın Aydın Mahallesi eşleşmesi Karabağlar ilçesi altında AYDIN ve 4275 yol alanıdır. Aydın sözcüğü burada başka bir ile taşıma talebi anlamına gelmez. Alma ilçesi ve mahalle açık yazılarak karışıklık azaltılır.",
+          "Araç Karabağlar’da bekliyor ama başka ile teslim isteniyorsa bunu ayrı belirtin. Kayıttaki numara aracın tam konumu değildir. Gerçek sokak, kapı veya park pinini ve hareket sorununu ayrıca paylaşın."
+        ]
+      },
+      {
+        "heading": "Yer adı netleşince belirtiyi ayrıca anlatın",
+        "paragraphs": [
+          "Karabağlar’daki Aydın Mahallesi için alma konumu doğrulandığında motorun verdiği tepkiyi, vites konumunu ve anahtar bilgisini paylaşın. Aydın iline gidilmesi istenmiyorsa talepte bunu bir yolculuk hedefi olarak kullanmayın. Araç belirtilerini arıza adı tahmin etmeden anlatmak gerekir. Güvenle çekilen genel park görüntüsü ve tekerleklerin yönü, mahalle bilgisiyle birlikte aracın bulunduğu noktadaki koşulları anlamaya yardımcı olur."
+        ]
+      },
+      {
+        "heading": "Teslim hedefini ayrıca seçin",
+        "paragraphs": [
+          "Servis adresini belirlerken Aydın Mahallesi adından şehirler arası bir hedef çıkarılmamalıdır. Seçtiğiniz işletmenin açık kabul noktasını iletin ve aracı karşılayacak kişiyi teyit edin. Anahtarı verecek kişi başka biri ise hedefi onunla da paylaşın. Motor ve hareketle ilgili son gözlemler alıcıya önceden ulaşmalıdır; hangi onarımın isteneceği araç sahibi ile servis arasında ayrıca konuşulacaktır."
+        ]
+      }
+    ],
+    "questions": [
+      {
+        "q": "Talebimde Aydın yazınca şehirler arası taşıma anlaşılır mı?",
+        "a": "Belirsizlik oluşabilir. Karabağlar Aydın Mahallesi alma noktası olduğunu açıkça yazın; başka bir ile teslim isteniyorsa onu ayrıca ve tam adresle belirtin."
+      },
+      {
+        "q": "İlçe düzeltmesi sonrası servis hedefi de değişir mi?",
+        "a": "Kendiliğinden değişmez. Kararlaştırılmış kabul adresini ayrı teyit edin; değişiklik istediğiniz noktanın alma yeri mi teslim hedefi mi olduğunu söyleyin."
+      }
+    ],
+    "scenario": {
+      "title": "Mahalle adının il hedefi sanılması",
+      "situation": "Karabağlar Aydın Mahallesi’ndeki örnekte sürücü Aydın çekici mesajı yazar. Otomobil Karabağlar’dadır ve başka ile teslim isteği yoktur. Mahalle adının il hedefi sanılmaması için başlangıç ilçesi ve gerçek pin paylaşılır.",
+      "assessment": "Aracın motor belirtisi ile tekerlek ve vites durumu konuşulur. 4275 kamu referansı doğru park noktasının yerine kullanılmaz; özel giriş varsa ayrıca gösterilir. Mahalle adını il hedefi gibi okuyan eski tarifin düzeltilmesi gerekir. Karabağlar alma noktası açık yazılır; il dışına teslim talebi varsa ayrıca belirtilir, yoksa böyle bir kapsam eklenmez.",
+      "delivery": "Seçilen servisin açık kabul adresi alınır; Aydın sözcüğünden il dışı taşıma isteği çıkarılmaz.",
+      "type": "illustrative_not_historical"
+    },
+    "sources": [
+      {
+        "title": "İzmir Büyükşehir Belediyesi — Muhtarlıklar açık veri",
+        "url": "https://acikveri.bizizmir.com/dataset/muhtarliklar"
+      }
+    ],
+    "limitations": [
+      "Mahalle ve yol alanı kamu muhtarlık kaydına dayanır. YOL, aracın veya işletmenin adresi değildir; güncel yol erişimini doğrulamaz.",
+      "Senaryo varsayımsaldır; yapılmış iş, geçmiş müşteri, şube, geliş süresi, fiyat veya ekipman garantisi içermez."
+    ]
+  },
+  "/bolgeler/balcova/bahcelerarasi/": {
+    "name": "Bahçelerarası",
+    "status": "record_grounded_editorial",
+    "checked_on": "2026-10-11",
+    "facts": [
+      "Balçova ilçesi BAHÇELERARASI muhtarlık kaydının YOL alanı: YILDIZ"
+    ],
+    "sections": [
+      {
+        "heading": "Bahçelerarası’nda Yıldız kayıt alanı",
+        "paragraphs": [
+          "Bahçelerarası, Balçova altında YILDIZ yol alanıyla kayıtlıdır. Yıldız ifadesi bu satırdaki yol referansıdır; başka bir mahalleye otomatik geçiş anlamına gelmez. Talepte Balçova–Bahçelerarası ve araç konumu birlikte yazılmalıdır.",
+          "Otoparkta bekleyen araç için yaya veya bina girişinden farklı araç kapısı olabilir. Giriş bilgisini gördüğünüz kadarıyla açıklayın. Muhtarlık yol alanı parkın katı, kapı yüksekliği veya aracın durumu hakkında veri sağlamaz."
+        ]
+      },
+      {
+        "heading": "Geçiş kapısı ve anahtarı ayrı hazırlayın",
+        "paragraphs": [
+          "Bahçelerarası’ndaki binanın yaya kapısı yerine araç girişini göstermek gerekir. Kapı kartı veya anahtarı gereken bir yer varsa bunu sağlayacak kişiyi belirleyin. Motorun çalışmaması park çevresindeki erişim engellerini açıklamaz; katı, geçişte görülen ölçüyü ve otomobilin çevresini ayrıca paylaşın. Görevlinin mevcut bilgisi yararlı olabilir. Bilinmeyen yükseklik veya kapı koşulunu tahmin etmek yerine doğrulanabilen bilgiyi iletin."
+        ]
+      },
+      {
+        "heading": "Servis parkındaki karşılamayı teyit edin",
+        "paragraphs": [
+          "Araç bina parkından alınacak ve başka bir park alanına bırakılacaksa alıcı adresinde kimin karşılayacağını konuşun. Motor belirtisini ve bilinen vites ya da direksiyon kısıtını servise önceden söyleyin. Anahtarın yeni alıcıya nasıl verileceği de net olmalıdır. Bina girişinin açılması ile teslim yerinin kabulü farklı konulardır; bir taraftaki görevli diğer noktanın hazırlığını kendiliğinden garanti etmez."
+        ]
+      }
+    ],
+    "questions": [
+      {
+        "q": "Kapı kartını komşum verecekse bunu belirtmeli miyim?",
+        "a": "Evet; giriş erişimini sağlayacak kişi ile anahtarı teslim edecek kişi farklı olabilir. Hangi görevde olduğunu ve araç bölümünü bildiğini netleştirin."
+      },
+      {
+        "q": "Teslim yeri de park alanıysa hangi bilgi eklenmeli?",
+        "a": "Alıcı ve kullanılacak kabul noktası belirlenmeli. Aracın motor ve hareket kısıtı önceden iletilerek teslimden sonra nasıl karşılanacağı alıcıyla konuşulmalıdır."
+      }
+    ],
+    "scenario": {
+      "title": "Yaya kapısına ait pin gönderilmesi",
+      "situation": "Bahçelerarası’ndaki örnek bina parkında otomobil çalışmaz. Sürücü binanın yaya girişini gösteren pini yollar; aracın erişimi başka bir kapıdır. Mahalle eşleşmesi doğru olsa da araç kapısı ve park noktası ayrıca paylaşılır.",
+      "assessment": "Kat ve görünen giriş sınırı açıklanır. Direksiyon, vites ve tekerlek durumu konuşulur; YILDIZ kamu referansı kapı erişiminin uygun olduğunu doğrulamaz. Bina girişiyle park kapısı arasında fark varsa harita bağlantıları hangi noktayı gösterdiği yazılarak gönderilir. Yıldız sözcüğü yeni bir mahalle hedefi veya doğrudan çekici noktası üretmek için kullanılmaz.",
+      "delivery": "Servis hedefi açık kabul adresiyle belirlenir; bina işareti servis teslim noktası gibi kullanılmaz.",
+      "type": "illustrative_not_historical"
+    },
+    "sources": [
+      {
+        "title": "İzmir Büyükşehir Belediyesi — Muhtarlıklar açık veri",
+        "url": "https://acikveri.bizizmir.com/dataset/muhtarliklar"
+      }
+    ],
+    "limitations": [
+      "Mahalle ve yol alanı kamu muhtarlık kaydına dayanır. YOL, aracın veya işletmenin adresi değildir; güncel yol erişimini doğrulamaz.",
+      "Senaryo varsayımsaldır; yapılmış iş, geçmiş müşteri, şube, geliş süresi, fiyat veya ekipman garantisi içermez."
+    ]
+  },
+  "/bolgeler/noktalar/bahcelievler/": {
+    "name": "Bahçelievler",
+    "status": "record_grounded_editorial",
+    "checked_on": "2026-10-11",
+    "facts": [
+      "Karşıyaka ilçesi BAHÇELİEVLER muhtarlık kaydının YOL alanı: CEVDET BİLSAY",
+      "Karabağlar ilçesi BAHÇELİEVLER muhtarlık kaydının YOL alanı: 490",
+      "Torbalı ilçesi BAHÇELİEVLER muhtarlık kaydının YOL alanı: 9104"
+    ],
+    "sections": [
+      {
+        "heading": "Bahçelievler için üç ilçe seçeneği",
+        "paragraphs": [
+          "Bahçelievler, veri içinde Karşıyaka’da CEVDET BİLSAY, Karabağlar’da 490 ve Torbalı’da 9104 yol alanıyla görünür. Aynı mahalle adı üç farklı ilçe kaydıdır. İlçe bilgisi olmadan tek bir alma noktası seçilmemelidir.",
+          "Numaralı veya isimli kamu referanslarının hiçbiri aracın gerçek park adresini otomatik belirlemez. İlçenizi, park noktasını ve teslim hedefini ayrı paylaşın. Servis başka ilçedeyse hedef ilçeden başlangıç yeri çıkarılamaz."
+        ]
+      },
+      {
+        "heading": "Konum çözülünce belirtiye dönün",
+        "paragraphs": [
+          "Bahçelievler adının hangi ilçedeki otomobili tarif ettiği netleşmeden servis konumunu alma yeri olarak kullanmayın. Konum ayrımı tamamlandığında motorun son tepkisi, vites ve anahtar bilgisi hazırlanır. Birden fazla kişi talep üzerinde konuşuyorsa güncel pinin hangisi olduğunu belirleyin. Yer adı anlaşmazlığı teknik bilgiyi geciktirebilir; bu nedenle doğru adresle birlikte görülen belirtinin kısa bir özeti de paylaşılmalıdır."
+        ]
+      },
+      {
+        "heading": "Karşıyaka hedefi ayrı bir kabul kararıdır",
+        "paragraphs": [
+          "Seçilen servis Karşıyaka’daysa açık teslim adresi ve karşılayıcı bilgisi ayrıca teyit edilir. Bu tercih otomobilin Karşıyaka Bahçelievler’de bulunduğu anlamına gelmez. Servis, aracın motor tepkisini ve hareketi etkileyen bilinen durumları önceden öğrenmelidir. Araç sahibi parkta beklemeyecekse anahtarı verecek yetkili ile kabul edecek alıcının aynı hedef üzerinde anlaşması sağlanır; farklı öneriler açık karar olmadan talimata dönüşmez."
+        ]
+      }
+    ],
+    "questions": [
+      {
+        "q": "Karşıyaka’daki servis seçimi hangi Bahçelievler’de olduğumu gösterir mi?",
+        "a": "Göstermez; alma ilçesini gerçek araç konumuyla ayrıca belirtin. Servis hedefini teslim olarak etiketleyin ve aracı kabul edecek kişinin bilgilerini teyit edin."
+      },
+      {
+        "q": "Konum konusunda birkaç kişi mesaj atıyorsa ne yapmalıyız?",
+        "a": "Geçerli araç pinini ve yetkili iletişim kişisini belirleyin. Eski noktalarla yeni hedef karışmasın; motor belirtisini de tek, güncel bir tarif olarak iletin."
+      }
+    ],
+    "scenario": {
+      "title": "Üç ilçeli isimde servis hedefi karışıklığı",
+      "situation": "Bahçelievler adlı mahalleden örnek bir talepte sahibi Karşıyaka’daki servis adresini yollar. Otomobilin hangi Bahçelievler’de beklediği bilinmez. Servis konumundan başlangıç ilçesi tahmin edilmeden araç pini ve ilçe sorulur.",
+      "assessment": "Doğru kamu kaydı araç konumuyla ilişkilendirilir. Motor, vites ve tekerlek durumu ile park girişi anlatılır; üç referans alternatif buluşma noktası gibi kullanılmaz. Üç kamu kaydı içinde en bilinen adresi seçmek gerçek araç teyidi değildir. Sürücünün başlangıç ilçesi açık sorulur; hedef servis konumu ayrı tutulur ve bu ayrım talep boyunca korunur.",
+      "delivery": "Karşıyaka’daki seçilmiş servisin açık kabul adresi ayrı tutulur; alma konumuyla aynı kabul edilmez.",
+      "type": "illustrative_not_historical"
+    },
+    "sources": [
+      {
+        "title": "İzmir Büyükşehir Belediyesi — Muhtarlıklar açık veri",
+        "url": "https://acikveri.bizizmir.com/dataset/muhtarliklar"
+      }
+    ],
+    "limitations": [
+      "Mahalle ve yol alanı kamu muhtarlık kaydına dayanır. YOL, aracın veya işletmenin adresi değildir; güncel yol erişimini doğrulamaz.",
+      "Senaryo varsayımsaldır; yapılmış iş, geçmiş müşteri, şube, geliş süresi, fiyat veya ekipman garantisi içermez."
+    ]
+  },
+  "/bolgeler/urla/balikli-ova/": {
+    "name": "Balıklı Ova",
+    "status": "record_grounded_editorial",
+    "checked_on": "2026-10-11",
+    "facts": [
+      "Urla ilçesi BALIKLIOVA muhtarlık kaydının YOL alanı: BALIKLIOVA"
+    ],
+    "sections": [
+      {
+        "heading": "Balıklı Ova yazımını Balıklıova kaydıyla birleştirme",
+        "paragraphs": [
+          "Sayfanın Balıklı Ova adı, İBB verisinde Urla altında BALIKLIOVA olarak eşleşir; yol alanında da BALIKLIOVA yazılıdır. Boşluklu ve birleşik yazımın kendisi iki ayrı yer anlamına gelmez. Gerçek araç pinini yine paylaşın.",
+          "Aynı adın mahalle ve yol alanında bulunması sokak veya kapı ayrıntısını ortadan kaldırmaz. Aracın özel alanda mı yol üzerinde mi beklediğini yazın. Seçtiğiniz servis teslim adresini bu yerleşim tarifinden ayrı iletin."
+        ]
+      },
+      {
+        "heading": "Tek güncel alma noktasını seçin",
+        "paragraphs": [
+          "Balıklıova adının birleşik veya ayrı yazılmasıyla farklı pinler gönderildiyse otomobilin yanında alınan konumu esas alın. Özel parkta motor çalışmıyorsa son tepkiyi ve anahtarın durumunu ayrıca anlatın. Tekerlek yönü, aracın bütününü gösteren fotoğraf ve giriş çevresinin gerçek görünümü yararlıdır. Yazımın düzeltilmesi tek başına hareket koşullarını açıklamaz; araç bulunduğu noktada değerlendirilirken adres ve teknik bilgiler birlikte hazırlanır."
+        ]
+      },
+      {
+        "heading": "Servis seçimini alma noktasından bağımsız tamamlayın",
+        "paragraphs": [
+          "Servisiniz Urla’da veya başka bir ilçede olabilir. Açık kabul adresini ayrıca iletin ve aracı karşılayacak kişiyi belirleyin. Özel alan kapısını açacak kişi, servisle bakım görüşmesini yapacak kişi olmayabilir; görevler baştan netleşmelidir. Motor belirtisi ve varsa hareket kısıtı alıcıya önceden aktarılır. Teslim sonrasındaki inceleme talebini araç sahibi açıklamalı; yalnızca mahalle adının doğru yazılmış olması bu kararların yerine geçmez."
+        ]
+      }
+    ],
+    "questions": [
+      {
+        "q": "İki farklı Balıklıova pini gönderdiysem hangisi kullanılmalı?",
+        "a": "Aracın güncel noktasını açıkça seçip diğer pinin alma adresi olmadığını belirtin. Araç yanından konum ve genel park fotoğrafı paylaşmak belirsizliği azaltır."
+      },
+      {
+        "q": "Servis Urla dışında olursa hangi bilgi değişir?",
+        "a": "Teslim hedefinin açık adresi ve alıcısı ayrıca güncellenir. Balıklıova’daki gerçek alma konumu sabit kalabilir; servis kabulü yeni hedef için teyit edilmelidir."
+      }
+    ],
+    "scenario": {
+      "title": "Birleşik yazım nedeniyle iki pin seçilmesi",
+      "situation": "Balıklıova’daki örnekte sürücü boşluklu ve birleşik yer adlarını farklı adres sanıp iki konum gönderir. Otomobil yalnızca bir özel park alanında çalışmıyor durumdadır. Doğru araç pini açıkça işaretlenerek talep sadeleştirilir.",
+      "assessment": "Kullanılacak kapı, mevcut zemin ve motor–vites–tekerlek bilgisi açıklanır. Yazım farkından farklı araç alma noktası veya yol koşulu çıkarılmaz. Boşluklu ve birleşik yazım nedeniyle gönderilen iki pinin hangisinin araç noktası olduğu açıklanır. Yerleşim adı düzeltmesi, özel park girişinin açık olduğu ya da her çekicinin girebileceği anlamına gelmez.",
+      "delivery": "Urla’daki veya başka ilçedeki seçilen servis açık kabul adresiyle ayrı yazılır.",
+      "type": "illustrative_not_historical"
+    },
+    "sources": [
+      {
+        "title": "İzmir Büyükşehir Belediyesi — Muhtarlıklar açık veri",
+        "url": "https://acikveri.bizizmir.com/dataset/muhtarliklar"
+      }
+    ],
+    "limitations": [
+      "Mahalle ve yol alanı kamu muhtarlık kaydına dayanır. YOL, aracın veya işletmenin adresi değildir; güncel yol erişimini doğrulamaz.",
+      "Senaryo varsayımsaldır; yapılmış iş, geçmiş müşteri, şube, geliş süresi, fiyat veya ekipman garantisi içermez."
+    ]
+  },
+  "/bolgeler/noktalar/barbaros-mahallesi/": {
+    "name": "Barbaros Mahallesi",
+    "status": "record_grounded_editorial",
+    "checked_on": "2026-10-11",
+    "facts": [
+      "Konak ilçesi BARBAROS muhtarlık kaydının YOL alanı: 339",
+      "Bornova ilçesi BARBAROS muhtarlık kaydının YOL alanı: 5301/1",
+      "Urla ilçesi BARBAROS muhtarlık kaydının YOL alanı: BARBAROS KÖY",
+      "Konak ilçesi BARBAROS muhtarlık kaydının YOL alanı: 331"
+    ],
+    "sections": [
+      {
+        "heading": "Barbaros için ilçe ve kayıt farkları",
+        "paragraphs": [
+          "Barbaros adı Konak, Bornova ve Urla kayıtlarında bulunur. Konak için 339 ve 331, Bornova için 5301/1, Urla için BARBAROS KÖY yol alanları görünür. Aynı ilçe içindeki farklı satırlar bile araç konumunun ayrıca teyit edilmesini gerektirir.",
+          "KÖY sözcüğü Urla kaydında yol alanına aittir; başka satırdaki aracın zeminini açıklamaz. İlçe ve gerçek pin paylaşılmadan tek mahalle hedefi oluşturulamaz. Alma ilçesiyle seçilen servis ilçesini ayrı belirtin."
+        ]
+      },
+      {
+        "heading": "İlçe kararından sonra hareketi değerlendirin",
+        "paragraphs": [
+          "Barbaros Mahallesi talebinde Konak, Bornova veya Urla ayrımı gerçek araç konumuyla yapılmalıdır. Konum hazır olduğunda otomobilin çalışıp çalışmadığını, vites konumunu ve tekerleklerin yönünü paylaşın. Herhangi bir ilçeye ait kamu noktası aracın bulunduğunu kanıtlamaz. Yakınınız bilgi veriyorsa yerindeki son gözlemi alın; isim benzerliği çözülse bile park girişinin erişimi ve aracın hareket durumu ayrıca konuşulmalıdır."
+        ]
+      },
+      {
+        "heading": "Alıcıyı yerleşim adından çıkarmayın",
+        "paragraphs": [
+          "Servis hedefi, aracın bulunduğu ilçeden veya Barbaros adından kendiliğinden belirlenmez. Seçtiğiniz kabul adresini ve karşılayacak kişiyi iletin. Anahtarı verecek yetkili, kararlaştırılan servis hedefini bilmelidir. Alıcıya motor veya hareket belirtisini önceden anlatın; teslimden sonra aracın kendi gücüyle kullanılabileceğini varsaymayın. Onarım talebinin kapsamı araç sahibinin servisle görüşmesinde netleşir; taşıma talebinde bulunan yer adı bu kararın yerine geçmez."
+        ]
+      }
+    ],
+    "questions": [
+      {
+        "q": "Urla’daki bir Barbaros pini göndermek ilçe seçimimi doğrular mı?",
+        "a": "Yalnızca otomobil gerçekten o noktadaysa. Konak veya Bornova ihtimali açıkken genel bir kamu konumu kullanmayın; araç yanından alınan güncel konumu paylaşın."
+      },
+      {
+        "q": "Hangi servise gidileceği Barbaros’un ilçesine göre belirlenir mi?",
+        "a": "Servis hedefi sahibinin seçimi ve alıcının kabulüne göre belirlenir. Alma adresiyle ayrı yazılmalı; hareket kısıtı ve karşılayıcı bilgisi önceden teyit edilmelidir."
+      }
+    ],
+    "scenario": {
+      "title": "Birden fazla Barbaros kaydı",
+      "situation": "Barbaros adlı yerden gelen örnek talepte sürücü Urla’daki kamu referansını seçer; otomobilin Urla’da olduğu henüz doğrulanmamıştır. Konak ve Bornova seçenekleri de bulunduğundan gerçek ilçe ve park konumu ayrı teyit edilir.",
+      "assessment": "Doğru pin, giriş ve araç hareket sorunu paylaşılır. Kayıttaki KÖY sözcüğünden toprak yol veya kurtarma gereksinimi çıkarılmaz; mevcut koşul gözleme dayanır. Konak içindeki iki yol referansı dahi otomobilin kesin adresini oluşturmaz. Doğru ilçe ve park teyidi olmadan Urla kaydı üzerinden zemin veya Bornova kaydı üzerinden araç tipi tahmini yapılmaz.",
+      "delivery": "Hedef servisin açık adresi belirlenir. İlçe seçimi yalnızca bilinen servis adı veya kayıt kelimesinden yapılmaz.",
+      "type": "illustrative_not_historical"
+    },
+    "sources": [
+      {
+        "title": "İzmir Büyükşehir Belediyesi — Muhtarlıklar açık veri",
+        "url": "https://acikveri.bizizmir.com/dataset/muhtarliklar"
+      }
+    ],
+    "limitations": [
+      "Mahalle ve yol alanı kamu muhtarlık kaydına dayanır. YOL, aracın veya işletmenin adresi değildir; güncel yol erişimini doğrulamaz.",
+      "Senaryo varsayımsaldır; yapılmış iş, geçmiş müşteri, şube, geliş süresi, fiyat veya ekipman garantisi içermez."
+    ]
+  },
+  "/bolgeler/karabaglar/basin-sitesi/": {
+    "name": "Basın Sitesi",
+    "status": "record_grounded_editorial",
+    "checked_on": "2026-10-11",
+    "facts": [
+      "Karabağlar ilçesi BASIN SİTESİ muhtarlık kaydının YOL alanı: 159"
+    ],
+    "sections": [
+      {
+        "heading": "Basın Sitesi adını mahalle olarak kullanma",
+        "paragraphs": [
+          "İBB verisinde BASIN SİTESİ, Karabağlar ilçesine ait mahalle kaydıdır; YOL alanı 159’dur. Adında site bulunması tek bir bina ya da tek kapılı konut yerleşkesi olduğu anlamına gelmez. Talep gerçek adresle tamamlanmalıdır.",
+          "Araç belirli binanın parkındaysa o binanın adı ve araç girişi ayrıca yazılır. Mahalle adını otomatik kapı konumu saymayın. Motor, direksiyon ve tekerlek durumu konuşularak servis hedefi açık adresle belirlenmelidir."
+        ]
+      },
+      {
+        "heading": "Mahalle adı tek bir giriş oluşturmaz",
+        "paragraphs": [
+          "Basın Sitesi’nde araç bir binanın parkındaysa o binanın araç kapısını ve park bölümünü tarif edin. Mahalle adındaki site sözcüğü ortak bir güvenlik kapısı bulunduğu anlamına gelmez. Kat ve geçiş bilgileri yalnızca aracın gerçek alanına göre paylaşılmalıdır. Motorun son tepkisini, anahtara erişimi ve tekerlek yönünü de hazırlayın. Bir bina görevlisi varsa doğruladığı erişim bilgisi yararlı olabilir; başka binaların koşulları esas alınmaz."
+        ]
+      },
+      {
+        "heading": "Bina görevlisi ve servis alıcısının rolü farklıdır",
+        "paragraphs": [
+          "Taşıma kararı verilirse görevli park erişimini sağlayabilir; anahtarı teslim etmek için yetkili kişi ayrıca belirlenir. Servis, çalışmayan aracın açık kabul adresini ve karşılayıcısını teyit etmelidir. Araç sahibi yanında bulunmayacaksa inceleme talebini doğrudan alıcıya iletsin. Aracın park alanından alınması bakımın kapsamını belirlemez; işlem onayı ve size ait eşyaların yönetimi servis görüşmesinde ayrıca düzenlenmelidir."
+        ]
+      }
+    ],
+    "questions": [
+      {
+        "q": "Basın Sitesi yazmam ortak kapıya yönlendirmek için yeterli mi?",
+        "a": "Mahalle adı tek bir tesis girişi göstermez. Aracın bulunduğu bina, araç kapısı ve park bölümünü ayrıca paylaşın; varsa görevlinin doğruladığı erişim bilgisini ekleyin."
+      },
+      {
+        "q": "Bina görevlisi anahtarı da verecekse hangi bilgi gerekli?",
+        "a": "Araç sahibinin yetkilendirdiği kişi olduğu ve kararlaştırılan hedefi bildiği netleşmeli. Servis kabulü ile yapılmasını istediğiniz inceleme ayrıca alıcıyla konuşulmalıdır."
+      }
+    ],
+    "scenario": {
+      "title": "Mahalle adının site kapısı sanılması",
+      "situation": "Basın Sitesi’ndeki örnekte sürücü mahalle adını yazıp araç kapısının da bundan anlaşılacağını düşünür. Otomobil belirli bir binanın parkında çalışmaz. Mahalle adı ile bina ve araç kapısı üç ayrı bilgi olarak paylaşılır.",
+      "assessment": "Gerçek park pini, kat ve giriş sınırı açıklanır. Marş ve hareket durumu konuşulur; adındaki site sözcüğünden kapalı otopark veya ortak kapı varsayılmaz. Site sözcüğü yalnızca mahalle adının bir parçası olarak değerlendirilir. Gerçekte kapalı park varsa kat ve kapı ayrıca açıklanır; bina özelliği görülmeden tek ortak giriş varmış gibi varsayılmaz.",
+      "delivery": "Seçilen servisin açık kabul adresi alınır; mahalle kamu referansı teslim noktası yerine kullanılmaz.",
+      "type": "illustrative_not_historical"
+    },
+    "sources": [
+      {
+        "title": "İzmir Büyükşehir Belediyesi — Muhtarlıklar açık veri",
+        "url": "https://acikveri.bizizmir.com/dataset/muhtarliklar"
+      }
+    ],
+    "limitations": [
+      "Mahalle ve yol alanı kamu muhtarlık kaydına dayanır. YOL, aracın veya işletmenin adresi değildir; güncel yol erişimini doğrulamaz.",
+      "Senaryo varsayımsaldır; yapılmış iş, geçmiş müşteri, şube, geliş süresi, fiyat veya ekipman garantisi içermez."
+    ]
+  },
+  "/bolgeler/selcuk/belevi/": {
+    "name": "Belevi",
+    "status": "record_grounded_editorial",
+    "checked_on": "2026-10-11",
+    "facts": [
+      "Selçuk ilçesi BELEVİ muhtarlık kaydının YOL alanı: BELEVİ CUMHURİYET"
+    ],
+    "sections": [
+      {
+        "heading": "Belevi kaydında Selçuk bilgisini koruma",
+        "paragraphs": [
+          "Belevi, Selçuk altında BELEVİ CUMHURİYET yol alanıyla görünür. Yol adının içinde yerleşim adı bulunması aracın tam bekleme noktası olduğu anlamına gelmez. Talepte Selçuk–Belevi ve gerçek araç pinini birlikte paylaşın.",
+          "Yol üzerindeki bir araçla özel parkta bekleyen aracı ayrı tarif edin. Seyahat ettiğiniz hedef yer, arızanın gerçekleştiği yer olmayabilir. Servis kabul adresini ve araç hareket sorununu genel yol tarifinden ayrı yazın."
+        ]
+      },
+      {
+        "heading": "Gezi hedefi ile araç ihtiyacını ayırın",
+        "paragraphs": [
+          "Belevi’de lastik sorunu yüzünden park eden bir otomobil için gezilecek yerin pini yerine gerçek park konumu kullanılmalıdır. Hasarlı lastiği, otomobilin bütününü ve güvenli çevre görüntüsünü paylaşın. Yolculuğa devam etme isteği hasarlı tekerleğin yürütülebileceğini göstermez. Yedek lastiğin bulunup bulunmadığını ve bildiğiniz durumunu söyleyin; hangi işlemin uygun olduğu görülmeyen arıza veya jant koşulu varsayılmadan değerlendirilir."
+        ]
+      },
+      {
+        "heading": "Teslim hedefini seyahat planından bağımsız seçin",
+        "paragraphs": [
+          "Taşıma gerekiyorsa aracın gideceği işletmenin lastik sorununu değerlendirebildiğini ve açık kabul noktasını teyit edin. Gezi programını sürdürmek istemeniz bir geliş veya onarım süresi oluşturmaz. Aracı karşılayacak kişiyi belirleyip gerekli eşyalarınızı alabilirsiniz. Yeni lastik bulunacağı veya hemen işlem yapılacağı alıcı işletmeyle konuşulmalıdır; çekici talebi tek başına otomobilin ne zaman yeniden kullanılacağını belirlemez."
+        ]
+      }
+    ],
+    "questions": [
+      {
+        "q": "Gezi yerine yakınlaşmak için hasarlı lastikle kısa mesafe gitmeli miyim?",
+        "a": "Talep için böyle bir hareket gerekmez. Mevcut park konumunu ve lastik durumunu paylaşın; yolculuk hedefini araç alma adresinden ayrı tutun."
+      },
+      {
+        "q": "Gezi programına yetişmek için onarım süresi verilebilir mi?",
+        "a": "Taşıma talebi onarım süresini belirlemez. Servisin kabulü, gerekli inceleme ve lastik imkânı alıcı işletmeyle konuşulmalı; programınız üzerinden süre varsayılmamalıdır."
+      }
+    ],
+    "scenario": {
+      "title": "Gezi hedefi yerine gerçek park noktası",
+      "situation": "Belevi’deki örnekte sürücü başka yerleşime gitmeyi planladığı için o hedefin konumunu gönderir. Otomobil Belevi’deki parkta ve lastik hasarlıdır. Hedef ile alma noktası ayrılarak gerçek pin yeniden paylaşılır.",
+      "assessment": "Hasar fotoğrafı, bilinen yedek lastik ve araç giriş koşulu açıklanır. Yer adı veya seyahat planından yerinde çözüm garantisi çıkarılmaz; mevcut ihtiyaç konuşulur. Seyahat planındaki hedef otomobilin şu anki yeri olarak kullanılmaz. Belevi pini başlangıç olarak teyit edilir; servis kabulü, lastik hasarı fotoğrafı veya yolculuk yönünden kendiliğinden belirlenmiş sayılmaz.",
+      "delivery": "Taşıma gerekirse açık servis kabul adresi belirlenir; gezi hedefi otomatik servis hedefi sayılmaz.",
+      "type": "illustrative_not_historical"
+    },
+    "sources": [
+      {
+        "title": "İzmir Büyükşehir Belediyesi — Muhtarlıklar açık veri",
+        "url": "https://acikveri.bizizmir.com/dataset/muhtarliklar"
+      }
+    ],
+    "limitations": [
+      "Mahalle ve yol alanı kamu muhtarlık kaydına dayanır. YOL, aracın veya işletmenin adresi değildir; güncel yol erişimini doğrulamaz.",
+      "Senaryo varsayımsaldır; yapılmış iş, geçmiş müşteri, şube, geliş süresi, fiyat veya ekipman garantisi içermez."
+    ]
+  },
+  "/bolgeler/gaziemir/beyazevler/": {
+    "name": "Beyazevler",
+    "status": "record_grounded_editorial",
+    "checked_on": "2026-10-11",
+    "facts": [
+      "Gaziemir ilçesi BEYAZEVLER muhtarlık kaydının YOL alanı: 514"
+    ],
+    "sections": [
+      {
+        "heading": "Beyazevler’in kamu numarası ve park noktası",
+        "paragraphs": [
+          "Beyazevler, Gaziemir altında 514 yol alanıyla kayıtlıdır. İlçede havalimanı bulunması bu mahalledeki her aracın havalimanında beklediği anlamına gelmez. Talep gerçek mahalle, sokak ve araç konumuna dayanmalıdır.",
+          "Uçuş planınız olsa bile araç başka bina parkındaysa bunu açık yazın. Otopark kapısı ve kat bilgisi gerektiğinde paylaşılır. Havalimanının genel işareti veya 514 kamu referansı gerçek alma pininin yerine geçmez."
+        ]
+      },
+      {
+        "heading": "Ayrılış programı araç konumunu değiştirmez",
+        "paragraphs": [
+          "Beyazevler’de bina parkındaki otomobil çalışmıyorsa uçuş bilginiz yerine önce gerçek araç konumunu paylaşın. Uçağa gidecek olmanız havalimanından araç alınacağı anlamına gelmez. Motorun son tepkisini, vites durumunu ve park erişimini anlatın. Siz ayrılacaksanız anahtarı verecek kişinin araç bölümünü bildiğini doğrulayın. Uçuş saati talebin nedenini açıklayabilir; buna dayanarak çekici geliş saati veya işlemin yetişeceği garantisi verilmez."
+        ]
+      },
+      {
+        "heading": "Yerinizde kalacak yetkili ile alıcıyı eşleştirin",
+        "paragraphs": [
+          "Yolculuğa devam ederken aracın teslimini bir yakınınıza bırakacaksanız servis hedefini ona açıkça iletin. Alıcı işletme otomobilin kim adına geldiğini ve inceleme isteğini bilmelidir. Anahtarın kimden alınacağı, kime bırakılacağı ve size hangi kanaldan bilgi verileceği konuşulur. Bina görevlisinin girişe yardımcı olması araç teslim yetkisi oluşturmaz; bu rolü sahibinin açıkça belirlediği kişi üstlenmelidir."
+        ]
+      }
+    ],
+    "questions": [
+      {
+        "q": "Uçuşum varsa çekici için havaalanı konumu göndermeli miyim?",
+        "a": "Aracınız bina parkındaysa onun gerçek noktasını gönderin. Uçuş bilgisi ayrı bir planlama bilgisi olabilir; alma adresi ve geliş zamanı onun üzerinden varsayılmaz."
+      },
+      {
+        "q": "Yolculuğa çıkarken araç teslimini yakınınıza bırakabilir miyim?",
+        "a": "Yetkili kişiyi, anahtarı ve kararlaştırılmış servis hedefini açıkça belirleyin. Alıcı işletmeyle kabulü teyit edin; giriş görevlisiyle teslim yetkilisini karıştırmayın."
+      }
+    ],
+    "scenario": {
+      "title": "Uçuş programıyla havalimanı adresi varsayımı",
+      "situation": "Beyazevler’deki örnekte araç sahibi uçuşa yetişmek istediğini söyler. Otomobil havalimanında değil, mahalledeki bina parkında çalışmıyor durumdadır. Örnekte uçuş bilgisiyle gerçek araç adresi karıştırılmaz; bina kapısı ayrıca paylaşılır.",
+      "assessment": "Park katı, giriş ve motor–vites–tekerlek durumu açıklanır. Uçuş programı belirli bir geliş süresi veya havalimanı alma noktası olarak kabul edilmez. Uçuş bilgisi iletişim kuracak kişinin ayrılma planını açıklayabilir, fakat aracı havalimanına taşıma isteği anlamına gelmez. Gerçek bina parkı başlangıç olarak kalır; her hedef değişikliği ayrıca konuşularak belirtilir.",
+      "delivery": "Seçilen servisin açık kabul adresi alınır. Araç yanında kalacak kişinin iletişimi gerekiyorsa ayrıca netleştirilir.",
+      "type": "illustrative_not_historical"
+    },
+    "sources": [
+      {
+        "title": "İzmir Büyükşehir Belediyesi — Muhtarlıklar açık veri",
+        "url": "https://acikveri.bizizmir.com/dataset/muhtarliklar"
+      }
+    ],
+    "limitations": [
+      "Mahalle ve yol alanı kamu muhtarlık kaydına dayanır. YOL, aracın veya işletmenin adresi değildir; güncel yol erişimini doğrulamaz.",
+      "Senaryo varsayımsaldır; yapılmış iş, geçmiş müşteri, şube, geliş süresi, fiyat veya ekipman garantisi içermez."
+    ]
+  },
+  "/bolgeler/karabaglar/bozyaka/": {
+    "name": "Bozyaka",
+    "status": "record_grounded_editorial",
+    "checked_on": "2026-10-11",
+    "facts": [
+      "Karabağlar ilçesi BOZYAKA muhtarlık kaydının YOL alanı: 3112"
+    ],
+    "sections": [
+      {
+        "heading": "Bozyaka kaydını Karabağlar adresiyle birleştirme",
+        "paragraphs": [
+          "Bozyaka, Karabağlar ilçesindeki muhtarlık kaydında 3112 yol alanıyla bulunur. Bilinen bir semt veya kurum adını kullanmak araç sokak konumunu göstermeye yetmez. İlçe, mahalle ve gerçek bekleme noktasını birlikte iletin.",
+          "Bir iş yerindeki araçta mevcut işlem durumunu açıklayın. Sökülmüş parça veya hareket etmeyen tekerlek bilgisi motor arızasından ayrı önem taşır. Kamu kayıt numarası, atölyenin araç kapısı veya yeni servisin hedef adresi değildir."
+        ]
+      },
+      {
+        "heading": "Atölyedeki son durumu öğrenin",
+        "paragraphs": [
+          "Bozyaka’daki otomobil onarım sırasında değişmişse taşıma talebine ilk arıza anındaki bilgiyi yazmak yeterli değildir. Mevcut ustadan tekerlek, direksiyon ve vites durumunu; sökülmüş parça varsa hangileri olduğunu öğrenin. Güncel görüntüyle doğrulanabilen bilgiyi paylaşın. Aracın daha önce yürümüş olması şu an hareket edebileceğini kanıtlamaz. Bilinmeyen parçaları tahmin etmek yerine eksik bilgiyi açıkça belirterek değerlendirme hazırlayın."
+        ]
+      },
+      {
+        "heading": "Yeni servise eksik durum bilgisi bırakmayın",
+        "paragraphs": [
+          "Kabul eden işletme aracın sökülmüş veya hareketi sınırlanmış halde geleceğini önceden bilmelidir. Ayrı parça paketlerinin gönderilip gönderilmeyeceği ve anahtarı teslim alacak kişi konuşulur. Araç sahibi yeni servise onarım talebini açıklar; mevcut atölye ise güncel durumu aktarabilir. Taşıma önceki işlemin sonucunu değerlendirmez. Alıcı açıkça kabul ettiğinde servis değişimi, aracın mevcut haline dair bilgiyle birlikte gerçekleştirilir."
+        ]
+      }
+    ],
+    "questions": [
+      {
+        "q": "Aracım atölyeye yürüyerek gelmişti; bunu söylemem yeterli mi?",
+        "a": "Şu anki durumu ayrıca öğrenin. Sökülen parça veya değişen tekerlek, direksiyon ve vites koşulu taşıma değerlendirmesini etkileyebilir; güncel bilgi esas alınır."
+      },
+      {
+        "q": "Atölye değişiminde parça paketleri neden ayrıca belirtilir?",
+        "a": "Araçtan ayrılan parçaların alıcısı ve gönderim kararı açık olmalıdır. Yeni servis aracın mevcut halini ve beraberinde gelen parçaları önceden bilerek kabulü hazırlayabilir."
+      }
+    ],
+    "scenario": {
+      "title": "Atölyede hareket koşulu değişmiş otomobil",
+      "situation": "Bozyaka’daki örnek atölyede otomobil işlem sonrası başka servise taşınacaktır. Araç üzerindeki bir parçanın sökülmüş olduğu ilk mesajda belirtilmemiştir. Örnekte gerçek atölye kapısı kadar mevcut hareket koşulu da talebe eklenir.",
+      "assessment": "Hangi parçanın söküldüğü ve tekerlek–direksiyon–vites durumu paylaşılır. Atölye giriş koşulu konuşulur; 3112 kamu referansından araç özellikleri ya da kapı uygunluğu çıkarılmaz. Atölye işlemi nedeniyle değişen hareket koşulu yeni servise açıkça aktarılır. Aynı mahalledeki başka araç için kullanılan yöntem bu örnekte doğru kabul edilmez; mevcut otomobilin özellikleri ayrı değerlendirilir ve açıklanır.",
+      "delivery": "Yeni servisin açık kabul adresi ve karşılayacak kişi belirlenir; önceki atölye alma yeri olarak tutulur.",
+      "type": "illustrative_not_historical"
+    },
+    "sources": [
+      {
+        "title": "İzmir Büyükşehir Belediyesi — Muhtarlıklar açık veri",
+        "url": "https://acikveri.bizizmir.com/dataset/muhtarliklar"
+      }
+    ],
+    "limitations": [
+      "Mahalle ve yol alanı kamu muhtarlık kaydına dayanır. YOL, aracın veya işletmenin adresi değildir; güncel yol erişimini doğrulamaz.",
+      "Senaryo varsayımsaldır; yapılmış iş, geçmiş müşteri, şube, geliş süresi, fiyat veya ekipman garantisi içermez."
+    ]
+  },
+  "/bolgeler/menderes/bulgurca/": {
+    "name": "Bulgurca",
+    "status": "record_grounded_editorial",
+    "checked_on": "2026-10-11",
+    "facts": [
+      "Menderes ilçesi BULGURCA muhtarlık kaydının YOL alanı: 6845"
+    ],
+    "sections": [
+      {
+        "heading": "Bulgurca için kayıtla araç yerini ayrı tutma",
+        "paragraphs": [
+          "Bulgurca, Menderes altında 6845 yol alanıyla eşleşir. Bu kayıt ilçeyi ve mahalle adını doğrulamaya yardımcı olur. Aracın hangi yol ya da özel girişte kaldığını ise kamu referansı tek başına belirlememektedir.",
+          "Adresin bir bölümünü bilmiyorsanız tahminle tamamlamayın; konum ve görünen tabela kullanın. Yüklü araçsa yük bilgisini, otomobilse mevcut hareket sorununu açıklayın. Mahalle adından tarımsal araç veya zemin türü varsayılmaz."
+        ]
+      },
+      {
+        "heading": "Boş yük bölümü araç ölçüsünün yerine geçmez",
+        "paragraphs": [
+          "Bulgurca’da boş panelvan için sokak adı bilinmiyorsa araç yanından konum, giriş görüntüsü ve görülebilir işaret paylaşın. Yük bulunmadığını söyleyin fakat bu bilgiden araç boyutu veya ağırlığı çıkarılmasını beklemeyin. Marka, model ve bildiğiniz ölçü bilgileri ayrıca yararlıdır. Motor belirtisi, vites ve anahtar durumu da hazırlanmalıdır. Ticari araç olması, belirli bir işletme veya tesis kapısından alınacağı anlamına gelmez."
+        ]
+      },
+      {
+        "heading": "Panelvanı karşılayacak işletmenin kabulü",
+        "paragraphs": [
+          "Servis, otomobil yerine panelvan kabul edeceğini ve aracın mevcut hareket durumunu bilmeli. Açık teslim noktasını, karşılayıcıyı ve anahtar düzenini konuşun. Teslim alanının ölçü veya giriş koşulu hakkında alıcının doğruladığı bilgi kullanılmalıdır; boş araç olması erişimin uygunluğunu tek başına sağlamaz. Sokak adı eksik olan alma konumunu tamamlamaya çalışırken servis hedefinin adresini onun yerine yazmayın; iki nokta ayrı kalmalıdır."
+        ]
+      }
+    ],
+    "questions": [
+      {
+        "q": "Panelvan boşsa ölçü bilgisi paylaşmam yine gerekli mi?",
+        "a": "Evet; boş yük bölümü araç boyutunu açıklamaz. Marka, model ve bildiğiniz ölçüler ayrı paylaşılır; kesin olmayan değeri tahmin etmek yerine bilinmediğini söyleyin."
+      },
+      {
+        "q": "Sokak adı yokken servis adresini konum olarak kullanabilir miyim?",
+        "a": "Servis adresi alma noktası yerine geçmez. Araç yanından pin, giriş fotoğrafı ve görülebilir işaretlerle mevcut yerinizi tarif edin; teslim hedefini ayrıca yazın."
+      }
+    ],
+    "scenario": {
+      "title": "Sokak adı bilinmeyen boş panelvan",
+      "situation": "Bulgurca’daki örnekte boş panelvan çalışmaz; sürücü sokak adını bilmez. Mahalle adı ve 6845 referansı üzerinden yeni bir adres tahmin etmek yerine gerçek araç pini ve gördüğü giriş işareti paylaşılır.",
+      "assessment": "Araç türü, yük bulunmadığı ve vites–tekerlek durumu açıklanır. Mevcut yüzey ve giriş gözleme göre anlatılır; mahalle adına dayanarak ticari yük veya kurtarma ihtiyacı çıkarılmaz. Boş panelvan ifadesi aracın ölçülerini veya giriş uygunluğunu tek başına belirlemez. Marka ve model eklenir; yük bulunmadığı açıklanırken kamu referansından özel kapının açık olduğu sonucu çıkarılmaz veya garanti edilmez.",
+      "delivery": "Seçilen servisin açık kabul adresi alınır; bilinmeyen başlangıç sokağı hedef konumundan tahmin edilmez.",
+      "type": "illustrative_not_historical"
+    },
+    "sources": [
+      {
+        "title": "İzmir Büyükşehir Belediyesi — Muhtarlıklar açık veri",
+        "url": "https://acikveri.bizizmir.com/dataset/muhtarliklar"
+      }
+    ],
+    "limitations": [
+      "Mahalle ve yol alanı kamu muhtarlık kaydına dayanır. YOL, aracın veya işletmenin adresi değildir; güncel yol erişimini doğrulamaz.",
+      "Senaryo varsayımsaldır; yapılmış iş, geçmiş müşteri, şube, geliş süresi, fiyat veya ekipman garantisi içermez."
+    ]
+  },
+  "/bolgeler/karabaglar/cennet-cesme/": {
+    "name": "Cennet Çeşme",
+    "status": "record_grounded_editorial",
+    "checked_on": "2026-10-11",
+    "facts": [
+      "Karabağlar ilçesi CENNETÇEŞME muhtarlık kaydının YOL alanı: 3991"
+    ],
+    "sections": [
+      {
+        "heading": "Cennet Çeşme’yi Çeşme ilçesiyle karıştırmama",
+        "paragraphs": [
+          "Sayfa adı Cennet Çeşme, İBB verisinde Karabağlar altında CENNETÇEŞME olarak eşleşir; yol alanı 3991’dir. Adın Çeşme sözcüğünü içermesi aracın Çeşme ilçesinde olduğu anlamına gelmez. Talepte Karabağlar’ı açık yazın.",
+          "Boşluklu veya birleşik yazım ayrı alma bölgeleri üretmemelidir. Araç başka ilçedeki servise gidecekse o hedefi ayrı belirtin. Kamu yol alanından mevcut park yeri, kapı koşulu veya araç türü çıkarılamaz."
+        ]
+      },
+      {
+        "heading": "Yanlış ilçe pini yerine güncel araç bilgisini kullanın",
+        "paragraphs": [
+          "Cennet Çeşme’deki otomobil Karabağlar’da bulunuyorsa Çeşme ilçesine ait eski konumu güncel alma adresi olarak bırakmayın. Konum ayrımı tamamlandıktan sonra motorun verdiği tepkiyi ve anahtar bilgisini aktarın. Vites ve tekerlek yönü de sorulabilir. Arıza nedenini tahmin etmek zorunda değilsiniz; son gördüğünüz belirtinin açık tarifi ve park çevresinin görüntüsü, doğru adresle birlikte taşımanın değerlendirilmesine yardımcı olur."
+        ]
+      },
+      {
+        "heading": "Ad benzerliği teslim hedefini değiştirmesin",
+        "paragraphs": [
+          "Seçtiğiniz servis Karabağlar’da veya farklı bir ilçede olabilir; açık kabul adresini ayrı iletin. Mahalle adındaki Çeşme sözcüğü aracı o ilçeye götürme talimatı sayılmaz. Alıcıya motor belirtisini ve varsa hareket kısıtını önceden söyleyin. Anahtarı verecek kişi hedefi bilmeli; araç sahibinin talep ettiği inceleme doğrudan servisle konuşulmalıdır. Bir konum düzeltiliyorsa hangi aşamanın adresi olduğu açıkça belirtilmelidir."
+        ]
+      }
+    ],
+    "questions": [
+      {
+        "q": "Çeşme ilçesine ait eski pini nasıl düzeltmeliyim?",
+        "a": "Güncel araç konumunu Karabağlar Cennet Çeşme alma noktası diye işaretleyin. Eski pinin geçerli olmadığını belirtin; park çevresi ve araç belirtilerini de paylaşın."
+      },
+      {
+        "q": "Mahalle adındaki Çeşme teslim için bir yönlendirme midir?",
+        "a": "Hayır; teslim hedefini sahibinin seçtiği açık servis adresi belirler. Alma mahallesi ile hedefi ayrı yazın ve alıcı işletmenin kabulünü teyit edin."
+      }
+    ],
+    "scenario": {
+      "title": "Adındaki Çeşme ile yanlış ilçe seçimi",
+      "situation": "Cennet Çeşme’deki örnekte sürücü mahalle adını görünce haritada Çeşme ilçesinin genel işaretini seçer. Otomobil Karabağlar’da çalışmıyor durumdadır. Doğru ilçe ve gerçek park pini birlikte paylaşılır.",
+      "assessment": "Mahalle yazımı teyit edilir. Park girişi, motor belirtisi ve tekerlek–vites durumu açıklanır; doğru adı bulmak erişimi veya teşhisi kendiliğinden kesinleştirmez. Çeşme ilçe işaretinin yanlış olduğu anlaşıldığında önceki pinin kullanılmaması söylenir. Birleşik mahalle yazımıyla gerçek araç noktası birlikte teyit edilir; isim düzeltmesi servis adresinin de seçildiği anlamına gelmez.",
+      "delivery": "Seçilen servisin açık kabul adresi ayrıca alınır; Çeşme ilçe işareti hedef servis olarak varsayılmaz.",
+      "type": "illustrative_not_historical"
+    },
+    "sources": [
+      {
+        "title": "İzmir Büyükşehir Belediyesi — Muhtarlıklar açık veri",
+        "url": "https://acikveri.bizizmir.com/dataset/muhtarliklar"
+      }
+    ],
+    "limitations": [
+      "Mahalle ve yol alanı kamu muhtarlık kaydına dayanır. YOL, aracın veya işletmenin adresi değildir; güncel yol erişimini doğrulamaz.",
+      "Senaryo varsayımsaldır; yapılmış iş, geçmiş müşteri, şube, geliş süresi, fiyat veya ekipman garantisi içermez."
+    ]
+  },
+  "/bolgeler/karabaglar/cennetoglu/": {
+    "name": "Cennetoğlu",
+    "status": "record_grounded_editorial",
+    "checked_on": "2026-10-11",
+    "facts": [
+      "Karabağlar ilçesi CENNETOĞLU muhtarlık kaydının YOL alanı: 5709"
+    ],
+    "sections": [
+      {
+        "heading": "Cennetoğlu ve Cennetçeşme ayrı mahalle adları",
+        "paragraphs": [
+          "Cennetoğlu, Karabağlar altında CENNETOĞLU ve 5709 yol alanıyla kayıtlıdır. Adının Cennetçeşme’ye benzemesi bu iki sayfanın aynı araç adresini gösterdiği anlamına gelmez. Talepte doğru mahalleyi ve gerçek araç pinini kullanın.",
+          "Aracın bulunduğu bina veya park alanı ayrı açıklanmalıdır. Mahalle adını yanlış seçtiğinizi fark ederseniz güncel konumu açıkça düzeltin. Servis hedefiyle başlangıç adresini ve mevcut hareket sorununu birbirinden ayırın."
+        ]
+      },
+      {
+        "heading": "Vites kısıtını adres düzeltmesinden ayrı anlatın",
+        "paragraphs": [
+          "Cennetoğlu’ndaki otomobilin eski mesajda Cennet Çeşme olarak tarif edilmesi düzeltildiğinde vitesin hangi konumda kaldığını da paylaşın. Motorun tepkisi, anahtarın mevcut olup olmadığı ve tekerleklerin yönü ayrı bilgilerdir. Kolu zorlayarak yeni deneme yapmayın. Bina veya özel kapı varsa erişimi açacak kişi belirlenir. Doğru mahalle adını bulmak, aracın park ettiği noktadan nasıl alınacağının kendiliğinden anlaşıldığı anlamına gelmez."
+        ]
+      },
+      {
+        "heading": "Servis hareket kısıtını önceden öğrensin",
+        "paragraphs": [
+          "Aracın vitesi hareket etmiyorsa alıcıya yalnızca genel bir çalışmama bilgisi vermeyin. Servis, teslimden sonra otomobili kolayca yönlendirebileceğini varsaymadan kabul noktasını belirlemelidir. Anahtarı alacak kişi ile son belirtiler paylaşılır; kesin arıza teşhisi inceleme sırasında yapılır. Araç sahibi başka yerdeyse hedef değişikliğinin kimin onayıyla yapılacağı netleştirilir. Eski mahalle pini yeni servis adresiyle karıştırılmamalıdır."
+        ]
+      }
+    ],
+    "questions": [
+      {
+        "q": "Mahalle adını düzelttim; vites konumunu da yeniden söylemeli miyim?",
+        "a": "Bu bilgi paylaşılmadıysa tamamlayın. Adresin doğruluğu vitesin durumunu açıklamaz; anahtar ve tekerlek yönü de mevcut koşula göre ayrıca belirtilmelidir."
+      },
+      {
+        "q": "Vites sorunu olan araç için alıcıdan ne teyit edilmeli?",
+        "a": "Hareket kısıtını bildiği, aracı kabul edeceği nokta ve anahtarı alacak kişi teyit edilmeli. Kesin arıza ve onarım kararı servis incelemesine bırakılır."
+      }
+    ],
+    "scenario": {
+      "title": "Benzer mahalle adıyla eski pin kalması",
+      "situation": "Cennetoğlu’ndaki örnekte sürücü ilk mesajına Cennetçeşme yazar. Otomobil gerçekte Cennetoğlu’nda park halindedir ve vites hareket etmiyordur. Yeni doğru araç pini açıkça gönderilerek eski tarifin kullanılmaması istenir.",
+      "assessment": "5709 kamu referansı araç adresi sayılmaz. Kullanılacak kapı, direksiyon ve tekerlek durumu paylaşılır; mahalle düzeltmesinden taşıma yöntemi veya geliş süresi sonucu çıkarılmaz. Benzer iki mahalle adının ayrılması, eski yanlış pinin hedef servis olarak tutulmasını da önler. Yeni alma konumu açık etiketlenir; vites belirtisi gerçek araç bilgisi olarak görüşmede ayrıca paylaşılır ve değerlendirilir.",
+      "delivery": "Hedef servisin açık kabul adresi ayrı teyit edilir; eski yanlış pin hedef olarak da kullanılmaz.",
+      "type": "illustrative_not_historical"
+    },
+    "sources": [
+      {
+        "title": "İzmir Büyükşehir Belediyesi — Muhtarlıklar açık veri",
+        "url": "https://acikveri.bizizmir.com/dataset/muhtarliklar"
+      }
+    ],
+    "limitations": [
+      "Mahalle ve yol alanı kamu muhtarlık kaydına dayanır. YOL, aracın veya işletmenin adresi değildir; güncel yol erişimini doğrulamaz.",
+      "Senaryo varsayımsaldır; yapılmış iş, geçmiş müşteri, şube, geliş süresi, fiyat veya ekipman garantisi içermez."
+    ]
+  },
+  "/bolgeler/noktalar/cam-tepe/": {
+    "name": "Çam Tepe",
+    "status": "record_grounded_editorial",
+    "checked_on": "2026-10-11",
+    "facts": [
+      "Seferihisar ilçesi ÇAMTEPE muhtarlık kaydının YOL alanı: ÇAMTEPE KÖY YOLU",
+      "Narlıdere ilçesi ÇAMTEPE muhtarlık kaydının YOL alanı: GÜLMÜŞ"
+    ],
+    "sections": [
+      {
+        "heading": "Çam Tepe için Seferihisar ve Narlıdere ayrımı",
+        "paragraphs": [
+          "Çam Tepe adı açık veride ÇAMTEPE biçiminde Seferihisar ve Narlıdere altında bulunur. Seferihisar için ÇAMTEPE KÖY YOLU, Narlıdere için GÜLMÜŞ yol alanları görünür. Talepte ilçe açıkça teyit edilmelidir.",
+          "KÖY YOLU sözcüğü kamu referansıdır; Narlıdere’deki araç için toprak veya kırsal erişim bilgisi oluşturmaz. Gülmüş alanı da gerçek park noktasının yerine geçmez. Aracın bulunduğu ilçe ve servis hedefi ayrı paylaşılmalıdır."
+        ]
+      },
+      {
+        "heading": "Yer adı zemin tarifi değildir",
+        "paragraphs": [
+          "Çamtepe talebinde Narlıdere veya Seferihisar alma noktası netleşirken aracın çevresinde gerçekten görülen yüzeyi anlatın. İsim veya yol alanındaki sözcüklerden zeminin toprak, eğimli ya da açık olduğu sonucu çıkarılmaz. Güvenli fotoğraf ve görülebilir engeller tarifinize yardımcı olabilir. Motor, vites ve tekerlek durumu da ayrıca paylaşılır. İlçe ve yüzey bilgisi tamamlandığında bile aracın hareket kısıtı bağımsız değerlendirilmelidir."
+        ]
+      },
+      {
+        "heading": "Alıcıya gözlenen durumu aktarın",
+        "paragraphs": [
+          "Seçilen servis veya teslim noktası açık adresle paylaşılmalı ve karşılayıcı belirlenmelidir. Aracın kendi gücüyle hareket edemediği veya tekerlekle ilgili kısıt bulunduğu biliniyorsa bu bilgi alıcıya önceden ulaşır. Yüzey hakkında tahminde bulunmak yerine mevcut fotoğrafla anlatılan koşulları kullanın. Anahtarı teslim edecek kişinin hedefi bilmesi gerekir; hangi onarımın istendiği ise sahibinin alıcıyla görüşmesinde netleşir."
+        ]
+      }
+    ],
+    "questions": [
+      {
+        "q": "Yol bilgisinde köy yolu yazıyorsa zemini toprak sayabilir miyim?",
+        "a": "Saymayın; aracın bulunduğu yerde gördüğünüz güncel yüzeyi anlatın. Yol adı veya kamu kaydı yüzeyin mevcut halini ve erişimin uygunluğunu doğrulamaz."
+      },
+      {
+        "q": "Narlıdere veya Seferihisar ayrımı dışında hangi bilgiler gerekir?",
+        "a": "Motor ve hareket durumu, anahtar, gerçek park çevresi ve ayrı teslim hedefi gerekir. İlçe seçimi bu araç ve kabul bilgilerini tek başına tamamlamaz."
+      }
+    ],
+    "scenario": {
+      "title": "İsimden yol yüzeyi varsayılması",
+      "situation": "Çam Tepe adlı yerden gelen örnek talepte ilçe bilinmez. Kayıttaki KÖY YOLU alanını gören biri otomobilin toprakta kaldığını varsayabilir, fakat bu bilgi doğrulanmamıştır. Gerçek ilçe, araç pini ve mevcut yüzey ayrı sorulur.",
+      "assessment": "Narlıdere veya Seferihisar eşleşmesi konumla teyit edilir. Motor, vites ve tekerlek durumu konuşulur; yol alanı ekipman veya kurtarma yöntemi seçiminin tek kanıtı sayılmaz. İki ilçe eşleşmesinden biri belirlenmeden köy yolu sözcüğünü güncel zemin tarifi yapmak doğru değildir. Araç yanındaki kişinin mevcut gözlemi açıklanır; konum ile teslim hedefi rolleri ayrı tutulur.",
+      "delivery": "Servisin açık kabul adresi ayrıca alınır; başlangıç ilçesi teslim hedefinden tahmin edilmez.",
+      "type": "illustrative_not_historical"
+    },
+    "sources": [
+      {
+        "title": "İzmir Büyükşehir Belediyesi — Muhtarlıklar açık veri",
+        "url": "https://acikveri.bizizmir.com/dataset/muhtarliklar"
+      }
+    ],
+    "limitations": [
+      "Mahalle ve yol alanı kamu muhtarlık kaydına dayanır. YOL, aracın veya işletmenin adresi değildir; güncel yol erişimini doğrulamaz.",
+      "Senaryo varsayımsaldır; yapılmış iş, geçmiş müşteri, şube, geliş süresi, fiyat veya ekipman garantisi içermez."
+    ]
+  },
+  "/bolgeler/bergama/camkoy/": {
+    "name": "Çamköy",
+    "status": "record_grounded_editorial",
+    "checked_on": "2026-10-11",
+    "facts": [
+      "Bergama ilçesi ÇAMKÖY muhtarlık kaydının YOL alanı: ÇAMKÖY"
+    ],
+    "sections": [
+      {
+        "heading": "Çamköy adını Bergama ile birlikte yazma",
+        "paragraphs": [
+          "Bu sayfanın Çamköy eşleşmesi Bergama ilçesi altında ÇAMKÖY mahalle ve yol alanlarıdır. Aynı adın iki alanda görünmesi tam sokak ya da araç noktasının bilindiği anlamına gelmez. Bergama ve gerçek pin birlikte paylaşılmalıdır.",
+          "Adında köy bulunması belirli güncel idari statü, zemin veya erişim özelliği iddiası oluşturmaz. Özel alandaki araç için kapı ve yola göre konum açıklanır. Bergama merkezindeki servis hedefi ayrı adres olarak belirtilmelidir."
+        ]
+      },
+      {
+        "heading": "Merkez konumu yerine araç başındaki gözlemi verin",
+        "paragraphs": [
+          "Bergama Çamköy’de özel alanda duran araç için ilçe merkezinin pini yeterli değildir. Gerçek araç noktasıyla beraber kapıya göre yeri ve çevresinde görülen engeller paylaşılır. Motorun son tepkisini, vites ve anahtar durumunu hazırlayın. Yerleşim adından yüzey veya giriş kolaylığı çıkarılmamalıdır. Güvenle çekilen genel fotoğraf bu bilgiyi destekler; araçla denenmemiş bir hareketi yapılabiliyor gibi anlatmaya gerek yoktur."
+        ]
+      },
+      {
+        "heading": "Merkezde teslim isteniyorsa açık alıcı seçin",
+        "paragraphs": [
+          "Aracı Bergama merkezindeki servise bırakmak istiyorsanız işletmenin adını ve açık kabul adresini ayrı gönderin. Merkez sözcüğü tek bir teslim noktası oluşturmaz. Alıcının motor veya hareket sorununu bildiği ve aracı karşılayacağı teyit edilir. Özel kapıyı açacak kişi ile anahtarı verecek kişi farklıysa bunu belirtin. Onarım talebini araç sahibi servise iletsin; alma yerine erişimin çözülmesi kabulü kendiliğinden tamamlamaz."
+        ]
+      }
+    ],
+    "questions": [
+      {
+        "q": "Bergama merkez pini neden Çamköy’deki aracımı göstermiyor?",
+        "a": "İlçe merkezi ile özel alandaki otomobil farklı noktalardır. Araç yanından güncel konumu, kapıya göre yerini ve park çevresini paylaşmanız gerekir."
+      },
+      {
+        "q": "Merkezde bir servise teslim istersem nasıl yazmalıyım?",
+        "a": "İşletme adını ve açık kabul noktasını teslim hedefi olarak belirtin. Karşılayıcı ve araç belirtileri önceden teyit edilmeli; yalnızca merkez adı yeterli değildir."
+      }
+    ],
+    "scenario": {
+      "title": "Merkez pini yerine özel giriş noktası",
+      "situation": "Bergama Çamköy’deki örnek araç özel girişte çalışmaz. Sahibi Bergama merkezinin genel konumunu yollar; otomobil merkezde değildir. Çamköy’deki gerçek araç pini ve giriş, ilçe adından ayrı açıklanır.",
+      "assessment": "Görünen yüzey ve kapı fotoğrafı paylaşılır. Vites, direksiyon ve tekerlek durumu konuşulur; yer adından yolun açıklığı, ekipman veya süre hakkında kesin sonuç çıkarılmaz. Bergama merkezine ilişkin işaret alma noktası olmadığında bu fark açıkça belirtilir. Çamköy adı ve mevcut araç pini birlikte kullanılır; kapı fotoğrafı üzerinden yüzeyin taşıma kapasitesi kesinleşmiş sayılmaz veya garanti edilmez.",
+      "delivery": "Merkezde seçilmiş servisin tam kabul adresi alınır; genel Bergama işareti alma veya teslim hedefi sayılmaz.",
+      "type": "illustrative_not_historical"
+    },
+    "sources": [
+      {
+        "title": "İzmir Büyükşehir Belediyesi — Muhtarlıklar açık veri",
+        "url": "https://acikveri.bizizmir.com/dataset/muhtarliklar"
+      }
+    ],
+    "limitations": [
+      "Mahalle ve yol alanı kamu muhtarlık kaydına dayanır. YOL, aracın veya işletmenin adresi değildir; güncel yol erişimini doğrulamaz.",
+      "Senaryo varsayımsaldır; yapılmış iş, geçmiş müşteri, şube, geliş süresi, fiyat veya ekipman garantisi içermez."
+    ]
+  },
+  "/bolgeler/buca/camlikule/": {
+    "name": "Çamlıkule",
+    "status": "record_grounded_editorial",
+    "checked_on": "2026-10-11",
+    "facts": [
+      "Buca ilçesi ÇAMLIKULE muhtarlık kaydının YOL alanı: 290/6"
+    ],
+    "sections": [
+      {
+        "heading": "Çamlıkule’de eğik çizgili yol alanı",
+        "paragraphs": [
+          "Çamlıkule, Buca altında 290/6 yol alanıyla görünür. Kayıttaki eğik çizgili numarayı başka sokak adıyla tahminle değiştirmeyin. Kamu referansı aracın gerçek adresine eşit değildir; park konumu ve kullanılacak giriş ayrıca yazılmalıdır.",
+          "Bir binada bekleyen otomobil için kat ve kapı bilgisi gerekiyorsa paylaşın. Aracın motoru çalışmıyor veya direksiyonu dönmüyorsa bu iki belirtiyi ayrı açıklayın. Mahalle kaydının doğru olması taşıma yönteminin belirlenmesi anlamına gelmez."
+        ]
+      },
+      {
+        "heading": "Motor ve direksiyon tepkisini ayrı söyleyin",
+        "paragraphs": [
+          "Çamlıkule’de park otomobili çalışmıyor ve direksiyon dönmüyorsa iki gözlemi ayrı anlatın. Motorun tepki vermemesi direksiyon sorununun nedenini kesinleştirmez. Anahtarın durumu, model ve tekerlek yönü önemlidir; zorlayarak düzeltmeye çalışmayın. Bina parkında kat ve geçiş bilgisi de paylaşılır. Yol numarasının düzeltilmesi erişimi açıklamaz; güncel park görüntüsü, araçtaki hareket kısıtıyla birlikte değerlendirmeye yardımcı olur."
+        ]
+      },
+      {
+        "heading": "Yönlendirilemeyen aracın kabulü önceden konuşulur",
+        "paragraphs": [
+          "Taşıma gerekirse servis, direksiyonun hareket etmediğini planlama aşamasında bilmelidir. Teslimden sonra otomobilin kendi gücüyle veya kolayca yönlendirilerek içeri alınabileceği varsayılmaz. Karşılayıcı ve açık kabul noktası teyit edilir, anahtar ve son gözlemler alıcıya aktarılır. Bina parkını açacak görevlinin servis incelemesini düzenlediği düşünülmemelidir. Arıza tespiti ve onarım talebi sahibinin seçtiği işletmeyle ayrıca konuşulur."
+        ]
+      }
+    ],
+    "questions": [
+      {
+        "q": "Direksiyon dönmüyorsa motor belirtisini yine anlatmalı mıyım?",
+        "a": "Evet; bunlar ayrı gözlemlerdir. Son motor tepkisini, anahtar bilgisini ve tekerlek yönünü paylaşın; direksiyonu zorlayarak yeni deneme yapmanız gerekmez."
+      },
+      {
+        "q": "Direksiyon kısıtı servis kabulünü nasıl etkiler?",
+        "a": "Alıcı aracın kolayca yönlendirilemeyebileceğini önceden bilmelidir. Açık kabul noktası ve karşılayıcı teyit edilir; kesin neden ve onarım inceleme sonrasında değerlendirilir."
+      }
+    ],
+    "scenario": {
+      "title": "Yol numarasının kısaltılması",
+      "situation": "Çamlıkule’deki örnekte sürücü kamu kaydındaki 290/6 numarasını 290 diye kısaltır. Otomobil bina parkında çalışmaz ve direksiyon dönmez. Tahminle adres üretmek yerine gerçek park pini ve giriş paylaşılır.",
+      "assessment": "Kat, görünen giriş sınırı ve tekerlek–vites durumu açıklanır. Direksiyon belirtisi motor sorunundan ayrı konuşulur; numaranın düzelmesi erişim uygunluğu veya taşıma yöntemini tek başına belirlemez. Numaralı referans tahminle kısaltıldığında eski tarifin değiştiği söylenir. Doğru kamu alanı gerçek parkın yerine geçmez; bina katı, kullanılacak araç kapısı ve hareket belirtileri güncel bilgi olarak paylaşılır.",
+      "delivery": "Seçilen servisin açık kabul adresi ayrıca teyit edilir; kamu yol numarası hedef adres sayılmaz.",
+      "type": "illustrative_not_historical"
+    },
+    "sources": [
+      {
+        "title": "İzmir Büyükşehir Belediyesi — Muhtarlıklar açık veri",
+        "url": "https://acikveri.bizizmir.com/dataset/muhtarliklar"
+      }
+    ],
+    "limitations": [
+      "Mahalle ve yol alanı kamu muhtarlık kaydına dayanır. YOL, aracın veya işletmenin adresi değildir; güncel yol erişimini doğrulamaz.",
+      "Senaryo varsayımsaldır; yapılmış iş, geçmiş müşteri, şube, geliş süresi, fiyat veya ekipman garantisi içermez."
+    ]
+  }
+}

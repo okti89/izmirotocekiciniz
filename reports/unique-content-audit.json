@@ -1,0 +1,2258 @@
+{
+  "service_scenarios": 8,
+  "reviewed_on": "2026-10-11",
+  "scope": "Bölge sayfalarının özel editoryal bölümleri, örnek senaryolar ve FAQ. Menü, iletişim, kaynak notu ve adres tablosu benzerlik karşılaştırmasına katılmaz.",
+  "limitations": "Metin benzerliği özgünlük için yardımcı kontroldür; kapsamlılık, doğruluk veya Google sıralamasını tek başına kanıtlamaz. Senaryolar kurmacadır; gerçek iş kaydı değildir.",
+  "content_pages": 262,
+  "research_status_counts": {
+    "verified_static_facts": 28,
+    "absent": 1,
+    "record_grounded_editorial": 96,
+    "supported_editorial_brief": 30,
+    "verified": 38,
+    "outside_izmir": 1,
+    "partial": 1,
+    "ambiguous": 2,
+    "verified_address_context": 48,
+    "unresolved": 2,
+    "verified_correction": 1
+  },
+  "region_briefs": 248,
+  "unique_scenarios": 248,
+  "duplicate_long_paragraphs": [],
+  "pairs_needing_editorial_review": [],
+  "pages": [
+    {
+      "path": "/guzergahlar/izmir-cevre-yolu/",
+      "editorial_word_count": 300,
+      "paragraphs": 8,
+      "faq": 2,
+      "scenario_labeled": true,
+      "research_status": "verified_static_facts",
+      "source_count": 1
+    },
+    {
+      "path": "/guzergahlar/izmir-aydin-otoyolu/",
+      "editorial_word_count": 305,
+      "paragraphs": 8,
+      "faq": 2,
+      "scenario_labeled": true,
+      "research_status": "verified_static_facts",
+      "source_count": 1
+    },
+    {
+      "path": "/guzergahlar/izmir-cesme-otoyolu/",
+      "editorial_word_count": 297,
+      "paragraphs": 8,
+      "faq": 2,
+      "scenario_labeled": true,
+      "research_status": "verified_static_facts",
+      "source_count": 1
+    },
+    {
+      "path": "/guzergahlar/sabuncubeli-tuneli/",
+      "editorial_word_count": 293,
+      "paragraphs": 8,
+      "faq": 2,
+      "scenario_labeled": true,
+      "research_status": "verified_static_facts",
+      "source_count": 1
+    },
+    {
+      "path": "/guzergahlar/belkahve-rampasi/",
+      "editorial_word_count": 305,
+      "paragraphs": 8,
+      "faq": 2,
+      "scenario_labeled": true,
+      "research_status": "verified_static_facts",
+      "source_count": 1
+    },
+    {
+      "path": "/guzergahlar/bayrakli-tunelleri/",
+      "editorial_word_count": 287,
+      "paragraphs": 8,
+      "faq": 2,
+      "scenario_labeled": true,
+      "research_status": "verified_static_facts",
+      "source_count": 1
+    },
+    {
+      "path": "/guzergahlar/konak-tuneli/",
+      "editorial_word_count": 289,
+      "paragraphs": 8,
+      "faq": 2,
+      "scenario_labeled": true,
+      "research_status": "verified_static_facts",
+      "source_count": 1
+    },
+    {
+      "path": "/guzergahlar/kuzey-cevre-yolu/",
+      "editorial_word_count": 302,
+      "paragraphs": 8,
+      "faq": 2,
+      "scenario_labeled": true,
+      "research_status": "verified_static_facts",
+      "source_count": 2
+    },
+    {
+      "path": "/guzergahlar/guney-cevre-yolu/",
+      "editorial_word_count": 294,
+      "paragraphs": 8,
+      "faq": 2,
+      "scenario_labeled": true,
+      "research_status": "verified_static_facts",
+      "source_count": 1
+    },
+    {
+      "path": "/guzergahlar/bornova-cevre-yolu/",
+      "editorial_word_count": 294,
+      "paragraphs": 8,
+      "faq": 2,
+      "scenario_labeled": true,
+      "research_status": "verified_static_facts",
+      "source_count": 1
+    },
+    {
+      "path": "/guzergahlar/karsiyaka-cevre-yolu/",
+      "editorial_word_count": 291,
+      "paragraphs": 8,
+      "faq": 2,
+      "scenario_labeled": true,
+      "research_status": "verified_static_facts",
+      "source_count": 1
+    },
+    {
+      "path": "/guzergahlar/altinyol-sahil-yolu/",
+      "editorial_word_count": 301,
+      "paragraphs": 8,
+      "faq": 2,
+      "scenario_labeled": true,
+      "research_status": "verified_static_facts",
+      "source_count": 1
+    },
+    {
+      "path": "/guzergahlar/istanbul-otoyolu/",
+      "editorial_word_count": 313,
+      "paragraphs": 8,
+      "faq": 2,
+      "scenario_labeled": true,
+      "research_status": "verified_static_facts",
+      "source_count": 1
+    },
+    {
+      "path": "/guzergahlar/ankara-yolu/",
+      "editorial_word_count": 293,
+      "paragraphs": 8,
+      "faq": 2,
+      "scenario_labeled": true,
+      "research_status": "verified_static_facts",
+      "source_count": 1
+    },
+    {
+      "path": "/guzergahlar/bursa-yolu/",
+      "editorial_word_count": 295,
+      "paragraphs": 8,
+      "faq": 2,
+      "scenario_labeled": true,
+      "research_status": "verified_static_facts",
+      "source_count": 1
+    },
+    {
+      "path": "/guzergahlar/torbali-otoyolu/",
+      "editorial_word_count": 301,
+      "paragraphs": 8,
+      "faq": 2,
+      "scenario_labeled": true,
+      "research_status": "verified_static_facts",
+      "source_count": 1
+    },
+    {
+      "path": "/guzergahlar/liman-yolu/",
+      "editorial_word_count": 299,
+      "paragraphs": 8,
+      "faq": 2,
+      "scenario_labeled": true,
+      "research_status": "verified_static_facts",
+      "source_count": 1
+    },
+    {
+      "path": "/sanayi/1-sanayi-sitesi/",
+      "editorial_word_count": 301,
+      "paragraphs": 8,
+      "faq": 2,
+      "scenario_labeled": true,
+      "research_status": "verified_static_facts",
+      "source_count": 2
+    },
+    {
+      "path": "/sanayi/2-sanayi-sitesi/",
+      "editorial_word_count": 290,
+      "paragraphs": 8,
+      "faq": 2,
+      "scenario_labeled": true,
+      "research_status": "verified_static_facts",
+      "source_count": 2
+    },
+    {
+      "path": "/sanayi/3-sanayi-sitesi/",
+      "editorial_word_count": 298,
+      "paragraphs": 8,
+      "faq": 2,
+      "scenario_labeled": true,
+      "research_status": "verified_static_facts",
+      "source_count": 2
+    },
+    {
+      "path": "/sanayi/4-sanayi-sitesi/",
+      "editorial_word_count": 301,
+      "paragraphs": 8,
+      "faq": 2,
+      "scenario_labeled": true,
+      "research_status": "verified_static_facts",
+      "source_count": 2
+    },
+    {
+      "path": "/sanayi/5-sanayi-sitesi/",
+      "editorial_word_count": 296,
+      "paragraphs": 8,
+      "faq": 2,
+      "scenario_labeled": true,
+      "research_status": "verified_static_facts",
+      "source_count": 2
+    },
+    {
+      "path": "/sanayi/6-sanayi-sitesi/",
+      "editorial_word_count": 301,
+      "paragraphs": 8,
+      "faq": 2,
+      "scenario_labeled": true,
+      "research_status": "verified_static_facts",
+      "source_count": 2
+    },
+    {
+      "path": "/sanayi/7-sanayi-sitesi/",
+      "editorial_word_count": 302,
+      "paragraphs": 8,
+      "faq": 2,
+      "scenario_labeled": true,
+      "research_status": "absent",
+      "source_count": 0
+    },
+    {
+      "path": "/sanayi/kisikkoy-sanayi-sitesi/",
+      "editorial_word_count": 317,
+      "paragraphs": 8,
+      "faq": 2,
+      "scenario_labeled": true,
+      "research_status": "verified_static_facts",
+      "source_count": 1
+    },
+    {
+      "path": "/bolgeler/cesme/alacati/",
+      "editorial_word_count": 306,
+      "paragraphs": 9,
+      "faq": 2,
+      "scenario_labeled": true,
+      "research_status": "record_grounded_editorial",
+      "source_count": 1
+    },
+    {
+      "path": "/bolgeler/cesme/ilica/",
+      "editorial_word_count": 299,
+      "paragraphs": 9,
+      "faq": 2,
+      "scenario_labeled": true,
+      "research_status": "record_grounded_editorial",
+      "source_count": 1
+    },
+    {
+      "path": "/bolgeler/cesme/boyalik/",
+      "editorial_word_count": 303,
+      "paragraphs": 9,
+      "faq": 2,
+      "scenario_labeled": true,
+      "research_status": "record_grounded_editorial",
+      "source_count": 1
+    },
+    {
+      "path": "/bolgeler/cesme/altinkum/",
+      "editorial_word_count": 309,
+      "paragraphs": 9,
+      "faq": 2,
+      "scenario_labeled": true,
+      "research_status": "record_grounded_editorial",
+      "source_count": 1
+    },
+    {
+      "path": "/bolgeler/cesme/dalyan/",
+      "editorial_word_count": 312,
+      "paragraphs": 9,
+      "faq": 2,
+      "scenario_labeled": true,
+      "research_status": "record_grounded_editorial",
+      "source_count": 1
+    },
+    {
+      "path": "/bolgeler/cesme/ildir/",
+      "editorial_word_count": 307,
+      "paragraphs": 9,
+      "faq": 2,
+      "scenario_labeled": true,
+      "research_status": "record_grounded_editorial",
+      "source_count": 1
+    },
+    {
+      "path": "/bolgeler/cesme/sifne/",
+      "editorial_word_count": 305,
+      "paragraphs": 9,
+      "faq": 2,
+      "scenario_labeled": true,
+      "research_status": "record_grounded_editorial",
+      "source_count": 1
+    },
+    {
+      "path": "/bolgeler/cesme/16-eylul/",
+      "editorial_word_count": 304,
+      "paragraphs": 9,
+      "faq": 2,
+      "scenario_labeled": true,
+      "research_status": "record_grounded_editorial",
+      "source_count": 1
+    },
+    {
+      "path": "/bolgeler/cesme/ovacik/",
+      "editorial_word_count": 309,
+      "paragraphs": 9,
+      "faq": 2,
+      "scenario_labeled": true,
+      "research_status": "record_grounded_editorial",
+      "source_count": 1
+    },
+    {
+      "path": "/bolgeler/guzelbahce/yelki/",
+      "editorial_word_count": 326,
+      "paragraphs": 9,
+      "faq": 2,
+      "scenario_labeled": true,
+      "research_status": "record_grounded_editorial",
+      "source_count": 1
+    },
+    {
+      "path": "/bolgeler/guzelbahce/kahramandere/",
+      "editorial_word_count": 302,
+      "paragraphs": 9,
+      "faq": 2,
+      "scenario_labeled": true,
+      "research_status": "record_grounded_editorial",
+      "source_count": 1
+    },
+    {
+      "path": "/bolgeler/guzelbahce/camli/",
+      "editorial_word_count": 325,
+      "paragraphs": 9,
+      "faq": 2,
+      "scenario_labeled": true,
+      "research_status": "record_grounded_editorial",
+      "source_count": 1
+    },
+    {
+      "path": "/bolgeler/torbali/",
+      "editorial_word_count": 293,
+      "paragraphs": 8,
+      "faq": 2,
+      "scenario_labeled": true,
+      "research_status": "supported_editorial_brief",
+      "source_count": 1
+    },
+    {
+      "path": "/bolgeler/torbali/ayrancilar/",
+      "editorial_word_count": 324,
+      "paragraphs": 9,
+      "faq": 2,
+      "scenario_labeled": true,
+      "research_status": "record_grounded_editorial",
+      "source_count": 1
+    },
+    {
+      "path": "/bolgeler/torbali/pancar/",
+      "editorial_word_count": 258,
+      "paragraphs": 9,
+      "faq": 2,
+      "scenario_labeled": true,
+      "research_status": "verified",
+      "source_count": 2
+    },
+    {
+      "path": "/bolgeler/torbali/yazibasi/",
+      "editorial_word_count": 308,
+      "paragraphs": 9,
+      "faq": 2,
+      "scenario_labeled": true,
+      "research_status": "record_grounded_editorial",
+      "source_count": 1
+    },
+    {
+      "path": "/bolgeler/torbali/caybasi/",
+      "editorial_word_count": 314,
+      "paragraphs": 9,
+      "faq": 2,
+      "scenario_labeled": true,
+      "research_status": "record_grounded_editorial",
+      "source_count": 1
+    },
+    {
+      "path": "/bolgeler/torbali/subasi/",
+      "editorial_word_count": 319,
+      "paragraphs": 9,
+      "faq": 2,
+      "scenario_labeled": true,
+      "research_status": "record_grounded_editorial",
+      "source_count": 1
+    },
+    {
+      "path": "/bolgeler/torbali/capak/",
+      "editorial_word_count": 299,
+      "paragraphs": 9,
+      "faq": 2,
+      "scenario_labeled": true,
+      "research_status": "record_grounded_editorial",
+      "source_count": 1
+    },
+    {
+      "path": "/bolgeler/torbali/karakizlar/",
+      "editorial_word_count": 300,
+      "paragraphs": 9,
+      "faq": 2,
+      "scenario_labeled": true,
+      "research_status": "record_grounded_editorial",
+      "source_count": 1
+    },
+    {
+      "path": "/bolgeler/torbali/ahmetli/",
+      "editorial_word_count": 315,
+      "paragraphs": 9,
+      "faq": 2,
+      "scenario_labeled": true,
+      "research_status": "record_grounded_editorial",
+      "source_count": 1
+    },
+    {
+      "path": "/bolgeler/torbali/kuscuburun/",
+      "editorial_word_count": 312,
+      "paragraphs": 9,
+      "faq": 2,
+      "scenario_labeled": true,
+      "research_status": "record_grounded_editorial",
+      "source_count": 1
+    },
+    {
+      "path": "/bolgeler/menemen/",
+      "editorial_word_count": 293,
+      "paragraphs": 8,
+      "faq": 2,
+      "scenario_labeled": true,
+      "research_status": "supported_editorial_brief",
+      "source_count": 1
+    },
+    {
+      "path": "/bolgeler/bergama/",
+      "editorial_word_count": 280,
+      "paragraphs": 8,
+      "faq": 2,
+      "scenario_labeled": true,
+      "research_status": "supported_editorial_brief",
+      "source_count": 1
+    },
+    {
+      "path": "/bolgeler/odemis/",
+      "editorial_word_count": 289,
+      "paragraphs": 8,
+      "faq": 2,
+      "scenario_labeled": true,
+      "research_status": "supported_editorial_brief",
+      "source_count": 1
+    },
+    {
+      "path": "/bolgeler/tire/",
+      "editorial_word_count": 292,
+      "paragraphs": 8,
+      "faq": 2,
+      "scenario_labeled": true,
+      "research_status": "supported_editorial_brief",
+      "source_count": 1
+    },
+    {
+      "path": "/bolgeler/bayindir/",
+      "editorial_word_count": 281,
+      "paragraphs": 8,
+      "faq": 2,
+      "scenario_labeled": true,
+      "research_status": "supported_editorial_brief",
+      "source_count": 1
+    },
+    {
+      "path": "/bolgeler/selcuk/",
+      "editorial_word_count": 292,
+      "paragraphs": 8,
+      "faq": 2,
+      "scenario_labeled": true,
+      "research_status": "supported_editorial_brief",
+      "source_count": 1
+    },
+    {
+      "path": "/bolgeler/kinik/",
+      "editorial_word_count": 283,
+      "paragraphs": 8,
+      "faq": 2,
+      "scenario_labeled": true,
+      "research_status": "supported_editorial_brief",
+      "source_count": 1
+    },
+    {
+      "path": "/bolgeler/kiraz/",
+      "editorial_word_count": 279,
+      "paragraphs": 8,
+      "faq": 2,
+      "scenario_labeled": true,
+      "research_status": "supported_editorial_brief",
+      "source_count": 2
+    },
+    {
+      "path": "/bolgeler/noktalar/nazilli/",
+      "editorial_word_count": 300,
+      "paragraphs": 9,
+      "faq": 2,
+      "scenario_labeled": true,
+      "research_status": "outside_izmir",
+      "source_count": 1
+    },
+    {
+      "path": "/bolgeler/buca/golet/",
+      "editorial_word_count": 258,
+      "paragraphs": 9,
+      "faq": 2,
+      "scenario_labeled": true,
+      "research_status": "verified",
+      "source_count": 1
+    },
+    {
+      "path": "/bolgeler/buca/belenbasi/",
+      "editorial_word_count": 318,
+      "paragraphs": 9,
+      "faq": 2,
+      "scenario_labeled": true,
+      "research_status": "record_grounded_editorial",
+      "source_count": 1
+    },
+    {
+      "path": "/bolgeler/bornova/pinarbasi/",
+      "editorial_word_count": 266,
+      "paragraphs": 9,
+      "faq": 2,
+      "scenario_labeled": true,
+      "research_status": "verified",
+      "source_count": 2
+    },
+    {
+      "path": "/bolgeler/aliaga/",
+      "editorial_word_count": 287,
+      "paragraphs": 8,
+      "faq": 2,
+      "scenario_labeled": true,
+      "research_status": "supported_editorial_brief",
+      "source_count": 1
+    },
+    {
+      "path": "/bolgeler/balcova/",
+      "editorial_word_count": 274,
+      "paragraphs": 8,
+      "faq": 2,
+      "scenario_labeled": true,
+      "research_status": "supported_editorial_brief",
+      "source_count": 1
+    },
+    {
+      "path": "/bolgeler/bayrakli/",
+      "editorial_word_count": 285,
+      "paragraphs": 8,
+      "faq": 2,
+      "scenario_labeled": true,
+      "research_status": "supported_editorial_brief",
+      "source_count": 1
+    },
+    {
+      "path": "/bolgeler/beydag/",
+      "editorial_word_count": 277,
+      "paragraphs": 8,
+      "faq": 2,
+      "scenario_labeled": true,
+      "research_status": "supported_editorial_brief",
+      "source_count": 1
+    },
+    {
+      "path": "/bolgeler/bornova/",
+      "editorial_word_count": 301,
+      "paragraphs": 8,
+      "faq": 2,
+      "scenario_labeled": true,
+      "research_status": "supported_editorial_brief",
+      "source_count": 1
+    },
+    {
+      "path": "/bolgeler/buca/",
+      "editorial_word_count": 273,
+      "paragraphs": 8,
+      "faq": 2,
+      "scenario_labeled": true,
+      "research_status": "supported_editorial_brief",
+      "source_count": 1
+    },
+    {
+      "path": "/bolgeler/cesme/",
+      "editorial_word_count": 288,
+      "paragraphs": 8,
+      "faq": 2,
+      "scenario_labeled": true,
+      "research_status": "supported_editorial_brief",
+      "source_count": 1
+    },
+    {
+      "path": "/bolgeler/cigli/",
+      "editorial_word_count": 305,
+      "paragraphs": 8,
+      "faq": 2,
+      "scenario_labeled": true,
+      "research_status": "supported_editorial_brief",
+      "source_count": 1
+    },
+    {
+      "path": "/bolgeler/dikili/",
+      "editorial_word_count": 284,
+      "paragraphs": 8,
+      "faq": 2,
+      "scenario_labeled": true,
+      "research_status": "supported_editorial_brief",
+      "source_count": 1
+    },
+    {
+      "path": "/bolgeler/foca/",
+      "editorial_word_count": 280,
+      "paragraphs": 8,
+      "faq": 2,
+      "scenario_labeled": true,
+      "research_status": "supported_editorial_brief",
+      "source_count": 1
+    },
+    {
+      "path": "/bolgeler/gaziemir/",
+      "editorial_word_count": 286,
+      "paragraphs": 8,
+      "faq": 2,
+      "scenario_labeled": true,
+      "research_status": "supported_editorial_brief",
+      "source_count": 1
+    },
+    {
+      "path": "/bolgeler/guzelbahce/",
+      "editorial_word_count": 277,
+      "paragraphs": 8,
+      "faq": 2,
+      "scenario_labeled": true,
+      "research_status": "supported_editorial_brief",
+      "source_count": 1
+    },
+    {
+      "path": "/bolgeler/karabaglar/",
+      "editorial_word_count": 286,
+      "paragraphs": 8,
+      "faq": 2,
+      "scenario_labeled": true,
+      "research_status": "supported_editorial_brief",
+      "source_count": 2
+    },
+    {
+      "path": "/bolgeler/karaburun/",
+      "editorial_word_count": 279,
+      "paragraphs": 8,
+      "faq": 2,
+      "scenario_labeled": true,
+      "research_status": "supported_editorial_brief",
+      "source_count": 1
+    },
+    {
+      "path": "/bolgeler/karsiyaka/",
+      "editorial_word_count": 270,
+      "paragraphs": 8,
+      "faq": 2,
+      "scenario_labeled": true,
+      "research_status": "supported_editorial_brief",
+      "source_count": 2
+    },
+    {
+      "path": "/bolgeler/kemalpasa/",
+      "editorial_word_count": 286,
+      "paragraphs": 8,
+      "faq": 2,
+      "scenario_labeled": true,
+      "research_status": "supported_editorial_brief",
+      "source_count": 1
+    },
+    {
+      "path": "/bolgeler/konak/",
+      "editorial_word_count": 280,
+      "paragraphs": 8,
+      "faq": 2,
+      "scenario_labeled": true,
+      "research_status": "supported_editorial_brief",
+      "source_count": 1
+    },
+    {
+      "path": "/bolgeler/menderes/",
+      "editorial_word_count": 281,
+      "paragraphs": 8,
+      "faq": 2,
+      "scenario_labeled": true,
+      "research_status": "supported_editorial_brief",
+      "source_count": 1
+    },
+    {
+      "path": "/bolgeler/narlidere/",
+      "editorial_word_count": 267,
+      "paragraphs": 8,
+      "faq": 2,
+      "scenario_labeled": true,
+      "research_status": "supported_editorial_brief",
+      "source_count": 2
+    },
+    {
+      "path": "/bolgeler/seferihisar/",
+      "editorial_word_count": 273,
+      "paragraphs": 8,
+      "faq": 2,
+      "scenario_labeled": true,
+      "research_status": "supported_editorial_brief",
+      "source_count": 1
+    },
+    {
+      "path": "/bolgeler/urla/",
+      "editorial_word_count": 299,
+      "paragraphs": 8,
+      "faq": 2,
+      "scenario_labeled": true,
+      "research_status": "supported_editorial_brief",
+      "source_count": 1
+    },
+    {
+      "path": "/bolgeler/konak/alsancak/",
+      "editorial_word_count": 319,
+      "paragraphs": 9,
+      "faq": 2,
+      "scenario_labeled": true,
+      "research_status": "record_grounded_editorial",
+      "source_count": 1
+    },
+    {
+      "path": "/bolgeler/karsiyaka/bostanli/",
+      "editorial_word_count": 309,
+      "paragraphs": 9,
+      "faq": 2,
+      "scenario_labeled": true,
+      "research_status": "record_grounded_editorial",
+      "source_count": 1
+    },
+    {
+      "path": "/bolgeler/karsiyaka/mavisehir/",
+      "editorial_word_count": 320,
+      "paragraphs": 9,
+      "faq": 2,
+      "scenario_labeled": true,
+      "research_status": "record_grounded_editorial",
+      "source_count": 1
+    },
+    {
+      "path": "/bolgeler/buca/sirinyer/",
+      "editorial_word_count": 273,
+      "paragraphs": 9,
+      "faq": 2,
+      "scenario_labeled": true,
+      "research_status": "verified",
+      "source_count": 2
+    },
+    {
+      "path": "/bolgeler/gaziemir/sarnic/",
+      "editorial_word_count": 261,
+      "paragraphs": 9,
+      "faq": 2,
+      "scenario_labeled": true,
+      "research_status": "verified",
+      "source_count": 1
+    },
+    {
+      "path": "/bolgeler/bornova/isikkent/",
+      "editorial_word_count": 280,
+      "paragraphs": 9,
+      "faq": 2,
+      "scenario_labeled": true,
+      "research_status": "verified",
+      "source_count": 2
+    },
+    {
+      "path": "/bolgeler/konak/goztepe/",
+      "editorial_word_count": 308,
+      "paragraphs": 9,
+      "faq": 2,
+      "scenario_labeled": true,
+      "research_status": "record_grounded_editorial",
+      "source_count": 1
+    },
+    {
+      "path": "/bolgeler/konak/hatay/",
+      "editorial_word_count": 284,
+      "paragraphs": 9,
+      "faq": 2,
+      "scenario_labeled": true,
+      "research_status": "verified",
+      "source_count": 2
+    },
+    {
+      "path": "/bolgeler/bornova/camdibi/",
+      "editorial_word_count": 271,
+      "paragraphs": 9,
+      "faq": 2,
+      "scenario_labeled": true,
+      "research_status": "verified",
+      "source_count": 2
+    },
+    {
+      "path": "/bolgeler/bornova/ozkanlar/",
+      "editorial_word_count": 269,
+      "paragraphs": 9,
+      "faq": 2,
+      "scenario_labeled": true,
+      "research_status": "verified",
+      "source_count": 1
+    },
+    {
+      "path": "/bolgeler/karabaglar/ucyol/",
+      "editorial_word_count": 279,
+      "paragraphs": 9,
+      "faq": 2,
+      "scenario_labeled": true,
+      "research_status": "verified",
+      "source_count": 2
+    },
+    {
+      "path": "/bolgeler/kemalpasa/yesilyurt/",
+      "editorial_word_count": 317,
+      "paragraphs": 9,
+      "faq": 2,
+      "scenario_labeled": true,
+      "research_status": "record_grounded_editorial",
+      "source_count": 1
+    },
+    {
+      "path": "/bolgeler/urla/cesmealti/",
+      "editorial_word_count": 253,
+      "paragraphs": 9,
+      "faq": 2,
+      "scenario_labeled": true,
+      "research_status": "verified",
+      "source_count": 1
+    },
+    {
+      "path": "/bolgeler/buca/adatepe/",
+      "editorial_word_count": 317,
+      "paragraphs": 9,
+      "faq": 2,
+      "scenario_labeled": true,
+      "research_status": "record_grounded_editorial",
+      "source_count": 1
+    },
+    {
+      "path": "/bolgeler/menderes/ahmetbeyli/",
+      "editorial_word_count": 309,
+      "paragraphs": 9,
+      "faq": 2,
+      "scenario_labeled": true,
+      "research_status": "record_grounded_editorial",
+      "source_count": 1
+    },
+    {
+      "path": "/bolgeler/menderes/akcakoy/",
+      "editorial_word_count": 312,
+      "paragraphs": 9,
+      "faq": 2,
+      "scenario_labeled": true,
+      "research_status": "record_grounded_editorial",
+      "source_count": 1
+    },
+    {
+      "path": "/bolgeler/noktalar/akincilar/",
+      "editorial_word_count": 337,
+      "paragraphs": 9,
+      "faq": 2,
+      "scenario_labeled": true,
+      "research_status": "record_grounded_editorial",
+      "source_count": 1
+    },
+    {
+      "path": "/bolgeler/noktalar/aktepe/",
+      "editorial_word_count": 314,
+      "paragraphs": 9,
+      "faq": 2,
+      "scenario_labeled": true,
+      "research_status": "record_grounded_editorial",
+      "source_count": 1
+    },
+    {
+      "path": "/bolgeler/bornova/altindag/",
+      "editorial_word_count": 264,
+      "paragraphs": 9,
+      "faq": 2,
+      "scenario_labeled": true,
+      "research_status": "verified",
+      "source_count": 2
+    },
+    {
+      "path": "/bolgeler/noktalar/altinevler/",
+      "editorial_word_count": 267,
+      "paragraphs": 9,
+      "faq": 2,
+      "scenario_labeled": true,
+      "research_status": "partial",
+      "source_count": 1
+    },
+    {
+      "path": "/bolgeler/noktalar/altintas/",
+      "editorial_word_count": 321,
+      "paragraphs": 9,
+      "faq": 2,
+      "scenario_labeled": true,
+      "research_status": "record_grounded_editorial",
+      "source_count": 1
+    },
+    {
+      "path": "/bolgeler/menderes/atakoy/",
+      "editorial_word_count": 313,
+      "paragraphs": 9,
+      "faq": 2,
+      "scenario_labeled": true,
+      "research_status": "record_grounded_editorial",
+      "source_count": 1
+    },
+    {
+      "path": "/bolgeler/karabaglar/aydin-mahallesi/",
+      "editorial_word_count": 314,
+      "paragraphs": 9,
+      "faq": 2,
+      "scenario_labeled": true,
+      "research_status": "record_grounded_editorial",
+      "source_count": 1
+    },
+    {
+      "path": "/bolgeler/balcova/bahcelerarasi/",
+      "editorial_word_count": 310,
+      "paragraphs": 9,
+      "faq": 2,
+      "scenario_labeled": true,
+      "research_status": "record_grounded_editorial",
+      "source_count": 1
+    },
+    {
+      "path": "/bolgeler/noktalar/bahcelievler/",
+      "editorial_word_count": 325,
+      "paragraphs": 9,
+      "faq": 2,
+      "scenario_labeled": true,
+      "research_status": "record_grounded_editorial",
+      "source_count": 1
+    },
+    {
+      "path": "/bolgeler/urla/balikli-ova/",
+      "editorial_word_count": 324,
+      "paragraphs": 9,
+      "faq": 2,
+      "scenario_labeled": true,
+      "research_status": "record_grounded_editorial",
+      "source_count": 1
+    },
+    {
+      "path": "/bolgeler/noktalar/barbaros-mahallesi/",
+      "editorial_word_count": 327,
+      "paragraphs": 9,
+      "faq": 2,
+      "scenario_labeled": true,
+      "research_status": "record_grounded_editorial",
+      "source_count": 1
+    },
+    {
+      "path": "/bolgeler/karabaglar/basin-sitesi/",
+      "editorial_word_count": 328,
+      "paragraphs": 9,
+      "faq": 2,
+      "scenario_labeled": true,
+      "research_status": "record_grounded_editorial",
+      "source_count": 1
+    },
+    {
+      "path": "/bolgeler/konak/basmane/",
+      "editorial_word_count": 264,
+      "paragraphs": 9,
+      "faq": 2,
+      "scenario_labeled": true,
+      "research_status": "verified",
+      "source_count": 2
+    },
+    {
+      "path": "/bolgeler/selcuk/belevi/",
+      "editorial_word_count": 315,
+      "paragraphs": 9,
+      "faq": 2,
+      "scenario_labeled": true,
+      "research_status": "record_grounded_editorial",
+      "source_count": 1
+    },
+    {
+      "path": "/bolgeler/noktalar/beton-yol/",
+      "editorial_word_count": 291,
+      "paragraphs": 9,
+      "faq": 2,
+      "scenario_labeled": true,
+      "research_status": "ambiguous",
+      "source_count": 2
+    },
+    {
+      "path": "/bolgeler/gaziemir/beyazevler/",
+      "editorial_word_count": 308,
+      "paragraphs": 9,
+      "faq": 2,
+      "scenario_labeled": true,
+      "research_status": "record_grounded_editorial",
+      "source_count": 1
+    },
+    {
+      "path": "/bolgeler/karabaglar/bozyaka/",
+      "editorial_word_count": 323,
+      "paragraphs": 9,
+      "faq": 2,
+      "scenario_labeled": true,
+      "research_status": "record_grounded_editorial",
+      "source_count": 1
+    },
+    {
+      "path": "/bolgeler/menderes/bulgurca/",
+      "editorial_word_count": 328,
+      "paragraphs": 9,
+      "faq": 2,
+      "scenario_labeled": true,
+      "research_status": "record_grounded_editorial",
+      "source_count": 1
+    },
+    {
+      "path": "/bolgeler/karabaglar/cennet-cesme/",
+      "editorial_word_count": 317,
+      "paragraphs": 9,
+      "faq": 2,
+      "scenario_labeled": true,
+      "research_status": "record_grounded_editorial",
+      "source_count": 1
+    },
+    {
+      "path": "/bolgeler/karabaglar/cennetoglu/",
+      "editorial_word_count": 316,
+      "paragraphs": 9,
+      "faq": 2,
+      "scenario_labeled": true,
+      "research_status": "record_grounded_editorial",
+      "source_count": 1
+    },
+    {
+      "path": "/bolgeler/noktalar/cam-tepe/",
+      "editorial_word_count": 324,
+      "paragraphs": 9,
+      "faq": 2,
+      "scenario_labeled": true,
+      "research_status": "record_grounded_editorial",
+      "source_count": 1
+    },
+    {
+      "path": "/bolgeler/bergama/camkoy/",
+      "editorial_word_count": 330,
+      "paragraphs": 9,
+      "faq": 2,
+      "scenario_labeled": true,
+      "research_status": "record_grounded_editorial",
+      "source_count": 1
+    },
+    {
+      "path": "/bolgeler/buca/camlikule/",
+      "editorial_word_count": 307,
+      "paragraphs": 9,
+      "faq": 2,
+      "scenario_labeled": true,
+      "research_status": "record_grounded_editorial",
+      "source_count": 1
+    },
+    {
+      "path": "/bolgeler/menderes/camonu/",
+      "editorial_word_count": 265,
+      "paragraphs": 8,
+      "faq": 2,
+      "scenario_labeled": true,
+      "research_status": "verified_address_context",
+      "source_count": 1
+    },
+    {
+      "path": "/bolgeler/konak/cankaya/",
+      "editorial_word_count": 261,
+      "paragraphs": 8,
+      "faq": 2,
+      "scenario_labeled": true,
+      "research_status": "verified_address_context",
+      "source_count": 1
+    },
+    {
+      "path": "/bolgeler/menderes/catalca/",
+      "editorial_word_count": 269,
+      "paragraphs": 8,
+      "faq": 2,
+      "scenario_labeled": true,
+      "research_status": "verified_address_context",
+      "source_count": 1
+    },
+    {
+      "path": "/bolgeler/noktalar/catalkaya/",
+      "editorial_word_count": 279,
+      "paragraphs": 9,
+      "faq": 2,
+      "scenario_labeled": true,
+      "research_status": "verified",
+      "source_count": 1
+    },
+    {
+      "path": "/bolgeler/noktalar/cataltepe/",
+      "editorial_word_count": 276,
+      "paragraphs": 9,
+      "faq": 2,
+      "scenario_labeled": true,
+      "research_status": "unresolved",
+      "source_count": 0
+    },
+    {
+      "path": "/bolgeler/konak/cinarli/",
+      "editorial_word_count": 276,
+      "paragraphs": 8,
+      "faq": 2,
+      "scenario_labeled": true,
+      "research_status": "verified_address_context",
+      "source_count": 1
+    },
+    {
+      "path": "/bolgeler/noktalar/ciceklikoy/",
+      "editorial_word_count": 274,
+      "paragraphs": 9,
+      "faq": 2,
+      "scenario_labeled": true,
+      "research_status": "verified",
+      "source_count": 2
+    },
+    {
+      "path": "/bolgeler/menderes/cile/",
+      "editorial_word_count": 270,
+      "paragraphs": 8,
+      "faq": 2,
+      "scenario_labeled": true,
+      "research_status": "verified_address_context",
+      "source_count": 1
+    },
+    {
+      "path": "/bolgeler/menderes/cileme/",
+      "editorial_word_count": 270,
+      "paragraphs": 8,
+      "faq": 2,
+      "scenario_labeled": true,
+      "research_status": "verified_address_context",
+      "source_count": 1
+    },
+    {
+      "path": "/bolgeler/menemen/degirmendere/",
+      "editorial_word_count": 264,
+      "paragraphs": 8,
+      "faq": 2,
+      "scenario_labeled": true,
+      "research_status": "verified_address_context",
+      "source_count": 1
+    },
+    {
+      "path": "/bolgeler/menderes/develi/",
+      "editorial_word_count": 276,
+      "paragraphs": 8,
+      "faq": 2,
+      "scenario_labeled": true,
+      "research_status": "verified_address_context",
+      "source_count": 1
+    },
+    {
+      "path": "/bolgeler/bornova/doganlar/",
+      "editorial_word_count": 270,
+      "paragraphs": 8,
+      "faq": 2,
+      "scenario_labeled": true,
+      "research_status": "verified_address_context",
+      "source_count": 1
+    },
+    {
+      "path": "/bolgeler/bornova/egemenlik/",
+      "editorial_word_count": 276,
+      "paragraphs": 8,
+      "faq": 2,
+      "scenario_labeled": true,
+      "research_status": "verified_address_context",
+      "source_count": 1
+    },
+    {
+      "path": "/bolgeler/bornova/erzene-mahallesi/",
+      "editorial_word_count": 263,
+      "paragraphs": 8,
+      "faq": 2,
+      "scenario_labeled": true,
+      "research_status": "verified_address_context",
+      "source_count": 1
+    },
+    {
+      "path": "/bolgeler/noktalar/esendere/",
+      "editorial_word_count": 276,
+      "paragraphs": 9,
+      "faq": 2,
+      "scenario_labeled": true,
+      "research_status": "verified",
+      "source_count": 1
+    },
+    {
+      "path": "/bolgeler/noktalar/esenkent/",
+      "editorial_word_count": 274,
+      "paragraphs": 9,
+      "faq": 2,
+      "scenario_labeled": true,
+      "research_status": "unresolved",
+      "source_count": 0
+    },
+    {
+      "path": "/bolgeler/noktalar/esentepe/",
+      "editorial_word_count": 269,
+      "paragraphs": 8,
+      "faq": 2,
+      "scenario_labeled": true,
+      "research_status": "verified_address_context",
+      "source_count": 1
+    },
+    {
+      "path": "/bolgeler/buca/evka-1/",
+      "editorial_word_count": 273,
+      "paragraphs": 9,
+      "faq": 2,
+      "scenario_labeled": true,
+      "research_status": "verified",
+      "source_count": 1
+    },
+    {
+      "path": "/bolgeler/cigli/evka-2/",
+      "editorial_word_count": 258,
+      "paragraphs": 8,
+      "faq": 2,
+      "scenario_labeled": true,
+      "research_status": "verified_address_context",
+      "source_count": 1
+    },
+    {
+      "path": "/bolgeler/bornova/evka-3/",
+      "editorial_word_count": 260,
+      "paragraphs": 8,
+      "faq": 2,
+      "scenario_labeled": true,
+      "research_status": "verified_address_context",
+      "source_count": 1
+    },
+    {
+      "path": "/bolgeler/bornova/evka-4/",
+      "editorial_word_count": 263,
+      "paragraphs": 8,
+      "faq": 2,
+      "scenario_labeled": true,
+      "research_status": "verified_address_context",
+      "source_count": 1
+    },
+    {
+      "path": "/bolgeler/cigli/evka-5/",
+      "editorial_word_count": 256,
+      "paragraphs": 8,
+      "faq": 2,
+      "scenario_labeled": true,
+      "research_status": "verified_address_context",
+      "source_count": 1
+    },
+    {
+      "path": "/bolgeler/cigli/evka-6/",
+      "editorial_word_count": 270,
+      "paragraphs": 8,
+      "faq": 2,
+      "scenario_labeled": true,
+      "research_status": "verified_address_context",
+      "source_count": 1
+    },
+    {
+      "path": "/bolgeler/cigli/evka-7/",
+      "editorial_word_count": 278,
+      "paragraphs": 9,
+      "faq": 2,
+      "scenario_labeled": true,
+      "research_status": "verified_correction",
+      "source_count": 2
+    },
+    {
+      "path": "/bolgeler/karabaglar/fahrettin-altay/",
+      "editorial_word_count": 270,
+      "paragraphs": 8,
+      "faq": 2,
+      "scenario_labeled": true,
+      "research_status": "verified_address_context",
+      "source_count": 1
+    },
+    {
+      "path": "/bolgeler/noktalar/gediz/",
+      "editorial_word_count": 285,
+      "paragraphs": 9,
+      "faq": 2,
+      "scenario_labeled": true,
+      "research_status": "verified",
+      "source_count": 2
+    },
+    {
+      "path": "/bolgeler/bornova/gokdere/",
+      "editorial_word_count": 273,
+      "paragraphs": 8,
+      "faq": 2,
+      "scenario_labeled": true,
+      "research_status": "verified_address_context",
+      "source_count": 1
+    },
+    {
+      "path": "/bolgeler/buca/goksu/",
+      "editorial_word_count": 263,
+      "paragraphs": 8,
+      "faq": 2,
+      "scenario_labeled": true,
+      "research_status": "verified_address_context",
+      "source_count": 1
+    },
+    {
+      "path": "/bolgeler/menemen/gorece/",
+      "editorial_word_count": 270,
+      "paragraphs": 8,
+      "faq": 2,
+      "scenario_labeled": true,
+      "research_status": "verified_address_context",
+      "source_count": 1
+    },
+    {
+      "path": "/bolgeler/urla/gulbahce/",
+      "editorial_word_count": 268,
+      "paragraphs": 8,
+      "faq": 2,
+      "scenario_labeled": true,
+      "research_status": "verified_address_context",
+      "source_count": 2
+    },
+    {
+      "path": "/bolgeler/karabaglar/gulyaka/",
+      "editorial_word_count": 263,
+      "paragraphs": 8,
+      "faq": 2,
+      "scenario_labeled": true,
+      "research_status": "verified_address_context",
+      "source_count": 1
+    },
+    {
+      "path": "/bolgeler/menderes/gumuldur/",
+      "editorial_word_count": 284,
+      "paragraphs": 9,
+      "faq": 2,
+      "scenario_labeled": true,
+      "research_status": "verified",
+      "source_count": 2
+    },
+    {
+      "path": "/bolgeler/karabaglar/gunaltay/",
+      "editorial_word_count": 273,
+      "paragraphs": 8,
+      "faq": 2,
+      "scenario_labeled": true,
+      "research_status": "verified_address_context",
+      "source_count": 1
+    },
+    {
+      "path": "/bolgeler/konak/guzelyali/",
+      "editorial_word_count": 264,
+      "paragraphs": 8,
+      "faq": 2,
+      "scenario_labeled": true,
+      "research_status": "verified_address_context",
+      "source_count": 1
+    },
+    {
+      "path": "/bolgeler/gaziemir/havalimani/",
+      "editorial_word_count": 296,
+      "paragraphs": 9,
+      "faq": 2,
+      "scenario_labeled": true,
+      "research_status": "verified",
+      "source_count": 1
+    },
+    {
+      "path": "/bolgeler/noktalar/irmak-mahallesi/",
+      "editorial_word_count": 267,
+      "paragraphs": 8,
+      "faq": 2,
+      "scenario_labeled": true,
+      "research_status": "verified_address_context",
+      "source_count": 1
+    },
+    {
+      "path": "/bolgeler/urla/icmeler/",
+      "editorial_word_count": 279,
+      "paragraphs": 8,
+      "faq": 2,
+      "scenario_labeled": true,
+      "research_status": "verified_address_context",
+      "source_count": 1
+    },
+    {
+      "path": "/bolgeler/balcova/inciralti/",
+      "editorial_word_count": 281,
+      "paragraphs": 8,
+      "faq": 2,
+      "scenario_labeled": true,
+      "research_status": "verified_address_context",
+      "source_count": 2
+    },
+    {
+      "path": "/bolgeler/noktalar/inonu/",
+      "editorial_word_count": 288,
+      "paragraphs": 8,
+      "faq": 2,
+      "scenario_labeled": true,
+      "research_status": "verified_address_context",
+      "source_count": 1
+    },
+    {
+      "path": "/bolgeler/noktalar/karatas/",
+      "editorial_word_count": 285,
+      "paragraphs": 9,
+      "faq": 2,
+      "scenario_labeled": true,
+      "research_status": "verified",
+      "source_count": 1
+    },
+    {
+      "path": "/bolgeler/bornova/kavaklidere/",
+      "editorial_word_count": 279,
+      "paragraphs": 8,
+      "faq": 2,
+      "scenario_labeled": true,
+      "research_status": "verified_address_context",
+      "source_count": 2
+    },
+    {
+      "path": "/bolgeler/buca/kaynaklar/",
+      "editorial_word_count": 277,
+      "paragraphs": 9,
+      "faq": 2,
+      "scenario_labeled": true,
+      "research_status": "verified",
+      "source_count": 1
+    },
+    {
+      "path": "/bolgeler/noktalar/kazimdirik/",
+      "editorial_word_count": 282,
+      "paragraphs": 8,
+      "faq": 2,
+      "scenario_labeled": true,
+      "research_status": "verified_address_context",
+      "source_count": 1
+    },
+    {
+      "path": "/bolgeler/menderes/kisik/",
+      "editorial_word_count": 276,
+      "paragraphs": 8,
+      "faq": 2,
+      "scenario_labeled": true,
+      "research_status": "verified_address_context",
+      "source_count": 1
+    },
+    {
+      "path": "/bolgeler/buca/kozagac/",
+      "editorial_word_count": 264,
+      "paragraphs": 8,
+      "faq": 2,
+      "scenario_labeled": true,
+      "research_status": "verified_address_context",
+      "source_count": 1
+    },
+    {
+      "path": "/bolgeler/buca/kurucesme/",
+      "editorial_word_count": 272,
+      "paragraphs": 8,
+      "faq": 2,
+      "scenario_labeled": true,
+      "research_status": "verified_address_context",
+      "source_count": 1
+    },
+    {
+      "path": "/bolgeler/noktalar/kucuk-park/",
+      "editorial_word_count": 276,
+      "paragraphs": 9,
+      "faq": 2,
+      "scenario_labeled": true,
+      "research_status": "verified",
+      "source_count": 1
+    },
+    {
+      "path": "/bolgeler/noktalar/kucukyali/",
+      "editorial_word_count": 266,
+      "paragraphs": 9,
+      "faq": 2,
+      "scenario_labeled": true,
+      "research_status": "verified",
+      "source_count": 1
+    },
+    {
+      "path": "/bolgeler/menderes/kuner/",
+      "editorial_word_count": 272,
+      "paragraphs": 8,
+      "faq": 2,
+      "scenario_labeled": true,
+      "research_status": "verified_address_context",
+      "source_count": 1
+    },
+    {
+      "path": "/bolgeler/bornova/laka-mahallesi/",
+      "editorial_word_count": 269,
+      "paragraphs": 8,
+      "faq": 2,
+      "scenario_labeled": true,
+      "research_status": "verified_address_context",
+      "source_count": 1
+    },
+    {
+      "path": "/bolgeler/guzelbahce/liman-reis/",
+      "editorial_word_count": 321,
+      "paragraphs": 9,
+      "faq": 2,
+      "scenario_labeled": true,
+      "research_status": "record_grounded_editorial",
+      "source_count": 1
+    },
+    {
+      "path": "/bolgeler/karabaglar/limontepe/",
+      "editorial_word_count": 268,
+      "paragraphs": 8,
+      "faq": 2,
+      "scenario_labeled": true,
+      "research_status": "verified_address_context",
+      "source_count": 1
+    },
+    {
+      "path": "/bolgeler/noktalar/maltepe/",
+      "editorial_word_count": 275,
+      "paragraphs": 8,
+      "faq": 2,
+      "scenario_labeled": true,
+      "research_status": "verified_address_context",
+      "source_count": 1
+    },
+    {
+      "path": "/bolgeler/bayrakli/manavkuyu/",
+      "editorial_word_count": 268,
+      "paragraphs": 8,
+      "faq": 2,
+      "scenario_labeled": true,
+      "research_status": "verified_address_context",
+      "source_count": 1
+    },
+    {
+      "path": "/bolgeler/noktalar/menderes-mahallesi/",
+      "editorial_word_count": 267,
+      "paragraphs": 8,
+      "faq": 2,
+      "scenario_labeled": true,
+      "research_status": "verified_address_context",
+      "source_count": 1
+    },
+    {
+      "path": "/bolgeler/bornova/mevlana-mahallesi/",
+      "editorial_word_count": 265,
+      "paragraphs": 8,
+      "faq": 2,
+      "scenario_labeled": true,
+      "research_status": "verified_address_context",
+      "source_count": 1
+    },
+    {
+      "path": "/bolgeler/bornova/naldoken/",
+      "editorial_word_count": 270,
+      "paragraphs": 8,
+      "faq": 2,
+      "scenario_labeled": true,
+      "research_status": "verified_address_context",
+      "source_count": 1
+    },
+    {
+      "path": "/bolgeler/noktalar/narbel/",
+      "editorial_word_count": 287,
+      "paragraphs": 9,
+      "faq": 2,
+      "scenario_labeled": true,
+      "research_status": "verified",
+      "source_count": 1
+    },
+    {
+      "path": "/bolgeler/narlidere/narli/",
+      "editorial_word_count": 272,
+      "paragraphs": 8,
+      "faq": 2,
+      "scenario_labeled": true,
+      "research_status": "verified_address_context",
+      "source_count": 1
+    },
+    {
+      "path": "/bolgeler/menderes/oglananasi/",
+      "editorial_word_count": 279,
+      "paragraphs": 9,
+      "faq": 2,
+      "scenario_labeled": true,
+      "research_status": "verified",
+      "source_count": 1
+    },
+    {
+      "path": "/bolgeler/noktalar/onur-mahallesi/",
+      "editorial_word_count": 271,
+      "paragraphs": 8,
+      "faq": 2,
+      "scenario_labeled": true,
+      "research_status": "verified_address_context",
+      "source_count": 1
+    },
+    {
+      "path": "/bolgeler/urla/ozbek/",
+      "editorial_word_count": 273,
+      "paragraphs": 8,
+      "faq": 2,
+      "scenario_labeled": true,
+      "research_status": "verified_address_context",
+      "source_count": 2
+    },
+    {
+      "path": "/bolgeler/menderes/ozdere/",
+      "editorial_word_count": 280,
+      "paragraphs": 9,
+      "faq": 2,
+      "scenario_labeled": true,
+      "research_status": "verified",
+      "source_count": 2
+    },
+    {
+      "path": "/bolgeler/noktalar/payamli/",
+      "editorial_word_count": 274,
+      "paragraphs": 8,
+      "faq": 2,
+      "scenario_labeled": true,
+      "research_status": "verified_address_context",
+      "source_count": 1
+    },
+    {
+      "path": "/bolgeler/noktalar/peker-mahallesi/",
+      "editorial_word_count": 270,
+      "paragraphs": 9,
+      "faq": 2,
+      "scenario_labeled": true,
+      "research_status": "verified",
+      "source_count": 1
+    },
+    {
+      "path": "/bolgeler/karabaglar/poligon/",
+      "editorial_word_count": 272,
+      "paragraphs": 8,
+      "faq": 2,
+      "scenario_labeled": true,
+      "research_status": "verified_address_context",
+      "source_count": 1
+    },
+    {
+      "path": "/bolgeler/noktalar/selway/",
+      "editorial_word_count": 290,
+      "paragraphs": 9,
+      "faq": 2,
+      "scenario_labeled": true,
+      "research_status": "verified",
+      "source_count": 1
+    },
+    {
+      "path": "/bolgeler/seferihisar/sigacik/",
+      "editorial_word_count": 276,
+      "paragraphs": 8,
+      "faq": 2,
+      "scenario_labeled": true,
+      "research_status": "verified_address_context",
+      "source_count": 2
+    },
+    {
+      "path": "/bolgeler/noktalar/siteler/",
+      "editorial_word_count": 293,
+      "paragraphs": 9,
+      "faq": 2,
+      "scenario_labeled": true,
+      "research_status": "record_grounded_editorial",
+      "source_count": 1
+    },
+    {
+      "path": "/bolgeler/menderes/sasal/",
+      "editorial_word_count": 272,
+      "paragraphs": 9,
+      "faq": 2,
+      "scenario_labeled": true,
+      "research_status": "record_grounded_editorial",
+      "source_count": 1
+    },
+    {
+      "path": "/bolgeler/karsiyaka/semikler/",
+      "editorial_word_count": 267,
+      "paragraphs": 9,
+      "faq": 2,
+      "scenario_labeled": true,
+      "research_status": "record_grounded_editorial",
+      "source_count": 1
+    },
+    {
+      "path": "/bolgeler/noktalar/tekeli-turkmen/",
+      "editorial_word_count": 284,
+      "paragraphs": 9,
+      "faq": 2,
+      "scenario_labeled": true,
+      "research_status": "ambiguous",
+      "source_count": 2
+    },
+    {
+      "path": "/bolgeler/balcova/teleferik/",
+      "editorial_word_count": 269,
+      "paragraphs": 9,
+      "faq": 2,
+      "scenario_labeled": true,
+      "research_status": "record_grounded_editorial",
+      "source_count": 1
+    },
+    {
+      "path": "/bolgeler/bornova/tuna/",
+      "editorial_word_count": 267,
+      "paragraphs": 9,
+      "faq": 2,
+      "scenario_labeled": true,
+      "research_status": "record_grounded_editorial",
+      "source_count": 1
+    },
+    {
+      "path": "/bolgeler/seferihisar/ulamis/",
+      "editorial_word_count": 271,
+      "paragraphs": 9,
+      "faq": 2,
+      "scenario_labeled": true,
+      "research_status": "record_grounded_editorial",
+      "source_count": 1
+    },
+    {
+      "path": "/bolgeler/kemalpasa/ulucak/",
+      "editorial_word_count": 295,
+      "paragraphs": 9,
+      "faq": 2,
+      "scenario_labeled": true,
+      "research_status": "verified",
+      "source_count": 1
+    },
+    {
+      "path": "/bolgeler/urla/iskele/",
+      "editorial_word_count": 280,
+      "paragraphs": 9,
+      "faq": 2,
+      "scenario_labeled": true,
+      "research_status": "record_grounded_editorial",
+      "source_count": 1
+    },
+    {
+      "path": "/bolgeler/noktalar/uzundere/",
+      "editorial_word_count": 277,
+      "paragraphs": 9,
+      "faq": 2,
+      "scenario_labeled": true,
+      "research_status": "record_grounded_editorial",
+      "source_count": 1
+    },
+    {
+      "path": "/bolgeler/seferihisar/urkmez/",
+      "editorial_word_count": 267,
+      "paragraphs": 9,
+      "faq": 2,
+      "scenario_labeled": true,
+      "research_status": "verified",
+      "source_count": 2
+    },
+    {
+      "path": "/bolgeler/noktalar/yaka-mahallesi/",
+      "editorial_word_count": 281,
+      "paragraphs": 9,
+      "faq": 2,
+      "scenario_labeled": true,
+      "research_status": "record_grounded_editorial",
+      "source_count": 1
+    },
+    {
+      "path": "/bolgeler/noktalar/yali-mahallesi/",
+      "editorial_word_count": 271,
+      "paragraphs": 9,
+      "faq": 2,
+      "scenario_labeled": true,
+      "research_status": "record_grounded_editorial",
+      "source_count": 1
+    },
+    {
+      "path": "/bolgeler/narlidere/yenikale/",
+      "editorial_word_count": 273,
+      "paragraphs": 9,
+      "faq": 2,
+      "scenario_labeled": true,
+      "research_status": "record_grounded_editorial",
+      "source_count": 1
+    },
+    {
+      "path": "/bolgeler/noktalar/yenikoy/",
+      "editorial_word_count": 278,
+      "paragraphs": 9,
+      "faq": 2,
+      "scenario_labeled": true,
+      "research_status": "record_grounded_editorial",
+      "source_count": 1
+    },
+    {
+      "path": "/bolgeler/noktalar/yesilova/",
+      "editorial_word_count": 279,
+      "paragraphs": 9,
+      "faq": 2,
+      "scenario_labeled": true,
+      "research_status": "record_grounded_editorial",
+      "source_count": 1
+    },
+    {
+      "path": "/bolgeler/noktalar/yildiz-mahallesi/",
+      "editorial_word_count": 278,
+      "paragraphs": 9,
+      "faq": 2,
+      "scenario_labeled": true,
+      "research_status": "record_grounded_editorial",
+      "source_count": 1
+    },
+    {
+      "path": "/bolgeler/urla/zeytinler/",
+      "editorial_word_count": 273,
+      "paragraphs": 9,
+      "faq": 2,
+      "scenario_labeled": true,
+      "research_status": "record_grounded_editorial",
+      "source_count": 1
+    },
+    {
+      "path": "/bolgeler/karabaglar/uckuyular/",
+      "editorial_word_count": 271,
+      "paragraphs": 9,
+      "faq": 2,
+      "scenario_labeled": true,
+      "research_status": "record_grounded_editorial",
+      "source_count": 1
+    },
+    {
+      "path": "/bolgeler/noktalar/eskiizmir/",
+      "editorial_word_count": 273,
+      "paragraphs": 9,
+      "faq": 2,
+      "scenario_labeled": true,
+      "research_status": "verified",
+      "source_count": 1
+    },
+    {
+      "path": "/bolgeler/narlidere/sahilevleri/",
+      "editorial_word_count": 285,
+      "paragraphs": 9,
+      "faq": 2,
+      "scenario_labeled": true,
+      "research_status": "record_grounded_editorial",
+      "source_count": 1
+    },
+    {
+      "path": "/bolgeler/selcuk/sirince/",
+      "editorial_word_count": 274,
+      "paragraphs": 9,
+      "faq": 2,
+      "scenario_labeled": true,
+      "research_status": "record_grounded_editorial",
+      "source_count": 1
+    },
+    {
+      "path": "/guzergahlar/manisa-yolu/",
+      "editorial_word_count": 303,
+      "paragraphs": 8,
+      "faq": 2,
+      "scenario_labeled": true,
+      "research_status": "verified_static_facts",
+      "source_count": 1
+    },
+    {
+      "path": "/bolgeler/noktalar/karakoy/",
+      "editorial_word_count": 301,
+      "paragraphs": 9,
+      "faq": 2,
+      "scenario_labeled": true,
+      "research_status": "record_grounded_editorial",
+      "source_count": 1
+    },
+    {
+      "path": "/bolgeler/noktalar/ataturk-mahallesi/",
+      "editorial_word_count": 296,
+      "paragraphs": 9,
+      "faq": 2,
+      "scenario_labeled": true,
+      "research_status": "record_grounded_editorial",
+      "source_count": 1
+    },
+    {
+      "path": "/bolgeler/guzelbahce/celebi-mahallesi/",
+      "editorial_word_count": 287,
+      "paragraphs": 9,
+      "faq": 2,
+      "scenario_labeled": true,
+      "research_status": "record_grounded_editorial",
+      "source_count": 1
+    },
+    {
+      "path": "/bolgeler/noktalar/kucukkaya/",
+      "editorial_word_count": 279,
+      "paragraphs": 9,
+      "faq": 2,
+      "scenario_labeled": true,
+      "research_status": "record_grounded_editorial",
+      "source_count": 1
+    },
+    {
+      "path": "/bolgeler/noktalar/eserkent/",
+      "editorial_word_count": 274,
+      "paragraphs": 9,
+      "faq": 2,
+      "scenario_labeled": true,
+      "research_status": "verified",
+      "source_count": 1
+    },
+    {
+      "path": "/bolgeler/selcuk/zeytinkoy/",
+      "editorial_word_count": 283,
+      "paragraphs": 9,
+      "faq": 2,
+      "scenario_labeled": true,
+      "research_status": "record_grounded_editorial",
+      "source_count": 1
+    },
+    {
+      "path": "/bolgeler/selcuk/acarlar/",
+      "editorial_word_count": 291,
+      "paragraphs": 9,
+      "faq": 2,
+      "scenario_labeled": true,
+      "research_status": "record_grounded_editorial",
+      "source_count": 1
+    },
+    {
+      "path": "/bolgeler/selcuk/barutcu/",
+      "editorial_word_count": 288,
+      "paragraphs": 9,
+      "faq": 2,
+      "scenario_labeled": true,
+      "research_status": "record_grounded_editorial",
+      "source_count": 1
+    },
+    {
+      "path": "/bolgeler/torbali/19-mayis/",
+      "editorial_word_count": 271,
+      "paragraphs": 9,
+      "faq": 2,
+      "scenario_labeled": true,
+      "research_status": "verified",
+      "source_count": 1
+    },
+    {
+      "path": "/bolgeler/torbali/arslanlar/",
+      "editorial_word_count": 289,
+      "paragraphs": 9,
+      "faq": 2,
+      "scenario_labeled": true,
+      "research_status": "record_grounded_editorial",
+      "source_count": 1
+    },
+    {
+      "path": "/bolgeler/torbali/atalan/",
+      "editorial_word_count": 287,
+      "paragraphs": 9,
+      "faq": 2,
+      "scenario_labeled": true,
+      "research_status": "record_grounded_editorial",
+      "source_count": 1
+    },
+    {
+      "path": "/bolgeler/torbali/ataturk/",
+      "editorial_word_count": 297,
+      "paragraphs": 9,
+      "faq": 2,
+      "scenario_labeled": true,
+      "research_status": "record_grounded_editorial",
+      "source_count": 1
+    },
+    {
+      "path": "/bolgeler/torbali/bahcelievler/",
+      "editorial_word_count": 281,
+      "paragraphs": 9,
+      "faq": 2,
+      "scenario_labeled": true,
+      "research_status": "record_grounded_editorial",
+      "source_count": 1
+    },
+    {
+      "path": "/bolgeler/torbali/bozkoy/",
+      "editorial_word_count": 286,
+      "paragraphs": 9,
+      "faq": 2,
+      "scenario_labeled": true,
+      "research_status": "record_grounded_editorial",
+      "source_count": 1
+    },
+    {
+      "path": "/bolgeler/torbali/bulbuldere/",
+      "editorial_word_count": 298,
+      "paragraphs": 9,
+      "faq": 2,
+      "scenario_labeled": true,
+      "research_status": "record_grounded_editorial",
+      "source_count": 1
+    },
+    {
+      "path": "/bolgeler/torbali/cumhuriyet/",
+      "editorial_word_count": 295,
+      "paragraphs": 9,
+      "faq": 2,
+      "scenario_labeled": true,
+      "research_status": "record_grounded_editorial",
+      "source_count": 1
+    },
+    {
+      "path": "/bolgeler/torbali/cakirbeyli/",
+      "editorial_word_count": 285,
+      "paragraphs": 9,
+      "faq": 2,
+      "scenario_labeled": true,
+      "research_status": "record_grounded_editorial",
+      "source_count": 1
+    },
+    {
+      "path": "/bolgeler/torbali/camlica/",
+      "editorial_word_count": 306,
+      "paragraphs": 9,
+      "faq": 2,
+      "scenario_labeled": true,
+      "research_status": "record_grounded_editorial",
+      "source_count": 1
+    },
+    {
+      "path": "/bolgeler/torbali/dagkizilca/",
+      "editorial_word_count": 286,
+      "paragraphs": 9,
+      "faq": 2,
+      "scenario_labeled": true,
+      "research_status": "record_grounded_editorial",
+      "source_count": 1
+    },
+    {
+      "path": "/bolgeler/torbali/demirci/",
+      "editorial_word_count": 282,
+      "paragraphs": 9,
+      "faq": 2,
+      "scenario_labeled": true,
+      "research_status": "record_grounded_editorial",
+      "source_count": 1
+    },
+    {
+      "path": "/bolgeler/torbali/ertugrul/",
+      "editorial_word_count": 301,
+      "paragraphs": 9,
+      "faq": 2,
+      "scenario_labeled": true,
+      "research_status": "record_grounded_editorial",
+      "source_count": 1
+    },
+    {
+      "path": "/bolgeler/torbali/fevzi-cakmak/",
+      "editorial_word_count": 283,
+      "paragraphs": 9,
+      "faq": 2,
+      "scenario_labeled": true,
+      "research_status": "record_grounded_editorial",
+      "source_count": 1
+    },
+    {
+      "path": "/bolgeler/torbali/golluce/",
+      "editorial_word_count": 286,
+      "paragraphs": 9,
+      "faq": 2,
+      "scenario_labeled": true,
+      "research_status": "record_grounded_editorial",
+      "source_count": 1
+    },
+    {
+      "path": "/bolgeler/torbali/helvaci/",
+      "editorial_word_count": 284,
+      "paragraphs": 9,
+      "faq": 2,
+      "scenario_labeled": true,
+      "research_status": "record_grounded_editorial",
+      "source_count": 1
+    },
+    {
+      "path": "/bolgeler/torbali/istiklal/",
+      "editorial_word_count": 295,
+      "paragraphs": 9,
+      "faq": 2,
+      "scenario_labeled": true,
+      "research_status": "verified",
+      "source_count": 1
+    },
+    {
+      "path": "/bolgeler/torbali/kaplancik/",
+      "editorial_word_count": 291,
+      "paragraphs": 9,
+      "faq": 2,
+      "scenario_labeled": true,
+      "research_status": "record_grounded_editorial",
+      "source_count": 1
+    },
+    {
+      "path": "/bolgeler/torbali/karakuyu/",
+      "editorial_word_count": 290,
+      "paragraphs": 9,
+      "faq": 2,
+      "scenario_labeled": true,
+      "research_status": "record_grounded_editorial",
+      "source_count": 1
+    },
+    {
+      "path": "/bolgeler/torbali/karsiyaka/",
+      "editorial_word_count": 281,
+      "paragraphs": 9,
+      "faq": 2,
+      "scenario_labeled": true,
+      "research_status": "record_grounded_editorial",
+      "source_count": 1
+    },
+    {
+      "path": "/bolgeler/torbali/pamukyazi/",
+      "editorial_word_count": 290,
+      "paragraphs": 9,
+      "faq": 2,
+      "scenario_labeled": true,
+      "research_status": "record_grounded_editorial",
+      "source_count": 1
+    },
+    {
+      "path": "/bolgeler/torbali/saglik/",
+      "editorial_word_count": 288,
+      "paragraphs": 9,
+      "faq": 2,
+      "scenario_labeled": true,
+      "research_status": "record_grounded_editorial",
+      "source_count": 1
+    },
+    {
+      "path": "/bolgeler/torbali/tulum/",
+      "editorial_word_count": 294,
+      "paragraphs": 9,
+      "faq": 2,
+      "scenario_labeled": true,
+      "research_status": "record_grounded_editorial",
+      "source_count": 1
+    },
+    {
+      "path": "/bolgeler/torbali/yogurtcular/",
+      "editorial_word_count": 293,
+      "paragraphs": 9,
+      "faq": 2,
+      "scenario_labeled": true,
+      "research_status": "record_grounded_editorial",
+      "source_count": 1
+    },
+    {
+      "path": "/guzergahlar/izmir-otoyolu/",
+      "editorial_word_count": 306,
+      "paragraphs": 8,
+      "faq": 2,
+      "scenario_labeled": true,
+      "research_status": "verified_static_facts",
+      "source_count": 1
+    },
+    {
+      "path": "/guzergahlar/otogar-otoyolu/",
+      "editorial_word_count": 295,
+      "paragraphs": 8,
+      "faq": 2,
+      "scenario_labeled": true,
+      "research_status": "verified_static_facts",
+      "source_count": 1
+    },
+    {
+      "path": "/guzergahlar/belkahve-tunelleri/",
+      "editorial_word_count": 297,
+      "paragraphs": 8,
+      "faq": 2,
+      "scenario_labeled": true,
+      "research_status": "verified_static_facts",
+      "source_count": 1
+    },
+    {
+      "path": "/bolgeler/konak/kordon/",
+      "editorial_word_count": 274,
+      "paragraphs": 9,
+      "faq": 2,
+      "scenario_labeled": true,
+      "research_status": "verified",
+      "source_count": 1
+    },
+    {
+      "path": "/bolgeler/konak/pasaport/",
+      "editorial_word_count": 286,
+      "paragraphs": 9,
+      "faq": 2,
+      "scenario_labeled": true,
+      "research_status": "verified",
+      "source_count": 2
+    },
+    {
+      "path": "/bolgeler/cesme/ciftlikkoy/",
+      "editorial_word_count": 277,
+      "paragraphs": 9,
+      "faq": 2,
+      "scenario_labeled": true,
+      "research_status": "verified",
+      "source_count": 1
+    }
+  ]
+}

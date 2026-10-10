@@ -1,0 +1,1731 @@
+{
+  "/bolgeler/aliaga/": {
+    "name": "Aliağa",
+    "checked_on": "2026-10-11",
+    "base_facts_checked_on": "2026-10-09",
+    "status": "supported_editorial_brief",
+    "facts": [
+      "İzmir’in kuzeyinde Ege kıyısında yer alır.",
+      "Nemrut Koyu, liman ve sanayi tesisleri ilçenin belirgin noktalarıdır."
+    ],
+    "sections": [
+      {
+        "heading": "Nemrut çevresinde tesis kapısını belirleme",
+        "paragraphs": [
+          "Aliağa’nın Ege kıyısındaki konumu ve Nemrut Koyu çevresindeki liman–sanayi alanları, araç alma adresini ilçe merkezinden ayrı değerlendirmeyi gerektirir. Bir tesisin adını söylemek giriş noktasını kesinleştirmez. Aracın tesis içinde mi, ziyaretçi parkında mı yoksa dış bağlantı yolunda mı kaldığını belirtin; varsa kapı numarasını konum pinine ekleyin."
+        ]
+      },
+      {
+        "heading": "Binek araç ile ticari araç talebini ayırma",
+        "paragraphs": [
+          "Liman veya sanayi çevresinden gelen bir talepte otomobil, panelvan ve yüklü ticari araç aynı taşıma ihtiyacını anlatmaz. Marka, model ve araç türünün yanında yük bulunup bulunmadığını da açıklayın. Arıza nedeniyle direksiyon veya tekerlekler hareket etmiyorsa bunu ilk görüşmede söyleyin; taşıma yöntemi yalnızca aracın bulunduğu ilçeye bakılarak seçilmemelidir."
+        ]
+      },
+      {
+        "heading": "Tesis çıkışı ve servis teslimini birlikte planlama",
+        "paragraphs": [
+          "Aracın alınacağı nokta bir güvenlik kapısının arkasındaysa giriş koşullarını tesis yetkilisiyle netleştirin. Çekicinin serbestçe her alana girebileceğini varsaymayın. Teslim için Aliağa içindeki bir servis ya da başka ilçedeki adres tercih edebilirsiniz; kabul edecek kişinin iletişimi, açık adres ve teslim saatine ilişkin bilgi görüşmede paylaşılmalıdır."
+        ]
+      }
+    ],
+    "questions": [
+      {
+        "q": "Nemrut Koyu yakınında yalnızca firma adını vermem yeterli mi?",
+        "a": "Firma adının yanında hangi kapıda beklediğinizi, tesisin içinde olup olmadığınızı ve araç konumunu gönderin. Böylece aynı tesise ait farklı girişler karışmaz."
+      },
+      {
+        "q": "Liman çevresindeki otomobil talebi ağır vasıta kurtarma sayılır mı?",
+        "a": "Hayır. Bölgenin sanayi niteliği aracın türünü değiştirmez; hizmet ihtiyacı araç özellikleri, arıza ve bulunduğu zemine göre değerlendirilir."
+      }
+    ],
+    "sources": [
+      {
+        "title": "İzmir Valiliği — Aliağa",
+        "url": "https://www.izmir.gov.tr/aliaga"
+      }
+    ],
+    "limitations": [
+      "Coğrafi bilgiler resmî kaynaklardan alınmıştır; araç alma ve teslim planlaması önerileri editoryal değerlendirmedir.",
+      "Metin, belirli bir adreste şube, giriş yetkisi, geçmiş iş, ekip mevcudu, varış süresi veya ücret doğrulamaz."
+    ],
+    "scenario": {
+      "title": "Tesis parkında kilitli direksiyon",
+      "situation": "Nemrut çevresindeki bir tesisin ziyaretçi parkında duran otomobil çalışmaz ve sürücü direksiyonun dönmediğini fark eder. Gönderilen konum tesisin ana binasını gösterir; araç ise farklı bir girişin yanında beklemektedir. Bu varsayımsal durumda sorun yalnızca motorun çalışmaması olarak anlatılmamalıdır.",
+      "assessment": "Tesisin kullanılacak kapısı ve aracın gerçek park noktası teyit edilir. Direksiyon, vites ve tekerlek durumu açıklanır; giriş için gerekli koşul tesis sorumlusuyla konuşulur. Fotoğrafta görülemeyen ayrıntılar kesinmiş gibi yazılmaz; araç yanındaki kişinin bildiği koşullar görüşmede ayrıca teyit edilir.",
+      "delivery": "Aracı kabul edecek servisin tam adresi alınır. Tesis girişinin açık olması servis tesliminin de hazır olduğu anlamına gelmez.",
+      "type": "illustrative_not_historical"
+    }
+  },
+  "/bolgeler/balcova/": {
+    "name": "Balçova",
+    "checked_on": "2026-10-11",
+    "base_facts_checked_on": "2026-10-09",
+    "status": "supported_editorial_brief",
+    "facts": [
+      "İzmir Körfezi kıyısında yer alır.",
+      "İnciraltı ve Teleferik ilçedeki rekreasyon alanlarıdır."
+    ],
+    "sections": [
+      {
+        "heading": "İnciraltı ve Teleferik için ayrı buluşma noktaları",
+        "paragraphs": [
+          "Balçova’da körfez kıyısındaki İnciraltı ile Teleferik çevresi farklı araç alma noktalarıdır. Talepte bu yerlerden hangisinde olduğunuzu baştan belirtin. Bir dinlenme alanı veya tesis yakınındaysanız bilinen yer adını açık adresle tamamlayın; aracın giriş kapısında, otoparkta ya da yol üzerinde beklediği ayrıca anlaşılmalıdır."
+        ]
+      },
+      {
+        "heading": "Otoparktaki arızayı doğru anlatma",
+        "paragraphs": [
+          "Termal tesis veya başka bir işletmenin otoparkında kalan araç için girişin açık mı kapalı mı olduğu önemlidir. Kapalı alandaysa yükseklik sınırı, rampa ve aracın bulunduğu kat hakkında bildiğiniz bilgileri paylaşın. Bunlar mevcut otoparkın gözlenen koşulları olmalıdır; Balçova’daki bütün tesislerin aynı erişime sahip olduğu kabul edilmez."
+        ]
+      },
+      {
+        "heading": "Taşıma mı, yerinde değerlendirme mi?",
+        "paragraphs": [
+          "Motorun çalışmaması her zaman aynı hizmeti gerektirmez. Akü uyarısı, lastik hasarı veya başka bir belirtiyi tarif ederek ihtiyacın görüşmede değerlendirilmesini sağlayın. Aracı taşıtmak istiyorsanız teslim edilecek servisin adresini ayrıca gönderin. İnciraltı ya da Teleferik adını taşıma hedefi yerine kullanmak, servis kabul noktası belli değilse yeterli olmayacaktır."
+        ]
+      }
+    ],
+    "questions": [
+      {
+        "q": "İnciraltı otoparkında kalan araç için hangi bilgiyi vermeliyim?",
+        "a": "Otopark adı, giriş ve kat bilgisi varsa bunları; ayrıca tam konum ve aracın hareket edip edemediğini paylaşın."
+      },
+      {
+        "q": "Teleferik çevresinde aracı yol üstüne çıkarmam gerekir mi?",
+        "a": "Aracı kendiniz zorlayarak hareket ettirmeyin. Mevcut konumu ve erişim koşullarını anlatın; uygun alma noktası görüşmede değerlendirilsin."
+      }
+    ],
+    "sources": [
+      {
+        "title": "İzmir Valiliği — Balçova",
+        "url": "https://www.izmir.gov.tr/balcova"
+      }
+    ],
+    "limitations": [
+      "Coğrafi bilgiler resmî kaynaklardan alınmıştır; araç alma ve teslim planlaması önerileri editoryal değerlendirmedir.",
+      "Metin, belirli bir adreste şube, giriş yetkisi, geçmiş iş, ekip mevcudu, varış süresi veya ücret doğrulamaz."
+    ],
+    "scenario": {
+      "title": "Kapalı otoparkta marş almayan araç",
+      "situation": "Balçova’da bir termal tesisin kapalı otoparkındaki otomobil marş almaz. Sürücü dışarıdaki tesis tabelasının konumunu gönderir, ancak araç bir alt katta beklemektedir. Örnekte dış kapıya ulaşmakla aracın bulunduğu kata erişmek iki ayrı konudur.",
+      "assessment": "Kat, araç kapısı ve görünen yükseklik sınırı paylaşılır. Aküyle ilişkili belirti olduğu söylenebilir; kesin arıza teşhisi yalnızca bu anlatımdan çıkarılmaz. Tekerleklerin ve vitesin durumu sorulur. Fotoğrafta görülemeyen ayrıntılar kesinmiş gibi yazılmaz; araç yanındaki kişinin bildiği koşullar görüşmede ayrıca teyit edilir.",
+      "delivery": "Yerinde değerlendirme veya taşıma ihtiyacı görüşmede netleştirilir. Taşıma seçilirse servisin açık kabul adresi ayrıca belirlenir.",
+      "type": "illustrative_not_historical"
+    }
+  },
+  "/bolgeler/bayindir/": {
+    "name": "Bayındır",
+    "checked_on": "2026-10-11",
+    "base_facts_checked_on": "2026-10-09",
+    "status": "supported_editorial_brief",
+    "facts": [
+      "Küçükmenderes Havzasında bulunur.",
+      "Torbalı, Tire ve Ödemiş ile çevrili tarımsal bir ilçedir."
+    ],
+    "sections": [
+      {
+        "heading": "Küçükmenderes Havzasında merkez ve kırsal adres ayrımı",
+        "paragraphs": [
+          "Bayındır, Küçükmenderes Havzasındaki tarımsal ilçelerden biridir; Torbalı, Tire ve Ödemiş çevresiyle birlikte düşünülen bir konumdadır. Talebi Bayındır merkezinden mi, mahalle bağlantısından mı yoksa tarımsal bir alandan mı verdiğinizi belirtin. Komşu bir ilçenin adını yön tarifi olarak kullanıyorsanız aracın gerçekte bulunduğu mahalleyi de ekleyin."
+        ]
+      },
+      {
+        "heading": "Bahçe ve tarla girişlerinde zemini açıklama",
+        "paragraphs": [
+          "Araç bahçe veya tarla girişinde kaldıysa yola olan konumunu tarif edin. Tekerleklerin asfalt üzerinde, toprakta veya başka bir zeminde bulunması araç alma planında farklı değerlendirilir. Kapının açıklığı ve manevra alanı görülebiliyorsa fotoğraf gönderin. Zeminin taşıma kapasitesi ya da yolun açık olduğu konusunda görmediğiniz bir bilgiyi kesin ifade etmeyin."
+        ]
+      },
+      {
+        "heading": "Bayındır’dan servis adresine taşıma planı",
+        "paragraphs": [
+          "Bayındır içinde bir noktadan alınacak aracın Tire, Torbalı veya Ödemiş yönündeki bir servise götürülmesi istenebilir; bunun talep edilen teslim adresi olduğu açıkça belirtilmelidir. İlçe adları tek başına güzergâh ya da fiyat oluşturmaz. Aracın özellikleri, gerçek alma noktası ve servisin kabul adresi konuşularak taşıma kapsamı netleştirilir."
+        ]
+      }
+    ],
+    "questions": [
+      {
+        "q": "Bayındır kırsalında mahalle adını bilmeden talep verebilir miyim?",
+        "a": "Konum pini ve gördüğünüz yol tabelası yardımcı olur. Bildiğiniz en yakın yerleşimi söyleyin; tahmin ettiğiniz mahalleyi kesin adres gibi sunmayın."
+      },
+      {
+        "q": "Tarla girişinde kalan otomobil için normal çekici yeterli mi?",
+        "a": "Zemin, erişim ve tekerleklerin durumu bilinmeden kesinleşmez. Araç ve çevre fotoğrafıyla alma koşullarının değerlendirilmesi gerekir."
+      }
+    ],
+    "sources": [
+      {
+        "title": "İzmir Valiliği — Bayındır",
+        "url": "https://www.izmir.gov.tr/bayindir"
+      }
+    ],
+    "limitations": [
+      "Coğrafi bilgiler resmî kaynaklardan alınmıştır; araç alma ve teslim planlaması önerileri editoryal değerlendirmedir.",
+      "Metin, belirli bir adreste şube, giriş yetkisi, geçmiş iş, ekip mevcudu, varış süresi veya ücret doğrulamaz."
+    ],
+    "scenario": {
+      "title": "Bahçe girişinde duran panelvan",
+      "situation": "Bayındır’daki bir bahçe girişinde panelvan hareket edemez. Araç sürücüsü motorun çalıştığını, fakat tekerleklerden birinin serbest dönmediğini söyler. İlçe merkezinin konumunu göndermek gerçek bahçe girişini göstermeyeceği için örnekte araç noktası ayrıca işaretlenir.",
+      "assessment": "Yük bulunup bulunmadığı ve hangi tekerlekte sorun görüldüğü açıklanır. Yol ile araç arasındaki erişim fotoğraflanır; toprağın taşıma kapasitesi veya belirli ekipman gerekliliği uzaktan kesin kabul edilmez. Fotoğrafta görülemeyen ayrıntılar kesinmiş gibi yazılmaz; araç yanındaki kişinin bildiği koşullar görüşmede ayrıca teyit edilir.",
+      "delivery": "Seçilen servisin kabulü konuşulur. Bayındır’daki alma noktası ile örneğin Tire’de istenen teslim adresi ayrı paylaşılır.",
+      "type": "illustrative_not_historical"
+    }
+  },
+  "/bolgeler/bayrakli/": {
+    "name": "Bayraklı",
+    "checked_on": "2026-10-11",
+    "base_facts_checked_on": "2026-10-09",
+    "status": "supported_editorial_brief",
+    "facts": [
+      "İzmir Körfezi’nin kuzeydoğu köşesinde yer alır.",
+      "İzmir–Çanakkale karayolu hattı üzerinde bulunur."
+    ],
+    "sections": [
+      {
+        "heading": "Körfez konumu ile ana yol konumunu ayırma",
+        "paragraphs": [
+          "Bayraklı, körfezin kuzeydoğu kesiminde ve İzmir–Çanakkale karayolu hattında yer alır. Sahile yakın bir kent içi adres ile ana yol üzerindeki bir arıza aynı konum tarifiyle anlatılmamalıdır. İlçe adından sonra bulunduğunuz caddeyi veya yolu yazın; yol üstündeyseniz ilerlediğiniz yönü ve gördüğünüz çıkış tabelasını da ekleyin."
+        ]
+      },
+      {
+        "heading": "Bina ve iş yeri otoparkından araç alma",
+        "paragraphs": [
+          "Bir iş yeri veya binanın otoparkındaki araç için dışarıdaki cadde adresi tek başına yeterli olmayabilir. Kapı, kat ve girişin bulunduğu sokak önemlidir. Aracın çalışıp çalışmadığı kadar direksiyonun dönmesi ve tekerleklerin serbest olması da görüşmede anlatılmalıdır. Giriş izni gerekiyorsa ilgili kişiyle önceden konuşarak erişim koşulunu netleştirin."
+        ]
+      },
+      {
+        "heading": "Servis adresini başlangıç konumundan ayırma",
+        "paragraphs": [
+          "Bayraklı’da aracı aldıracağınız yer ile teslim edeceğiniz servis aynı semtte olsa bile iki ayrı konumdur. Harita bağlantılarının hangisinin alma, hangisinin teslim adresi olduğunu yazın. Aracın bakım için mi arıza nedeniyle mi taşınacağını belirtmeniz iletişimi kolaylaştırır; telefonda konuşulan taşıma kapsamı, ilçedeki başka bir adrese otomatik olarak uygulanmış sayılmaz."
+        ]
+      }
+    ],
+    "questions": [
+      {
+        "q": "Bayraklı’da ana yolun karşı tarafında görünen konum yeterli olur mu?",
+        "a": "Konum pininin yanında hareket yönünü ve aracın bulunduğu yol tarafını söyleyin. Yakındaki tabela da adresin teyidine yardımcı olur."
+      },
+      {
+        "q": "Ofis otoparkındaki aracım için bina adını söylemem yeterli mi?",
+        "a": "Bina adıyla birlikte araç girişini, katı ve arızalı aracın konumunu belirtin; yalnızca yaya girişi araç alma adresi olmayabilir."
+      }
+    ],
+    "sources": [
+      {
+        "title": "İzmir İl Kültür ve Turizm Müdürlüğü — Bayraklı",
+        "url": "https://izmir.ktb.gov.tr/TR-77441/bayrakli.html"
+      }
+    ],
+    "limitations": [
+      "Coğrafi bilgiler resmî kaynaklardan alınmıştır; araç alma ve teslim planlaması önerileri editoryal değerlendirmedir.",
+      "Metin, belirli bir adreste şube, giriş yetkisi, geçmiş iş, ekip mevcudu, varış süresi veya ücret doğrulamaz."
+    ],
+    "scenario": {
+      "title": "Ana yol ile bina konumunun karışması",
+      "situation": "Bayraklı’da ana yol üzerinde kalan sürücü yakındaki ofis binasının işaretini gönderir. Araç binanın otoparkında değildir ve sürücünün ilerlediği yön harita işaretinden anlaşılamaz. Bu örnekte binanın bilinen adı yararlı bir yakın işarettir, alma noktası değildir.",
+      "assessment": "Aracın gerçek konumu, hareket yönü ve yakındaki tabela teyit edilir. Lastik sorunu varsa tekerleğin durumu ayrıca anlatılır; aracın kendiliğinden bina girişine taşınabileceği varsayılmaz. Fotoğrafta görülemeyen ayrıntılar kesinmiş gibi yazılmaz; araç yanındaki kişinin bildiği koşullar görüşmede ayrıca teyit edilir.",
+      "delivery": "Sürücünün seçtiği servis adresi alınır. Yakındaki bina veya işletme, arızalı aracın teslim edileceği yer gibi değerlendirilmez.",
+      "type": "illustrative_not_historical"
+    }
+  },
+  "/bolgeler/bergama/": {
+    "name": "Bergama",
+    "checked_on": "2026-10-11",
+    "base_facts_checked_on": "2026-10-09",
+    "status": "supported_editorial_brief",
+    "facts": [
+      "Bakırçay Havzasında yer alır.",
+      "Kozak Yaylası ilçe merkezinden farklı bir kırsal konumdur."
+    ],
+    "sections": [
+      {
+        "heading": "Bakırçay ve Kozak konumları aynı adres değildir",
+        "paragraphs": [
+          "Bergama’nın Bakırçay Havzasındaki merkezi ile Kozak Yaylası çevresindeki noktalar ayrı ele alınmalıdır. Çekici talebinde Bergama adından sonra hangi yerleşimde bulunduğunuzu yazın. Yayla çevresindeki bir konumu tarif ederken yalnızca gezilecek yer adını kullanmak yerine, aracın beklediği yol ve en yakın yerleşim bilgisiyle harita pinini birleştirin."
+        ]
+      },
+      {
+        "heading": "Merkez dışındaki araçta erişim bilgisi",
+        "paragraphs": [
+          "Kırsal veya yayla çevresindeki bir araç için yolun asfalt, toprak veya özel mülk girişi olup olmadığını gözlemlediğiniz kadarıyla açıklayın. Aracın yoldan ne kadar ayrıldığını tahmini mesafe vaadi yerine fotoğrafla göstermek daha yararlı olabilir. Tekerlek, direksiyon ve motor durumu da bildirilmelidir; yayla adı tek başına kurtarma gerekip gerekmediğini anlatmaz."
+        ]
+      },
+      {
+        "heading": "Bergama içi ve ilçe dışı teslim seçeneklerini netleştirme",
+        "paragraphs": [
+          "Aracı Bergama merkezindeki bir servise mi yoksa farklı bir ilçeye mi bırakmak istediğinizi görüşmenin başında söyleyin. Kırsal alma noktası ile servis adresini iki ayrı konum olarak paylaşın. Servisin aracı kabul edeceği bölüm ve irtibat kişisi belliyse iletin; bir yerleşimin adı, belirli bir servisin açık olduğuna veya teslimi kabul edeceğine ilişkin bilgi değildir."
+        ]
+      }
+    ],
+    "questions": [
+      {
+        "q": "Kozak Yaylası adı çekicinin beni bulması için yeterli mi?",
+        "a": "Yayla çevresindeki tam nokta için yerleşim, yol ve konum pini gerekir. Bildiğiniz bir tabela veya tesis adıyla tarifi destekleyin."
+      },
+      {
+        "q": "Bergama merkezine götürülecek araç için teslim noktası sonradan seçilebilir mi?",
+        "a": "Talepte değişiklik olursa güncel adresi paylaşın; taşıma kapsamı ve servis kabulü yeni hedefe göre yeniden netleştirilmelidir."
+      }
+    ],
+    "sources": [
+      {
+        "title": "İzmir Valiliği — Bergama",
+        "url": "https://www.izmir.gov.tr/bergama"
+      }
+    ],
+    "limitations": [
+      "Coğrafi bilgiler resmî kaynaklardan alınmıştır; araç alma ve teslim planlaması önerileri editoryal değerlendirmedir.",
+      "Metin, belirli bir adreste şube, giriş yetkisi, geçmiş iş, ekip mevcudu, varış süresi veya ücret doğrulamaz."
+    ],
+    "scenario": {
+      "title": "Kozak çevresinde özel park alanı",
+      "situation": "Kozak Yaylası çevresindeki bir park alanında duran otomobil çalışmaz. Araç sahibi yalnızca gezilen yerin adını hatırlar; yerleşim veya yol adından emin değildir. Örnekte yanlış bir mahalleyi kesinmiş gibi söylemek yerine mevcut konum ve giriş görünümü paylaşılır.",
+      "assessment": "Bilinen en yakın yerleşim, yol ve giriş fotoğrafı incelenir. Vites ve tekerleklerin hareket durumu anlatılır. Yayla adı üzerinden o günkü erişim veya hava koşulu hakkında karar verilmez.",
+      "delivery": "Bergama merkezindeki seçilmiş servis açık adresle belirlenir. Alma ve teslim noktaları ayrı tutulur; mesafe veya süre tahmini eklenmez.",
+      "type": "illustrative_not_historical"
+    }
+  },
+  "/bolgeler/beydag/": {
+    "name": "Beydağ",
+    "checked_on": "2026-10-11",
+    "base_facts_checked_on": "2026-10-09",
+    "status": "supported_editorial_brief",
+    "facts": [
+      "İzmir’in doğusunda Ödemiş ve Kiraz yakınındadır.",
+      "Tarım ve hayvancılığın yer aldığı bir ilçedir."
+    ],
+    "sections": [
+      {
+        "heading": "Beydağ merkezini kırsal noktadan ayırma",
+        "paragraphs": [
+          "Beydağ, İzmir’in doğusunda Ödemiş ve Kiraz yakınındaki tarım ve hayvancılık faaliyetleriyle tanıtılan bir ilçedir. Talep verirken araç ilçe merkezinde mi, bir mahalle bağlantısında mı yoksa üretim alanı girişinde mi kaldı, bunu belirtin. Ödemiş veya Kiraz adını yön olarak kullanıyorsanız hangi yerleşimden hareket ettiğinizi konumla birlikte anlatın."
+        ]
+      },
+      {
+        "heading": "Tarımsal alandaki araç için yük ve erişim bilgisi",
+        "paragraphs": [
+          "Bir otomobilin arızalanması ile yük taşıyan aracın hareket edememesi aynı talep değildir. Araç türünü, mevcut yükü ve bulunduğu zemini açıklayın. Özel alanın kapı açıklığı veya yola bağlantısı görülebiliyorsa fotoğraf gönderin. Ağır yük, tekerleklerin gömülmesi ya da direksiyonun kilitli olması gibi bilgiler taşıma konuşulmadan önce bilinmelidir; yalnızca motorun çalışmadığını söylemek yeterli olmayabilir."
+        ]
+      },
+      {
+        "heading": "Ödemiş ya da Kiraz yönünde teslim talebi",
+        "paragraphs": [
+          "Beydağ’dan alınacak aracın yakın ilçelerdeki bir servise teslimi isteniyorsa seçilen servisin adıyla yetinmeyin. Tam adresi ve aracı kabul edecek kişinin bilgilerini iletin. Yol üzerindeki başka bir mahalleden geçiliyor olması o mahallede de teslim yapılacağı anlamına gelmez; alma yeri, hedef adres ve talep edilen işlem birlikte netleştirilmelidir."
+        ]
+      }
+    ],
+    "questions": [
+      {
+        "q": "Beydağ’da açık adres yoksa nasıl konum paylaşabilirim?",
+        "a": "Harita pini, en yakın yerleşim ve kullandığınız yol tarifiyle başlayın. Özel mülk girişini ya da gördüğünüz tabelayı fotoğrafla destekleyebilirsiniz."
+      },
+      {
+        "q": "Yüklü araç için yalnızca plaka yeterli mi?",
+        "a": "Plaka araç konumunu ve yük durumunu açıklamaz. Araç türü, yük ve hareket sorunu ayrıca paylaşılmalıdır."
+      }
+    ],
+    "sources": [
+      {
+        "title": "İzmir Valiliği — Beydağ",
+        "url": "https://www.izmir.gov.tr/beydag"
+      }
+    ],
+    "limitations": [
+      "Coğrafi bilgiler resmî kaynaklardan alınmıştır; araç alma ve teslim planlaması önerileri editoryal değerlendirmedir.",
+      "Metin, belirli bir adreste şube, giriş yetkisi, geçmiş iş, ekip mevcudu, varış süresi veya ücret doğrulamaz."
+    ],
+    "scenario": {
+      "title": "Yük bilgisi eksik ticari araç talebi",
+      "situation": "Beydağ’da bir üretim alanının girişinde kalan ticari araç için sahibi sadece çalışmıyor bilgisini verir. Örnek görüşmede aracın yükünün hâlâ üzerinde olduğu ve park yerinin özel kapının arkasında bulunduğu anlaşılır. Bu iki bilgi motor belirtisinden farklı planlama konularıdır.",
+      "assessment": "Araç türü, yük hakkında bilinen bilgi, giriş açıklığı ve tekerlek durumu birlikte konuşulur. Özel alana giriş yetkisi netleştirilir; ilçenin tarımsal niteliğinden araç özellikleri tahmin edilmez.",
+      "delivery": "Ödemiş veya başka yerde seçilen servisin açık kabul adresi paylaşılır. Teslimi karşılayacak kişi belirlenmeden yer adıyla tamamlanmış sayılmaz.",
+      "type": "illustrative_not_historical"
+    }
+  },
+  "/bolgeler/bornova/": {
+    "name": "Bornova",
+    "checked_on": "2026-10-11",
+    "base_facts_checked_on": "2026-10-09",
+    "status": "supported_editorial_brief",
+    "facts": [
+      "Ege Üniversitesi ana kampüsü Bornova’dadır.",
+      "Yerleşim ve üniversite alanlarının yanında sanayi alanları bulunur."
+    ],
+    "sections": [
+      {
+        "heading": "Kampüs adresinde araç girişini seçme",
+        "paragraphs": [
+          "Ege Üniversitesi ana kampüsü Bornova’da yer alır; ilçede konut ve sanayi alanları da bulunur. Kampüsteki araç talebini yalnızca üniversite adıyla tarif etmeyin. Aracın yakınındaki birim, otopark veya giriş noktası belirtilmelidir. Haritadaki bina işareti ile aracın erişilebilir olduğu kapı aynı nokta olmayabileceğinden, araç bekleme yerini ayrıca paylaşın."
+        ]
+      },
+      {
+        "heading": "Sanayi alanı ile mahalle arızasını ayırma",
+        "paragraphs": [
+          "Bornova’daki bir tesisin içinde kalan araçta kapı ve işletme içi konum; konut çevresindeki bir arızada ise sokak ve bina girişi öne çıkar. Araç servisteyken başka bir servise taşınacaksa arızanın bilinen durumu da iletilmelidir. Sökülmüş tekerlek, kilitli direksiyon veya hareket etmeyen vites gibi durumları gizlemeyen bir tarif, alma planının daha doğru konuşulmasını sağlar."
+        ]
+      },
+      {
+        "heading": "Kapalı otopark ve bakım amaçlı taşıma",
+        "paragraphs": [
+          "Araç kapalı otoparktaysa bulunduğu katı ve görünen yükseklik sınırını belirtin. Çalışır halde bir otomobilin bakım veya başka nedenle taşınması isteniyorsa bunu da açıkça yazın; arıza varsayımı yapılması gerekmez. Teslim edilecek servis Bornova içinde olsa bile açık adres ve kabul noktasını gönderin. Kampüs adı veya sanayi alanı adı, teslim edecek kişiyi belirlemez."
+        ]
+      }
+    ],
+    "questions": [
+      {
+        "q": "Ege Üniversitesi içinde çekici talebinde neyi belirtmeliyim?",
+        "a": "Birim veya otopark adı, araç giriş kapısı, bekleme noktası ve giriş koşulları paylaşılmalıdır. Kampüs konumunun tamamı tek bir alma adresi değildir."
+      },
+      {
+        "q": "Bornova’da bir servisten başka servise araç taşıtabilir miyim?",
+        "a": "Alma ve teslim adresleriyle aracın mevcut durumunu iletin; özellikle sökülmüş parça veya hareket etmeyen tekerlek varsa görüşmede açıklayın."
+      }
+    ],
+    "sources": [
+      {
+        "title": "İzmir Valiliği — Bornova",
+        "url": "https://www.izmir.gov.tr/bornova"
+      }
+    ],
+    "limitations": [
+      "Coğrafi bilgiler resmî kaynaklardan alınmıştır; araç alma ve teslim planlaması önerileri editoryal değerlendirmedir.",
+      "Metin, belirli bir adreste şube, giriş yetkisi, geçmiş iş, ekip mevcudu, varış süresi veya ücret doğrulamaz."
+    ],
+    "scenario": {
+      "title": "Kampüste birim adı ile park yeri farklı",
+      "situation": "Ege Üniversitesi ana kampüsü içinde kalan otomobil için sürücü ilgili birimin genel konumunu gönderir. Araç o binanın önünde değil, başka bir otopark bölümündedir. Örnek senaryoda kampüs adı kadar otopark ve kullanılabilir araç girişi de önem taşır.",
+      "assessment": "Park bölümünün konumu ve kampüs girişine ilişkin mevcut koşul açıklanır. Araç marş alıyor ancak ilerlemiyorsa vites, direksiyon ve tekerlek belirtisi ayrı ayrı tarif edilir. Fotoğrafta görülemeyen ayrıntılar kesinmiş gibi yazılmaz; araç yanındaki kişinin bildiği koşullar görüşmede ayrıca teyit edilir.",
+      "delivery": "Seçilen servis Bornova’da olsa bile açık teslim adresi istenir. Kampüs birimi adı, servis hedefi veya giriş yetkisi yerine kullanılmaz.",
+      "type": "illustrative_not_historical"
+    }
+  },
+  "/bolgeler/buca/": {
+    "name": "Buca",
+    "checked_on": "2026-10-11",
+    "base_facts_checked_on": "2026-10-09",
+    "status": "supported_editorial_brief",
+    "facts": [
+      "Dokuz Eylül Üniversitesi fakültelerinin önemli bir bölümü ilçededir.",
+      "Kaynaklar, Kırıklar ve Belenbaşı ilçe içindeki ayrı yerleşim noktalarıdır."
+    ],
+    "sections": [
+      {
+        "heading": "Yerleşke ile Kaynaklar çevresini ayırma",
+        "paragraphs": [
+          "Buca’da Dokuz Eylül Üniversitesi fakültelerinin bulunduğu alanlarla Kaynaklar, Kırıklar ve Belenbaşı gibi yerleşimler aynı konum değildir. Üniversite çevresinden arıyorsanız yerleşke veya birim adını; diğer bir noktadaysanız mahalleyi belirtin. Bu ayrım, sadece Buca adının verdiği geniş tarifi daraltır. Araç girişini gösteren konum, binanın genel adresinden daha açıklayıcı olabilir."
+        ]
+      },
+      {
+        "heading": "Kırıklar ve Belenbaşı yönünde araç alma",
+        "paragraphs": [
+          "Kent içi sokaktan farklı bir bağlantı üzerinde bekliyorsanız bulunduğunuz yerleşimle birlikte yol tarifini de iletin. Aracın özel mülkün içinde mi, girişinde mi yoksa yol kenarında mı olduğu bilinmelidir. Yüksek duvar, kapı veya başka bir erişim koşulu varsa gözlemlediğiniz bilgiyi paylaşın; kırsal konumda olmak tek başına kurtarma ekipmanı gerektiği anlamına gelmez."
+        ]
+      },
+      {
+        "heading": "Öğrenci veya ziyaretçi aracında teslimi belirleme",
+        "paragraphs": [
+          "Bir yerleşke otoparkındaki araç çalışmıyorsa motor belirtisiyle birlikte vites ve direksiyon durumunu anlatın. Araç sahibi yanında olmayacaksa iletişim kurulacak kişiyi netleştirin. Teslim için seçilen servis adresini alma noktasından ayrı gönderin; kampüste bekleyen bir araç ile Kaynaklar yönündeki araç için aynı buluşma tarifinin kullanılması karışıklık yaratabilir."
+        ]
+      }
+    ],
+    "questions": [
+      {
+        "q": "Buca’da üniversite adını söylemek yeterli mi?",
+        "a": "Hangi yerleşke veya birimde olduğunuzu ve araç girişini belirtin. Otopark adı ile konum pinini de ekleyin."
+      },
+      {
+        "q": "Kaynaklar çevresinde aracım özel bahçede kaldıysa ne göndermeliyim?",
+        "a": "Araç konumu, bahçe girişi ve görünen erişim alanının fotoğrafı yararlıdır. Motor ve tekerlek durumunu da açıklayın."
+      }
+    ],
+    "sources": [
+      {
+        "title": "İzmir Valiliği — Buca",
+        "url": "https://www.izmir.gov.tr/buca"
+      }
+    ],
+    "limitations": [
+      "Coğrafi bilgiler resmî kaynaklardan alınmıştır; araç alma ve teslim planlaması önerileri editoryal değerlendirmedir.",
+      "Metin, belirli bir adreste şube, giriş yetkisi, geçmiş iş, ekip mevcudu, varış süresi veya ücret doğrulamaz."
+    ],
+    "scenario": {
+      "title": "Yerleşke otoparkında araç sahibi yok",
+      "situation": "Buca’daki bir üniversite yerleşkesinde otomobil arızalanır; araç sahibi ayrılmıştır ve bir yakını araç yanında beklemektedir. Örnekte fakülte adının yanında otomobilin park ettiği bölüm ve iletişim kurulacak kişi ayrıca belirlenir. Genel üniversite işareti tek alma noktası gibi kullanılmaz.",
+      "assessment": "Aracı gösterecek kişi konum ve giriş bilgisini paylaşır. Anahtar ve hareket durumuna ilişkin bilinen koşullar açıklanır. Kapıdan giriş gerekliyse ilgili yerleşkenin mevcut uygulaması ayrıca teyit edilir.",
+      "delivery": "Aracın götürüleceği servis ve kabul edecek kişi netleştirilir. Sürücünün yanında olmaması kendi başına teslim adresini veya taşıma yöntemini belirlemez.",
+      "type": "illustrative_not_historical"
+    }
+  },
+  "/bolgeler/cesme/": {
+    "name": "Çeşme",
+    "checked_on": "2026-10-11",
+    "base_facts_checked_on": "2026-10-09",
+    "status": "supported_editorial_brief",
+    "facts": [
+      "İzmir’in batısında Ege kıyısındadır.",
+      "Alaçatı, Ilıca, Şifne ve Ildırı ilçenin farklı kıyı noktalarıdır."
+    ],
+    "sections": [
+      {
+        "heading": "Alaçatı, Ilıca ve Ildırı taleplerini ayrı tarif etme",
+        "paragraphs": [
+          "Çeşme’nin Ege kıyısındaki yerleşimleri arasında Alaçatı, Ilıca, Şifne ve Ildırı bulunur. Çeşme merkezdeki bir araçla bu noktalardaki araçları tek adres gibi anlatmamak gerekir. Talebin başında bulunduğunuz yerleşimi yazın. Konaklama tesisi veya otopark adı varsa araç girişini de ekleyin; tesisin haritadaki ana işareti arızalı aracın beklediği noktayı göstermeyebilir."
+        ]
+      },
+      {
+        "heading": "Tatil konaklamasındaki araçta çıkış koşulu",
+        "paragraphs": [
+          "Otel, pansiyon veya özel konaklama alanında kalan araç için görevliyle araç girişinin koşullarını konuşun. Aracın park yerinden hareket edip edemediğini; lastik, direksiyon veya vites sorununu belirtin. Bir arıza nedeniyle planladığınız yolculuğu sürdüremiyorsanız istediğiniz teslim adresini ayrıca seçin. Tesis adı, her otoparka aynı çekiciyle giriş yapılabileceğini göstermez."
+        ]
+      },
+      {
+        "heading": "İlçe dışına teslim düşünülüyorsa",
+        "paragraphs": [
+          "Aracı Çeşme içindeki bir servise ya da İzmir’in başka ilçesine taşımak istediğinizi baştan söyleyin. Uzaktaki servisle kabulü netleştirip açık adresini paylaşmanız, aracı belirsiz bir varış noktasına gönderme riskini azaltır. Araç kiralıksa ilgili şirketin yönlendirmesini iletin; taşıma konuşması, kiralama sözleşmesine ilişkin izinlerin kendiliğinden verildiği anlamına gelmez."
+        ]
+      }
+    ],
+    "questions": [
+      {
+        "q": "Ilıca’da otel adını vermem yeterli olur mu?",
+        "a": "Otel adıyla birlikte araç otoparkı, giriş ve tam konum gerekir. Aracın tesis içinde ya da yol üzerinde olduğunu belirtin."
+      },
+      {
+        "q": "Alaçatı’dan İzmir’deki servise taşıma isteğini nasıl yazmalıyım?",
+        "a": "Alaçatı’daki alma konumunu ve seçtiğiniz servisin açık adresini iki ayrı nokta olarak iletin; servis kabulünü ayrıca teyit edin."
+      }
+    ],
+    "sources": [
+      {
+        "title": "İzmir Valiliği — Çeşme",
+        "url": "https://www.izmir.gov.tr/cesme"
+      }
+    ],
+    "limitations": [
+      "Coğrafi bilgiler resmî kaynaklardan alınmıştır; araç alma ve teslim planlaması önerileri editoryal değerlendirmedir.",
+      "Metin, belirli bir adreste şube, giriş yetkisi, geçmiş iş, ekip mevcudu, varış süresi veya ücret doğrulamaz."
+    ],
+    "scenario": {
+      "title": "Konaklama parkındaki kiralık otomobil",
+      "situation": "Alaçatı’da bir konaklama yerinin otoparkında kiralık otomobil çalışmaz. Araç sahibi kiralama şirketinden yönlendirme beklerken konaklama tesisinin genel işaretini gönderir. Örnek talepte hem aracın park yeri hem şirketin verdiği yönlendirme açıkça paylaşılır.",
+      "assessment": "Otopark kapısı, mevcut erişim ve araç belirtisi konuşulur. Kiralama koşulları veya taşıma izni varsayılmaz. Şirketin bildirdiği servis adresi varsa bunun güncel hedef olduğu teyit edilir. Fotoğrafta görülemeyen ayrıntılar kesinmiş gibi yazılmaz; araç yanındaki kişinin bildiği koşullar görüşmede ayrıca teyit edilir.",
+      "delivery": "Aracı kabul edecek yerin açık adresi alınır. Çeşme’deki alma konumu ile farklı ilçede seçilebilecek servis hedefi ayrı gösterilir.",
+      "type": "illustrative_not_historical"
+    }
+  },
+  "/bolgeler/cigli/": {
+    "name": "Çiğli",
+    "checked_on": "2026-10-11",
+    "base_facts_checked_on": "2026-10-09",
+    "status": "supported_editorial_brief",
+    "facts": [
+      "İzmir Körfezi’nin kuzeyinde eski Gediz yatağının oluşturduğu ovada bulunur.",
+      "Atatürk Organize Sanayi Bölgesi ilçededir."
+    ],
+    "sections": [
+      {
+        "heading": "Atatürk Organize Sanayi Bölgesinde kapı bilgisi",
+        "paragraphs": [
+          "Çiğli’de İzmir Atatürk Organize Sanayi Bölgesi ile konut adreslerinden gelen talepler farklı konum bilgileri gerektirir. OSB içindeki araç için firmanın adı, bulunduğu sokak ve giriş kapısı birlikte verilmelidir. Aracın tesis içinde mi, dış park alanında mı olduğu belirtilirse yalnızca bölgenin genel girişine göre yapılan bir tarifin belirsizliği azalır."
+        ]
+      },
+      {
+        "heading": "İşletme aracıyla binek otomobili ayırma",
+        "paragraphs": [
+          "Sanayi bölgesindeki talep her zaman ağır vasıta anlamına gelmez. Otomobil, minibüs veya yüklü ticari araç için gerçek araç türünü ve hareket sorununun ne olduğunu yazın. Aracın yükü, tekerleklerinin durumu ve kapalı alanda bulunması görüşmede değerlendirilmelidir. Firma adıyla yapılan talepte aracı teslim edecek kişinin kim olduğu da açık olmalıdır."
+        ]
+      },
+      {
+        "heading": "Gediz ovası çevresinde adresi tamamlamak",
+        "paragraphs": [
+          "Çiğli’nin eski Gediz yatağının oluşturduğu ovadaki konumu resmî ilçe tanıtımında yer alır; bu coğrafi bilgi güncel yol veya zemin koşulunu tek başına açıklamaz. Kent içi ya da merkez dışı adresi mahalle, yol ve konumla tamamlayın. Yolun su altında kaldığı veya kapalı olduğu gibi bir durum varsa yalnızca o anda gözlemlediğiniz bilgiyi aktarın; geçmiş bölge bilgisiyle güncel erişim varsaymayın."
+        ]
+      }
+    ],
+    "questions": [
+      {
+        "q": "Çiğli OSB’nin ana kapısına konum göndermem yeterli mi?",
+        "a": "Araç farklı bir tesisin içinde olabilir. Firma, sokak ve araç girişini de iletin; OSB genel girişini alma noktası gibi kullanmayın."
+      },
+      {
+        "q": "OSB’deki binek araç için hangi hizmet seçilmeli?",
+        "a": "Yer adına göre değil, aracın türüne ve soruna göre konuşulmalıdır. Otomobilin sanayi alanında olması onu ağır vasıta yapmaz."
+      }
+    ],
+    "sources": [
+      {
+        "title": "İzmir Valiliği — Çiğli",
+        "url": "https://www.izmir.gov.tr/cigli"
+      }
+    ],
+    "limitations": [
+      "Coğrafi bilgiler resmî kaynaklardan alınmıştır; araç alma ve teslim planlaması önerileri editoryal değerlendirmedir.",
+      "Metin, belirli bir adreste şube, giriş yetkisi, geçmiş iş, ekip mevcudu, varış süresi veya ücret doğrulamaz."
+    ],
+    "scenario": {
+      "title": "OSB atölyesinde sökülmüş tekerlek",
+      "situation": "Çiğli’de Atatürk Organize Sanayi Bölgesi içindeki bir atölyede otomobilin bir tekerleği sökülmüştür ve başka servise taşınması istenir. Örnekte araç sanayi alanında olduğu için ağır vasıta sayılmaz; fakat mevcut hareket koşulu normal çalışan otomobilden farklıdır.",
+      "assessment": "Firma kapısı, atölye içindeki araç noktası ve sökülmüş tekerlek açıkça bildirilir. Araç türü ile varsa başka hareket kısıtları konuşulur. Taşıma yöntemi yalnızca firma adresinden seçilmez. Fotoğrafta görülemeyen ayrıntılar kesinmiş gibi yazılmaz; araç yanındaki kişinin bildiği koşullar görüşmede ayrıca teyit edilir.",
+      "delivery": "Yeni servisin aracı hangi bölümde kabul edeceği netleştirilir. Alma atölyesi ve teslim servisi iki ayrı açık konumla paylaşılır.",
+      "type": "illustrative_not_historical"
+    }
+  },
+  "/bolgeler/dikili/": {
+    "name": "Dikili",
+    "checked_on": "2026-10-11",
+    "base_facts_checked_on": "2026-10-09",
+    "status": "supported_editorial_brief",
+    "facts": [
+      "İzmir’in kuzeyinde Ege Denizi kıyısındadır.",
+      "Çandarlı ile Merdivenli ve Denizköy çevresi ilçede farklı konumlardır."
+    ],
+    "sections": [
+      {
+        "heading": "Çandarlı ve Dikili merkez için farklı alma adresleri",
+        "paragraphs": [
+          "Dikili’nin Ege kıyısındaki yerleşimleri arasında Çandarlı, Denizköy ve Merdivenli gibi noktalar bulunur. Talepte Dikili ilçe adıyla birlikte bulunduğunuz yerleşimi de yazın. Sahil tesisi veya konaklama yerinin adını biliyorsanız ekleyin; aracı taşıma konuşulurken tesisin genel konumu ile aracın bulunduğu park alanı birbirinden ayrılmalıdır."
+        ]
+      },
+      {
+        "heading": "Kıyı tesisinde kalan aracın giriş bilgisi",
+        "paragraphs": [
+          "Bir konaklama alanının içinde bekleyen araçta kapının yeri ve aracın çıkışa göre konumu açıklanmalıdır. Güvenlik görevlisi veya tesis sorumlusu girişe ilişkin bilgi verebiliyorsa bunu görüşmeye ekleyin. Araç yol kenarındaysa özel tesis girişi tarif etmek yerine gerçek bekleme noktasını gönderin. Kıyıda bulunmak tek başına zeminin veya erişimin uygun olduğunu kanıtlamaz."
+        ]
+      },
+      {
+        "heading": "Taşıma hedefini seyahat yönünden ayırma",
+        "paragraphs": [
+          "Dikili’den başka bir ilçeye devam etmeyi planlamanız, arızalı aracın o ilçeye götürülmesini istediğiniz anlamına gelmeyebilir. Seçtiğiniz servis veya teslim adresini açıkça belirtin. Aracın götürüleceği yerde kabulün mümkün olduğunu ayrıca teyit edin. Marka, model, hareket sorunu ve varsa yük bilgisi talebe eklenirse yalnızca yer adına dayanan eksik bir taşıma tarifi oluşmaz."
+        ]
+      }
+    ],
+    "questions": [
+      {
+        "q": "Denizköy çevresinde çekici isterken tesis adını bilmiyorsam ne yapmalıyım?",
+        "a": "Harita pini, bulunduğunuz yol ve en yakın yerleşim bilgisiyle başlayın. Görünen tabela veya girişin fotoğrafını ekleyebilirsiniz."
+      },
+      {
+        "q": "Çandarlı’daki araç için Dikili merkez konumunu göndermeli miyim?",
+        "a": "Aracın gerçek bekleme konumunu gönderin. İlçe merkezini genel tarif olarak kullanmak alma noktasını yanlış gösterebilir."
+      }
+    ],
+    "sources": [
+      {
+        "title": "İzmir Valiliği — Dikili",
+        "url": "https://www.izmir.gov.tr/dikili"
+      }
+    ],
+    "limitations": [
+      "Coğrafi bilgiler resmî kaynaklardan alınmıştır; araç alma ve teslim planlaması önerileri editoryal değerlendirmedir.",
+      "Metin, belirli bir adreste şube, giriş yetkisi, geçmiş iş, ekip mevcudu, varış süresi veya ücret doğrulamaz."
+    ],
+    "scenario": {
+      "title": "Çandarlı konumu yerine ilçe merkezi",
+      "situation": "Çandarlı’daki bir konaklama alanında kalan araç için sürücü yanlışlıkla Dikili merkezinin konumunu yollar. Görüşmede aracın merkezde olmadığı anlaşılır. Bu örnek, ilçe adının doğru olmasının harita işaretinin de doğru olduğu anlamına gelmediğini gösterir.",
+      "assessment": "Gerçek konaklama yeri, araç kapısı ve park noktası yeniden paylaşılır. Arızanın belirtisi ve tekerlek hareketi açıklanır. Eski yanlış pin yerine yeni konumun kullanılacağı açıkça belirtilir. Fotoğrafta görülemeyen ayrıntılar kesinmiş gibi yazılmaz; araç yanındaki kişinin bildiği koşullar görüşmede ayrıca teyit edilir.",
+      "delivery": "Seçilen servis adresi ayrıca alınır. Yolculuğa devam edilmek istenen yer ile aracı teslim etmek istenen yer birbirinden ayrılır.",
+      "type": "illustrative_not_historical"
+    }
+  },
+  "/bolgeler/foca/": {
+    "name": "Foça",
+    "checked_on": "2026-10-11",
+    "base_facts_checked_on": "2026-10-09",
+    "status": "supported_editorial_brief",
+    "facts": [
+      "Eski Foça ile Yeni Foça ayrı kıyı yerleşimleridir.",
+      "İki Foça arasındaki kıyı hattında koylar ve yerleşimler bulunur."
+    ],
+    "sections": [
+      {
+        "heading": "Eski Foça ve Yeni Foça ayrımı",
+        "paragraphs": [
+          "Foça’da ilk netleştirilecek bilgi Eski Foça’da mı, Yeni Foça’da mı yoksa iki yerleşim arasındaki kıyı hattında mı olduğunuzdur. Resmî tanıtım bu iki kıyı yerleşimini ayrı ele alır. Yalnızca Foça merkez ifadesini kullanmak yerine yerleşimi ve aracın beklediği noktayı yazın. Harita pinini tesis veya cadde bilgisiyle tamamlayın."
+        ]
+      },
+      {
+        "heading": "İki yerleşim arasındaki kıyı noktasını tarif etme",
+        "paragraphs": [
+          "Kıyı hattında bir koy veya konaklama tesisi yakınındaysanız yer adını, aracın yol üzerinde mi özel alanda mı bulunduğunu açıklamak için kullanın. Koy adının aracın ulaşılabilir noktasını tam olarak belirlediğini varsaymayın. Aracın girişe göre yerini gösteren fotoğraf ve gördüğünüz tabelalar, konumu tarif ederken uzun bir sözlü yönlendirmeden daha açıklayıcı olabilir."
+        ]
+      },
+      {
+        "heading": "Tesis içindeki arızadan servis teslimine",
+        "paragraphs": [
+          "Bir otoparkta kalan araç için motor, vites ve tekerlek durumunu belirtin; sadece çalışmıyor ifadesi alma yöntemini kesinleştirmez. Tesisin giriş koşullarını yetkiliyle konuşup seçilen servis adresini ayrı iletin. Yeni Foça’dan alınan aracın Eski Foça’daki veya başka ilçedeki servise götürülmesi isteniyorsa bu, ilk konum bilgisinden ayrı bir teslim talebi olarak yazılmalıdır."
+        ]
+      }
+    ],
+    "questions": [
+      {
+        "q": "Foça merkez yazmam konumu kesinleştirir mi?",
+        "a": "Eski Foça veya Yeni Foça ayrımını açıkça yazın. Ardından cadde, tesis ya da yol üzerindeki tam noktayı paylaşın."
+      },
+      {
+        "q": "İki Foça arasındaki koy adı yeterli mi?",
+        "a": "Koy adı tarifi destekler; aracın durduğu yol veya girişle konum pini ayrıca gerekir."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Foça Kaymakamlığı — Karadan ve Denizden Foça",
+        "url": "https://foca.gov.tr/karadan-ve-denizden-foca"
+      }
+    ],
+    "limitations": [
+      "Coğrafi bilgiler resmî kaynaklardan alınmıştır; araç alma ve teslim planlaması önerileri editoryal değerlendirmedir.",
+      "Metin, belirli bir adreste şube, giriş yetkisi, geçmiş iş, ekip mevcudu, varış süresi veya ücret doğrulamaz."
+    ],
+    "scenario": {
+      "title": "Yeni Foça ile Eski Foça karışıklığı",
+      "situation": "Yeni Foça’da kalan araç için sahibi Foça merkez ifadesini kullanır. Daha sonra gönderilen fotoğraf ve konumla talebin Eski Foça’da olmadığı netleşir. Örnek görüşmede yerleşim ayrımının yapılması, farklı kıyı noktalarının tek adres gibi anlatılmasını önler.",
+      "assessment": "Yeni Foça’daki gerçek sokak veya otopark konumu teyit edilir. Araç yol kenarında mı özel alanda mı, bu bilgi motor belirtisinden ayrı paylaşılır. Konumun doğrulanması bir geliş süresi vaadi oluşturmaz.",
+      "delivery": "Sürücü Eski Foça’daki bir servis seçerse bu yeni bir teslim noktası olarak yazılır. Alma adresiyle karıştırılmadan kabul koşulu konuşulur.",
+      "type": "illustrative_not_historical"
+    }
+  },
+  "/bolgeler/gaziemir/": {
+    "name": "Gaziemir",
+    "checked_on": "2026-10-11",
+    "base_facts_checked_on": "2026-10-09",
+    "status": "supported_editorial_brief",
+    "facts": [
+      "Adnan Menderes Havalimanı ve Ege Serbest Bölgesi ilçededir.",
+      "Sarnıç çevresinde sanayi alanları bulunur."
+    ],
+    "sections": [
+      {
+        "heading": "Havalimanında terminal ve araç parkını ayırma",
+        "paragraphs": [
+          "Adnan Menderes Havalimanı Gaziemir’dedir; havalimanının genel harita işareti aracın bulunduğu park yerini belirlemez. Talep havalimanından veriliyorsa otopark ya da araç bekleme alanını, kat bilgisini ve giriş noktasını belirtin. Yolcu terminali adını araç alma adresi gibi kullanmak yerine, aracın erişilebilir olduğu gerçek konumu açıklayın."
+        ]
+      },
+      {
+        "heading": "Ege Serbest Bölgesi ve Sarnıç talepleri",
+        "paragraphs": [
+          "Gaziemir’de Ege Serbest Bölgesi ile Sarnıç çevresindeki sanayi alanları farklı adreslerdir. Bir tesisteki araç için şirket adı, kapı ve giriş koşulları birlikte konuşulmalıdır. Kontrollü bir alana girişin kendiliğinden mümkün olduğunu varsaymayın. Araç türü ve yük durumu, sanayi adresinden bağımsız olarak belirtilmeli; binek araç talebi otomatik olarak ağır ticari araç talebine çevrilmemelidir."
+        ]
+      },
+      {
+        "heading": "Uçuş veya iş programı olan araç sahipleri",
+        "paragraphs": [
+          "Araç sahibinin başka yerde bulunması ya da ayrılacak olması halinde aracı gösterecek ve teslimle ilgili iletişim kuracak kişi önceden netleştirilmelidir. Servis adresini yalnızca firma adıyla değil açık konumla gönderin. Uçuş saati veya iş programı önemli olsa da bu bilgi belirli bir varış süresi vaadi oluşturmaz; talep, mevcut araç ve erişim koşullarıyla değerlendirilir."
+        ]
+      }
+    ],
+    "questions": [
+      {
+        "q": "Havalimanı otoparkında hangi konumu göndermeliyim?",
+        "a": "Aracın bulunduğu otopark bölümünü, katı ve giriş noktasını iletin; yalnızca terminalin harita işareti yeterli olmayabilir."
+      },
+      {
+        "q": "Serbest bölge içindeki aracım için giriş izni gerekir mi?",
+        "a": "Bulunduğunuz tesisin giriş koşulunu yetkilisinden öğrenin ve paylaşın. Bölge adı, çekicinin her kapıdan geçebileceğini göstermediği için izin varsayılmaz."
+      }
+    ],
+    "sources": [
+      {
+        "title": "İzmir Valiliği — Gaziemir",
+        "url": "https://www.izmir.gov.tr/gaziemir"
+      }
+    ],
+    "limitations": [
+      "Coğrafi bilgiler resmî kaynaklardan alınmıştır; araç alma ve teslim planlaması önerileri editoryal değerlendirmedir.",
+      "Metin, belirli bir adreste şube, giriş yetkisi, geçmiş iş, ekip mevcudu, varış süresi veya ücret doğrulamaz."
+    ],
+    "scenario": {
+      "title": "Havalimanında terminal pini gönderilmesi",
+      "situation": "Adnan Menderes Havalimanı otoparkında kalan araç için sahibi terminalin harita işaretini gönderir. Aracın bulunduğu kat ve park bölümü ilk mesajda yoktur. Örnekte terminal kapısına ulaşılması arızalı otomobile erişildiği anlamına gelmez.",
+      "assessment": "Otopark bölümü, kat ve kullanılacak araç girişi paylaşılır. Görünen yükseklik sınırı ile vites ve tekerlek durumu açıklanır. Araç sahibi ayrılacaksa iletişim kuracak kişi da belirlenir. Fotoğrafta görülemeyen ayrıntılar kesinmiş gibi yazılmaz; araç yanındaki kişinin bildiği koşullar görüşmede ayrıca teyit edilir.",
+      "delivery": "Seçilen servisin kabul adresi ile teslim irtibatı ayrı netleştirilir. Uçuş programı belirli bir varış süresi veya otopark erişim yetkisi olarak yorumlanmaz.",
+      "type": "illustrative_not_historical"
+    }
+  },
+  "/bolgeler/guzelbahce/": {
+    "name": "Güzelbahçe",
+    "checked_on": "2026-10-11",
+    "base_facts_checked_on": "2026-10-09",
+    "status": "supported_editorial_brief",
+    "facts": [
+      "İzmir Körfezi’nin güney kıyısında yer alır.",
+      "Narlıdere ile Urla arasında bulunur; Yelki ve Çamlı ilçedeki yerleşimlerdir."
+    ],
+    "sections": [
+      {
+        "heading": "Körfez kıyısı ile Yelki ve Çamlı konumları",
+        "paragraphs": [
+          "Güzelbahçe, körfezin güney kıyısında Narlıdere ile Urla arasında bulunur; Yelki ve Çamlı ilçedeki ayrı yerleşimlerdir. Yardım talebini sadece sahil yönüyle anlatmak bu yerlerdeki aracın konumunu belirlemez. Bulunduğunuz mahalle veya yerleşimi yazıp cadde ve konumu ekleyin. İzmir ya da Urla yönünü kullanıyorsanız bunun hareket yönü olduğunu belirtin."
+        ]
+      },
+      {
+        "heading": "Yerleşim içindeki özel girişleri açıklama",
+        "paragraphs": [
+          "Araç bir sitenin, iş yerinin veya başka bir özel alanın içindeyse hangi girişin kullanılacağını anlatın. Dar kapı ya da kapalı otopark gibi bir koşul mevcutsa gözleminizi fotoğrafla destekleyin. Bu tür koşulların Güzelbahçe’nin tamamında bulunduğu varsayılmaz; her talepte aracın gerçek çevresi değerlendirilir. Aracın tekerlek ve direksiyon durumu erişim bilgisinden ayrı konuşulmalıdır."
+        ]
+      },
+      {
+        "heading": "Güzelbahçe dışında seçilen servise teslim",
+        "paragraphs": [
+          "Alma noktası Yelki veya Çamlı gibi bir yerleşimdeyken teslim adresi Urla, Narlıdere veya farklı bir ilçede olabilir. Bu iki adresin karışmaması için konumları ayrı etiketleyin. Servisin aracı kabul edecek bölümünü ve irtibat kişisini biliyorsanız iletin. Yolculuğunuzun yönü ile aracı bırakmak istediğiniz yön farklıysa bunu görüşmenin başında netleştirin."
+        ]
+      }
+    ],
+    "questions": [
+      {
+        "q": "Yelki’deki araç için Güzelbahçe sahilini tarif etmem yeterli mi?",
+        "a": "Yelki’deki gerçek adres veya konumu gönderin. Sahil yönü yalnızca genel yönlendirmedir; alma yerini belirlemez."
+      },
+      {
+        "q": "Çamlı’daki özel alandan araç alınırken ne gerekir?",
+        "a": "Araç bekleme noktası, kullanılabilir giriş ve varsa erişim sınırlaması paylaşılmalıdır. Giriş yetkisini ilgili kişiyle konuşun."
+      }
+    ],
+    "sources": [
+      {
+        "title": "İzmir Valiliği — Güzelbahçe",
+        "url": "https://www.izmir.gov.tr/guzelbahce"
+      }
+    ],
+    "limitations": [
+      "Coğrafi bilgiler resmî kaynaklardan alınmıştır; araç alma ve teslim planlaması önerileri editoryal değerlendirmedir.",
+      "Metin, belirli bir adreste şube, giriş yetkisi, geçmiş iş, ekip mevcudu, varış süresi veya ücret doğrulamaz."
+    ],
+    "scenario": {
+      "title": "Yelki’de kapılı özel alan",
+      "situation": "Yelki’de özel bir alanın içinde otomobil çalışmaz. Araç sahibi Güzelbahçe sahilini genel tarif olarak söyler, fakat otomobil o noktada değildir. Örnekte mahalle bilgisi ve gerçek giriş konumu, geniş sahil tarifini tamamlamak için paylaşılır.",
+      "assessment": "Kapının yeri ve aracın girişe göre konumu fotoğraflanır. Vites, direksiyon ve tekerlek durumu konuşulur. Giriş yetkisi ilgili kişiyle teyit edilir; Yelki’nin bütün adresleri için aynı kapı koşulu varsayılmaz.",
+      "delivery": "Sahip Urla’da bir servis seçtiyse açık teslim adresi ayrı gönderilir. Urla yönüyle yapılan tarif, tek başına kabul adresinin belirlenmesi sayılmaz.",
+      "type": "illustrative_not_historical"
+    }
+  },
+  "/bolgeler/karabaglar/": {
+    "name": "Karabağlar",
+    "checked_on": "2026-10-11",
+    "base_facts_checked_on": "2026-10-09",
+    "status": "supported_editorial_brief",
+    "facts": [
+      "Bozyaka, Uzundere, Kavacık ve Tırazlı resmi mahalle listesinde yer alır.",
+      "Belediyenin Kent Rehberi konum ve yol tarifi bilgileri sunar."
+    ],
+    "sections": [
+      {
+        "heading": "Bozyaka ve Uzundere adreslerini karıştırmama",
+        "paragraphs": [
+          "Karabağlar Belediyesinin mahalle listesinde Bozyaka, Uzundere, Kavacık ve Tırazlı yer alır. Bu adlar ilçe içinde birbirinin yerine kullanılacak alma noktaları değildir. Talebin başında hangi mahallede olduğunuzu yazın; ardından cadde, sokak ve aracın bekleme noktasını ekleyin. Semt tarifi ile resmî adres farklı görünüyorsa konum pinini esas alan açıklama yardımcı olur."
+        ]
+      },
+      {
+        "heading": "Kent Rehberini adres kontrolü için kullanma",
+        "paragraphs": [
+          "Belediyenin Kent Rehberi, konum ve yol tarifi bilgilerini incelemek için bir yardımcıdır. Rehberde bulduğunuz kurum veya bina noktası aracın bulunduğu yerle aynı olmayabilir. Bir otoparkta ya da sokak girişinde bekliyorsanız gerçek araç konumunu ayrıca gönderin. Harita üzerinden adresi bulmuş olmak, o noktaya her araçla erişilebildiğini ya da yolun şu anda açık olduğunu doğrulamaz."
+        ]
+      },
+      {
+        "heading": "Kavacık veya Tırazlı’dan talebi tamamlamak",
+        "paragraphs": [
+          "Bu mahallelerden gelen taleplerde de araç türü, arıza belirtisi ve teslim hedefi ayrı açıklanmalıdır. Özel mülkün içinde kalan araç için kapı ve manevra alanını gördüğünüz kadarıyla anlatın. Teslim için seçilen servis Karabağlar dışında olabilir; bu durumda ilçe adının yanında tam servis adresini yazın. Mahalle bilgisi, taşıma yöntemini veya ücretini tek başına belirlemez."
+        ]
+      }
+    ],
+    "questions": [
+      {
+        "q": "Karabağlar Kent Rehberindeki adresi araç konumu olarak kullanabilir miyim?",
+        "a": "Nokta aracı tam gösteriyorsa yardımcı olur; başka binayı veya muhtarlığı gösteriyorsa gerçek bekleme yerini ayrıca paylaşın."
+      },
+      {
+        "q": "Bozyaka’daki aracımı Uzundere diye tarif edersem yeterli olur mu?",
+        "a": "Bu mahalle adları ayrı konumlardır. Doğru mahalleyi, sokak bilgisini ve harita pinini birlikte gönderin."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Karabağlar Belediyesi — Muhtarlıklar",
+        "url": "https://karabaglar.bel.tr/tr/karabaglar/muhtarliklar"
+      },
+      {
+        "title": "Karabağlar Belediyesi — Kent Rehberi",
+        "url": "https://www.karabaglar.bel.tr/tr/projeler/dijital-projeler/kent-rehberi"
+      }
+    ],
+    "limitations": [
+      "Coğrafi bilgiler resmî kaynaklardan alınmıştır; araç alma ve teslim planlaması önerileri editoryal değerlendirmedir.",
+      "Metin, belirli bir adreste şube, giriş yetkisi, geçmiş iş, ekip mevcudu, varış süresi veya ücret doğrulamaz."
+    ],
+    "scenario": {
+      "title": "Kent Rehberindeki bina ile araç farklı",
+      "situation": "Karabağlar’da arızalanan otomobil için sahibi belediye Kent Rehberinde bulduğu yakın binanın konumunu paylaşır. Araç bina girişinde değil, başka bir park noktasındadır. Örnekte kamu haritasından adres bulmak yararlıdır, ancak gerçek bekleme konumu ayrıca doğrulanır.",
+      "assessment": "Doğru mahalle, sokak ve araç pini gönderilir. Park noktasında görünen erişim koşulu açıklanır. Bina işareti güncel araç kapısının açık olduğunu veya belirli çekicinin erişebileceğini tek başına kanıtlamaz.",
+      "delivery": "Servis teslimi için ayrı adres alınır. Bozyaka, Uzundere veya başka mahalle adları gerçek alma ve teslim konumları yerine birbirinin karşılığı gibi kullanılmaz.",
+      "type": "illustrative_not_historical"
+    }
+  },
+  "/bolgeler/karaburun/": {
+    "name": "Karaburun",
+    "checked_on": "2026-10-11",
+    "base_facts_checked_on": "2026-10-09",
+    "status": "supported_editorial_brief",
+    "facts": [
+      "Mordoğan İzmir–Karaburun yolu üzerinde yer alır.",
+      "Karaburun çevresindeki bazı koy ve plajların karayolu bağlantısı bulunmaz."
+    ],
+    "sections": [
+      {
+        "heading": "Mordoğan ve Karaburun merkez ayrımı",
+        "paragraphs": [
+          "Mordoğan, İzmir–Karaburun yolundaki yerleşimlerden biridir. Mordoğan’daki bir aracın konumunu yalnızca Karaburun merkez şeklinde belirtmek alma adresini belirsiz bırakır. İlçe merkezi, Mordoğan veya farklı bir yerleşim ayrımını talebin başında yapın. Ana yol üzerindeyseniz ilerlediğiniz yönle birlikte en yakın tabela veya bağlantı bilgisini paylaşın."
+        ]
+      },
+      {
+        "heading": "Koy adı erişilebilir araç noktası değildir",
+        "paragraphs": [
+          "İzmir Büyükşehir Belediyesinin Karaburun tanıtımı, bazı koy ve plajların karayolu bağlantısının bulunmadığını belirtir. Bu nedenle bir koy adı çekicinin araçla ulaşacağı noktayı kendiliğinden göstermez. Aracınız karayolunda, otoparkta veya özel bir girişte mi, bunu açıkça anlatın. Koya yaya erişilen noktayla aracın park edildiği noktayı ayrı konumlar olarak gösterin."
+        ]
+      },
+      {
+        "heading": "Yol ve zemin koşulunu gözleme göre bildirme",
+        "paragraphs": [
+          "Araca ulaşan yolun yüzeyi, giriş açıklığı ve hareket edebilme durumu için mevcut gözleminizi aktarın. Bölgeye ilişkin genel bilgiyle o günkü erişimi tahmin etmeyin. Teslim edeceğiniz servis Karaburun dışında bulunuyorsa açık adresi ayrıca iletin. Alma noktasının coğrafi olarak tarif edilmesi, kurtarma veya taşıma yönteminin henüz kesinleştiği anlamına gelmez; araç durumu da değerlendirilmelidir."
+        ]
+      }
+    ],
+    "questions": [
+      {
+        "q": "Karaburun’da koy adını gönderirsem yeterli mi?",
+        "a": "Koyun karayolu bağlantısı olmayabilir. Aracın gerçek park veya yol konumunu ayrıca gönderip erişimi açıklayın."
+      },
+      {
+        "q": "Mordoğan’daki talebimi Karaburun merkez diye yazabilir miyim?",
+        "a": "Mordoğan olduğunu belirtin. İlçe merkezi ile farklı yerleşimler aynı alma adresi değildir."
+      }
+    ],
+    "sources": [
+      {
+        "title": "İzmir Büyükşehir Belediyesi — Karaburun",
+        "url": "https://www.izmir.bel.tr/tr/MekanDetay/72/230"
+      }
+    ],
+    "limitations": [
+      "Coğrafi bilgiler resmî kaynaklardan alınmıştır; araç alma ve teslim planlaması önerileri editoryal değerlendirmedir.",
+      "Metin, belirli bir adreste şube, giriş yetkisi, geçmiş iş, ekip mevcudu, varış süresi veya ücret doğrulamaz."
+    ],
+    "scenario": {
+      "title": "Koy işaretiyle araç parkının ayrılması",
+      "situation": "Karaburun çevresindeki bir koy ziyaretinde otomobil yol erişimi olan park noktasında arızalanır. Sürücü deniz kenarındaki koy işaretini gönderir; araç bu noktada değildir. Bazı koylara karayolu bağlantısı bulunmadığından örnekte gerçek araç parkı ayrıca işaretlenir.",
+      "assessment": "Koy adı yakın çevre bilgisi olarak tutulur. Otomobilin bulunduğu yol, park girişi ve görünen zemin paylaşılır. Yaya erişilen kıyı noktası çekicinin gideceği konum gibi kullanılmaz. Fotoğrafta görülemeyen ayrıntılar kesinmiş gibi yazılmaz; araç yanındaki kişinin bildiği koşullar görüşmede ayrıca teyit edilir.",
+      "delivery": "Seçilen servisin adresi ve kabul koşulu netleştirilir. Koyun adı üzerinden kurtarma ekipmanı, yolun açıklığı veya kesin erişim süresi çıkarılmaz.",
+      "type": "illustrative_not_historical"
+    }
+  },
+  "/bolgeler/karsiyaka/": {
+    "name": "Karşıyaka",
+    "checked_on": "2026-10-11",
+    "base_facts_checked_on": "2026-10-09",
+    "status": "supported_editorial_brief",
+    "facts": [
+      "İzmir Körfezi’nin kuzey kıyısındadır.",
+      "Kentleşme tarihinde demiryolu ve Konak’a vapur bağlantısının rolü bulunur.",
+      "Bostanlı, Mavişehir, Alaybey ve Şemikler belediyenin mahalle listesinde ayrı kayıtlardır."
+    ],
+    "sections": [
+      {
+        "heading": "Bostanlı ve Mavişehir adresini açık yazma",
+        "paragraphs": [
+          "Karşıyaka körfezin kuzey kıyısındadır; belediyenin mahalle listesinde Bostanlı, Mavişehir, Alaybey ve Şemikler ayrı kayıtlarla yer alır. Kıyı veya iskele adıyla birlikte bulunduğunuz mahalleyi de belirtin. Sahilde bilinen bir işaretin yakınında olmanız, aracı o işaretin önünde beklettiğiniz anlamına gelmeyebilir; gerçek bekleme noktası ayrı paylaşılmalıdır."
+        ]
+      },
+      {
+        "heading": "Site otoparkındaki araç için giriş tarifi",
+        "paragraphs": [
+          "Araç site veya bina otoparkındaysa cadde adıyla birlikte kullanılacak araç kapısını açıklayın. Otoparkın katı ve görünen yükseklik sınırı varsa iletin. Bu bilgiler Mavişehir’in veya Bostanlı’nın bütün otoparkları için ortak bir özellik değildir; yalnızca bulunduğunuz girişle ilgilidir. Direksiyon, vites ve tekerlek sorunu da kapı tarifinden ayrı değerlendirilmelidir."
+        ]
+      },
+      {
+        "heading": "Sahil işareti yerine kesin teslim adresi",
+        "paragraphs": [
+          "Bir iskele veya sahil noktası konumu anlatmaya yardımcı olabilir, ancak servis teslimi için iş yerinin açık adresi gerekir. Alma ve teslim konumlarını iki ayrı harita bağlantısı olarak paylaşın. Aracın sahibi yanında olmayacaksa kimin iletişim kuracağını belirleyin. Karşıyaka’daki farklı mahalleler arasında taşıma isteğinde bile hedefteki kabul noktasının net olması önemlidir; yalnızca mahalle adıyla teslim varsayılmaz."
+        ]
+      }
+    ],
+    "questions": [
+      {
+        "q": "Bostanlı iskelesi yakınındayım demem yeterli mi?",
+        "a": "İskele adını tarife ekleyebilirsiniz; aracın durduğu cadde veya otopark konumunu da gönderin."
+      },
+      {
+        "q": "Mavişehir’de site adıyla çekici çağırabilir miyim?",
+        "a": "Site adıyla beraber araç girişini ve park yerini belirtin. Birden fazla kapı varsa kullanılacak kapıyı netleştirin."
+      }
+    ],
+    "sources": [
+      {
+        "title": "İzmir Valiliği — Karşıyaka",
+        "url": "https://www.izmir.gov.tr/karsiyaka"
+      },
+      {
+        "title": "Karşıyaka Belediyesi — Muhtarlar",
+        "url": "https://www.karsiyaka.bel.tr/muhtarlar"
+      }
+    ],
+    "limitations": [
+      "Coğrafi bilgiler resmî kaynaklardan alınmıştır; araç alma ve teslim planlaması önerileri editoryal değerlendirmedir.",
+      "Metin, belirli bir adreste şube, giriş yetkisi, geçmiş iş, ekip mevcudu, varış süresi veya ücret doğrulamaz."
+    ],
+    "scenario": {
+      "title": "Mavişehir’de birden fazla araç kapısı",
+      "situation": "Mavişehir’de bir site otoparkındaki araç çalışmaz. Sürücü sitenin adını ve yaya girişinin konumunu gönderir, fakat otomobil başka araç kapısına yakın bir bölümde beklemektedir. Örnekte site adının yanında kullanılacak araç kapısını ayırmak gerekir.",
+      "assessment": "Doğru kapı, park noktası ve varsa kat bilgisi iletilir. Aracın marş ve hareket durumu açıklanır. Kapalı alan varsa görünen yükseklik sınırı paylaşılır; mahallenin tüm otoparkları için aynı koşul varsayılmaz.",
+      "delivery": "Seçilen servis hedefi açık adresle alınır. Site veya yaya kapısı konumu teslim adresi gibi kullanılmaz; kabul edecek kişi ayrıca netleştirilir.",
+      "type": "illustrative_not_historical"
+    }
+  },
+  "/bolgeler/kemalpasa/": {
+    "name": "Kemalpaşa",
+    "checked_on": "2026-10-11",
+    "base_facts_checked_on": "2026-10-09",
+    "status": "supported_editorial_brief",
+    "facts": [
+      "İzmir’in doğusunda yer alır.",
+      "Karabel Anıtı Kemalpaşa–Torbalı yolu üzerindedir; Nif Dağı çevresi ilçenin coğrafi unsurlarındandır."
+    ],
+    "sections": [
+      {
+        "heading": "Karabel yönündeki yol talebini tarif etme",
+        "paragraphs": [
+          "Kemalpaşa İzmir’in doğusundadır; resmî tanıtımda Karabel Anıtının Kemalpaşa–Torbalı yolu üzerindeki konumu belirtilir. Bu bağlantı yakınında kalan araç için yolun adını, ilerlediğiniz yönü ve gördüğünüz tabelayı paylaşın. Karabel adını genel bir çevre tarifi olarak kullanıyorsanız aracın anıtın yanında mı yoksa yolun başka noktasında mı olduğunu netleştirin."
+        ]
+      },
+      {
+        "heading": "Tesis içindeki araçta giriş ve araç türü",
+        "paragraphs": [
+          "Bir sanayi tesisi veya iş yerinden talep veriliyorsa firma adı, kapı ve araç bekleme noktası önemlidir. Binek otomobilin arızasıyla yük taşıyan ticari aracın talebi ayrı anlatılmalıdır. Yük miktarı hakkında bildiğiniz bilgiyi ve aracın hareket etmeyen bölümünü iletin. Kontrollü girişli bir alanda bulunmak, çekicinin izin almadan içeri girebileceği anlamına gelmez."
+        ]
+      },
+      {
+        "heading": "Nif çevresini genel konum olarak kullanma",
+        "paragraphs": [
+          "Nif Dağı ilçenin coğrafi unsurlarındandır; dağ adı tek başına araç alma adresi değildir. Yakındaki yerleşim ve kullanılan yolu konumla birlikte gönderin. Araç özel bir alandaysa erişim fotoğrafı ekleyin. Teslim hedefinin Kemalpaşa içinde mi Torbalı veya başka ilçede mi olduğunu açıkça yazın; yön tarifi, servisin açık adresinin yerine geçmemelidir."
+        ]
+      }
+    ],
+    "questions": [
+      {
+        "q": "Karabel tabelasını görüyorsam bunu paylaşmalı mıyım?",
+        "a": "Evet, konum ve hareket yönüyle birlikte yol tarifini destekler. Tabelanın adını aracın tam adresi gibi kullanmayın."
+      },
+      {
+        "q": "Kemalpaşa’da tesis içinde kalan yüklü araç için ne gerekli?",
+        "a": "Araç türü, yük, hareket sorunu ve tesis giriş koşulları paylaşılmalıdır; firma adı tek başına yeterli değildir."
+      }
+    ],
+    "sources": [
+      {
+        "title": "İzmir Valiliği — Kemalpaşa",
+        "url": "https://www.izmir.gov.tr/kemalpasa"
+      }
+    ],
+    "limitations": [
+      "Coğrafi bilgiler resmî kaynaklardan alınmıştır; araç alma ve teslim planlaması önerileri editoryal değerlendirmedir.",
+      "Metin, belirli bir adreste şube, giriş yetkisi, geçmiş iş, ekip mevcudu, varış süresi veya ücret doğrulamaz."
+    ],
+    "scenario": {
+      "title": "Karabel yakınında yanlış hedef tarifi",
+      "situation": "Kemalpaşa–Torbalı bağlantısında kalan sürücü Karabel adını ve Torbalı’ya gitmekte olduğunu söyler. Araç henüz hedef yerleşimde değildir. Örnekte yolculuk hedefiyle arızalı otomobilin gerçek alma noktası birbirinden ayrılarak paylaşılır.",
+      "assessment": "Konum, hareket yönü ve görünen tabela teyit edilir. Motorun çalışmasına rağmen ilerleyememe varsa vites ve tekerlek belirtisi konuşulur. Karabel adı tek başına yolun şu anki erişim koşulunu göstermez. Fotoğrafta görülemeyen ayrıntılar kesinmiş gibi yazılmaz; araç yanındaki kişinin bildiği koşullar görüşmede ayrıca teyit edilir.",
+      "delivery": "Sürücünün seçtiği servis Kemalpaşa’da veya başka ilçede olabilir. Hedefteki açık kabul adresi netleşmeden yolculuk yönü teslim talebi olarak kabul edilmez.",
+      "type": "illustrative_not_historical"
+    }
+  },
+  "/bolgeler/kinik/": {
+    "name": "Kınık",
+    "checked_on": "2026-10-11",
+    "base_facts_checked_on": "2026-10-09",
+    "status": "supported_editorial_brief",
+    "facts": [
+      "İzmir’in kuzeyinde Bergama ve Manisa arasında yer alır.",
+      "Poyracık ve Yayakent ilçedeki yerleşim noktalarıdır."
+    ],
+    "sections": [
+      {
+        "heading": "Poyracık ve Yayakent konumlarını ayırma",
+        "paragraphs": [
+          "Kınık, İzmir’in kuzeyinde Bergama ve Manisa arasında tanıtılan bir ilçedir; Poyracık ve Yayakent ilçedeki yerleşim noktaları arasındadır. Talepte merkez, Poyracık veya Yayakent ayrımını yapın. Bergama veya Manisa adını yön belirtmek için kullanıyorsanız aracın hangi yerleşimde beklediğini ayrıca yazın; hedef ilçe ile alma noktası birbirine karışmamalıdır."
+        ]
+      },
+      {
+        "heading": "Bağlantı yolunda araç durumu",
+        "paragraphs": [
+          "Merkez dışındaki bir yol üzerinde kalan araç için kullanılan yolu ve gözlenen yakın bir işareti konuma ekleyin. Aracın yol yüzeyinde mi özel girişte mi olduğu açıklanmalıdır. Motor arızasının yanında vites, tekerlek ve direksiyon durumunu da belirtin. Araç ticariyse yük bilgisini paylaşın; yalnızca ilçe adı üzerinden gerekli taşıma veya kurtarma yöntemi seçilmiş sayılmaz."
+        ]
+      },
+      {
+        "heading": "Bergama yönünde servis teslimi",
+        "paragraphs": [
+          "Kınık’tan alınacak aracı Bergama’daki bir servise bırakmak istiyorsanız servis adresini, alma adresinden ayrı yazın. Servisin adını biliyor olmanız aracı hangi kapıda kabul edeceğini açıklamayabilir. Kabul edecek kişi ve tam konumla talebi tamamlayın. Hedef değişirse yeni teslim adresini görüşmede güncelleyin; daha önceki yol tarifi kendiliğinden yeni hedef için geçerli olmaz."
+        ]
+      }
+    ],
+    "questions": [
+      {
+        "q": "Kınık yerine Poyracık yazmam yeterli mi?",
+        "a": "İlçeyi de ekleyip açık konumu gönderin. Yerleşim adı iyi bir başlangıçtır, ancak aracın bekleme noktasını göstermez."
+      },
+      {
+        "q": "Yayakent’teki aracı Bergama’ya götürmek için ne paylaşmalıyım?",
+        "a": "Yayakent’teki gerçek alma noktası, araç durumu ve Bergama’daki servisin açık adresini birlikte iletin."
+      }
+    ],
+    "sources": [
+      {
+        "title": "İzmir Valiliği — Kınık",
+        "url": "https://www.izmir.gov.tr/kinik"
+      }
+    ],
+    "limitations": [
+      "Coğrafi bilgiler resmî kaynaklardan alınmıştır; araç alma ve teslim planlaması önerileri editoryal değerlendirmedir.",
+      "Metin, belirli bir adreste şube, giriş yetkisi, geçmiş iş, ekip mevcudu, varış süresi veya ücret doğrulamaz."
+    ],
+    "scenario": {
+      "title": "Yayakent’ten Bergama’ya servis taşıması",
+      "situation": "Yayakent’teki otomobil için sahibi Bergama’daki bir servise teslim ister. İlk mesaj yalnızca Bergama’ya çekici şeklindedir. Örnekte alma yeri Kınık içindeki gerçek araç noktası, teslim yeri ise seçilen servisin açık adresi olarak ayrı gösterilir.",
+      "assessment": "Araç çalışır durumda mı, hareket etmeyen tekerlek veya direksiyon var mı, bunlar konuşulur. Yayakent’teki park konumu ve kullanılacak giriş teyit edilir. Bergama adı başlangıç konumu yerine kullanılmaz.",
+      "delivery": "Servisin kabul bölümü ve iletişim kişisi alınır. İlçe adıyla teslimi tamamlanmış saymak yerine belirli adres ve aracı karşılayacak kişi netleştirilir.",
+      "type": "illustrative_not_historical"
+    }
+  },
+  "/bolgeler/kiraz/": {
+    "name": "Kiraz",
+    "checked_on": "2026-10-11",
+    "base_facts_checked_on": "2026-10-09",
+    "status": "supported_editorial_brief",
+    "facts": [
+      "İzmir’in doğusunda bulunur.",
+      "Tarım ve hayvancılık ilçenin belirgin faaliyetleridir.",
+      "Kiraz, Bozdağlar ile Aydın Dağları arasındaki vadide yer alır."
+    ],
+    "sections": [
+      {
+        "heading": "Vadi ve yerleşim bilgisini konumla tamamlamak",
+        "paragraphs": [
+          "Kiraz Belediyesinin coğrafya tanıtımı ilçeyi kuzeyde Bozdağlar ve güneyde Aydın Dağları arasında konumlandırır. Bu geniş coğrafi tarif, belirli bir aracın bulunduğu yeri göstermez. Çekici isterken Kiraz ilçe adından sonra mahalleyi ve kullandığınız bağlantıyı belirtin. Merkez dışındaki bir noktadaysanız yol üzerindeki tabela veya yerleşim adını konum pinine ekleyin."
+        ]
+      },
+      {
+        "heading": "Tarım ve hayvancılık alanındaki araç talebi",
+        "paragraphs": [
+          "Resmî ilçe tanıtımında tarım ve hayvancılık öne çıkar; bununla birlikte her talebin ticari veya tarımsal araç olduğu varsayılmaz. Otomobil, panelvan veya başka araç türünü açıkça yazın. Tarla, bahçe veya özel alan girişinde bekliyorsanız aracın zemini ve yola göre yerini anlatın. Yük bulunması, tekerleğin gömülmesi ya da direksiyon sorunu gibi mevcut durumları ayrıca paylaşın."
+        ]
+      },
+      {
+        "heading": "İlçe dışına teslimi belirleme",
+        "paragraphs": [
+          "Kiraz’daki araç başka ilçedeki bir servise götürülecekse teslim adresini başlangıç noktasından ayrı gönderin. Araç kabulü ve teslim edilecek bölüm önceden konuşulmalıdır. Dağ veya ova adıyla yapılan yön tarifi, servisin açık adresinin yerine geçmez. Yolun o anda erişilebilir olduğuna dair yalnızca bildiğiniz bilgiyi verin; genel coğrafyadan güncel yol koşulu veya taşıma süresi çıkarılmaz."
+        ]
+      }
+    ],
+    "questions": [
+      {
+        "q": "Bozdağlar tarafındayım demem yeterli mi?",
+        "a": "Bu geniş bir coğrafi tariftir. Mahalle, kullanılan yol ve araç konumu ayrıca gönderilmelidir."
+      },
+      {
+        "q": "Kiraz’da bahçe girişinde arızalanan aracın hangi fotoğrafı yararlı?",
+        "a": "Aracı ve girişe göre konumunu birlikte gösteren fotoğraf yararlıdır. Görünen zemin ve hareket sorunu da açıklanmalıdır."
+      }
+    ],
+    "sources": [
+      {
+        "title": "İzmir Valiliği — Kiraz",
+        "url": "https://www.izmir.gov.tr/kiraz"
+      },
+      {
+        "title": "Kiraz Belediyesi — Coğrafi Durum",
+        "url": "https://www.kiraz.bel.tr/sayfa/kiraz-cografi-durum"
+      }
+    ],
+    "limitations": [
+      "Coğrafi bilgiler resmî kaynaklardan alınmıştır; araç alma ve teslim planlaması önerileri editoryal değerlendirmedir.",
+      "Metin, belirli bir adreste şube, giriş yetkisi, geçmiş iş, ekip mevcudu, varış süresi veya ücret doğrulamaz."
+    ],
+    "scenario": {
+      "title": "Bahçede hareket etmeyen tekerlek",
+      "situation": "Kiraz’daki bir bahçenin girişinde otomobilin motoru çalışır, fakat tekerleklerden biri hareket etmez. Sürücü sadece vadi tarafındayım diye tarif verir. Örnekte ilçenin dağlar arasındaki geniş coğrafyası araç yerini belirlemediği için mahalle ve gerçek konum ayrıca paylaşılır.",
+      "assessment": "Araçla yol arasındaki giriş fotoğraflanır. Hangi tekerlekte sorun olduğu, direksiyon ve vites durumu anlatılır. Mevcut zemin bilgisi gözleme dayanır; bölge adı üzerinden erişim veya ekipman kararı kesinleştirilmez.",
+      "delivery": "Seçilen servisin açık adresi ve kabulü konuşulur. Alma yeri ile ilçe dışındaki olası servis hedefi iki ayrı konum olarak iletilir.",
+      "type": "illustrative_not_historical"
+    }
+  },
+  "/bolgeler/konak/": {
+    "name": "Konak",
+    "checked_on": "2026-10-11",
+    "base_facts_checked_on": "2026-10-09",
+    "status": "supported_editorial_brief",
+    "facts": [
+      "İzmir’in yönetim, kültür ve ticaret merkezlerinden biridir.",
+      "Saat Kulesi ve Hükümet Konağı Konak Meydanı’ndadır."
+    ],
+    "sections": [
+      {
+        "heading": "Konak Meydanı yakınında gerçek araç noktası",
+        "paragraphs": [
+          "Saat Kulesi ve Hükümet Konağı Konak Meydanı’nda bulunur. Bu tanınan yerler genel tarifi kolaylaştırır, ancak aracın nerede beklediğini kesinleştirmez. Meydan yakınındaki bir araç için bulunduğunuz cadde, otopark veya giriş adını yazın. Bir yapının harita işareti yaya konumuysa bunu araç alma noktası gibi göndermek yerine, aracın gerçek konumunu paylaşın."
+        ]
+      },
+      {
+        "heading": "Kent içindeki park yerinden araç alma",
+        "paragraphs": [
+          "Araç bir bina girişinde veya park alanında hareket edemiyorsa çevresinde manevraya engel gördüğünüz durumu açıklayın. Kapalı otoparkta kat ve yükseklik sınırı; açık alanda ise giriş yönü yararlı bilgiler olabilir. Bunlar Konak’ın bütün sokaklarına ilişkin iddialar değildir, yalnızca arızalı aracın bulunduğu noktayı anlatır. Motor, direksiyon, vites ve tekerlek sorunlarını ayrı belirtin."
+        ]
+      },
+      {
+        "heading": "Ticaret adresiyle servis teslimini ayırma",
+        "paragraphs": [
+          "Konak resmî tanıtımda yönetim, kültür ve ticaret merkezlerinden biri olarak yer alır. Araç bir işletme yanında kalmışsa işletme adını konum tarifi için kullanabilirsiniz; teslim hedefi içinse seçilen servisin açık adresi gerekir. Aracı kabul edecek kişiyle iletişimi netleştirin. İş yerinin bilinen adının bulunması, araç girişinin açık olduğunu veya servis kabulü sağlandığını tek başına göstermez."
+        ]
+      }
+    ],
+    "questions": [
+      {
+        "q": "Saat Kulesi yanındayım demem yeterli mi?",
+        "a": "Saat Kulesini yakın işaret olarak kullanabilirsiniz; aracın bulunduğu cadde veya park noktasını ayrıca gönderin."
+      },
+      {
+        "q": "Konak’ta yaya girişinin konumunu gönderdiysem ne yapmalıyım?",
+        "a": "Araç girişini veya arızalı aracın gerçek bekleme yerini ikinci bir konumla açıklayın; iki noktanın farkını belirtin."
+      }
+    ],
+    "sources": [
+      {
+        "title": "İzmir Valiliği — Konak",
+        "url": "https://www.izmir.gov.tr/konak"
+      }
+    ],
+    "limitations": [
+      "Coğrafi bilgiler resmî kaynaklardan alınmıştır; araç alma ve teslim planlaması önerileri editoryal değerlendirmedir.",
+      "Metin, belirli bir adreste şube, giriş yetkisi, geçmiş iş, ekip mevcudu, varış süresi veya ücret doğrulamaz."
+    ],
+    "scenario": {
+      "title": "Meydan işaretiyle otopark konumu farklı",
+      "situation": "Konak Meydanı yakınındaki bir parkta duran otomobil marş almaz. Sürücü Saat Kulesinin işaretini gönderir; otomobil meydanın bu noktasında değildir. Örnekte tanınan bir yapı yön tarifini destekler, ancak arızalı aracın alma adresi yerine geçmez.",
+      "assessment": "Park girişi ve gerçek araç pini yeniden paylaşılır. Kapalı park varsa kat ve görünen yükseklik sınırı açıklanır. Belirtinin aküyle ilişkili olabileceği konuşulsa da kesin teşhis yalnızca konumdan veya marş bilgisinden çıkarılmaz.",
+      "delivery": "Taşıma gerekiyorsa seçilen servisin adresi ayrıca netleştirilir. Meydanın ya da yakındaki işletmenin adı servis kabul noktası gibi kullanılmaz.",
+      "type": "illustrative_not_historical"
+    }
+  },
+  "/bolgeler/menderes/": {
+    "name": "Menderes",
+    "checked_on": "2026-10-11",
+    "base_facts_checked_on": "2026-10-09",
+    "status": "supported_editorial_brief",
+    "facts": [
+      "İzmir’in güneyinde yer alır; Tahtalı Barajı ilçe sınırlarındadır.",
+      "Görece ile kıyı yerleşimleri ilçenin farklı alanlarıdır."
+    ],
+    "sections": [
+      {
+        "heading": "Görece ve kıyı yönündeki talepleri ayırma",
+        "paragraphs": [
+          "Menderes İzmir’in güneyindeki ilçelerden biridir; Görece çevresi ile kıyı yerleşimleri farklı alma noktalarıdır. Talebe yalnızca Menderes adını yazmak yeterli değildir. Bulunduğunuz yerleşimi ve aracın gerçek konumunu iletin. Yolculuğunuz kıyı yönüne olsa bile araç başka bir yerde kaldıysa, seyahat hedefini bulunduğunuz yerin adresi gibi kullanmayın."
+        ]
+      },
+      {
+        "heading": "Tahtalı yakınında yol tarifini somutlaştırma",
+        "paragraphs": [
+          "Tahtalı Barajı ilçe sınırlarındadır; baraj adı geniş bir çevreyi anlatır ve araçla erişilecek noktayı tek başına belirlemez. Aracın hangi yol veya özel alan girişinde bulunduğunu yazın. Çevrede gördüğünüz bir tabela, kapı veya yerleşim adıyla konumu tamamlayın. Bölge adı üzerinden yolun o anda açık olduğu veya her noktaya çekiciyle ulaşılabileceği varsayılmamalıdır."
+        ]
+      },
+      {
+        "heading": "Mahalleden servis kapısına teslim planı",
+        "paragraphs": [
+          "Merkez dışındaki bir konum için zemin ve araç erişimi hakkında gözlemlediğiniz bilgiyi paylaşın. Aracı Menderes içinde ya da başka ilçedeki bir servise teslim etmek istiyorsanız açık adresini ayrı gönderin. Vites, direksiyon ve tekerlek durumunu açıklamak, yalnızca motor arızası tarifinden daha kapsamlıdır. Teslim edilecek yerin kabul koşulları konuşulmadan mahalle adı bir servis hedefi sayılmaz."
+        ]
+      }
+    ],
+    "questions": [
+      {
+        "q": "Tahtalı Barajı yakınındayım demem yeterli mi?",
+        "a": "Barajın genel konumundan farklı olarak aracın beklediği yolu ve tam noktayı gönderin; gördüğünüz tabelayı ekleyin."
+      },
+      {
+        "q": "Menderes’te kıyı yönüne gidiyordum ama Görece’de kaldım; hangisini yazmalıyım?",
+        "a": "Alma yeri olarak Görece’deki gerçek konumu yazın. Kıyı yönündeki yolculuk veya servis hedefi ayrı bilgi olarak belirtilmelidir."
+      }
+    ],
+    "sources": [
+      {
+        "title": "İzmir Valiliği — Menderes",
+        "url": "https://www.izmir.gov.tr/menderes"
+      }
+    ],
+    "limitations": [
+      "Coğrafi bilgiler resmî kaynaklardan alınmıştır; araç alma ve teslim planlaması önerileri editoryal değerlendirmedir.",
+      "Metin, belirli bir adreste şube, giriş yetkisi, geçmiş iş, ekip mevcudu, varış süresi veya ücret doğrulamaz."
+    ],
+    "scenario": {
+      "title": "Tahtalı çevresinde baraj pini gönderilmesi",
+      "situation": "Tahtalı Barajı çevresindeki bir yol üzerinde kalan araç için sürücü barajın genel harita işaretini gönderir. Araç bu işaretin gösterdiği noktada değildir. Örnekte baraj adı yakın çevre bilgisidir; yol, giriş ve araç konumu ayrı açıklanmalıdır.",
+      "assessment": "Kullanılan yol ile görünen tabela paylaşılır. Aracın asfalt üzerinde mi başka zeminde mi olduğu ve tekerleklerin durumu anlatılır. Baraj adı üzerinden her noktaya araçla giriş yapılabildiği varsayılmaz.",
+      "delivery": "Menderes içindeki ya da başka ilçedeki seçilmiş servisin açık adresi alınır. Baraj çevresi tarifi taşıma süresini, fiyatını veya kabul koşulunu belirlemez.",
+      "type": "illustrative_not_historical"
+    }
+  },
+  "/bolgeler/menemen/": {
+    "name": "Menemen",
+    "checked_on": "2026-10-11",
+    "base_facts_checked_on": "2026-10-09",
+    "status": "supported_editorial_brief",
+    "facts": [
+      "İzmir’in kuzeyinde; Aliağa, Foça, Çiğli ve Manisa yönleri arasında yer alır.",
+      "Tarım ve deri üretimi ilçenin belirgin faaliyetleri arasındadır."
+    ],
+    "sections": [
+      {
+        "heading": "Aliağa, Foça ve Manisa yönlerini açık belirtme",
+        "paragraphs": [
+          "Menemen İzmir’in kuzeyinde Aliağa, Foça, Çiğli ve Manisa yönleri arasında tanıtılır. Yol üzerindeki bir arızada Menemen adından sonra hangi yönde ilerlediğinizi yazın. Bu yön bilgisi aracın gerçek konumunun yerine geçmez; konum pini ve en yakın tabela birlikte gönderilmelidir. Servis hedefi farklı yöndeyse bunu hareket yönünden ayrı anlatın."
+        ]
+      },
+      {
+        "heading": "Üretim alanındaki araç için kapı ve yük",
+        "paragraphs": [
+          "Tarım ve deri üretimi resmî ilçe tanıtımında öne çıkan faaliyetlerdir. Bir üretim tesisindeki araç talebinde firma adı, kapı ve bekleme noktası; tarımsal alandaki talepte ise özel giriş ve zemin bilgisi önemlidir. Araç türünü ve mevcut yükü ayrıca yazın. İlçenin üretim niteliği bütün araçların ticari olduğu veya ağır kurtarma gerektirdiği anlamına gelmez."
+        ]
+      },
+      {
+        "heading": "Kent içi talebi farklı adresle tamamlamak",
+        "paragraphs": [
+          "Menemen merkezindeki bir araç için mahalle, cadde ve gerçek park yerini bildirin. Direksiyon veya tekerlekler hareket etmiyorsa motor belirtisinden ayrı söyleyin. Aracı bir servise bırakmak istiyorsanız servisin açık konumunu ve kabul edecek kişinin bilgisini iletin. Başka bir ilçedeki servis seçimi, yalnızca talepte geçen yön adından çıkarılmamalıdır; teslim hedefi açıkça onaylanmalıdır."
+        ]
+      }
+    ],
+    "questions": [
+      {
+        "q": "Foça yönündeyim yazmam Menemen’de konumu belirler mi?",
+        "a": "Yön bilgisi yardımcıdır; araç konumu ve görünen tabela da gerekir. Foça yönü teslim adresi olarak varsayılmaz."
+      },
+      {
+        "q": "Menemen’de üretim tesisi için çekici talebi nasıl tamamlanır?",
+        "a": "Tesis kapısı, araç konumu, araç türü ve yük durumunu paylaşın. Giriş koşulunu tesis yetkilisiyle netleştirin."
+      }
+    ],
+    "sources": [
+      {
+        "title": "İzmir Valiliği — Menemen",
+        "url": "https://www.izmir.gov.tr/menemen"
+      }
+    ],
+    "limitations": [
+      "Coğrafi bilgiler resmî kaynaklardan alınmıştır; araç alma ve teslim planlaması önerileri editoryal değerlendirmedir.",
+      "Metin, belirli bir adreste şube, giriş yetkisi, geçmiş iş, ekip mevcudu, varış süresi veya ücret doğrulamaz."
+    ],
+    "scenario": {
+      "title": "Üretim tesisinden boş panelvan talebi",
+      "situation": "Menemen’de bir üretim tesisinin dış parkındaki boş panelvan çalışmaz. Talepte sanayi aracı ifadesi kullanılmıştır, fakat araç ve yük ayrıntısı verilmemiştir. Örnekte bölgenin üretim niteliğinden aracın ağır ya da yüklü olduğu çıkarılmaz.",
+      "assessment": "Marka, model, araç türü ve yük bulunmadığı netleştirilir. Dış parkın konumu ile tesis kapısı ayrılır; tekerlek, vites ve direksiyon sorunu sorulur. Tesis içinde giriş gerekip gerekmediği ayrıca konuşulur. Fotoğrafta görülemeyen ayrıntılar kesinmiş gibi yazılmaz; araç yanındaki kişinin bildiği koşullar görüşmede ayrıca teyit edilir.",
+      "delivery": "Aracı kabul edecek servis açık konumla belirlenir. Foça, Aliağa veya Manisa yönü, tek başına seçilmiş teslim adresi gibi kullanılmaz.",
+      "type": "illustrative_not_historical"
+    }
+  },
+  "/bolgeler/narlidere/": {
+    "name": "Narlıdere",
+    "checked_on": "2026-10-11",
+    "base_facts_checked_on": "2026-10-09",
+    "status": "supported_editorial_brief",
+    "facts": [
+      "Balçova ile Güzelbahçe arasında ve İzmir Körfezi kıyısında yer alır.",
+      "Balçova sınırı çevresinde sıcak su kaynakları vardır.",
+      "Sahilevleri Narlıdere Kaymakamlığının mahalle kaydında yer alır."
+    ],
+    "sections": [
+      {
+        "heading": "Balçova ve Güzelbahçe yönünü adresle tamamlama",
+        "paragraphs": [
+          "Narlıdere körfez kıyısında Balçova ile Güzelbahçe arasında bulunur. Bu komşu ilçe adları hareket yönünü açıklayabilir; aracın Narlıdere’deki tam bekleme yerini göstermeyebilir. Talepte mahalleyi, cadde veya sokak bilgisini ve konumu paylaşın. Balçova yönüne giderken kalmış bir araç için teslim hedefinin de Balçova olduğu kendiliğinden varsayılmaz."
+        ]
+      },
+      {
+        "heading": "Sahilevleri adresi ile bina girişini ayırma",
+        "paragraphs": [
+          "Narlıdere Kaymakamlığının kayıtlarında Sahilevleri Mahallesi adı yer alır. Sahilevleri’ndeki bir araç için mahalle bilgisine gerçek park noktasını ekleyin. Site veya kapalı otoparktaysanız araç kapısını, katı ve bildiğiniz erişim sınırını anlatın. Mahalle adının bulunması, giriş yüksekliği veya yol koşulu hakkında bilgi sağlamaz; bu ayrıntılar yalnızca mevcut adrese göre değerlendirilir."
+        ]
+      },
+      {
+        "heading": "Hareket sorunu ve servis kabulü",
+        "paragraphs": [
+          "Araç marş almadığında görülen belirtiyi açıklayın; direksiyon, vites veya tekerleklerin hareketinde ayrı bir sorun varsa bunu da paylaşın. Taşıma isteniyorsa seçilen servisin adresini alma konumundan ayrı gönderin. Servisin aracı hangi bölümde kabul edeceğini netleştirin. Bir sitenin ya da mahallenin bilinen adını kullanmak, servis kabulünün veya araca erişimin sağlandığı anlamına gelmez."
+        ]
+      }
+    ],
+    "questions": [
+      {
+        "q": "Sahilevleri’nde site adı yeterli mi?",
+        "a": "Site adı konumu destekler; kullanılacak araç girişi ve gerçek park yeri de paylaşılmalıdır."
+      },
+      {
+        "q": "Güzelbahçe yönünü söyledim; servis adresini yine göndermeli miyim?",
+        "a": "Evet. Hareket yönü ile teslim hedefi ayrı bilgilerdir; servisin açık adresini ayrıca iletin."
+      }
+    ],
+    "sources": [
+      {
+        "title": "İzmir Valiliği — Narlıdere",
+        "url": "https://www.izmir.gov.tr/narlidere"
+      },
+      {
+        "title": "Narlıdere Kaymakamlığı — Sahilevleri Mahallesi kaydı",
+        "url": "https://www.narlidere.gov.tr/sahilevleri-mahallesinde-vatandasla-bulusuldu"
+      }
+    ],
+    "limitations": [
+      "Coğrafi bilgiler resmî kaynaklardan alınmıştır; araç alma ve teslim planlaması önerileri editoryal değerlendirmedir.",
+      "Metin, belirli bir adreste şube, giriş yetkisi, geçmiş iş, ekip mevcudu, varış süresi veya ücret doğrulamaz."
+    ],
+    "scenario": {
+      "title": "Sahilevleri’nde kat bilgisi eksik",
+      "situation": "Sahilevleri’ndeki bir bina otoparkında otomobil ilerleyemez. Sürücü Narlıdere adresini ve bina adını gönderir; araç bodrum katında beklemektedir. Örnekte mahalle ve bina adı doğru olsa da kullanılacak kapı, kat ve gerçek park konumu ayrı bilgi gerektirir.",
+      "assessment": "Görünen yükseklik sınırı ile rampa ve giriş konumu paylaşılır. Motorun çalışıp çalışmadığı, vites ve tekerlek durumu konuşulur. Mahalle adına dayanarak tüm otoparkların aynı erişime sahip olduğu kabul edilmez.",
+      "delivery": "Sürücü Güzelbahçe’de bir servis istiyorsa açık adres alınır. Güzelbahçe yönünde hareket ediliyor olması kendiliğinden bu teslim hedefini oluşturmaz.",
+      "type": "illustrative_not_historical"
+    }
+  },
+  "/bolgeler/odemis/": {
+    "name": "Ödemiş",
+    "checked_on": "2026-10-11",
+    "base_facts_checked_on": "2026-10-09",
+    "status": "supported_editorial_brief",
+    "facts": [
+      "İzmir’in güneydoğusunda yer alır.",
+      "Birgi, Bozdağ ve Bademli ilçede farklı yerleşim noktalarıdır."
+    ],
+    "sections": [
+      {
+        "heading": "Birgi, Bademli ve Bozdağ adreslerini ayırma",
+        "paragraphs": [
+          "Ödemiş’in resmî tanıtımında Birgi, Bademli ve Bozdağ farklı yerleşim noktaları olarak yer alır. İlçe merkezindeki araçla bu yerlerdeki araçlar için aynı buluşma tarifini kullanmayın. Talebin başında bulunduğunuz yerleşimi yazın; yol üzerindeyseniz bağlantı ve gördüğünüz işareti konumla birleştirin. Gezi hedefi, arızalı aracın bulunduğu nokta olarak anlaşılmamalıdır."
+        ]
+      },
+      {
+        "heading": "Bozdağ çevresinde gözlenen erişimi açıklama",
+        "paragraphs": [
+          "Bozdağ çevresindeki bir araç talebinde yerleşim adı geniş bir tariftir; mevcut yol, park alanı veya özel giriş ayrıca belirtilmelidir. Yol yüzeyi ve aracın çevresinde gördüğünüz koşulları açıklayın. Bölgenin adı üzerinden o günkü yol veya hava koşulu çıkarılmaz. Araç çalışmıyor, tekerleği hareket etmiyor veya özel alanda bulunuyorsa bu durumları ayrı ayrı anlatın."
+        ]
+      },
+      {
+        "heading": "Ödemiş merkezine veya başka ilçeye teslim",
+        "paragraphs": [
+          "Aracı Ödemiş merkezindeki bir servise götürmek istediğinizde servis adının yanında tam adresi gönderin. Birgi ya da Bademli’deki alma konumuyla teslim adresini karıştırmamak için iki harita bağlantısını etiketleyin. Başka ilçede kabul edecek bir servis seçilmişse irtibat kişisini de iletin. Yerleşimler arasındaki genel coğrafi ilişki, taşıma süresi veya ücret hakkında kesin bilgi oluşturmaz."
+        ]
+      }
+    ],
+    "questions": [
+      {
+        "q": "Bozdağ’dayım demem aracı bulmak için yeterli mi?",
+        "a": "Aracın gerçek yol veya park konumunu gönderin; yerleşim adı genel tarifi destekler, tam noktayı belirlemez."
+      },
+      {
+        "q": "Birgi’deki aracımı Ödemiş merkezine götürmek için ne gerekir?",
+        "a": "Birgi’deki alma noktası, araç durumu ve merkezdeki servisin kabul adresi birlikte netleştirilmelidir."
+      }
+    ],
+    "sources": [
+      {
+        "title": "İzmir Valiliği — Ödemiş",
+        "url": "https://www.izmir.gov.tr/odemis"
+      }
+    ],
+    "limitations": [
+      "Coğrafi bilgiler resmî kaynaklardan alınmıştır; araç alma ve teslim planlaması önerileri editoryal değerlendirmedir.",
+      "Metin, belirli bir adreste şube, giriş yetkisi, geçmiş iş, ekip mevcudu, varış süresi veya ücret doğrulamaz."
+    ],
+    "scenario": {
+      "title": "Birgi alma noktası, merkez teslimi",
+      "situation": "Birgi’de park halindeki otomobilin servise taşınması istenir. Araç motoru çalışsa da güvenilir şekilde ilerleyemediği söylenir. Örnek talepte Birgi’deki gerçek park konumu ile Ödemiş merkezindeki seçilmiş servis ayrı paylaşılır; merkez adresi alma yeri yerine kullanılmaz.",
+      "assessment": "Mevcut belirti, vites ve tekerlek hareketi açıklanır. Parkın açık veya kapalı olması ve kullanılacak araç girişi teyit edilir. Arızanın adı yalnızca bu anlatımdan kesinleştirilmez. Fotoğrafta görülemeyen ayrıntılar kesinmiş gibi yazılmaz; araç yanındaki kişinin bildiği koşullar görüşmede ayrıca teyit edilir.",
+      "delivery": "Ödemiş’teki servisin kabul bölümü ve irtibat kişisi belirlenir. Birgi–merkez şeklindeki genel tarif süre veya ücret vaadine dönüştürülmez.",
+      "type": "illustrative_not_historical"
+    }
+  },
+  "/bolgeler/seferihisar/": {
+    "name": "Seferihisar",
+    "checked_on": "2026-10-11",
+    "base_facts_checked_on": "2026-10-09",
+    "status": "supported_editorial_brief",
+    "facts": [
+      "İzmir’in batısında Ege kıyısında yer alır.",
+      "Sığacık, ilçe merkezinin batısındaki ayrı bir kıyı yerleşimidir."
+    ],
+    "sections": [
+      {
+        "heading": "Sığacık ile ilçe merkezini farklı tarif etme",
+        "paragraphs": [
+          "Sığacık, Seferihisar merkezinin batısındaki kıyı yerleşimidir. Talepte merkezde mi Sığacık çevresinde mi olduğunuzu açıkça belirtin. Sahil tesisi veya konaklama adresinden arıyorsanız kapı ve araç bekleme yerini de paylaşın. Bilinen bir yerleşimin adının kullanılması, aracın hangi cadde, otopark veya özel alanda olduğunu göstermeye yetmez."
+        ]
+      },
+      {
+        "heading": "Konaklama yerindeki araç arızası",
+        "paragraphs": [
+          "Araç bir konaklama alanında park halindeyken çalışmıyorsa gördüğünüz uyarı veya belirtiyi anlatın. Tekerlek, direksiyon ve vites durumunu ayrıca açıklayın. Otoparkın katı ya da araç girişindeki sınır varsa görevliden bilgi alıp paylaşabilirsiniz. Sığacık’ın bütün tesislerinin aynı erişim koşuluna sahip olduğu varsayılmaz; talep gerçek park noktasına göre değerlendirilmelidir."
+        ]
+      },
+      {
+        "heading": "Kıyı konumundan seçilen servise teslim",
+        "paragraphs": [
+          "Seferihisar’daki alma konumuyla seçtiğiniz servis adresini ayrı gönderin. Servis ilçe merkezinde veya başka ilçede bulunabilir; bunun görüşmede belirlenmesi gerekir. Araç sahibi konaklamadan ayrılacaksa iletişim kuracak kişiyi ve kabul koşullarını netleştirin. Bir tatil planının olması belirli bir geliş süresi vaadi değildir; taşıma, mevcut araç ve adres bilgileriyle konuşulmalıdır."
+        ]
+      }
+    ],
+    "questions": [
+      {
+        "q": "Sığacık’ta tesis adını söylemem yeterli mi?",
+        "a": "Tesis adı, araç girişi ve arızalı aracın gerçek konumu birlikte paylaşılmalıdır."
+      },
+      {
+        "q": "Sığacık’tan Seferihisar merkezine teslim isteğinde servis adresi gerekir mi?",
+        "a": "Evet. Merkez adı yerine servisin tam kabul adresini iletin; alma ve teslim konumlarını ayrı yazın."
+      }
+    ],
+    "sources": [
+      {
+        "title": "İzmir Valiliği — Seferihisar",
+        "url": "https://www.izmir.gov.tr/seferihisar"
+      }
+    ],
+    "limitations": [
+      "Coğrafi bilgiler resmî kaynaklardan alınmıştır; araç alma ve teslim planlaması önerileri editoryal değerlendirmedir.",
+      "Metin, belirli bir adreste şube, giriş yetkisi, geçmiş iş, ekip mevcudu, varış süresi veya ücret doğrulamaz."
+    ],
+    "scenario": {
+      "title": "Sığacık’ta lastik hasarlı park aracı",
+      "situation": "Sığacık’taki bir konaklama alanında otomobilin lastiği hasarlıdır. Sürücü yerinde yardım mı taşıma mı gerektiğinden emin değildir. Örnekte görünen hasar, yedek lastik hakkında bilinen bilgi ve aracın gerçek park noktası birlikte paylaşılır.",
+      "assessment": "Hasarlı tekerleğin ve girişin fotoğrafı gönderilir. Aracın başka hareket sorunu olup olmadığı konuşulur. Tesisin genel konumu park yerine eşit kabul edilmez; erişim koşulu ilgili kişiyle teyit edilir. Fotoğrafta görülemeyen ayrıntılar kesinmiş gibi yazılmaz; araç yanındaki kişinin bildiği koşullar görüşmede ayrıca teyit edilir.",
+      "delivery": "Hizmet kapsamı netleşince gerekiyorsa seçilen servis açık adresle belirlenir. Örnek, her lastik hasarının yerinde çözülebileceğine ilişkin garanti içermez.",
+      "type": "illustrative_not_historical"
+    }
+  },
+  "/bolgeler/selcuk/": {
+    "name": "Selçuk",
+    "checked_on": "2026-10-11",
+    "base_facts_checked_on": "2026-10-09",
+    "status": "supported_editorial_brief",
+    "facts": [
+      "İzmir–Aydın karayolu üzerinde yer alır.",
+      "Şirince ve Pamucak ilçedeki farklı kırsal ve kıyı noktalarıdır."
+    ],
+    "sections": [
+      {
+        "heading": "Şirince, Pamucak ve Selçuk merkezini ayırma",
+        "paragraphs": [
+          "Selçuk’un resmî tanıtımı Şirince ve Pamucak gibi farklı noktaları içerir; ilçe İzmir–Aydın karayolu üzerindedir. Talepte merkez, Şirince veya Pamucak ayrımını yapın. Bir tesis ya da gezi alanı adını yakındaki işaret olarak kullanabilirsiniz, ancak araç parkının veya yol üzerindeki bekleme noktasının konumu ayrıca paylaşılmalıdır."
+        ]
+      },
+      {
+        "heading": "İzmir–Aydın hattında hareket yönünü açıklama",
+        "paragraphs": [
+          "Karayolunda kalan araç için ilerlediğiniz yönü, yakındaki tabela veya bağlantıyı yazın. Şirince veya Pamucak yönüne gitmeyi planlamış olmanız aracın o yerleşimde kaldığı anlamına gelmez; gerçek alma noktası konumla belirlenmelidir. Aracın sorununu motor belirtisiyle sınırlamayın; lastik, direksiyon ve vites durumunu da bildirin. Yer adı üzerinden güncel yol koşulu ya da erişim süresi varsayılmaz."
+        ]
+      },
+      {
+        "heading": "Turistik alan otoparkından servis teslimine",
+        "paragraphs": [
+          "Araç bir ziyaret alanı veya konaklama tesisinin parkında kalmışsa araç girişini ve varsa görevliyle konuşulan erişim koşulunu iletin. Teslim için seçilen servisin adresini ayrı gönderin; tesisin genel harita işareti servis kabul adresi değildir. Aracın sahibi yanında olmayacaksa iletişim kuracak kişiyi netleştirin. Taşıma hedefi değişirse güncel konum görüşmede yeniden belirtilmelidir."
+        ]
+      }
+    ],
+    "questions": [
+      {
+        "q": "Şirince’ye giderken ana yolda kaldım; Şirince diye yazabilir miyim?",
+        "a": "Gezi hedefini ayrı belirtin. Alma yeri olarak aracın kaldığı gerçek yol konumunu gönderin."
+      },
+      {
+        "q": "Pamucak’ta bir tesis parkından araç alma için ne gerekir?",
+        "a": "Tesis adı, kullanılacak araç kapısı ve park noktasıyla araç durumunu iletin; erişim koşulunu görevliyle teyit edin."
+      }
+    ],
+    "sources": [
+      {
+        "title": "İzmir Valiliği — Selçuk",
+        "url": "https://www.izmir.gov.tr/selcuk"
+      }
+    ],
+    "limitations": [
+      "Coğrafi bilgiler resmî kaynaklardan alınmıştır; araç alma ve teslim planlaması önerileri editoryal değerlendirmedir.",
+      "Metin, belirli bir adreste şube, giriş yetkisi, geçmiş iş, ekip mevcudu, varış süresi veya ücret doğrulamaz."
+    ],
+    "scenario": {
+      "title": "Şirince yolculuğunda ana yolda arıza",
+      "situation": "Şirince’ye gitmekte olan sürücü İzmir–Aydın hattında kalır ve mesajına Şirince çekici yazar. Otomobil Şirince’de değildir. Örnekte seyahat hedefi ile gerçek yol konumu ayrılarak iletilir; hedef yerleşimin işareti alma adresi olarak kullanılmaz.",
+      "assessment": "Aracın konumu, hareket yönü ve görünen bağlantı veya tabela paylaşılır. Arıza belirtisi ile vites ve tekerlek durumu açıklanır. Genel yol adı mevcut erişim süresini veya koşulunu doğrulamaz. Fotoğrafta görülemeyen ayrıntılar kesinmiş gibi yazılmaz; araç yanındaki kişinin bildiği koşullar görüşmede ayrıca teyit edilir.",
+      "delivery": "Sürücü Selçuk merkezindeki bir servis seçerse tam kabul adresi alınır. Gezi hedefi, aracı teslim etmek istenen yer olarak varsayılmaz.",
+      "type": "illustrative_not_historical"
+    }
+  },
+  "/bolgeler/tire/": {
+    "name": "Tire",
+    "checked_on": "2026-10-11",
+    "base_facts_checked_on": "2026-10-09",
+    "status": "supported_editorial_brief",
+    "facts": [
+      "Bayındır, Ödemiş, Selçuk ve Torbalı ile çevrilidir.",
+      "Tire Organize Sanayi Bölgesi ilçededir."
+    ],
+    "sections": [
+      {
+        "heading": "Tire OSB ile kent içi adresi ayırma",
+        "paragraphs": [
+          "Tire Organize Sanayi Bölgesi ilçede bulunur; resmî ilçe tanıtımı Bayındır, Ödemiş, Selçuk ve Torbalı çevresiyle ilişkisini de belirtir. OSB’den gelen talepte tesis adı, sokak ve kapı; merkezdeki talepte ise mahalle ve açık araç konumu öne çıkar. Komşu ilçe adını yön için kullanıyorsanız bunun gerçek alma adresi olmadığını açıklayın."
+        ]
+      },
+      {
+        "heading": "Sanayi tesisindeki araç durumunu anlatma",
+        "paragraphs": [
+          "Bir tesiste otomobil, servis aracı veya yüklü ticari araç bulunabilir. Hangisi için yardım istendiğini açıkça yazın. Tekerlek, vites ve direksiyon hareket etmiyorsa bunu motor arızasından ayrı söyleyin. Aracın bir atölye içinde mi dış parkta mı olduğu, giriş ve manevra alanı konusunda farklı bilgi gerektirir. Tesis kapısından giriş için gerekli koşullar ilgili kişiyle konuşulmalıdır."
+        ]
+      },
+      {
+        "heading": "Kırsal alma noktasından servise teslim",
+        "paragraphs": [
+          "Tire’de merkez dışındaki bir mahalleden araç alma isteğinde yol ve gerçek konumu paylaşın. Aracı Tire’deki veya başka ilçedeki bir servise bırakmak istiyorsanız kabul adresini ayrı gönderin. Servisin adı yanında teslimi karşılayacak kişi de belirlenmelidir. Tarım veya sanayi çevresindeki bir konum olması tek başına ağır kurtarma, belirli fiyat veya sabit varış süresi anlamına gelmez."
+        ]
+      }
+    ],
+    "questions": [
+      {
+        "q": "Tire OSB adını tek başına yazmam yeterli mi?",
+        "a": "Firma, sokak, kapı ve araç bekleme noktası da gerekir. Bölgenin genel girişi araç alma adresi olmayabilir."
+      },
+      {
+        "q": "Tire kırsalından Ödemiş’teki servise teslim için ne yazmalıyım?",
+        "a": "Gerçek alma konumunu, araç durumunu ve Ödemiş’teki servisin tam kabul adresini ayrı olarak iletin."
+      }
+    ],
+    "sources": [
+      {
+        "title": "İzmir Valiliği — Tire",
+        "url": "https://www.izmir.gov.tr/tire"
+      }
+    ],
+    "limitations": [
+      "Coğrafi bilgiler resmî kaynaklardan alınmıştır; araç alma ve teslim planlaması önerileri editoryal değerlendirmedir.",
+      "Metin, belirli bir adreste şube, giriş yetkisi, geçmiş iş, ekip mevcudu, varış süresi veya ücret doğrulamaz."
+    ],
+    "scenario": {
+      "title": "OSB içinden başka atölyeye teslim",
+      "situation": "Tire Organize Sanayi Bölgesi içindeki bir işletmede otomobil başka atölyeye taşınmak istenir. Araç mevcut atölyede işlem görmüştür ve bir parçasının sökülmüş olduğu belirtilir. Örnekte şirket kapısı kadar aracın hareket koşulu ve hangi parçanın söküldüğü de açıklanmalıdır.",
+      "assessment": "Tesis giriş noktası ve otomobilin bulunduğu bölüm paylaşılır. Tekerlek, direksiyon ve vites durumu konuşulur. Sanayi adresinden otomobilin ticari veya ağır vasıta olduğu çıkarılmaz; giriş koşulu işletmeyle teyit edilir.",
+      "delivery": "Yeni atölyenin kabul adresi ve aracı karşılayacak kişi alınır. OSB’nin genel girişini iki servisin ortak alma veya teslim noktası gibi kullanmaktan kaçınılır.",
+      "type": "illustrative_not_historical"
+    }
+  },
+  "/bolgeler/torbali/": {
+    "name": "Torbalı",
+    "checked_on": "2026-10-11",
+    "base_facts_checked_on": "2026-10-09",
+    "status": "supported_editorial_brief",
+    "facts": [
+      "İzmir–Aydın otoyolu bağlantısı bulunur.",
+      "Karabel üzerinden Kemalpaşa–Ankara karayoluna bağlantısı vardır."
+    ],
+    "sections": [
+      {
+        "heading": "Otoyol ve Karabel bağlantısını ayırma",
+        "paragraphs": [
+          "Torbalı’nın İzmir–Aydın otoyoluna bağlantısı ve Karabel üzerinden Kemalpaşa–Ankara karayoluyla ilişkisi resmî tanıtımında yer alır. İlçe içi sokakta kalan araçla bu bağlantılardaki araç farklı konum tarifleri gerektirir. Talebin başında gerçek yolu veya mahalleyi yazın. Otoyoldaysanız ilerlediğiniz yönle birlikte gördüğünüz çıkış ya da tabela bilgisini konuma ekleyin."
+        ]
+      },
+      {
+        "heading": "Mahalle veya tesis içindeki araç alma noktası",
+        "paragraphs": [
+          "Araç bir işletmenin içinde bulunuyorsa şirket adı kadar kapı ve park noktası da önemlidir. Mahalle içinde ise cadde, sokak ve araç girişini belirtin. Otomobil ile yüklü ticari araç talebini ayırarak aracın türünü ve hareket sorununu paylaşın. Otoyola yakın bir adres olması, aracın otoyol üzerinde olduğu veya aynı girişin kullanılacağı anlamına gelmez."
+        ]
+      },
+      {
+        "heading": "Kemalpaşa yönü ile teslim hedefini netleştirme",
+        "paragraphs": [
+          "Karabel veya Kemalpaşa yönünü yol tarifi için kullanıyorsanız servisin bu yönde olup olmadığını ayrıca söyleyin. Alma konumuyla teslim adresini iki ayrı nokta halinde iletin. Servis kabulü ve aracı karşılayacak kişi belliyse paylaşın. Yol bağlantılarının bilinmesi, güncel erişim koşulunu, taşıma süresini ya da ücretini doğrulamaz; bunlar talebin gerçek kapsamına göre görüşülmelidir."
+        ]
+      }
+    ],
+    "questions": [
+      {
+        "q": "Torbalı’da otoyola yakın iş yeriyle otoyoldaki araç aynı tarifle bulunur mu?",
+        "a": "Hayır. İş yeri kapısının adresi ile otoyoldaki yön ve çıkış bilgisi farklıdır; gerçek konumu açıklayın."
+      },
+      {
+        "q": "Karabel yönünü söylediysem Kemalpaşa’ya teslim anlaşılır mı?",
+        "a": "Teslim hedefini ayrıca yazın. Hareket yönü, seçilen servis adresi olarak varsayılmaz."
+      }
+    ],
+    "sources": [
+      {
+        "title": "İzmir Valiliği — Torbalı",
+        "url": "https://www.izmir.gov.tr/torbali"
+      }
+    ],
+    "limitations": [
+      "Coğrafi bilgiler resmî kaynaklardan alınmıştır; araç alma ve teslim planlaması önerileri editoryal değerlendirmedir.",
+      "Metin, belirli bir adreste şube, giriş yetkisi, geçmiş iş, ekip mevcudu, varış süresi veya ücret doğrulamaz."
+    ],
+    "scenario": {
+      "title": "Otoyol yakını fabrika pini",
+      "situation": "Torbalı’da otoyola yakın bir tesisin parkında kalan araç için sürücü otoyol çekici ifadesini kullanır. Otomobil otoyol üzerinde değildir. Örnekte ilçe bağlantısına yakınlık ile gerçek araç alma alanı ayrılır; tesis kapısının konumu ayrıca gönderilir.",
+      "assessment": "Park noktası, firma kapısı ve araç durumu konuşulur. Vites veya tekerlek sorunu varsa açıklanır. Otoyol çıkış bilgisi yakın çevre tarifi olarak kullanılabilir, ancak kullanılacak tesis girişinin yerine geçmez. Fotoğrafta görülemeyen ayrıntılar kesinmiş gibi yazılmaz; araç yanındaki kişinin bildiği koşullar görüşmede ayrıca teyit edilir.",
+      "delivery": "Kemalpaşa veya başka yerdeki servis seçimi açık adresle netleştirilir. Karabel yönüyle yapılan yol tarifi teslim hedefi olarak varsayılmaz.",
+      "type": "illustrative_not_historical"
+    }
+  },
+  "/bolgeler/urla/": {
+    "name": "Urla",
+    "checked_on": "2026-10-11",
+    "base_facts_checked_on": "2026-10-09",
+    "status": "supported_editorial_brief",
+    "facts": [
+      "Çeşme ve Güzelbahçe arasında, kuzey ve güney kıyıları bulunan bir ilçedir.",
+      "İskele, Bademler, Barbaros, Özbek, Balıklıova ve Gülbahçe farklı yerleşim noktalarıdır."
+    ],
+    "sections": [
+      {
+        "heading": "İskele, Özbek ve Balıklıova adreslerini ayırma",
+        "paragraphs": [
+          "Urla’nın kuzey ve güney kıyıları bulunur; resmî tanıtımda İskele, Özbek, Balıklıova, Gülbahçe, Bademler ve Barbaros farklı yerleşimler olarak yer alır. Yalnızca Urla adını vermek bu noktalardaki aracı bulmak için yeterli değildir. Talepte bulunduğunuz yerleşimi ve gerçek araç konumunu yazın. Sahildeki tanınan bir işaret, park noktasından farklı olabilir."
+        ]
+      },
+      {
+        "heading": "Bademler ve Barbaros çevresindeki özel giriş",
+        "paragraphs": [
+          "İç kesimdeki bir yerleşimde araç bahçe, iş yeri veya başka özel alanın içindeyse kullanılan giriş ve aracın yola göre konumu paylaşılmalıdır. Zemini ve kapı açıklığını gördüğünüz kadarıyla tarif edin. Bu koşullar yerleşimin tüm yollarına ilişkin bir özellik olarak sunulmamalıdır. Aracın direksiyon, vites veya tekerlek sorununu ayrıca belirtmek, yalnızca motor arızası ifadesinden daha açıklayıcıdır."
+        ]
+      },
+      {
+        "heading": "Kıyı konumundan servis kabul noktasına",
+        "paragraphs": [
+          "İskele, Gülbahçe veya başka bir yerleşimden alınacak aracın hangi servise bırakılacağı açıkça konuşulmalıdır. Servis Urla merkezde ya da farklı bir ilçede olabilir; iki konumu ayrı iletin. Teslimi karşılayacak kişi ve kabul adresi belliyse paylaşın. Yerleşimin veya konaklama tesisinin bilinen adı, çekicinin her özel alana giriş izni olduğuna dair bilgi oluşturmaz."
+        ]
+      }
+    ],
+    "questions": [
+      {
+        "q": "Urla İskele yazmam yeterli mi?",
+        "a": "İskele adını tam araç konumu ve cadde veya tesis bilgisiyle tamamlayın; bölge adı tek başına park yerini göstermez."
+      },
+      {
+        "q": "Barbaros’taki bahçeden araç alma talebinde ne paylaşmalıyım?",
+        "a": "Gerçek konum, giriş ve mevcut zemin fotoğrafıyla aracın hareket sorununu belirtin. Servis hedefini ayrı gönderin."
+      }
+    ],
+    "sources": [
+      {
+        "title": "İzmir Valiliği — Urla",
+        "url": "https://www.izmir.gov.tr/urla"
+      }
+    ],
+    "limitations": [
+      "Coğrafi bilgiler resmî kaynaklardan alınmıştır; araç alma ve teslim planlaması önerileri editoryal değerlendirmedir.",
+      "Metin, belirli bir adreste şube, giriş yetkisi, geçmiş iş, ekip mevcudu, varış süresi veya ücret doğrulamaz."
+    ],
+    "scenario": {
+      "title": "Gülbahçe alma, farklı servis hedefi",
+      "situation": "Gülbahçe’deki bir park alanında otomobil çalışmaz. Araç sahibi Urla’daki genel konumu gönderip başka ilçede bulunan bir servise götürülmesini ister. Örnekte Gülbahçe yerleşimi, gerçek araç noktası ve teslim hedefi üç ayrı bilgi olarak paylaşılır.",
+      "assessment": "Park girişi ve mevcut hareket koşulları teyit edilir. Motor belirtisinin yanında direksiyon, vites ve tekerlek durumu anlatılır. Urla’nın farklı kıyı yerleşimleri birbirinin yerine alma adresi gibi kullanılmaz. Fotoğrafta görülemeyen ayrıntılar kesinmiş gibi yazılmaz; araç yanındaki kişinin bildiği koşullar görüşmede ayrıca teyit edilir.",
+      "delivery": "Seçilen servisin açık kabul adresi ve irtibatı alınır. İlçe dışına taşıma isteği netleştirilmeden yolculuğun yönünden servis hedefi çıkarılmaz.",
+      "type": "illustrative_not_historical"
+    }
+  }
+}

@@ -60,3 +60,29 @@ EXTRA_SECTIONS['/hakkimizda/']=[
 ('İzmir genelinde hizmet alanımız','İzmir Oto Çekiciniz adıyla İzmir genelinde çekici ve yol yardım taleplerini değerlendiriyoruz. İzmir’in ilçeleri, sanayi siteleri ve ana güzergâhları için hazırladığımız rehberlerde, konumun doğru tarif edilmesine yardımcı olacak bilgiler yer alır. Bölge sayfalarının bulunması her noktada şube, sürekli bekleyen araç veya sabit varış süresi olduğu anlamına gelmez. Talep sırasında gerçek konum ve uygun ekip esas alınır.'),
 ('Hizmet kapsamını açık tutuyoruz','Binek araç taşıma, motosiklet transferi, ağır ticari araç desteği ve kurtarma birbirinden farklı hazırlıklar gerektirir. Aracın modeli, yükü ve bulunduğu alanla birlikte yapılacak işlem değerlendirilir. Yerinde yardım her arıza için uygun olmayabilir. Uygun destek, teslim tercihi ve ücret netleştirilerek bir plan oluşturulur; araç incelenmeden kesin arıza teşhisi veya her durumda aynı ekipmanla çözüm sözü verilmez.'),
 ('Bize ulaşırken paylaşabileceğiniz bilgiler','Telefon ve WhatsApp numaramız 0536 676 28 66’dır; talep hattımız 7/24 kullanılabilir. WhatsApp üzerinden konum bağlantısı ve aracın çevresini gösteren fotoğraf paylaşabilirsiniz. Alınış adresiyle birlikte teslim adresini, aracın hareket durumunu ve varsa erişim kısıtını iletmeniz planlamayı kolaylaştırır. <a class="text-link" href="/iletisim/">İletişim sayfasındaki talep listesine</a> göz atabilir veya <a class="text-link" href="/hizmetler/">hizmet rehberimizden</a> ihtiyacınıza uygun başlığı seçebilirsiniz.')]
+
+# Her hizmette farklı kapsam soruları; örnek senaryolar gerçek iş kaydı değildir.
+SERVICE_FAQ['oto-cekici'] += [
+('Çalışan bir aracı bakım için taşıtabilir miyim?','Çalışır aracın taşınması isteğini arıza talebinden ayrı belirtin. Araç modeli, alınış alanı ve servis kabul adresiyle uygunluk ve taşıma kapsamı görüşülür.'),
+('Servis kapalıysa teslim nasıl planlanır?','Servisin kapalı olması anahtar ve araç teslimini etkiler. Aracı kabul edecek kişi ile teslim adresini önceden belirleyin; adres değişirse mesafe ve hizmet kapsamı yeniden konuşulur.')]
+SERVICE_FAQ['aku-takviye'] += [
+('Marş almayan araçta doğrudan takviye mi yapılır?','Hayır; gözlenen belirti her zaman akü kaynaklı olmayabilir. Marş sesi, gösterge uyarıları, araç modeli ve önceki müdahaleler üzerinden uygun destek türü değerlendirilir.'),
+('Takviye talebime yeni akü temini dahil mi?','Akü takviye ile akü satışı veya değişimi farklı ihtiyaçlardır. Parça temini ve yapılacak işlem görüşmede teyit edilmeden bunların aynı hizmete dahil olduğu varsayılmaz.')]
+SERVICE_FAQ['oto-elektrik'] += [
+('Uyarı ekranı fotoğrafından kesin teşhis konur mu?','Fotoğraf ilk değerlendirmeye yardımcı olur, ancak tek başına arızalı parçayı doğrulamaz. Belirti, araç modeli ve inceleme ihtiyacı birlikte ele alınır.'),
+('Anahtar tanınmıyorsa hangi bilgileri paylaşmalıyım?','Ekrandaki uyarıyı, yedek anahtarın bulunup bulunmadığını ve aracın kilit/vites davranışını açıklayın. Özel servis işlemi gerekip gerekmediği ile transfer uygunluğu ayrıca görüşülür.')]
+SERVICE_FAQ['oto-kurtarma'] += [
+('Bir fotoğraf kurtarma yöntemini belirlemek için yeterli mi?','Aracın genel görünümü hazırlık için yararlıdır. Eğim, zemin, yaklaşım alanı ve hasar birlikte değerlendirilmeli; sahadaki koşullar görülmeden bütün işlem tek fotoğrafla kesinleştirilmemelidir.'),
+('Aracın tekerleği dönmüyorsa bunu ayrıca söylemeli miyim?','Evet. Motorun çalışması aracın yüklemeye hazır olduğunu göstermez. Kilitli ya da hasarlı tekerlek, vites ve park freni kısıtları kurtarma ile sonraki taşıma planına eklenir.')]
+SERVICE_FAQ['agir-vasita-kurtarma'] += [
+('Yük aktarımı standart kurtarma kapsamına dahil mi?','Yük aktarımı gerekmesi ayrı bir hazırlık veya operasyon ihtiyacı doğurabilir. Yük türü, ağırlık ve araç durumu paylaşılmalı; ek işlerin kapsamı yönlendirmeden önce teyit edilmelidir.'),
+('Çekici ve dorse farklı yerlere gidecekse nasıl bildirmeliyim?','Çekici, dorse ve yük için alınış ve teslim tercihlerini ayrı açıklayın. Birleşimin ayrılabilmesi, ek işlem ve teslim kabulü gerçek koşullarla değerlendirilir.')]
+SERVICE_FAQ['agir-ticari-cekici'] += [
+('Araç yüksekliği ve kasa ölçüsü neden soruluyor?','Üstyapı, yük ve toplam ağırlık uygun taşıma ekipmanını etkiler. Yalnızca araç markası, platform ve giriş uygunluğunu değerlendirmeye yeterli değildir.'),
+('Depodan aracı başka biri teslim edebilir mi?','Aracı teslim edecek kişiyle anahtarın nerede olduğunu görüşmede belirtin. İşletmenin giriş koşulları ve hedef servisin kabul bilgisiyle birlikte teslim planı oluşturulur.')]
+SERVICE_FAQ['motosiklet-cekici'] += [
+('Yan çanta veya başka aksesuarı belirtmeli miyim?','Evet. Ek donanımlar motosikletin ölçülerini ve sabitleme hazırlığını etkileyebilir. Modelle birlikte aksesuarları ve mevcut hasarı açıklayın.'),
+('Kaza sonrası motosiklet ayakta duruyorsa taşıma kolaylaşır mı?','Ayakta durması yürür aksamın sağlam olduğunu kanıtlamaz. Direksiyon, fren, tekerlek ve gövde hasarı ayrı anlatılmalı; uygun yükleme yöntemi bunlarla değerlendirilmelidir.')]
+SERVICE_FAQ['lastik-yol-yardim'] += [
+('Lastiğin yanağı hasarlıysa yerinde çözüm garantisi var mı?','Hasarın tipi ve jant durumu incelenmeden kesin onarım vaadi verilmez. Araç modeli ve fotoğrafla destek uygunluğu görüşülür; gerekirse kabul edebilen lastik servisine transfer değerlendirilir.'),
+('Yerinde yardım ile lastik servisine taşıma aynı işlem mi?','Biri bulunduğunuz noktada uygun destek değerlendirmesi, diğeri araç transferidir. Yapılacak işlem, gerekli hazırlık ve teslim mesafesi yönlendirmeden önce ayrı ayrı açıklığa kavuşturulur.')]

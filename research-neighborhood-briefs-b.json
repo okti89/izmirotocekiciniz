@@ -1,0 +1,2692 @@
+{
+  "checked_on": "2026-10-11",
+  "scope": "İBB mahalle eşleşmeleri 48:96, B grubu 48 sayfa",
+  "limitations": [
+    "Muhtarlık kayıtları yalnızca yerel adres referansıdır; hizmet üssü veya gerçek araç alma noktası değildir.",
+    "Editoryal senaryolar kullanıcı tarafından istenen koşullu örneklerdir, yapılmış hizmet kaydı değildir."
+  ],
+  "regions": {
+    "/bolgeler/menderes/camonu/": {
+      "name": "Çamönü",
+      "facts": [
+        "İBB muhtarlık listesinde ÇAMÖNÜ adı Menderes ilçesiyle eşleşir; kayıt yol alanı İZMİR olarak yer alır."
+      ],
+      "sources": [
+        {
+          "title": "İBB Açık Veri — Muhtarlıklar",
+          "url": "https://acikveri.bizizmir.com/dataset/muhtarliklar",
+          "type": "official_primary"
+        }
+      ],
+      "district_if_verified": "Menderes",
+      "sections": [
+        {
+          "heading": "Çamönü talebinde mahalle ve yol ayrımı",
+          "paragraphs": [
+            "İBB listesinde Çamönü, Menderes ilçesiyle eşleşir; muhtarlık kaydının yol alanında İzmir adı yer alır. Bu yol kaydı aracın İzmir yolunda beklediğini kanıtlamaz. Çamönü içindeki gerçek sokak veya iş yeri girişini kendi konumunuz üzerinden belirtin; Menderes ilçe merkezini alma noktanızın yerine kullanmayın."
+          ]
+        },
+        {
+          "heading": "Ev önünden teslimde bilinen sınırlar",
+          "paragraphs": [
+            "Çamönüde alınacak araçta bakım randevusu bir onarım veya taşıma garantisi değildir. Aracı teslim eden kişi anahtar ve mevcut hasar bilgisini paylaşmalıdır. Servis önüne bırakılması istenen otomobilin kabul edildiğini ilgili iş yeriyle teyit edin; sadece bir adres seçmek o noktada aracı kabul edecek kişinin bulunduğunu göstermez. İki konumdaki giriş bilgisi güncel olmalıdır."
+          ]
+        },
+        {
+          "heading": "Araç durumu ve teslim bilgisi",
+          "paragraphs": [
+            "Bir araç bakım için evden alınacaksa anahtar, tekerlek hareketi ve teslim servisinin adresi önceden paylaşılmalıdır. Kapı önündeki araçla başka bir park alanındaki araç aynı noktada olmayabilir. Mahalle adının doğrulanması taşıma koşullarını belirlemez; alma girişini ve aracı kimin teslim edeceğini ayrıca netleştirin."
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "q": "Çamönü için İzmir yolu yazmam gerekir mi?",
+          "a": "Yalnızca aracınız gerçekten o yoldaysa yazın; muhtarlık kaydı beklediğiniz yeri göstermez."
+        },
+        {
+          "q": "Evden servis taşımasında hangi iki adres gerekir?",
+          "a": "Çamönüdeki gerçek alma adresi ile seçtiğiniz servisin açık teslim adresi ayrı gönderilmelidir."
+        }
+      ],
+      "scenario": {
+        "title": "Çamönüde ev önünden bakım servisine taşıma",
+        "situation": "Bir kullanıcı Çamönüde evinin önünde uzun süredir çalışmayan binek aracını servise göndermek ister. Menderes bilgisini ve ev kapısı yakınındaki gerçek pini paylaşır; muhtarlığın yol kaydını alma adresi olarak kullanmaz.",
+        "assessment": "Aracın anahtarının mevcut olduğu, tekerleklerin hareket edip etmediği ve bekleme alanının iş yeri değil ev önü olduğu açıklanır. Kullanıcının aracı kendi başına hareket ettirmesi beklenmez; model ve erişim bilgisiyle uygun taşıma gereksinimi değerlendirilir.",
+        "delivery": "Kullanıcı bakım servisiyle kabulü görüşüp açık adresi ikinci konum olarak gönderir. Teslimin kime yapılacağı netleştirilir; mahalle veya yol adı üzerinden ekip uygunluğu, ücret ve varış süresi garanti edilmez."
+      },
+      "status": "verified_address_context",
+      "limitations": [
+        "Kayıttaki yol alanı muhtarlık adresine ait referanstır; araç alma adresi veya işletme şubesi değildir.",
+        "Senaryo koşullu editoryal örnektir; yapılmış hizmet kaydı değildir."
+      ]
+    },
+    "/bolgeler/konak/cankaya/": {
+      "name": "Çankaya",
+      "facts": [
+        "İBB muhtarlık listesinde ÇANKAYA adı Konak ilçesiyle eşleşir; kayıt yol alanı 141 olarak yer alır."
+      ],
+      "sources": [
+        {
+          "title": "İBB Açık Veri — Muhtarlıklar",
+          "url": "https://acikveri.bizizmir.com/dataset/muhtarliklar",
+          "type": "official_primary"
+        }
+      ],
+      "district_if_verified": "Konak",
+      "sections": [
+        {
+          "heading": "Çankaya için kent merkezi adı ve araç konumu",
+          "paragraphs": [
+            "Çankaya adı bu sayfada Konak ilçesindeki mahalleyi ifade eder. İBB muhtarlık kaydında yol alanı 141 olarak görünür; bu idari referansı otomatik alma noktası kabul etmeyin. Kent merkezindeki bir bina veya otoparktan araç alınacaksa cadde adıyla birlikte giriş ve bekleme pini gereklidir."
+          ]
+        },
+        {
+          "heading": "Garaj bilgisinin taşıma tercihine etkisi",
+          "paragraphs": [
+            "Çankayadaki garaj için parkın bulunduğu kat ile kapının açıldığı sokak ayrı belirtilmelidir. Aracı dışarı çıkaramıyorsanız bu bilgiyi talepte saklamayın; dışarıda bekliyormuş gibi pin göndermek erişim değerlendirmesini bozabilir. Tesis görevlisinin araç alma yönlendirmesi, uygunluk konuşulurken kullanılır. Garaj adını bilmek kapı yüksekliği veya yükleme alanı hakkında kendiliğinden bilgi sağlamaz."
+          ]
+        },
+        {
+          "heading": "Araç durumu ve teslim bilgisi",
+          "paragraphs": [
+            "Talebi yalnızca Çankaya durağı veya tanınmış bir iş yeri adıyla sınırlamak gerçek park noktasını belirsiz bırakabilir. Kapalı otoparktaki bir araç için kat ve giriş bilgisi ayrıca konuşulmalıdır; aracın boyutu ve hareket durumu erişim değerlendirmesine eklenir. İlgili işletmenin araç alma yönlendirmesi kullanıcı tarafından teyit edilmelidir."
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "q": "Çankaya adı Konak mı anlamına geliyor?",
+          "a": "Bu sayfanın mahalle eşleşmesi Konaktır; başka bir konum kastediyorsanız ilçeyi açık yazın."
+        },
+        {
+          "q": "Otopark için muhtarlığın 141 yol kaydını kullanayım mı?",
+          "a": "Hayır. Aracın bulunduğu otoparkın gerçek girişini ve bekleme konumunu paylaşın."
+        }
+      ],
+      "scenario": {
+        "title": "Çankayada kapalı otoparkta kalan otomobil",
+        "situation": "Bir otomobil Çankayada bir kapalı otoparkta marş sorunu yaşar. Kullanıcı Konak ilçesini, tesisin adını ve araç girişini bildirir; Çankaya adı veya muhtarlık referansını tek alma adresi yerine kullanmaz.",
+        "assessment": "Otopark katı, giriş yüksekliği biliniyorsa bu bilgi ve aracın hareket durumu konuşulur. Tesisin araç alma işlemi kullanıcı tarafından netleştirilir. Marş belirtisi kesin akü arızası olarak sunulmaz; yerinde destek veya taşımanın uygunluğu konumla birlikte değerlendirilir.",
+        "delivery": "Aracın seçilen servise götürülmesi istenirse açık adres ve servis kabulü ayrı paylaşılır. Her kapalı otoparka aynı ekipmanın erişeceği varsayılmaz; görüşmede bilinen koşullar esas alınır ve fiyat ya da süre garantisi oluşturulmaz."
+      },
+      "status": "verified_address_context",
+      "limitations": [
+        "Kayıttaki yol alanı muhtarlık adresine ait referanstır; araç alma adresi veya işletme şubesi değildir.",
+        "Senaryo koşullu editoryal örnektir; yapılmış hizmet kaydı değildir."
+      ]
+    },
+    "/bolgeler/menderes/catalca/": {
+      "name": "Çatalca",
+      "facts": [
+        "İBB muhtarlık listesinde ÇATALCA adı Menderes ilçesiyle eşleşir; kayıt yol alanı 7419 olarak yer alır."
+      ],
+      "sources": [
+        {
+          "title": "İBB Açık Veri — Muhtarlıklar",
+          "url": "https://acikveri.bizizmir.com/dataset/muhtarliklar",
+          "type": "official_primary"
+        }
+      ],
+      "district_if_verified": "Menderes",
+      "sections": [
+        {
+          "heading": "Çatalca adını Menderes bilgisiyle kullanma",
+          "paragraphs": [
+            "Çatalca için İBB listesinde Menderes eşleşmesi ve 7419 yol alanı bulunur. Aynı isim başka şehirlerde de kullanılabildiği için mesajınıza İzmir/Menderes bilgisini ekleyin. Resmî kayıt mahalle adını destekler; aracın bulunduğu yerin 7419 olduğunu göstermediğinden mevcut pin ve açık sokak bilgisi ayrı kullanılmalıdır."
+          ]
+        },
+        {
+          "heading": "Elektrikli model bilgisini eksiksiz paylaşma",
+          "paragraphs": [
+            "Çatalca talebindeki elektrikli aracın yalnızca marka adı değil model bilgisi de aktarılmalıdır. Kullanıcı vites veya çekme prosedürünü bilmiyorsa üreticiye özgü kuralları tahmin ederek uygulamamalıdır. Gösterge uyarısı ve bilinen hareket durumu, talebin değerlendirilmesinde yeterli başlangıç bilgisi sağlar. Teslim servisi seçimi araç konumundan ayrı tutulur; kabul adresi ilgili işletmeyle teyit edilmelidir."
+          ]
+        },
+        {
+          "heading": "Araç durumu ve teslim bilgisi",
+          "paragraphs": [
+            "Çatalca adresinden başka ilçeye teslim talebi varsa iki noktayı baştan ayırın. Servisin ilçe dışında olması alma noktasını değiştirmez. Aracın çalışıp çalışmadığı, vites ve tekerlek hareketi gözleme dayanarak aktarılmalı; bilinmeyen mekanik nedenler hakkında kesin iddia kurulmadan taşımanın kapsamı konuşulmalıdır. İlçe düzeltmesi gerekiyorsa önceki yanlış konumu mesajda açıkça geçersiz kılın."
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "q": "Çatalca yazarken İzmir/Menderes eklemeli miyim?",
+          "a": "Evet, aynı adı kullanan başka yerlerle karışmayı önlemek için il ve ilçe yazın."
+        },
+        {
+          "q": "7419 kayıt yolunu araç adresi kabul edebilir miyim?",
+          "a": "Sadece aracınız gerçekten oradaysa; kayıt tek başına bekleme noktasını göstermez."
+        }
+      ],
+      "scenario": {
+        "title": "Menderes Çatalcada elektrikli araç taşıma tercihi",
+        "situation": "Bir elektrikli araç Çatalcada sürüş uyarısı nedeniyle yolculuğu durdurur. Kullanıcı İzmir/Menderes ayrımını açık yazar ve gerçek sokak pinini gönderir; başka şehirdeki Çatalca sonucu seçilmediğini adres bilgisiyle netleştirir.",
+        "assessment": "Model, ekrandaki uyarı ve aracın vites/tekerlek hareketi bildirilir. Kullanıcı üreticinin taşıma prosedürünü bilmiyorsa tahminde bulunmaz. 7419 muhtarlık yol kaydı, aracın mevcut yoluna ilişkin kanıt sayılmaz; erişim gerçek konum üzerinden ele alınır.",
+        "delivery": "İzmirin başka ilçesindeki seçilmiş servise teslim istenirse açık adres ve kabulü kullanıcı tarafından teyit edilir. Elektrikli araç uygunluğu değerlendirilmeden ekipman, yöntem veya süre garantisi verilmez; mahalle adı yalnızca yerel bağlam sağlar."
+      },
+      "status": "verified_address_context",
+      "limitations": [
+        "Kayıttaki yol alanı muhtarlık adresine ait referanstır; araç alma adresi veya işletme şubesi değildir.",
+        "Senaryo koşullu editoryal örnektir; yapılmış hizmet kaydı değildir."
+      ]
+    },
+    "/bolgeler/konak/cinarli/": {
+      "name": "Çınarlı",
+      "facts": [
+        "İBB muhtarlık listesinde ÇINARLI adı Konak ilçesiyle eşleşir; kayıt yol alanı 1577 olarak yer alır."
+      ],
+      "sources": [
+        {
+          "title": "İBB Açık Veri — Muhtarlıklar",
+          "url": "https://acikveri.bizizmir.com/dataset/muhtarliklar",
+          "type": "official_primary"
+        }
+      ],
+      "district_if_verified": "Konak",
+      "sections": [
+        {
+          "heading": "Çınarlı içinde iş yeri ve gerçek park noktası",
+          "paragraphs": [
+            "Çınarlı, İBB muhtarlık listesinde Konak ilçesi altında yer alır; kayıt yol alanı 1577 olarak görünür. İş yeri veya otopark adıyla verilen bir talepte ilçe ve gerçek park noktası birlikte yazılmalıdır. Bir bölge adıyla yakın başka ilçedeki adresi eşitlemeyin; aracın bulunduğu pin esas alınır."
+          ]
+        },
+        {
+          "heading": "Şirket aracında iki farklı muhatap",
+          "paragraphs": [
+            "Çınarlıdaki araç başında olan çalışan ile talebi ileten ofis görevlisi farklıysa kimden güncel durum alınacağı açıklanmalıdır. Anahtarın başka çalışanda bulunması taşımanın hazır olduğu anlamına gelmez. Servis adresi değişirse eski mesajı düzeltin ve kabul edecek kişiyi tekrar netleştirin; şirket adı aracı almak veya bırakmak için tek başına operasyon adresi sayılmaz."
+          ]
+        },
+        {
+          "heading": "Araç durumu ve teslim bilgisi",
+          "paragraphs": [
+            "Şirket aracının taşınmasında aracı teslim eden ve servis kabulünü yöneten kişiler farklı olabilir. Kimle görüşüleceği, anahtarın nerede olduğu ve teslim adresi açık konuşulmalıdır. İş yeri adı tek başına yükleme alanı göstermez; bina önü, garaj veya tesis içindeki konumunuzu belirterek talebin kapsamını netleştirin."
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "q": "Çınarlı sayfası hangi ilçeye göre hazırlanmıştır?",
+          "a": "İBB listesinde doğrulanan Konak eşleşmesine göre; farklı adresiniz varsa gerçek ilçeyi paylaşın."
+        },
+        {
+          "q": "Şirket aracını başka bir çalışan teslim edecekse ne yazayım?",
+          "a": "Anahtar ve araç teslimini kimin yapacağını, gerçek alma noktasını ve servis kabul adresini belirtin."
+        }
+      ],
+      "scenario": {
+        "title": "Çınarlıda iş yeri otoparkından filo aracının alınması",
+        "situation": "Bir şirketin binek aracı Çınarlıda iş yeri otoparkında çalışmaz; talebi sürücü yerine ofisteki yetkili iletir. Konak ilçesi ve gerçek otopark pini paylaşılır, muhtarlığın kayıt yolu araç konumu kabul edilmez.",
+        "assessment": "Anahtarın hangi kişide olduğu ve aracı sahada kimin teslim edeceği açıklanır. Araç modeli, marş belirtisi ve hareket durumu alınır. Otopark giriş yönlendirmesi işletmeyle teyit edilir; şirket adı biliniyor diye özel giriş yetkisi veya yükleme alanı varsayılmaz.",
+        "delivery": "Seçilmiş bakım servisinin açık adresi ve kabul edecek kişi ikinci konum olarak gönderilir. Talebi ileten kişiyle teslimi yapan kişinin farklı olduğu koordinasyonda net tutulur; filo sayısı ya da geçmiş şirket operasyonu iddiası üretilmez."
+      },
+      "status": "verified_address_context",
+      "limitations": [
+        "Kayıttaki yol alanı muhtarlık adresine ait referanstır; araç alma adresi veya işletme şubesi değildir.",
+        "Senaryo koşullu editoryal örnektir; yapılmış hizmet kaydı değildir."
+      ]
+    },
+    "/bolgeler/menderes/cile/": {
+      "name": "Çile",
+      "facts": [
+        "İBB muhtarlık listesinde ÇİLE adı Menderes ilçesiyle eşleşir; kayıt yol alanı BIRANDAMI olarak yer alır."
+      ],
+      "sources": [
+        {
+          "title": "İBB Açık Veri — Muhtarlıklar",
+          "url": "https://acikveri.bizizmir.com/dataset/muhtarliklar",
+          "type": "official_primary"
+        }
+      ],
+      "district_if_verified": "Menderes",
+      "sections": [
+        {
+          "heading": "Çile ve Çileme isimlerini ayrı yazma",
+          "paragraphs": [
+            "İBB listesi Çile mahalle adını Menderes ile eşleştirir; muhtarlık yol kaydı Bırandamı olarak görünür. Çile ile Çileme benzer yazılsa da iki adı birbirinin yerine kullanmayın. Mesajınıza mahalleyi tam yazın ve gerçek konumu ekleyin; kayıt yol adı, aracın nereden alınacağını kendiliğinden belirlemez."
+          ]
+        },
+        {
+          "heading": "Motosikletin hareket durumunu doğru bildirme",
+          "paragraphs": [
+            "Çiledeki motosikletin motorunun çalışmaması ile tekerleğinin dönmemesi ayrı durumlardır. Kullanıcı ikisini bildiği ölçüde ayırmalıdır. Ayakta durabilme ve görünen hasar bilgisi, modelle beraber değerlendirmeye eklenir. Motosikletin servise kabulünü teyit eden kullanıcı teslim adresini açıkça yazar; ev avlusu girişinden servis kapısına kadar talebin kapsamı konuşulmadan tek yükleme yaklaşımı varsayılmaz."
+          ]
+        },
+        {
+          "heading": "Araç durumu ve teslim bilgisi",
+          "paragraphs": [
+            "Motosiklet taşıma talebinde model, ayakta durabilme ve tekerlek hareketi özellikle belirtilmelidir. Araç bir ev avlusunda veya işletme içinde bekliyorsa giriş koşulunu ayrıca açıklayın. Mahalle adının doğru yazılması yararlıdır; taşıma yöntemi ve gerekli hazırlık, araç ve bekleme noktası değerlendirilerek konuşulmalıdır. Giriş ve anahtar bilgisi motosikletin mevcut bekleme alanıyla birlikte değerlendirilir."
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "q": "Çile ile Çileme aynı yer olarak kullanılabilir mi?",
+          "a": "Hayır, mahalle adını tam yazıp Menderes bilgisi ve pinle belirtin."
+        },
+        {
+          "q": "Motosiklet için yalnızca Çile konumu yeterli mi?",
+          "a": "Model, hareket durumu ve bulunduğu giriş/park noktası da gereklidir."
+        }
+      ],
+      "scenario": {
+        "title": "Çilede avluda bekleyen motosiklet",
+        "situation": "Çilede bir ev avlusunda motosiklet motoru çalışmaz ve sahibi servise taşıma ister. Kullanıcı Çileme değil Çile olduğunu, Menderes ilçesini ve avlu girişini pinle aktarır; Bırandamı kaydını otomatik alma adresi kabul etmez.",
+        "assessment": "Motosiklet modeli, tekerlek hareketi ve ayakta durabilme durumu sorulur. Giriş koşulları mevcut bilgiye dayanarak ele alınır. Sahibi motoru zorlayarak tekrar çalıştırmak veya yükleme yöntemi denemek zorunda bırakılmaz; uygun taşıma yaklaşımı gerçek araçla değerlendirilir.",
+        "delivery": "Kullanıcı seçtiği motosiklet servisiyle kabulü konuşup açık teslim adresini paylaşır. Avlu kapısı ve servis kapısı iki ayrı nokta olarak tutulur; örnek durum ekipman sahipliği, kesin ücret veya önceki yapılmış motosiklet operasyonu anlamı taşımaz."
+      },
+      "status": "verified_address_context",
+      "limitations": [
+        "Kayıttaki yol alanı muhtarlık adresine ait referanstır; araç alma adresi veya işletme şubesi değildir.",
+        "Senaryo koşullu editoryal örnektir; yapılmış hizmet kaydı değildir."
+      ]
+    },
+    "/bolgeler/menderes/cileme/": {
+      "name": "Çileme",
+      "facts": [
+        "İBB muhtarlık listesinde ÇİLEME adı Menderes ilçesiyle eşleşir; kayıt yol alanı ADNAN MENDERES olarak yer alır."
+      ],
+      "sources": [
+        {
+          "title": "İBB Açık Veri — Muhtarlıklar",
+          "url": "https://acikveri.bizizmir.com/dataset/muhtarliklar",
+          "type": "official_primary"
+        }
+      ],
+      "district_if_verified": "Menderes",
+      "sections": [
+        {
+          "heading": "Çilemede isim ve kayıt yolunu ayırt etme",
+          "paragraphs": [
+            "Çileme İBB listesinde Menderes ilçesiyle eşleşir; muhtarlık kaydının yol alanında Adnan Menderes adı vardır. Bu adı havaalanı veya başka bir Adnan Menderes adresiyle otomatik eşleştirmeyin. Yardım talebinde Çileme adını ve gerçek pini yazın; benzer Çile ismiyle karışma ihtimalini açık adresle giderin."
+          ]
+        },
+        {
+          "heading": "Lastik desteği veya servis taşıması tercihi",
+          "paragraphs": [
+            "Çilemede lastik hasarı görülen hafif ticari araç için hangi lastiğin etkilendiği kadar yük bilgisi de önemlidir. Yerinde işlemi tercih ettiğinizi söylemek o noktada işlemin uygun olduğu garantisini vermez. Güvenli erişim ve aracın mevcut durumu değerlendirilerek seçenek konuşulur. Servise taşıma istenirse lastik hizmeti ile araç teslim adresi ayrı netleştirilmelidir."
+          ]
+        },
+        {
+          "heading": "Araç durumu ve teslim bilgisi",
+          "paragraphs": [
+            "Araç bir işletme girişinde lastik sorunu nedeniyle bekliyorsa hasarın hangi tekerlekte olduğu ve aracın hareket edebilme durumu açıklanmalıdır. İş yeri adı aracın tüm girişlerden alınabileceği anlamına gelmez. Giriş tarafını ve aracı kimin teslim edeceğini paylaşın; yerinde lastik işlemine uygunluğu adres başlığından çıkarılamaz."
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "q": "Adnan Menderes yol kaydı havaalanı anlamına mı gelir?",
+          "a": "Hayır. Bu muhtarlık kayıt alanıdır; aracın gerçek adresi ayrıca belirtilmelidir."
+        },
+        {
+          "q": "Çileme talebinde lastik hasarını nasıl anlatayım?",
+          "a": "Hangi tekerlekte olduğunu ve hareket durumunu aktarın; mahalle adı sorunun kapsamını göstermez."
+        }
+      ],
+      "scenario": {
+        "title": "Çilemede işletme önündeki lastik hasarı",
+        "situation": "Bir hafif ticari araç Çilemede işletmenin araç girişinde lastik hasarı nedeniyle bekler. Sürücü Menderes ve tam mahalle adını paylaşır; Adnan Menderes yol referansından havaalanı gibi farklı bir konum çıkarılmaz.",
+        "assessment": "Hasarın görülen tekerleği, aracın yüklü olup olmadığı ve hareket durumu değerlendirilir. Girişte aracı teslim edecek kişi bilgisi alınır. Yerinde işlem veya taşıma tercihi, güvenli erişim ve araç bilgisiyle konuşulur; kullanıcıya tehlikeli bir lastik müdahalesi tarif edilmez.",
+        "delivery": "Servis teslimi istenirse açık adres ile kabul durumu ayrıca gönderilir. İş yeri giriş pini alma noktası olarak korunur; Çileme adı değiştirilmeden kayıt ve güncel konum ayrılır, fiyat ve süre için örnek senaryo üzerinden garanti verilmez."
+      },
+      "status": "verified_address_context",
+      "limitations": [
+        "Kayıttaki yol alanı muhtarlık adresine ait referanstır; araç alma adresi veya işletme şubesi değildir.",
+        "Senaryo koşullu editoryal örnektir; yapılmış hizmet kaydı değildir."
+      ]
+    },
+    "/bolgeler/menemen/degirmendere/": {
+      "name": "Değirmendere",
+      "facts": [
+        "İBB muhtarlık listesinde DEĞİRMENDERE adı Menemen ilçesiyle eşleşir; kayıt yol alanı DEMİRTAŞ olarak yer alır."
+      ],
+      "sources": [
+        {
+          "title": "İBB Açık Veri — Muhtarlıklar",
+          "url": "https://acikveri.bizizmir.com/dataset/muhtarliklar",
+          "type": "official_primary"
+        }
+      ],
+      "district_if_verified": "Menemen",
+      "sections": [
+        {
+          "heading": "Menemen Değirmenderede ilçe bilgisini koruma",
+          "paragraphs": [
+            "Değirmendere bu sayfada Menemen eşleşmesiyle ele alınır; İBB muhtarlık kaydında Demirtaş yol adı görünür. Birçok yerde kullanılan Değirmendere adı nedeniyle yalnızca mahalle sözcüğüne güvenmeyin. Menemen ve mevcut pin birlikte belirtilmelidir; Demirtaş kaydı aracın bu yolda durduğu veya şirketin burada bulunduğu iddiası değildir."
+          ]
+        },
+        {
+          "heading": "Park süresinden kesin arıza sonucu çıkarmama",
+          "paragraphs": [
+            "Değirmenderede uzun süre kullanılmayan araç için akü, lastik veya yakıt sistemi hakkında kesin neden üretmek yerine gözlenen marş ve hareket bilgisi paylaşılır. Kullanıcı aracı tekrar tekrar çalıştırarak deney yapmaya zorlanmamalıdır. Anahtarın bulunması, kapının açılması ve mevcut tekerlek durumu taşıma görüşmesine eklenir; seçilmiş bakım servisi aracı kabul etmeyi ayrıca teyit etmelidir."
+          ]
+        },
+        {
+          "heading": "Araç durumu ve teslim bilgisi",
+          "paragraphs": [
+            "Uzun süre park halinde kalmış araçta marş almama, lastiklerin durumu ve anahtarın bulunması taşıma talebine eklenebilir. Aracın bulunduğu ev/iş yeri girişini teslim edilecek servis adresinden ayırın. Kullanıcıdan aracın mekanik nedenini kesin bilmesi beklenmez; bilinen durumlar adresin yanında açıkça aktarılmalıdır."
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "q": "Değirmendere talebinde Menemen belirtmeli miyim?",
+          "a": "Evet; bu sayfanın yerel eşleşmesi Menemendir, gerçek pininizle birlikte yazın."
+        },
+        {
+          "q": "Uzun süredir park eden araçta ne ek bilgi göndereyim?",
+          "a": "Anahtar, marş ve tekerleklerin bilinen hareket durumu ile gerçek giriş konumunu paylaşın."
+        }
+      ],
+      "scenario": {
+        "title": "Değirmenderede uzun süre park etmiş otomobil",
+        "situation": "Bir otomobil Menemen Değirmenderede aylarca park ettikten sonra çalışmaz ve sahibi bakım servisine teslim ister. Kullanıcı mahalle ve ilçeyi tam yazar; Demirtaş muhtarlık kaydını alma noktası yapmadan aracın gerçek pinini paylaşır.",
+        "assessment": "Marşın dönmesi, lastiklerin görülen durumu ve anahtarın bulunması konuşulur. Uzun park süresinden kesin akü ya da motor arızası sonucu çıkarılmaz. Araç erişimi ev veya iş yeri girişine göre değerlendirilir; sürücünün aracı çalıştırarak deneme zorunluluğu olmaz.",
+        "delivery": "Menemendeki seçilmiş bakım servisiyle kabul teyit edilirse açık adres ikinci konum olarak gönderilir. Aracı teslim edecek kişi netleştirilir; ilçeler arası fark, ekip uygunluğu ve ücret yalnızca mahalle adıyla kesinleştirilmez."
+      },
+      "status": "verified_address_context",
+      "limitations": [
+        "Kayıttaki yol alanı muhtarlık adresine ait referanstır; araç alma adresi veya işletme şubesi değildir.",
+        "Senaryo koşullu editoryal örnektir; yapılmış hizmet kaydı değildir."
+      ]
+    },
+    "/bolgeler/menderes/develi/": {
+      "name": "Develi",
+      "facts": [
+        "İBB muhtarlık listesinde DEVELİ adı Menderes ilçesiyle eşleşir; kayıt yol alanı 9126 olarak yer alır."
+      ],
+      "sources": [
+        {
+          "title": "İBB Açık Veri — Muhtarlıklar",
+          "url": "https://acikveri.bizizmir.com/dataset/muhtarliklar",
+          "type": "official_primary"
+        }
+      ],
+      "district_if_verified": "Menderes",
+      "sections": [
+        {
+          "heading": "Develide numaralı yol referansını doğru kullanma",
+          "paragraphs": [
+            "Develi İBB muhtarlık listesinde Menderes altında yer alır; kayıtta yol alanı 9126 olarak görünür. Bu numara idari adres referansıdır; aracınızın bulunduğu yol için kendi sokak bilginizi kullanın. Yardım mesajında İzmir/Menderes/Develi sırası ve konum pini, başka şehirlerdeki Develi adlarıyla karışmayı azaltır."
+          ]
+        },
+        {
+          "heading": "Kamyonet yükü için kapsam sınırı",
+          "paragraphs": [
+            "Develideki kamyonetin yükünü başka araca aktarma veya iş yerine ayrıca teslim ettirme isteği varsa bunu açıkça söyleyin. Araç taşıma talebi bu ek işlemleri otomatik içermez. Yaklaşık boyut ve mevcut yük bilgisi bilinen ölçüde aktarılır; yükün niteliğinden uydurma kapasite ya da ekipman sonucu çıkarılmadan alma girişi ve servis kabulü ayrı değerlendirilir."
+          ]
+        },
+        {
+          "heading": "Araç durumu ve teslim bilgisi",
+          "paragraphs": [
+            "Bir kamyonet için talep iletirken yük durumu ve yaklaşık araç boyutları bilinmelidir. Girişin ev, işletme veya açık park alanı olması erişim bilgisini değiştirebilir. Teslim adresini baştan seçtiyseniz açık yazın; yükün ayrıca aktarılacağı varsayılmadan araç taşıma talebi ve ek kapsam ayrı konuşulmalıdır."
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "q": "Develi yazarken Menderes ve İzmir neden gerekli?",
+          "a": "Aynı isim başka yerleri de anlatabilir; ilçe ve il gerçek yerel konumu ayırır."
+        },
+        {
+          "q": "9126 yol alanını gönderirsem araç adresim olur mu?",
+          "a": "Hayır, sadece aracınız gerçekten o numaralı yoldaysa kullanın; muhtarlık referansını kendi konumunuzla karıştırmayın."
+        }
+      ],
+      "scenario": {
+        "title": "Develide yüklü kamyonetin iş yerinden alınması",
+        "situation": "Menderes Develide bir kamyonet iş yeri önünde hareket edemez ve içinde yük bulunur. Kullanıcı ilçe/mahalle bilgisini ve mevcut pini gönderir; başka şehirdeki Develi adresi ya da 9126 kayıt yolu bekleme konumunun yerine kullanılmaz.",
+        "assessment": "Aracın boyutları, yükün araçta kalıp kalmayacağı ve hareket sorunu konuşulur. İş yeri girişinde alınacak araç için gerçek kapı bilgisi paylaşılır. Araç taşımasının yük aktarımını otomatik içerdiği varsayılmaz; talebin kapsamı ve uygunluğu bu bilgilerle değerlendirilir.",
+        "delivery": "Kullanıcı farklı bir servise teslim isterse açık adres ve kabul edecek kişi teyit edilir. Yükün ayrıca taşınması talep ediliyorsa ayrı belirtilir; örnek kamyonet durumu kapasite, ekipman sahipliği veya kesin operasyon yöntemi iddiasına dönüşmez."
+      },
+      "status": "verified_address_context",
+      "limitations": [
+        "Kayıttaki yol alanı muhtarlık adresine ait referanstır; araç alma adresi veya işletme şubesi değildir.",
+        "Senaryo koşullu editoryal örnektir; yapılmış hizmet kaydı değildir."
+      ]
+    },
+    "/bolgeler/bornova/doganlar/": {
+      "name": "Doğanlar",
+      "facts": [
+        "İBB muhtarlık listesinde DOĞANLAR adı Bornova ilçesiyle eşleşir; kayıt yol alanı 1530 olarak yer alır."
+      ],
+      "sources": [
+        {
+          "title": "İBB Açık Veri — Muhtarlıklar",
+          "url": "https://acikveri.bizizmir.com/dataset/muhtarliklar",
+          "type": "official_primary"
+        }
+      ],
+      "district_if_verified": "Bornova",
+      "sections": [
+        {
+          "heading": "Doğanlarda mahalle adresi ile sanayi adresi",
+          "paragraphs": [
+            "İBB listesi Doğanları Bornova ile eşleştirir ve muhtarlık yol alanında 1530 numarasını gösterir. Bölgede bir sanayiye teslim talep etmek, aracın zaten o sanayide olduğu anlamına gelmez. Doğanlar içindeki alma noktasını açık adresle gönderin; sanayi servisinin sokak ve dükkân bilgisi ikinci adres olmalıdır."
+          ]
+        },
+        {
+          "heading": "Sökülmüş parçaları ayrı açıklama",
+          "paragraphs": [
+            "Doğanlardaki atölyeden alınacak araçta tekerlek veya başka aksam sökülmüşse bunu servisle birlikte netleştirin. Ayrı parçaların taşınması isteniyorsa kaç parça ve nasıl teslim edileceği bilinmelidir. Aracın atölye içinde bulunması hareket ettirilebildiğini göstermez; kapı erişimi ve teslim edecek kişi paylaşılır. Yeni servis, araç durumunu kabul etmeden taşımaya hazır teslim varsayımı yapılmamalıdır."
+          ]
+        },
+        {
+          "heading": "Araç durumu ve teslim bilgisi",
+          "paragraphs": [
+            "Bir araç dükkân içinde sökülmüş halde bekliyorsa hangi parçaların söküldüğünü ve tekerlek hareketini açıklayın. Mahalle adı bir yükleme alanı veya standart giriş ölçüsü sağlamaz. Atölyeyle güncel erişim ve aracı teslim edecek kişi bilgisi görüşülmeli; taşıma yöntemi site adı veya kayıt sokak numarasına göre varsayılmamalıdır."
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "q": "Doğanlarda kaldım demem sanayide olduğumu gösterir mi?",
+          "a": "Hayır. Mahalle içindeki gerçek bekleme noktasını belirtin; servis teslim adresini ayrı yazın."
+        },
+        {
+          "q": "Atölyede tekerleği sökülmüş araç için ne eklemeliyim?",
+          "a": "Söküm durumu, kalan tekerleklerin hareketi ve gerçek araç girişini önceden açıklayın."
+        }
+      ],
+      "scenario": {
+        "title": "Doğanlarda atölyeden farklı servise aktarım",
+        "situation": "Doğanlarda bir atölyenin içinde ön tekerleği sökülmüş araç başka servise taşınacaktır. Kullanıcı Bornova bilgisini, atölyenin gerçek adresini ve iç bekleme durumunu paylaşır; 1530 kayıt numarası alma konumu olarak varsayılmaz.",
+        "assessment": "Sökülmüş parçalar, tekerlek hareketi ve giriş koşulu konuşulur. Atölye görevlisinin aracı teslim edip etmeyeceği açıklanır. Aracın site içinde bulunması yüklemeye hazır olduğu anlamına gelmez; kullanıcıdan sökülmüş tekerleğe müdahale etmesi veya aracı dışarı itmesi beklenmez.",
+        "delivery": "Yeni servisin açık dükkân adresi ve kabulü teyit edilir. Mahalle ve sanayi adı iki adresin yerine kullanılmaz; yöntem ve gerekli ekip uygunluğu gerçek araç bilgisine göre değerlendirilir, kesin süre veya fiyat garantisi verilmez."
+      },
+      "status": "verified_address_context",
+      "limitations": [
+        "Kayıttaki yol alanı muhtarlık adresine ait referanstır; araç alma adresi veya işletme şubesi değildir.",
+        "Senaryo koşullu editoryal örnektir; yapılmış hizmet kaydı değildir."
+      ]
+    },
+    "/bolgeler/bornova/egemenlik/": {
+      "name": "Egemenlik",
+      "facts": [
+        "İBB muhtarlık listesinde EGEMENLİK adı Bornova ilçesiyle eşleşir; kayıt yol alanı ALP olarak yer alır."
+      ],
+      "sources": [
+        {
+          "title": "İBB Açık Veri — Muhtarlıklar",
+          "url": "https://acikveri.bizizmir.com/dataset/muhtarliklar",
+          "type": "official_primary"
+        }
+      ],
+      "district_if_verified": "Bornova",
+      "sections": [
+        {
+          "heading": "Egemenlikte sokak ile iş yeri girişini eşleştirme",
+          "paragraphs": [
+            "Egemenlik İBB listesinde Bornova ilçesiyle eşleşir; muhtarlık yol alanı Alp olarak görünür. İşletme adıyla çekici isteyen kullanıcı gerçek araç girişini ayrıca belirtmelidir. Bir caddeyi referans göstermek, o caddenin muhtarlık kaydıyla aynı adrese sahip olduğu anlamına gelmez; alma pini her durumda aracın mevcut bekleme yerini göstermelidir."
+          ]
+        },
+        {
+          "heading": "Tesis girişi ve kabul düzeni",
+          "paragraphs": [
+            "Egemenlikteki tesis içinde bekleyen aracın yaya girişinden alınacağı varsayılmamalıdır. İşletmenin güncel araç alma yönlendirmesi kullanıcı tarafından öğrenilir; pin ilgili araç kapısına göre açıklanır. Yüklü ticari araç için iş yeri adı tek uygunluk ölçütü değildir. Araç boyutu, anahtar ve hareket durumuyla birlikte teslim servisi kabulü ayrıca konuşulmalıdır."
+          ]
+        },
+        {
+          "heading": "Araç durumu ve teslim bilgisi",
+          "paragraphs": [
+            "Ticari aracın bir tesis içinde beklemesi halinde giriş yönlendirmesi ve araç kabul durumu ilgili işletmeyle konuşulur. Yük veya taşıma boyutu paylaşılır; şirket adına dayanarak tesis içine giriş izni varsayılmaz. Servis adresi farklıysa pinler alma ve teslim olarak etiketlenerek adres karışıklığı önlenebilir."
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "q": "Egemenlik için Alp yol kaydı aracın konumu mudur?",
+          "a": "Hayır; resmi mahalle referansıdır. Aracınızın bulunduğu iş yeri veya sokak konumunu paylaşın."
+        },
+        {
+          "q": "Tesis içinden araç alma talebinde neyi teyit edeyim?",
+          "a": "Gerçek araç girişini, aracı teslim edecek kişiyi ve tesisin güncel alma yönlendirmesini teyit edin."
+        }
+      ],
+      "scenario": {
+        "title": "Egemenlikte tesis içindeki hafif ticari araç",
+        "situation": "Egemenlikte bir şirketin hafif ticari aracı tesis içindeki park yerinde marş almaz. Talebi ileten çalışan Bornova ilçesini ve gerçek araç girişini gönderir; Alp yol kaydı tesisin ya da çekicinin adresi gibi kullanılmaz.",
+        "assessment": "Araç boyutu, yük durumu ve anahtarın kimde olduğu açıklanır. Tesisin araç alma yönlendirmesi işletmeyle teyit edilir. Marş belirtisi kesin teşhis sayılmaz; özel giriş yetkisi veya aynı yükleme yaklaşımının her tesiste uygulanacağı varsayımı yapılmaz.",
+        "delivery": "Çalışan aracın bakım servisine teslimini isterse servis kabulü ve açık adresi paylaşır. Tesis içindeki teslim eden kişiyle servis kabul kişisi ayrılır; örnek durum bir şirketle yapılmış gerçek operasyon ya da araç kapasitesi iddiası içermez."
+      },
+      "status": "verified_address_context",
+      "limitations": [
+        "Kayıttaki yol alanı muhtarlık adresine ait referanstır; araç alma adresi veya işletme şubesi değildir.",
+        "Senaryo koşullu editoryal örnektir; yapılmış hizmet kaydı değildir."
+      ]
+    },
+    "/bolgeler/bornova/erzene-mahallesi/": {
+      "name": "Erzene Mahallesi",
+      "facts": [
+        "İBB muhtarlık listesinde ERZENE adı Bornova ilçesiyle eşleşir; kayıt yol alanı 8 olarak yer alır."
+      ],
+      "sources": [
+        {
+          "title": "İBB Açık Veri — Muhtarlıklar",
+          "url": "https://acikveri.bizizmir.com/dataset/muhtarliklar",
+          "type": "official_primary"
+        }
+      ],
+      "district_if_verified": "Bornova",
+      "sections": [
+        {
+          "heading": "Erzene adresinde mahalle adı ve gerçek park alanı",
+          "paragraphs": [
+            "Erzene İBB muhtarlık listesinde Bornova altında yer alır; yol alanı 8 olarak kaydedilmiştir. Bu sayı yalnızca kayıt adresi referansıdır. Apartman veya otoparkta kalan araç için bina numarası, giriş ve kendi konum pininiz kullanılmalıdır. Erzene adını bir kampüs veya başka tesis adresinin yerine geçirmek alma noktasını belirsiz bırakabilir."
+          ]
+        },
+        {
+          "heading": "Uzaktan talepte görmediğiniz bilgiyi tahmin etmeme",
+          "paragraphs": [
+            "Erzenedeki araç başında değilseniz görünen uyarıyı veya hasarı başka kişiden doğrulamadan kesin bilgi gibi paylaşmayın. Sahadaki kişinin gerçek park pini ve anahtar durumu koordinasyonu tamamlar. Aracın modelini söylemek, vites veya tekerlek hareketinin de bilindiği anlamına gelmez. Teslim kabulü netleştiğinde yeni adres, mevcut park konumundan ayrı gönderilmelidir."
+          ]
+        },
+        {
+          "heading": "Araç durumu ve teslim bilgisi",
+          "paragraphs": [
+            "Kullanıcı araç başında değilse aracı teslim edecek kişinin ve anahtarın yerinin netleşmesi gerekir. Model, vites ve tekerlek hareketi bilinen ölçüde bildirilir. Servis kabulü ayrı konuşulur; mahallenin Bornovada doğrulanması belirli servise doğrudan erişim, süre veya yükleme alanı hakkında kanıt sayılmaz."
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "q": "Erzene için 8 yol kaydı tek adres sayılır mı?",
+          "a": "Hayır; aracın gerçek sokak/bina ve park konumunu ayrı belirtin."
+        },
+        {
+          "q": "Araç başında değilsem talepte ne açıklayayım?",
+          "a": "Anahtarın nerede olduğunu ve aracı kimin teslim edeceğini gerçek konumla birlikte belirtin."
+        }
+      ],
+      "scenario": {
+        "title": "Erzenede kullanıcı uzaktayken otomobil teslimi",
+        "situation": "Erzenede apartman park alanındaki otomobil çalışmaz; araç sahibi başka bir yerdeyken taşıma talebi iletir. Bornova ve gerçek bina/park pini paylaşılır, 8 numaralı muhtarlık yol kaydı alma adresinin yerine geçirilmez.",
+        "assessment": "Aracı teslim edecek kişi ile anahtar durumu netleştirilir. Kullanıcının görmediği belirtiler kesin bilgi gibi sunulmaz; araç başındaki kişinin bildiği marş ve hareket durumu alınır. Apartmanın araç girişine ilişkin güncel bilgi ayrıca paylaşılır.",
+        "delivery": "Seçilmiş servisin kabulü teyit edilip açık adres ikinci konum olarak gönderilir. Aracı teslim edecek kişiyle servis kabul kişisinin farklı olduğu koordinasyonda korunur; örnek senaryo kesin teşhis, özel erişim veya gerçekleşmiş geçmiş hizmet iddiası taşımaz."
+      },
+      "status": "verified_address_context",
+      "limitations": [
+        "Kayıttaki yol alanı muhtarlık adresine ait referanstır; araç alma adresi veya işletme şubesi değildir.",
+        "Senaryo koşullu editoryal örnektir; yapılmış hizmet kaydı değildir."
+      ]
+    },
+    "/bolgeler/noktalar/esentepe/": {
+      "name": "Esentepe",
+      "facts": [
+        "İBB muhtarlık listesinde ESENTEPE adı Çiğli ilçesiyle eşleşir; kayıt yol alanı 8809/40 olarak yer alır.",
+        "İBB muhtarlık listesinde ESENTEPE adı Dikili ilçesiyle eşleşir; kayıt yol alanı ESENTEPE 4 olarak yer alır."
+      ],
+      "sources": [
+        {
+          "title": "İBB Açık Veri — Muhtarlıklar",
+          "url": "https://acikveri.bizizmir.com/dataset/muhtarliklar",
+          "type": "official_primary"
+        }
+      ],
+      "district_if_verified": null,
+      "sections": [
+        {
+          "heading": "Esentepe adında iki ilçe seçeneği",
+          "paragraphs": [
+            "İBB listesinde Esentepe adı Çiğli ve Dikili ilçelerinde ayrı kayıtlara sahiptir. Çiğli kaydı 8809/40, Dikili kaydı Esentepe 4 yol referansını taşır. Bu sayfa tek ilçeyi tahmin etmez; gerçek ilçenizi talebin ilk satırında belirtin. Kayıt yol adları araç konumunu veya şube adresini göstermediğinden mevcut pin gereklidir."
+          ]
+        },
+        {
+          "heading": "Yanlış ilçe düzeltmesinde eski pini kaldırma",
+          "paragraphs": [
+            "Esentepe talebinde yanlış ilçe konumu gönderildiyse sadece yeni bir pin eklemek yeterli olmayabilir; önceki konumun geçersiz olduğunu açıkça belirtin. Çiğli ve Dikili adlarını aynı yer olarak kullanmayın. Hangi araç ve hangi teslim servisinden söz edildiğini net tutmak, adres düzeltmesini mekanik değerlendirmeden ayırır. Doğru ilçe bilgisi olmadan süre veya ücret tahmini kullanılmamalıdır."
+          ]
+        },
+        {
+          "heading": "Araç durumu ve teslim bilgisi",
+          "paragraphs": [
+            "İlçe ayrımı yapılmadan gönderilen Esentepe pininin doğru yer olduğu varsayılmamalıdır. Taşıma teslimi başka bir ilçeyse onu da ayrı yazın. Aynı adı taşıyan yerler arasındaki belirsizlik mekanik arızadan bağımsızdır; önce gerçek alma adresi, sonra araç modeli ve hareket durumu açıklanmalıdır."
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "q": "Esentepe Çiğli mi Dikili mi?",
+          "a": "Resmi listede ikisi de bulunur. Talebinizde gerçek ilçeyi belirtmeniz gerekir."
+        },
+        {
+          "q": "8809/40 ile Esentepe 4 aynı adres mi?",
+          "a": "Hayır; farklı ilçe kayıtlarının muhtarlık yol referanslarıdır. Aracın gerçek pinini gönderin."
+        }
+      ],
+      "scenario": {
+        "title": "Esentepe aramasında yanlış ilçe pininin düzeltilmesi",
+        "situation": "Bir sürücü Esentepe adıyla arama yapınca Çiğli sonucu seçer ancak aracı Dikilide beklemektedir. Talep sırasında bu farkı fark edip Dikili ilçesini ve yeni gerçek pini açıkça gönderir; eski yanlış konumun geçersiz olduğunu yazar.",
+        "assessment": "İlçe ve pin uyumu netleştirilir; aracın modeli, anahtarı ve hareket durumu ayrıca konuşulur. Dikili kayıt yol adı, aracın o yolda olduğu anlamına gelmez. Konum hatası bir varış süresi tahminiyle örtülmez; doğru alma adresi değerlendirmeye alınır.",
+        "delivery": "Kullanıcı Dikilideki seçilmiş bir servise teslim isterse açık adres ve kabulünü teyit eder. Çiğli pininden yeni servis konumuna göre otomatik mesafe çıkarılmaz; gerçek alma ve teslim noktaları esas alınır, örnek gerçek operasyon olarak sunulmaz."
+      },
+      "status": "verified_address_context",
+      "limitations": [
+        "Kayıttaki yol alanı muhtarlık adresine ait referanstır; araç alma adresi veya işletme şubesi değildir.",
+        "Senaryo koşullu editoryal örnektir; yapılmış hizmet kaydı değildir."
+      ]
+    },
+    "/bolgeler/cigli/evka-2/": {
+      "name": "Evka 2",
+      "facts": [
+        "İBB muhtarlık listesinde EVKA-2 adı Çiğli ilçesiyle eşleşir; kayıt yol alanı 6853 olarak yer alır."
+      ],
+      "sources": [
+        {
+          "title": "İBB Açık Veri — Muhtarlıklar",
+          "url": "https://acikveri.bizizmir.com/dataset/muhtarliklar",
+          "type": "official_primary"
+        }
+      ],
+      "district_if_verified": "Çiğli",
+      "sections": [
+        {
+          "heading": "Evka 2 numarasını ilçe adıyla birlikte kullanma",
+          "paragraphs": [
+            "Evka 2 bu sayfada Çiğli ilçesindeki mahalleyi anlatır. İBB kaydında 6853 yol alanı bulunur; bu idari referans aracın o yolda olduğunu göstermez. Evka yerleşimlerinin numaralarını birbirine karıştırmamak için Çiğli ve Evka 2 birlikte yazılmalı, konum pininde gerçek sokak doğrulanmalıdır."
+          ]
+        },
+        {
+          "heading": "Vites kilidini teşhis adı yapmama",
+          "paragraphs": [
+            "Evka 2de araç hareket etmiyorsa kullanıcının bildiği boşa geçmeme durumu açıklanabilir; bunun kesin mekanik nedeni telefondan belirlenemez. Model ve anahtar durumu bu gözleme eklenir. Aracı ileri geri zorlamak veya kilit mekanizmasına müdahale etmek kullanıcı hazırlığı gibi sunulmaz. Servis kabul edecek kişi, hareket sorunu bilgisini teslim planından önce öğrenmelidir."
+          ]
+        },
+        {
+          "heading": "Araç durumu ve teslim bilgisi",
+          "paragraphs": [
+            "Otoparkta bekleyen aracın vites kilidi veya tekerlek sorunu varsa motorun çalışması yeterli bilgi sayılmaz. Apartman girişini, aracı teslim edecek kişiyi ve açık servis adresini paylaşın. Mahalle numarası yükleme yöntemi belirlemez; araç modeli ve mevcut hareket durumu taşıma görüşmesinde ayrı değerlendirilir. Görünen bir gösterge uyarısı varsa metnini değiştirmeden görüşmeye ekleyin."
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "q": "Evka 2 için Çiğli yazmalı mıyım?",
+          "a": "Evet; Evka numarasıyla ilçe bilgisi birlikte kullanılmalıdır."
+        },
+        {
+          "q": "Motor çalışıyor ama araç hareket etmiyorsa ne bildireyim?",
+          "a": "Vites veya tekerlekle ilgili bildiğiniz durumu, model ve alma konumuyla aktarın."
+        }
+      ],
+      "scenario": {
+        "title": "Evka 2de vites kilidi olan otomobil",
+        "situation": "Çiğli Evka 2de apartman park alanındaki otomobilin motoru çalışır ancak vites boşa geçmez. Kullanıcı doğru Evka numarasını ve gerçek park pinini gönderir; 6853 muhtarlık kayıt alanı araç bekleme adresi olarak kullanılmaz.",
+        "assessment": "Marka/model ve anahtar durumu alınır, kullanıcının mekanizmaya müdahale etmesi beklenmez. Apartman araç girişine ilişkin bilgi paylaşılır. Motorun çalışması sürüşe uygunluk ya da tek bir taşıma yöntemi kanıtı sayılmaz; gerçek hareket koşulları değerlendirilir.",
+        "delivery": "Kullanıcı seçtiği servisin açık adresini ve kabul bilgisini ayrıca iletir. Apartman konumuyla servis kapısı ayrılır; numaralı mahalle adından varış süresi, fiyat veya belirli ekipman sahipliği sonucu çıkarılmadan talebin kapsamı konuşulur."
+      },
+      "status": "verified_address_context",
+      "limitations": [
+        "Kayıttaki yol alanı muhtarlık adresine ait referanstır; araç alma adresi veya işletme şubesi değildir.",
+        "Senaryo koşullu editoryal örnektir; yapılmış hizmet kaydı değildir."
+      ]
+    },
+    "/bolgeler/bornova/evka-3/": {
+      "name": "Evka 3",
+      "facts": [
+        "İBB muhtarlık listesinde EVKA 3 adı Bornova ilçesiyle eşleşir; kayıt yol alanı ŞEHİTLER olarak yer alır."
+      ],
+      "sources": [
+        {
+          "title": "İBB Açık Veri — Muhtarlıklar",
+          "url": "https://acikveri.bizizmir.com/dataset/muhtarliklar",
+          "type": "official_primary"
+        }
+      ],
+      "district_if_verified": "Bornova",
+      "sections": [
+        {
+          "heading": "Evka 3te yerleşim ve tesis konumunu ayırma",
+          "paragraphs": [
+            "Evka 3 İBB listesinde Bornova ilçesiyle eşleşir; muhtarlık kayıt yol alanı Şehitler olarak görünür. Bu yerel referans bir toplu taşıma durağını veya aracın park alanını otomatik olarak tanımlamaz. Talep mesajında Evka 3/Bornova bilgisi, bulunduğunuz sokak ve mevcut pin birlikte yer almalıdır."
+          ]
+        },
+        {
+          "heading": "Son bekleme adresini güncel tutma",
+          "paragraphs": [
+            "Evka 3te yardım görüşmesinden sonra aracın konumu değişirse yeni pinle beraber neden farklı noktada olduğunu kısaca açıklayın. Eski arıza yeri, alma adresinin yerine kalmamalıdır. Konum değişikliği vites veya tekerlek durumunun değiştiğini göstermez; bilinen hareket bilgisi ayrıca güncellenir. Teslim adresinde de değişiklik varsa iki düzeltme birbirine karıştırılmadan yazılmalıdır."
+          ]
+        },
+        {
+          "heading": "Araç durumu ve teslim bilgisi",
+          "paragraphs": [
+            "Yol kenarında arıza yaşanıp araç sonra ev girişine alınmışsa ilk arıza yeri yerine son konum gönderilmelidir. Görüşmede olayın başladığı yer ve alma noktasını ayrı anlatın. Anahtar ve tekerlek durumunu ekleyin; servis teslimi için işletme kabulü ve açık adresi başka bir konum olarak netleştirin."
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "q": "Evka 3 adı park konumunu belirler mi?",
+          "a": "Hayır; Bornova bilgisiyle gerçek sokak ve pin de gereklidir."
+        },
+        {
+          "q": "Arıza sonrası araç başka yere alındıysa hangi pin geçerli?",
+          "a": "Aracın son beklediği konum alma noktası olarak kullanılmalıdır."
+        }
+      ],
+      "scenario": {
+        "title": "Evka 3te arıza sonrası konum güncelleme",
+        "situation": "Bornova Evka 3te bir otomobil sokakta durur, ardından güvenli bir park noktasına alınır. Sürücü yardım talebinde ilk arıza pininin yerine son konumu gönderir ve mahalle ile gerçek bekleme yerini açıkça belirtir.",
+        "assessment": "Motorun durması ve tekerleklerin hareketi gibi bilinen belirtiler alınır. Şehitler muhtarlık referansı mevcut adres yerine kullanılamaz. Arıza yeriyle son park noktası ayrı anlatılır; kullanıcının tekrar eski noktaya gitmesi veya aracı zorlayarak sürmesi beklenmez.",
+        "delivery": "Bornovadaki servis kabulü teyit edilirse teslim adresi ikinci konum olarak paylaşılır. Eski pinin geçersiz olduğu koordinasyonda korunur; mahalle adı ve konum değişikliğinden süre veya yöntem garantisi üretilmez, örnek koşullu talep açıklaması olarak kalır."
+      },
+      "status": "verified_address_context",
+      "limitations": [
+        "Kayıttaki yol alanı muhtarlık adresine ait referanstır; araç alma adresi veya işletme şubesi değildir.",
+        "Senaryo koşullu editoryal örnektir; yapılmış hizmet kaydı değildir."
+      ]
+    },
+    "/bolgeler/bornova/evka-4/": {
+      "name": "Evka 4",
+      "facts": [
+        "İBB muhtarlık listesinde EVKA 4 adı Bornova ilçesiyle eşleşir; kayıt yol alanı AHMET ARVASİ olarak yer alır."
+      ],
+      "sources": [
+        {
+          "title": "İBB Açık Veri — Muhtarlıklar",
+          "url": "https://acikveri.bizizmir.com/dataset/muhtarliklar",
+          "type": "official_primary"
+        }
+      ],
+      "district_if_verified": "Bornova",
+      "sections": [
+        {
+          "heading": "Evka 4te araç teslimini giriş bilgisiyle açıklama",
+          "paragraphs": [
+            "Evka 4, İBB muhtarlık listesinde Bornova altında kayıtlıdır; yol alanında Ahmet Arvasi adı yer alır. Evka 3 veya başka Evka numaralarının pinini kullanmayın. Apartman, site veya açık park alanında duran araç için gerçek giriş bilgisini belirtin; kayıt yolu şirket konumu veya otomatik alma adresi değildir."
+          ]
+        },
+        {
+          "heading": "Görünür hasarı güvenli noktadan aktarma",
+          "paragraphs": [
+            "Evka 4te dış hasar fark edilmesi, aracın altında başka hasar olup olmadığının kullanıcı tarafından araştırılmasını gerektirmez. Fotoğraf gerekiyorsa güvenli ve izin verilen bekleme alanından alınır. Tekerlek hareketine etkisi bilinmiyorsa bunu söyleyin; kesin hasar teşhisi üretmeyin. Geçici otoparka teslim isteniyorsa kabul eden işletmenin adresi ve anahtar teslimi ayrıca netleştirilmelidir."
+          ]
+        },
+        {
+          "heading": "Araç durumu ve teslim bilgisi",
+          "paragraphs": [
+            "Bir araç sahibi talebi başka biri aracılığıyla iletiyorsa konum ve anahtar bilgisi aynı görüşmede netleşmelidir. Kullanıcının bildiği hasar veya hareket sorunu açıkça aktarılır. Teslimin bir otoparka yapılması istenirse o otoparkın araç kabulü ve giriş koşulları ilgili işletmeyle ayrıca teyit edilir."
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "q": "Evka 4 adresinde Ahmet Arvasi yazmak zorunda mıyım?",
+          "a": "Yalnızca gerçek adresiniz buysa; kayıt referansı bekleme konumunun yerine geçmez."
+        },
+        {
+          "q": "Başka biri benim adıma talep iletebilir mi?",
+          "a": "Aracın gerçek konumu, anahtar ve teslim koordinasyonunu açıkça paylaşmalıdır."
+        }
+      ],
+      "scenario": {
+        "title": "Evka 4te hasarlı aracın otoparka teslim tercihi",
+        "situation": "Evka 4te bir araç sahibi, park halindeki otomobilinde görünen tampon hasarı sonrası taşıma ister. Talebi bir yakını iletir; Bornova, doğru mahalle numarası ve gerçek giriş pini paylaşılır, muhtarlık kayıt yolu alma adresi sayılmaz.",
+        "assessment": "Hasarın aracın hareketini etkileyip etkilemediği, tekerlek durumu ve anahtarın kimde olduğu alınır. Hasar fotoğrafı yalnızca güvenli konumdan aktarılır. Talebi ileten kişiyle aracın yanında bulunan kişi farklıysa bu koordinasyonda açık tutulur; uzaktan kesin hasar teşhisi yapılmaz.",
+        "delivery": "Kullanıcı geçici otoparka teslim isterse işletmeyle araç kabulünü ve giriş konumunu teyit eder. Park alanı alma noktasıyla teslim otoparkı ayrılır; örnek durum gerçek hasar operasyonu veya ekip kapasitesi iddiası içermez."
+      },
+      "status": "verified_address_context",
+      "limitations": [
+        "Kayıttaki yol alanı muhtarlık adresine ait referanstır; araç alma adresi veya işletme şubesi değildir.",
+        "Senaryo koşullu editoryal örnektir; yapılmış hizmet kaydı değildir."
+      ]
+    },
+    "/bolgeler/cigli/evka-5/": {
+      "name": "Evka 5",
+      "facts": [
+        "İBB muhtarlık listesinde EVKA-5 adı Çiğli ilçesiyle eşleşir; kayıt yol alanı 8930 olarak yer alır."
+      ],
+      "sources": [
+        {
+          "title": "İBB Açık Veri — Muhtarlıklar",
+          "url": "https://acikveri.bizizmir.com/dataset/muhtarliklar",
+          "type": "official_primary"
+        }
+      ],
+      "district_if_verified": "Çiğli",
+      "sections": [
+        {
+          "heading": "Evka 5 ve Çiğli eşleşmesini mesajda belirtme",
+          "paragraphs": [
+            "Evka 5 adı İBB listesinde Çiğli ilçesiyle birlikte bulunur; kayıt yol numarası 8930dur. Evka 2, 5 ve 6 gibi numaralı isimlerde son rakamın doğru yazılması gerekir. Aracın konumunu resmî kayıt yolundan değil kendi sokak ve park pininizden belirtin; tablo bir hizmet şubesi adresi değildir."
+          ]
+        },
+        {
+          "heading": "Scooter ile binek taşımasını eşitlememe",
+          "paragraphs": [
+            "Evka 5te scooter için aracın ayakta durabilmesi, tekerlek hareketi ve görünen hasarı bildirilebilir. Bir otomobile uygun olduğu düşünülen taşıma yaklaşımı scooter için doğrudan varsayılmaz. Kullanıcı bağlama veya yükleme denemesi yapmak zorunda değildir. Teslim servisi model ve arıza belirtisini öğrenmeli; kabul kapısı açık adresle paylaşılmadan mahalle adı tek teslim noktası kullanılmamalıdır."
+          ]
+        },
+        {
+          "heading": "Araç durumu ve teslim bilgisi",
+          "paragraphs": [
+            "Motosiklet ev önünde veya bina parkında bekliyorsa model ve ayakta durabilme durumu paylaşılmalıdır. Bir otomobil için kullanılan taşıma varsayımını motosiklete otomatik uygulamayın. Kullanıcı servis adresini seçtiyse kabul durumu ayrıca görüşülmeli; mahalle adı üzerinden standart ekipman veya varış süresi sözü verilmemelidir."
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "q": "Evka 5 ile Evka 6 aynı adres midir?",
+          "a": "Hayır; doğru mahalle numarası ve Çiğli bilgisiyle gerçek pininizi gönderin."
+        },
+        {
+          "q": "Motosiklet talebinde hangi durum bilgisi gerekir?",
+          "a": "Model, tekerlek hareketi ve ayakta durabilme durumu konuma eklenmelidir."
+        }
+      ],
+      "scenario": {
+        "title": "Evka 5te ev önündeki scooter taşıması",
+        "situation": "Çiğli Evka 5te bir scooter çalışmaz ve kullanıcı motosiklet servisine götürülmesini ister. Evka numarası, ev önündeki gerçek pin ve giriş bilgisi gönderilir; 8930 kayıt yolu alma adresi olarak varsayılmaz.",
+        "assessment": "Scooter modeli, tekerlek hareketi ve ayakta durabilme durumu değerlendirilir. Sahibi aracın neden çalışmadığını bilmiyorsa kesin teşhis söylemez. Kullanıcının bina girişinden scooterı tek başına çıkarması veya bağlama yöntemi denemesi beklenmez; mevcut koşullar bilgi olarak paylaşılır.",
+        "delivery": "Seçilmiş motosiklet servisinin açık adresi ve kabulü teyit edilir. Binek araçla aynı yükleme yaklaşımının uygun olduğu varsayılmaz; örnek talep koşulludur ve kesin ekipman, fiyat veya ETA iddiası üretmeden taşıma değerlendirmesinin kapsamını açıklar."
+      },
+      "status": "verified_address_context",
+      "limitations": [
+        "Kayıttaki yol alanı muhtarlık adresine ait referanstır; araç alma adresi veya işletme şubesi değildir.",
+        "Senaryo koşullu editoryal örnektir; yapılmış hizmet kaydı değildir."
+      ]
+    },
+    "/bolgeler/cigli/evka-6/": {
+      "name": "Evka 6",
+      "facts": [
+        "İBB muhtarlık listesinde EVKA-6 adı Çiğli ilçesiyle eşleşir; kayıt yol alanı 6820 olarak yer alır."
+      ],
+      "sources": [
+        {
+          "title": "İBB Açık Veri — Muhtarlıklar",
+          "url": "https://acikveri.bizizmir.com/dataset/muhtarliklar",
+          "type": "official_primary"
+        }
+      ],
+      "district_if_verified": "Çiğli",
+      "sections": [
+        {
+          "heading": "Evka 6da park alanı ve servis adresini ayırma",
+          "paragraphs": [
+            "İBB muhtarlık kaydında Evka 6, Çiğli ilçesiyle ve 6820 yol alanıyla eşleşir. Bu kayıt Evka 5 gibi benzer numaralı başka mahalleleri aynı yer yapmaz. Talebinizde rakamı tam yazın; aracın bulunduğu sokak, site giriş veya otopark konumunu kendi güncel pininizle gönderin."
+          ]
+        },
+        {
+          "heading": "Planlı kabul zamanı ile varış sözü ayrımı",
+          "paragraphs": [
+            "Evka 6da servis randevusu için istediğiniz kabul zamanını konuşabilirsiniz; bu bilgi kesin çekici varış garantisi değildir. Aracın çalışıp çalışmadığı ve gerçek park girişine ilişkin durum, planlı talepte de gereklidir. Anahtar teslimini yapacak kişi belirlenir. Servisin randevu adresi değişmişse eski adres kullanılmadan güncel kabul noktası ayrıca teyit edilmelidir."
+          ]
+        },
+        {
+          "heading": "Araç durumu ve teslim bilgisi",
+          "paragraphs": [
+            "Araç servis randevusu için taşınacaksa acil arıza talebiyle planlı taşıma amacını açıkça ayırın. Aracın hareket edebilmesi, anahtarın bulunması ve kabul zamanı seçilmiş servisle netleştirilir. Planlı talep için bile site numarası veya kayıt yolundan otomatik süre/fiyat çıkarılamaz; alma ve teslim adresleri birlikte değerlendirilir. Kabul adresindeki değişiklik varsa planlanan teslim bilgisini güncelleyin."
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "q": "Evka 6 için hangi konumu kullanmalıyım?",
+          "a": "Çiğlideki gerçek park veya giriş pininizi; muhtarlığın 6820 kaydı otomatik alma noktası değildir."
+        },
+        {
+          "q": "Planlı servis taşımasını nasıl açıklayayım?",
+          "a": "Arıza bekleme durumundan ayrı olarak planlı taşıma istediğinizi ve servis kabul bilgisini belirtin."
+        }
+      ],
+      "scenario": {
+        "title": "Evka 6da planlı bakım için taşınacak otomobil",
+        "situation": "Evka 6da bir kullanıcı uzun süredir kullanmadığı otomobilini planlı bakım randevusuna göndermek ister. Çiğli ilçesi ve araç park alanının gerçek pini paylaşılır; acil yolda kalma anlatısı veya geçmiş yapılmış iş iddiası kullanılmaz.",
+        "assessment": "Anahtar, tekerlek hareketi ve aracın çalışıp çalışmadığı bilinen ölçüde aktarılır. Site girişindeki erişim bilgisi kullanıcı tarafından netleştirilir. 6820 muhtarlık referansı otomatik alma noktası yapılmaz; planlı olmak taşıma yöntemini veya ekip uygunluğunu tek başına garanti etmez.",
+        "delivery": "Servisin randevu kabulü ve açık kapı adresi ikinci konum olarak paylaşılır. İstenen kabul zamanı görüşmede belirtilir ancak kesin ETA diye sunulmaz; örnek durumda fiyat ve kapsam araç ile iki adres üzerinden değerlendirilir."
+      },
+      "status": "verified_address_context",
+      "limitations": [
+        "Kayıttaki yol alanı muhtarlık adresine ait referanstır; araç alma adresi veya işletme şubesi değildir.",
+        "Senaryo koşullu editoryal örnektir; yapılmış hizmet kaydı değildir."
+      ]
+    },
+    "/bolgeler/karabaglar/fahrettin-altay/": {
+      "name": "Fahrettin Altay",
+      "facts": [
+        "İBB muhtarlık listesinde FAHRETTİN ALTAY adı Karabağlar ilçesiyle eşleşir; kayıt yol alanı 65/17 olarak yer alır."
+      ],
+      "sources": [
+        {
+          "title": "İBB Açık Veri — Muhtarlıklar",
+          "url": "https://acikveri.bizizmir.com/dataset/muhtarliklar",
+          "type": "official_primary"
+        }
+      ],
+      "district_if_verified": "Karabağlar",
+      "sections": [
+        {
+          "heading": "Fahrettin Altay adında mahalle ve ulaşım noktası",
+          "paragraphs": [
+            "Fahrettin Altay mahalle adı İBB listesinde Karabağlar ile eşleşir; kayıt yol alanı 65/17dir. Aynı adla anılan bir ulaşım noktası veya geniş semt tarifi, bu mahallenin araç alma adresiyle kendiliğinden aynı değildir. Talebinizde gerçek ilçe, cadde ve bekleme pinini birlikte gönderin."
+          ]
+        },
+        {
+          "heading": "Tanınan yer adını yalnızca referans kullanma",
+          "paragraphs": [
+            "Fahrettin Altay çevresinde bilinen bir ulaşım noktası, aracınızın park ettiği sokaktan farklı olabilir. Talepte bu referansın yanınızda mı karşı tarafta mı yoksa sadece yakın bölgede mi olduğunu açıklayın. Kullanıcı referansa ulaşmak için aracını hareket ettirmek zorunda değildir. Gerçek bekleme pini ve servis teslim adresi ayrı tutulduğunda yer adıyla oluşan belirsizlik azalır."
+          ]
+        },
+        {
+          "heading": "Araç durumu ve teslim bilgisi",
+          "paragraphs": [
+            "Bir araç cadde kenarında kaldıktan sonra yakındaki otoparka götürülmüşse son noktanın bilgisi gerekir. Yanınızda görünen tanınmış bir yer yalnızca yardımcı referanstır. Aracın hareket durumu ve teslim servisinin açık adresi konuma eklenmeli; toplu taşıma noktası adıyla kesin yol veya giriş varsayımı kurulmadan talep netleştirilmelidir."
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "q": "Fahrettin Altay adı tek başına Karabağlar adresini gösterir mi?",
+          "a": "Bu sayfanın mahalle eşleşmesi Karabağlardır; gerçek cadde ve pin yine gerekir."
+        },
+        {
+          "q": "Bir ulaşım noktasının pinini araç pini yerine kullanabilir miyim?",
+          "a": "Hayır; araç gerçekten orada değilse kendi bekleme konumunu gönderin."
+        }
+      ],
+      "scenario": {
+        "title": "Fahrettin Altay tarifinde ulaşım pini karışıklığı",
+        "situation": "Bir sürücü Fahrettin Altay adıyla tanınan bir ulaşım noktasını referans verir, fakat araç Karabağlardaki başka bir parkta beklemektedir. Talepte gerçek park pini ve cadde adresi gönderilir; referans noktasının araç yanında olmadığı açıklanır.",
+        "assessment": "Araç modeli ve motor stop etme belirtisi alınır. 65/17 muhtarlık referansı veya ulaşım tesisinin genel adresi alma noktasının yerine geçirilmez. Sürücünün park yerinden referans noktasına hareket etmesi gerekmez; gerçek konum ve erişim bilgisiyle değerlendirme yapılır.",
+        "delivery": "Seçilmiş servis açık adresiyle ikinci konum olarak paylaşılır ve kabulü teyit edilir. Yer adı benzerliğinden mesafe veya süre sonucu çıkarılmaz; örnek talep yalnızca referans ile gerçek alma noktası arasındaki ayrımı gösterir."
+      },
+      "status": "verified_address_context",
+      "limitations": [
+        "Kayıttaki yol alanı muhtarlık adresine ait referanstır; araç alma adresi veya işletme şubesi değildir.",
+        "Senaryo koşullu editoryal örnektir; yapılmış hizmet kaydı değildir."
+      ]
+    },
+    "/bolgeler/bornova/gokdere/": {
+      "name": "Gökdere",
+      "facts": [
+        "İBB muhtarlık listesinde GÖKDERE adı Bornova ilçesiyle eşleşir; kayıt yol alanı AKGÜL olarak yer alır."
+      ],
+      "sources": [
+        {
+          "title": "İBB Açık Veri — Muhtarlıklar",
+          "url": "https://acikveri.bizizmir.com/dataset/muhtarliklar",
+          "type": "official_primary"
+        }
+      ],
+      "district_if_verified": "Bornova",
+      "sections": [
+        {
+          "heading": "Gökderede yol referansı ve mevcut araç noktası",
+          "paragraphs": [
+            "Gökdere İBB kaydında Bornova ilçesi altında görülür; muhtarlık yol alanı Akgüldür. Bu kayıt çevredeki yolların eğimi veya trafik durumu hakkında bilgi içermez. Yardım talebinde arazinizin ya da iş yerinizin gerçek girişini gönderin; mahalle adına dayanarak yol yüzeyi veya yükleme koşulu tahmin edilmemelidir."
+          ]
+        },
+        {
+          "heading": "Özel mülk erişimini sahadan öğrenme",
+          "paragraphs": [
+            "Gökderedeki özel mülkte araç girişinin genişliği veya zemini hakkında güncel bilgi yoksa tahmin etmeyin. Kullanıcı kapı ve bekleme alanının bilinen durumunu paylaşmalıdır. Araç hareket ettirilemiyorsa bunu başta söyleyin. Taşıma uygunluğu araç boyutu ve erişim bilgisiyle görüşülür; mahalle adından eğim, yol tipi ya da bu alanlarda daha önce çalışılmış olduğu iddiası üretilmemelidir."
+          ]
+        },
+        {
+          "heading": "Araç durumu ve teslim bilgisi",
+          "paragraphs": [
+            "Bir kamyonet özel mülk içinde bekliyorsa anahtar, yük durumu ve mevcut erişim bilgisi görüşmede açıklanmalıdır. Kullanıcı aracı dışarı çıkaramıyorsa bunu baştan söylemelidir. Teslim servisinin adresi ayrı tutulur; açık adres ve kapı yönlendirmesi bilinen koşullara dayanmalı, teyitsiz arazi veya güzergâh ayrıntısı üretilmemelidir."
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "q": "Gökdere adı yolun eğimli olduğunu kanıtlar mı?",
+          "a": "Hayır, bu araştırmadaki kayıt yalnızca mahalle/ilçe ve adres referansıdır."
+        },
+        {
+          "q": "Özel mülk içindeki aracı dışarı çıkaramıyorsam ne bildireyim?",
+          "a": "Araç durumunu ve gerçek giriş koşulunu talebin başında açıklayın."
+        }
+      ],
+      "scenario": {
+        "title": "Gökderede özel mülk içinde duran kamyonet",
+        "situation": "Bornova Gökderede bir kamyonet özel mülk içinde hareket edemez. Kullanıcı gerçek giriş pinini, yük durumunu ve araç boyutlarını paylaşır; Akgül kayıt yolu veya mahalle adından arazi koşulu çıkarılmaz, eğim ya da yol yüzeyi hakkında uydurma anlatım kullanılmaz.",
+        "assessment": "Anahtar ve tekerlek hareketi bilinen ölçüde bildirilir. Araç dışarı çıkarılamıyorsa bu durum görüşmenin başında açıklanır. Giriş koşulları güncel kullanıcı bilgisine dayanır; mülke erişim veya belirli ekipmanın uygunluğu yalnızca yer adından garanti edilmez.",
+        "delivery": "Kullanıcı bir servis seçtiğinde açık teslim adresini ve kabulünü teyit eder. Yük aktarımı ayrıca isteniyorsa kapsamı konuşulur. Örnek durum gerçekleşmiş bir Gökdere işi veya saha deneyimi iddiası değil, koşullu taşıma talebinin bilgi ihtiyacını açıklar."
+      },
+      "status": "verified_address_context",
+      "limitations": [
+        "Kayıttaki yol alanı muhtarlık adresine ait referanstır; araç alma adresi veya işletme şubesi değildir.",
+        "Senaryo koşullu editoryal örnektir; yapılmış hizmet kaydı değildir."
+      ]
+    },
+    "/bolgeler/buca/goksu/": {
+      "name": "Göksu",
+      "facts": [
+        "İBB muhtarlık listesinde GÖKSU adı Buca ilçesiyle eşleşir; kayıt yol alanı 679/24 olarak yer alır."
+      ],
+      "sources": [
+        {
+          "title": "İBB Açık Veri — Muhtarlıklar",
+          "url": "https://acikveri.bizizmir.com/dataset/muhtarliklar",
+          "type": "official_primary"
+        }
+      ],
+      "district_if_verified": "Buca",
+      "sections": [
+        {
+          "heading": "Göksuda 679/24 kaydıyla gerçek sokağı ayırma",
+          "paragraphs": [
+            "Göksu bu sayfada İBB listesindeki Buca eşleşmesine dayanır; muhtarlık yol alanı 679/24 olarak kaydedilmiştir. Numaralı sokaklarda rakamların tam aktarılması önemlidir. Ancak resmî kayıt yolu ile araç bekleme sokağının aynı olduğu varsayılmamalı; güncel pin ve bulunduğunuz kapı bilgisi açıkça kullanılmalıdır."
+          ]
+        },
+        {
+          "heading": "Dönmeyen tekerleği ayrı değerlendirme",
+          "paragraphs": [
+            "Göksudaki araçta bir tekerlek dönmüyorsa motor çalışması yükleme ihtiyacını açıklamaya yetmez. Hangi tekerlek olduğu ve görünen hasar güvenli konumdan aktarılır; araç altına girerek neden araştırılması beklenmez. Anahtar ile vites durumunu da ekleyin. Seçilmiş yürüyen aksam servisi bu durumu öğrenip kabulü teyit ettikten sonra açık teslim adresini paylaşmalıdır."
+          ]
+        },
+        {
+          "heading": "Araç durumu ve teslim bilgisi",
+          "paragraphs": [
+            "Tekerlek veya yürüyen aksam sorunu nedeniyle hareket etmeyen araçta motorun çalışıyor olması taşıma ihtiyacını ortadan kaldırmaz. Kullanıcı hangi tekerlekte sorun gördüğünü güvenli konumdan aktarabilir. Aracı alma girişiyle servis teslimini iki ayrı adres olarak paylaşın; yol numarası üzerinden operasyon biçimi veya zaman sözü verilmemelidir. Görmediğiniz hasar için kesin arıza nedeni belirtmeniz gerekmez."
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "q": "Göksu Buca adresini nasıl net yazayım?",
+          "a": "İlçe, mahalle ve gerçek sokak/kapı bilgisiyle mevcut pini birlikte gönderin."
+        },
+        {
+          "q": "679/24 benim araç bekleme adresim midir?",
+          "a": "Ancak aracınız gerçekten o yoldaysa; bu numara muhtarlık referansıdır."
+        }
+      ],
+      "scenario": {
+        "title": "Göksuda motoru çalışırken tekerleği dönmeyen araç",
+        "situation": "Buca Göksuda bir otomobilin motoru çalışır fakat tekerlek sorunu yüzünden hareket edemez. Kullanıcı mevcut sokak ve kapı pinini gönderir; 679/24 muhtarlık kayıt yolu araç adresi gibi kullanılmaz, motorun çalışması sürüşe uygunluk kanıtı sayılmaz.",
+        "assessment": "Sorunun hangi tekerlekte görüldüğü ve aracın modeli alınır. Kullanıcıdan hareketi zorlaması veya araç altına girmesi beklenmez. Aracın açık sokakta mı kapı içinde mi beklediği değerlendirmeye eklenir; uzaktan yürüyen aksam tanısı kesinleştirilmez.",
+        "delivery": "Kullanıcı onarım servisiyle kabulü görüşüp açık adresi ikinci konum olarak paylaşır. Alma ve teslim girişi ayrılır; örnek tekerlek sorunu belirli ekipmana sahip olunduğu veya kesin taşıma yöntemi uygulandığı iddiası anlamına gelmez."
+      },
+      "status": "verified_address_context",
+      "limitations": [
+        "Kayıttaki yol alanı muhtarlık adresine ait referanstır; araç alma adresi veya işletme şubesi değildir.",
+        "Senaryo koşullu editoryal örnektir; yapılmış hizmet kaydı değildir."
+      ]
+    },
+    "/bolgeler/menemen/gorece/": {
+      "name": "Görece",
+      "facts": [
+        "İBB muhtarlık listesinde GÖRECE adı Menemen ilçesiyle eşleşir; kayıt yol alanı 910 olarak yer alır."
+      ],
+      "sources": [
+        {
+          "title": "İBB Açık Veri — Muhtarlıklar",
+          "url": "https://acikveri.bizizmir.com/dataset/muhtarliklar",
+          "type": "official_primary"
+        }
+      ],
+      "district_if_verified": "Menemen",
+      "sections": [
+        {
+          "heading": "Menemen Görece ile Menderes Göreceyi karıştırmama",
+          "paragraphs": [
+            "Bu sayfanın İBB mahalle eşleşmesi Menemen Görecedir; muhtarlık yol alanı 910 olarak görünür. Menderes ilçesindeki Görece tarifiyle otomatik eşleştirme yapmayın. Talepte Menemen bilgisi mutlaka yazılmalı; gerçek pin başka ilçedeyse mahalle adı üzerinden adres tahmin edilmeden kullanıcının konumu esas alınmalıdır."
+          ]
+        },
+        {
+          "heading": "Aynı ismin ilçeler arasında kullanımına dikkat",
+          "paragraphs": [
+            "Menemen Görece talebini Menderes Görece aramasıyla karıştırmak, aracın olmadığı bir pini paylaşmaya neden olabilir. Adresi düzeltirken ilçe değişikliğini açıkça belirtin; yalnızca mahalle adını yeniden yazmak yeterli değildir. Aracın tipi ve hareket durumu ayrı alınır. Teslimdeki servis başka ilçeyse o seçim de yeni alma konumundan bağımsız adres olarak yazılmalıdır."
+          ]
+        },
+        {
+          "heading": "Araç durumu ve teslim bilgisi",
+          "paragraphs": [
+            "Aynı adla arama yaptığınızda yanlış ilçe sonucu seçilmiş olabilir. İlçe ve pin çelişiyorsa mesajı açıkça düzeltin; eski noktayı geçerli bırakmayın. Aracın tipi, anahtar durumu ve teslim servisinin açık adresi sonra paylaşılır. Yer adı benzerliği sürüş süresi veya hizmet kapsamının aynı olduğunu göstermez. İlçe düzeltmesini teslimdeki servis değişikliğiyle karıştırmadan ayrı açıklayın."
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "q": "Bu Görece sayfası Menderes için mi?",
+          "a": "Doğrulanan mahalle kaydı Menemen içindir; gerçek aracınızın ilçesini açıkça belirtin."
+        },
+        {
+          "q": "Yanlış Görece pinini gönderirsem ne yapayım?",
+          "a": "Yeni doğru pini ve ilçeyi yazıp önceki konumun geçersiz olduğunu belirtin."
+        }
+      ],
+      "scenario": {
+        "title": "Görece aramasında yanlış ilçenin seçilmesi",
+        "situation": "Menemen Görecede kalan bir araç sahibi haritada Menderes tarafındaki benzer adı seçer. Görüşmede gerçek ilçenin Menemen olduğu açıklanır ve güncel alma pini yeniden gönderilir; 910 muhtarlık yol kaydı mevcut konumun yerine kullanılmaz.",
+        "assessment": "Önceki pinin geçersiz olduğu açıkça yazılır. Araç modeli ve hareket durumu ayrı alınır; adres karışıklığından arıza nedeni çıkarılmaz. İlçe düzeltmesi yapılmadan mesafe ya da varış süresi tahmini kullanılmaz; mevcut sokak ve giriş bilgisi değerlendirmeye eklenir.",
+        "delivery": "Kullanıcı Menemendeki bir servise teslim isterse açık adresi ve kabulünü teyit eder. Aynı isimli iki yer arasında taşıma talep edildiği varsayılmaz; gerçek alma ve teslim noktaları netleştirildikten sonra taşımanın kapsamı konuşulur."
+      },
+      "status": "verified_address_context",
+      "limitations": [
+        "Kayıttaki yol alanı muhtarlık adresine ait referanstır; araç alma adresi veya işletme şubesi değildir.",
+        "Senaryo koşullu editoryal örnektir; yapılmış hizmet kaydı değildir."
+      ]
+    },
+    "/bolgeler/urla/gulbahce/": {
+      "name": "Gülbahçe",
+      "facts": [
+        "İBB muhtarlık listesinde GÜLBAHÇE adı Urla ilçesiyle eşleşir; kayıt yol alanı 12107 olarak yer alır."
+      ],
+      "sources": [
+        {
+          "title": "İBB Açık Veri — Muhtarlıklar",
+          "url": "https://acikveri.bizizmir.com/dataset/muhtarliklar",
+          "type": "official_primary"
+        },
+        {
+          "title": "İzmir Valiliği — Urla",
+          "url": "https://www.izmir.gov.tr/urla",
+          "type": "official_primary"
+        }
+      ],
+      "district_if_verified": "Urla",
+      "sections": [
+        {
+          "heading": "Gülbahçede Urla bilgisi ve gerçek giriş",
+          "paragraphs": [
+            "Gülbahçe İBB kaydında Urla ilçesiyle eşleşir; muhtarlık yol alanı 12107dir. Urla tanıtımında da Gülbahçe adı yer alır, ancak bu bilgi aracın belirli tesis veya sahil noktasında olduğunu göstermez. Konumu mahalle adıyla sınırlandırmayın; bulunduğunuz sokak, iş yeri ya da park girişini kendi pininizle paylaşın."
+          ]
+        },
+        {
+          "heading": "Elektrikli araçta üretici bilgisini uydurmama",
+          "paragraphs": [
+            "Gülbahçedeki elektrikli araca uygun taşıma gereksinimi model bazında değerlendirilmelidir. Kullanıcı bu bilgiyi bilmiyorsa bilmediğini söyleyebilir; telefon görüşmesinde kendi üretici prosedürünü üretmemelidir. Gösterge mesajı, tekerlek hareketi ve anahtar durumu paylaşılır. Yetkili servis kabulü açık adresle teyit edilmeden yalnızca marka adına dayanarak teslim noktası veya operasyon yöntemi garanti edilmemelidir."
+          ]
+        },
+        {
+          "heading": "Araç durumu ve teslim bilgisi",
+          "paragraphs": [
+            "Bir elektrikli araç için taşıma talebinde model ve görünen sistem uyarısı açıklanmalıdır. Araç boşa alınabiliyor mu, tekerlekler hareket ediyor mu gibi bilinen bilgiler değerlendirmeyi destekler. Teslimin bir yetkili servise yapılması istenirse ilgili işletmenin kabulü ayrıca teyit edilir; yer adı üzerinden üreticiye uygun tek yöntem varsayılmaz."
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "q": "Gülbahçe için Urla belirtmek yeterli olur mu?",
+          "a": "Gerçek sokak veya giriş pinini de gönderin; mahalle adı belirli park noktasını göstermez."
+        },
+        {
+          "q": "Elektrikli araç uyarısını nasıl aktarabilirim?",
+          "a": "Ekranda gördüğünüz uyarıyı ve model/hareket durumunu paylaşın; kesin arıza teşhisi üretmeyin."
+        }
+      ],
+      "scenario": {
+        "title": "Gülbahçede sürüş uyarısı veren elektrikli araç",
+        "situation": "Urlanın Gülbahçe mahallesinde elektrikli bir araç park alanında sürüş sistemi uyarısı verir. Kullanıcı Urla ilçesini ve gerçek giriş pinini gönderir; 12107 muhtarlık yol alanı veya bilinen bir tesis adı otomatik araç adresi yapılmaz.",
+        "assessment": "Model, uyarı metni ve vites/tekerlek hareketi alınır. Üreticiye uygun taşıma gereksinimi değerlendirmeye eklenir; kullanıcıdan bilinmeyen sistemleri resetlemesi veya mekanik müdahale yapması beklenmez. Park alanına ilişkin giriş bilgisi güncel kullanıcı anlatımına dayanır, ekip uygunluğu varsayılmaz.",
+        "delivery": "Seçilmiş yetkili servisin kabulü ve açık adresi ayrı paylaşılır. Mahalle adı teslim noktasını belirlemez; örnek talep gerçek operasyon kaydı, elektrikli araç filosu veya kesin varış süresi iddiası taşımaz."
+      },
+      "status": "verified_address_context",
+      "limitations": [
+        "Kayıttaki yol alanı muhtarlık adresine ait referanstır; araç alma adresi veya işletme şubesi değildir.",
+        "Senaryo koşullu editoryal örnektir; yapılmış hizmet kaydı değildir."
+      ]
+    },
+    "/bolgeler/karabaglar/gulyaka/": {
+      "name": "Gülyaka",
+      "facts": [
+        "İBB muhtarlık listesinde GÜLYAKA adı Karabağlar ilçesiyle eşleşir; kayıt yol alanı 3035 olarak yer alır."
+      ],
+      "sources": [
+        {
+          "title": "İBB Açık Veri — Muhtarlıklar",
+          "url": "https://acikveri.bizizmir.com/dataset/muhtarliklar",
+          "type": "official_primary"
+        }
+      ],
+      "district_if_verified": "Karabağlar",
+      "sections": [
+        {
+          "heading": "Gülyakada mahalle ve teslim eden kişi bilgisi",
+          "paragraphs": [
+            "Gülyaka İBB muhtarlık listesinde Karabağlar altında görünür; kayıt yol alanı 3035tir. Araç bir konut önündeyse kapı numarasıyla birlikte gerçek park pinini kullanın. Resmî mahalle eşleşmesi yerel bağlam sağlar; aracın bu numaralı yolda bulunduğunu veya yardım şirketinin burada bir şubesi olduğunu göstermez."
+          ]
+        },
+        {
+          "heading": "Yakın adına talepte iki kişiyi netleştirme",
+          "paragraphs": [
+            "Gülyakadaki araç sahibi bekleme alanına gidemiyorsa talebi ileten yakını ile sahada aracı teslim edecek kişi farklı olabilir. Kimde anahtar bulunduğu ve kimin güncel durum aktaracağı açık konuşulur. Görülmeyen hasar tahmin edilmez. Servis kabulündeki kişi ve açık adres ayrıca paylaşılır; tek bir aile veya bina referansı iki teslim noktasının yerine geçmez."
+          ]
+        },
+        {
+          "heading": "Araç durumu ve teslim bilgisi",
+          "paragraphs": [
+            "Yaşlı veya araç başına gidemeyen bir kullanıcı adına yakınları talep iletiyorsa anahtar ve teslim koordinasyonu açık tutulmalıdır. Bildiğiniz marş ve hareket durumunu söyleyin; görülmeyen hasarı tahmin etmeyin. Servis kabul edecek kişiyle alma noktasındaki kişi farklıysa bunu adreslerle birlikte belirtin."
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "q": "Gülyaka kaydındaki 3035 aracın adresini gösterir mi?",
+          "a": "Hayır; aracın gerçek kapı ve park pini ayrı gereklidir."
+        },
+        {
+          "q": "Yakınım adına araç taşıması isterken ne ekleyeyim?",
+          "a": "Anahtarın kimde olduğunu, aracı kimin teslim edeceğini ve açık servis adresini belirtin."
+        }
+      ],
+      "scenario": {
+        "title": "Gülyakada yakınının adına talep ileten kullanıcı",
+        "situation": "Gülyakada konut önünde çalışmayan araç için sahibinin yakını yardım talebi iletir. Karabağlar ve gerçek park pini paylaşılır; 3035 idari referansı araç adresi sayılmaz. Aracın sahibi o sırada bekleme noktasında olmadığı açıkça söylenir.",
+        "assessment": "Anahtarın kimde olduğu ve aracı hangi kişinin teslim edeceği netleştirilir. Kullanıcının görmediği hasar kesin bilgi diye aktarılmaz; araç başındaki kişinin bildiği marş ve tekerlek durumu sorulur. Konut girişi erişimi güncel bilgiyle ele alınır.",
+        "delivery": "Seçilen bakım servisi aracı kabul edeceğini teyit ederse açık adres ve kabul edecek kişi paylaşılır. Yakının talebi bir yapılmış iş kaydı veya özel hizmet deneyimi iddiasına dönüşmez; gerçek iki konumla kapsam ve uygunluk değerlendirilir."
+      },
+      "status": "verified_address_context",
+      "limitations": [
+        "Kayıttaki yol alanı muhtarlık adresine ait referanstır; araç alma adresi veya işletme şubesi değildir.",
+        "Senaryo koşullu editoryal örnektir; yapılmış hizmet kaydı değildir."
+      ]
+    },
+    "/bolgeler/karabaglar/gunaltay/": {
+      "name": "Günaltay",
+      "facts": [
+        "İBB muhtarlık listesinde GÜNALTAY adı Karabağlar ilçesiyle eşleşir; kayıt yol alanı 4865 olarak yer alır."
+      ],
+      "sources": [
+        {
+          "title": "İBB Açık Veri — Muhtarlıklar",
+          "url": "https://acikveri.bizizmir.com/dataset/muhtarliklar",
+          "type": "official_primary"
+        }
+      ],
+      "district_if_verified": "Karabağlar",
+      "sections": [
+        {
+          "heading": "Günaltayda numaralı adresi eksiksiz iletme",
+          "paragraphs": [
+            "Günaltay, İBB listesindeki Karabağlar mahalle kaydıyla eşleşir; yol alanı 4865 olarak görünür. Kendi sokak numaranız farklıysa kayıt numarasını kopyalamayın. Yardım mesajında ilçe, mahalle, gerçek sokak/kapı ve pin birlikte kullanılmalı; benzer rakamların eksik yazılmasıyla oluşan adres farkı talep sırasında düzeltilmelidir."
+          ]
+        },
+        {
+          "heading": "Yerinde lastik hizmetinin uygunluğunu konuşma",
+          "paragraphs": [
+            "Günaltayda lastik hasarı fark eden kullanıcı hangi tekerleğin etkilendiğini söyleyebilir; kaldığı alanın güvenli erişimi ayrıca değerlendirilir. Yerinde işlem isteği otomatik çözüm garantisi değildir. Taşıma tercih edilirse lastik servisi kabulü ve açık kapı adresi netleşmelidir. Araç modeli ile yük durumu bilinmeden tek müdahale veya varış süresi sözü verilmemelidir."
+          ]
+        },
+        {
+          "heading": "Araç durumu ve teslim bilgisi",
+          "paragraphs": [
+            "Lastik hasarı olan araç için tekerleğin durumu, araç tipi ve bulunduğu park alanı konuşulur. Yerinde lastik işleminin güvenli olup olmadığı yalnızca mahalle adına göre belirlenemez. Servise taşıma seçeneği istenirse kabul adresi ayrı yazılmalı, kullanıcının açık adresi değerlendirilmeden tek çözüm veya süre iddiası kurulmamalıdır. Park alanının giriş yönlendirmesini güncel koşullara göre paylaşın."
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "q": "Günaltay için kendi sokak numaram farklıysa ne yazayım?",
+          "a": "Aracın gerçek sokak ve kapı bilgisini kullanın; 4865 muhtarlık referansıdır."
+        },
+        {
+          "q": "Lastik sorunu her yerde yerinde çözülür mü?",
+          "a": "Uygunluk araç durumu ve güvenli erişimle değerlendirilir; mahalle adı tek başına garanti vermez."
+        }
+      ],
+      "scenario": {
+        "title": "Günaltayda park edilmiş araçta lastik hasarı",
+        "situation": "Karabağlar Günaltayda bir otomobil park halindeyken lastik hasarı fark edilir. Kullanıcı gerçek sokak ve kapı konumunu gönderir; 4865 kayıt yolu bekleme adresi olarak kopyalanmaz. Talep yolda gerçekleşmiş geçmiş operasyon gibi anlatılmaz.",
+        "assessment": "Hangi lastiğin etkilendiği, aracın hareket durumu ve park alanının girişi konuşulur. Yerinde işlem güvenliği ve taşıma tercihi bu bilgilerle ele alınır. Kullanıcıdan kendi başına riskli lastik müdahalesi veya hasarlı araçla sürüş denemesi beklenmez; kesin mekanik tanı kurulmaz.",
+        "delivery": "Lastik servisine teslim istenirse açık adres ve kabul durumu paylaşılır. Alma noktasındaki park alanıyla servis kapısı ayrılır; örnek üzerinden ekipman sahipliği veya her koşulda aynı çözüm garantisi oluşturulmadan talebin kapsamı netleştirilir."
+      },
+      "status": "verified_address_context",
+      "limitations": [
+        "Kayıttaki yol alanı muhtarlık adresine ait referanstır; araç alma adresi veya işletme şubesi değildir.",
+        "Senaryo koşullu editoryal örnektir; yapılmış hizmet kaydı değildir."
+      ]
+    },
+    "/bolgeler/konak/guzelyali/": {
+      "name": "Güzelyalı",
+      "facts": [
+        "İBB muhtarlık listesinde GÜZELYALI adı Konak ilçesiyle eşleşir; kayıt yol alanı 39 olarak yer alır."
+      ],
+      "sources": [
+        {
+          "title": "İBB Açık Veri — Muhtarlıklar",
+          "url": "https://acikveri.bizizmir.com/dataset/muhtarliklar",
+          "type": "official_primary"
+        }
+      ],
+      "district_if_verified": "Konak",
+      "sections": [
+        {
+          "heading": "Güzelyalı için Konak mahallesi ve park konumu",
+          "paragraphs": [
+            "İBB listesinde Güzelyalı mahalle adı Konak ilçesiyle ve 39 yol alanıyla eşleşir. Geniş semt tarifiyle belirli bir cadde veya park yerini aynı kabul etmeyin. Yardım talebinde gerçek sokak, otopark girişi ve mevcut pin kullanılmalıdır; 39 idari referansı aracın alma noktası veya şirket şubesi değildir."
+          ]
+        },
+        {
+          "heading": "İki kapalı alanın koşullarını ayırma",
+          "paragraphs": [
+            "Güzelyalıdan alınan otomobil başka otoparka teslim edilecekse alma garajının ve teslim otoparkının giriş koşulları aynı varsayılmaz. Kullanıcı iki alanın güncel araç kabul yönlendirmesini ilgili işletmelerden öğrenmelidir. Model, anahtar ve hareket durumunu paylaşın. Garaj adıyla özel giriş yetkisi veya standart ekipman sonucu çıkarılmadan talebin kapsamı, gerçek iki konumla değerlendirilmelidir."
+          ]
+        },
+        {
+          "heading": "Araç durumu ve teslim bilgisi",
+          "paragraphs": [
+            "Bir kapalı garajda bekleyen otomobil için kat, giriş ve hareket durumu bilinen ölçüde paylaşılır. Tesisin güncel araç alma yönlendirmesi ilgili işletmeyle teyit edilmeli; garaj adı üzerinden standart giriş ölçüsü varsayılmamalıdır. Servise veya başka otoparka teslim tercihi gerçek adresle ayrı yazılmalıdır."
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "q": "Güzelyalı semt adı aracın sokak adresi mi?",
+          "a": "Hayır; Konak bilgisiyle gerçek sokak veya park pininizi de gönderin."
+        },
+        {
+          "q": "Kapalı garaj talebinde hangi ek bilgi gerekir?",
+          "a": "Bilinen kat, giriş koşulu, aracın modeli ve hareket durumu açıklanmalıdır."
+        }
+      ],
+      "scenario": {
+        "title": "Güzelyalıda garajdan farklı otoparka teslim",
+        "situation": "Konak Güzelyalıda bir otomobil garajda çalışmaz ve sahibi başka otoparka taşınmasını ister. Kullanıcı garajın gerçek giriş pinini ve kat bilgisini gönderir; geniş semt adı veya 39 muhtarlık referansı alma adresi yerine geçirilmez.",
+        "assessment": "Araç modeli, anahtar ve vites/tekerlek hareketi sorulur. Garajın araç alma yönlendirmesi kullanıcı tarafından teyit edilir. Giriş ölçüleri biliniyorsa aktarılır; her kapalı alana aynı ekipmanın uygunluğu veya tek yükleme yöntemi olduğu varsayılmaz, kullanıcı müdahalesi zorunlu yapılmaz.",
+        "delivery": "Teslim otoparkının aracı kabulü ve gerçek kapı adresi ayrı paylaşılır. İki garaj/otopark adresi net tutulur; örnek senaryo geçmiş yapılmış Güzelyalı operasyonu değil, koşullu değerlendirme ve teslim bilgilerini açıklayan bir örnektir."
+      },
+      "status": "verified_address_context",
+      "limitations": [
+        "Kayıttaki yol alanı muhtarlık adresine ait referanstır; araç alma adresi veya işletme şubesi değildir.",
+        "Senaryo koşullu editoryal örnektir; yapılmış hizmet kaydı değildir."
+      ]
+    },
+    "/bolgeler/noktalar/irmak-mahallesi/": {
+      "name": "Irmak Mahallesi",
+      "facts": [
+        "İBB muhtarlık listesinde IRMAK adı Gaziemir ilçesiyle eşleşir; kayıt yol alanı 31 olarak yer alır.",
+        "İBB muhtarlık listesinde IRMAK adı Menemen ilçesiyle eşleşir; kayıt yol alanı 9516 olarak yer alır."
+      ],
+      "sources": [
+        {
+          "title": "İBB Açık Veri — Muhtarlıklar",
+          "url": "https://acikveri.bizizmir.com/dataset/muhtarliklar",
+          "type": "official_primary"
+        }
+      ],
+      "district_if_verified": null,
+      "sections": [
+        {
+          "heading": "Irmak Mahallesinde Gaziemir ve Menemen ayrımı",
+          "paragraphs": [
+            "İBB muhtarlık listesinde Irmak adı Gaziemir ve Menemen ilçelerinde bulunur. Gaziemir kaydındaki yol alanı 31, Menemen kaydındaki alan 9516dır. Irmak Mahallesi yazılması tek başına ilçeyi belirlemez. Bu yol referanslarını araç adresi yapmadan gerçek ilçe, sokak ve bekleme pinini ilk mesajda belirtin."
+          ]
+        },
+        {
+          "heading": "İlçe değişince teslim tercihini de kontrol etme",
+          "paragraphs": [
+            "Irmak talebinde Gaziemir yerine Menemen ya da ters yönde bir adres düzeltmesi varsa teslim servisinin hangi ilçede kaldığını da kontrol edin. Yeni alma pini eski servis adresini otomatik değiştirmez. Aracın kim tarafından teslim edileceği ve anahtar durumu güncellenir. Benzer mahalle adından ortak ulaşım, kısa mesafe veya sabit ücret iddiası üretmek yerine iki açık adres kullanılır."
+          ]
+        },
+        {
+          "heading": "Araç durumu ve teslim bilgisi",
+          "paragraphs": [
+            "Aracın bulunduğu ilçe ve teslim servisi farklıysa bunu iki konumla açıklayın. Aynı isimli mahallelerin tek operasyon noktası olduğu varsayılmamalıdır. Kullanıcı yanlış bir pin gönderdiğini fark ederse eski konumu açıkça düzeltmeli; ardından araç modeli, anahtar ve tekerlek hareketini bilinen durumla aktarmalıdır."
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "q": "Irmak Mahallesi hangi ilçede?",
+          "a": "Resmi listede Gaziemir ve Menemende kayıtlar vardır; gerçek ilçenizi belirtin."
+        },
+        {
+          "q": "31 ve 9516 aynı alma adresi olabilir mi?",
+          "a": "Bunlar farklı ilçe muhtarlık referanslarıdır; aracın güncel konumu ayrıca gerekir."
+        }
+      ],
+      "scenario": {
+        "title": "Irmak adında ilçesi belirtilmeyen talep",
+        "situation": "Bir kullanıcı Irmak Mahallesi yazıp araç taşıma ister ancak ilk mesajda ilçeyi belirtmez. Aracın Gaziemirde beklediği sonraki açıklamada netleşir; gerçek sokak ve park pini paylaşılır, Menemen kaydı alternatif alma noktası gibi kullanılmaz.",
+        "assessment": "İlçe/pin uyumu konuşulduktan sonra model, marş belirtisi ve tekerlek hareketi alınır. 31 kayıt yolu aracın gerçek adresi kabul edilmez. İki Irmak mahallesi aynı erişim veya süreye sahipmiş gibi varsayım kurulmaz; kullanıcı bilmediği arıza nedeni yerine gözlemini bildirir.",
+        "delivery": "Seçilmiş servisin açık adresi ve kabulü ikinci konum olarak gönderilir. İlçe belirtilmeden yapılmış mesafe tahmini kullanılmaz; örnek talep gerçek operasyon veya bu mahallelerden birinde şirket şubesi bulunduğu iddiası taşımaz."
+      },
+      "status": "verified_address_context",
+      "limitations": [
+        "Kayıttaki yol alanı muhtarlık adresine ait referanstır; araç alma adresi veya işletme şubesi değildir.",
+        "Senaryo koşullu editoryal örnektir; yapılmış hizmet kaydı değildir."
+      ]
+    },
+    "/bolgeler/urla/icmeler/": {
+      "name": "İçmeler",
+      "facts": [
+        "İBB muhtarlık listesinde İÇMELER adı Urla ilçesiyle eşleşir; kayıt yol alanı GÖÇMEN olarak yer alır."
+      ],
+      "sources": [
+        {
+          "title": "İBB Açık Veri — Muhtarlıklar",
+          "url": "https://acikveri.bizizmir.com/dataset/muhtarliklar",
+          "type": "official_primary"
+        }
+      ],
+      "district_if_verified": "Urla",
+      "sections": [
+        {
+          "heading": "İçmelerde mahalle ve tesis adını ayrı tutma",
+          "paragraphs": [
+            "İçmeler bu sayfada Urla eşleşmesiyle ele alınır; İBB muhtarlık yol kaydı Göçmen olarak görünür. Başka şehirlerde kullanılan aynı mahalle adıyla karışmaması için İzmir/Urla bilgisini mesajda koruyun. Bir tesis adını referans verdiğinizde aracın tesis içinde mi dış yolda mı durduğunu ayrıca açıklayın."
+          ]
+        },
+        {
+          "heading": "Tesis yakınlığını giriş izni saymama",
+          "paragraphs": [
+            "İçmelerde bir tesisin dış yolunda bekleyen araç için tesis adı yardımcı referans olabilir. Bu, araç alma talebinin tesis içinden yapılacağını veya özel giriş izni bulunduğunu göstermez. Kullanıcı dış bekleme pinini ve hareket durumunu aktarır. Teslimin başka ilçeye yapılması istenirse açık adres ve servis kabulü ayrıca paylaşılmalı; yolculuk hedefiyle taşıma tercihi karıştırılmamalıdır."
+          ]
+        },
+        {
+          "heading": "Araç durumu ve teslim bilgisi",
+          "paragraphs": [
+            "Yolculuk sırasında motor uyarısı görülen araç için ekrandaki bilgiyi ve mevcut hareket durumunu aktarın. Konum pini muhtarlık adresinden değil gerçek bekleme noktasından alınmalıdır. Teslim Urla dışında bir servise yapılacaksa onu ayrı belirtin; ilçe adı üzerinden uzun yol kapsamı, yöntem veya fiyat çıkarımı yapılmamalıdır."
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "q": "İçmeler talebinde Urla bilgisini neden ekleyeyim?",
+          "a": "Aynı isim başka yerlerde kullanılabilir; ilçe gerçek yerel konumu ayırır."
+        },
+        {
+          "q": "Tesis adını göndersem giriş bilgisi gerekir mi?",
+          "a": "Evet; tesis içi, kapı önü veya dış yol ayrımı ve gerçek pin açıklanmalıdır."
+        }
+      ],
+      "scenario": {
+        "title": "Urla İçmelerde tesis dış yolunda motor uyarısı",
+        "situation": "Bir otomobil Urla İçmelerde bir tesisin dış yolunda motor uyarısı sonrası durur. Kullanıcı İzmir/Urla bilgisini, tesisin yalnızca referans olduğunu ve gerçek dış bekleme pinini paylaşır; Göçmen kayıt yolu araç adresi gibi kopyalanmaz.",
+        "assessment": "Görünen uyarı ve marş/hareket durumu alınır. Tesis içi giriş izni gerektiren bir talep olduğu varsayılmaz. Kullanıcı aracı tesis kapısına götürmek için yeniden sürmeye zorlanmaz; yol ve bekleme koşulları bilinen gerçek bilgilerle değerlendirilir, uzaktan teşhis kesinleştirilmez.",
+        "delivery": "Urla dışındaki seçilmiş servise teslim istenirse açık adres ve kabulü teyit edilir. Referans tesis adıyla alma adresi ayrılır; örnek durum herhangi bir tesisle gerçekleşmiş operasyon ilişkisi, ETA veya ücret garantisi içermez."
+      },
+      "status": "verified_address_context",
+      "limitations": [
+        "Kayıttaki yol alanı muhtarlık adresine ait referanstır; araç alma adresi veya işletme şubesi değildir.",
+        "Senaryo koşullu editoryal örnektir; yapılmış hizmet kaydı değildir."
+      ]
+    },
+    "/bolgeler/balcova/inciralti/": {
+      "name": "İnciraltı",
+      "facts": [
+        "İBB muhtarlık listesinde İNCİRALTI adı Balçova ilçesiyle eşleşir; kayıt yol alanı İNCİRALTI olarak yer alır."
+      ],
+      "sources": [
+        {
+          "title": "İBB Açık Veri — Muhtarlıklar",
+          "url": "https://acikveri.bizizmir.com/dataset/muhtarliklar",
+          "type": "official_primary"
+        },
+        {
+          "title": "İzmir Valiliği — Balçova",
+          "url": "https://www.izmir.gov.tr/balcova",
+          "type": "official_primary"
+        }
+      ],
+      "district_if_verified": "Balçova",
+      "sections": [
+        {
+          "heading": "İnciraltında mahalle adı ve farklı varış noktaları",
+          "paragraphs": [
+            "İBB listesi İnciraltını Balçova ilçesiyle eşleştirir; muhtarlık yol alanında da İnciraltı adı bulunur. Valilik tanıtımı İnciraltını ilçenin yerleri arasında anar. Ancak bu yer adı belirli otopark, işletme veya aracın beklediği kapıyı göstermez; talepte gerçek tesis/sokak ve konum pini ayrıca kullanılmalıdır."
+          ]
+        },
+        {
+          "heading": "Kuruluş genel adresiyle park kapısını ayırma",
+          "paragraphs": [
+            "İnciraltında bir kuruluşun genel adresi, aracın bulunduğu otopark girişinden farklı olabilir. Güncel araç alma yönlendirmesini ilgili tesisle teyit edin; bilinen kapı adını pinin yanına ekleyin. Anahtar ve hareket durumu paylaşılır. Kuruluş ismi, özel saha erişimi veya hazır operasyon deneyimi iddiasına dönüştürülmeden servis kabul adresi ayrı belirlenmelidir."
+          ]
+        },
+        {
+          "heading": "Araç durumu ve teslim bilgisi",
+          "paragraphs": [
+            "Bir araç sağlık kuruluşu, işletme veya açık park alanında bekliyorsa ilgili alanın araç alma girişini teyit edin. Kuruluş adı genel adresi gösterebilir ama aracın park noktası farklı olabilir. Anahtarın kimde olduğu ve servis teslim tercihi paylaşılmalı; yer adına dayanarak özel giriş veya hızlı ulaşım iddiası kurulmamalıdır."
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "q": "İnciraltı adı belirli otoparkı gösterir mi?",
+          "a": "Hayır; Balçova bilgisiyle gerçek park ve giriş pinini de iletin."
+        },
+        {
+          "q": "Bir kuruluşta park eden araç için neyi teyit edeyim?",
+          "a": "Gerçek araç alma girişini ve tesisin güncel yönlendirmesini ilgili kuruluşla teyit edin."
+        }
+      ],
+      "scenario": {
+        "title": "İnciraltında kuruluş otoparkında çalışmayan araç",
+        "situation": "Balçova İnciraltında bir otomobil bir kuruluşun otoparkında çalışmaz. Kullanıcı kuruluşun genel adresi yerine gerçek araç girişini ve park pinini gönderir; İnciraltı muhtarlık referansını veya semt adını tek alma noktası olarak kullanmaz.",
+        "assessment": "Kuruluşun güncel araç alma yönlendirmesi kullanıcı tarafından teyit edilir. Araç modelinin yanında anahtar ve marş belirtisi paylaşılır; kuruluş adını bilmek özel giriş yetkisi veya hazır yükleme alanı anlamına gelmez. Kullanıcıya aracı girişe sürmesi zorunlu bir adım olarak sunulmaz.",
+        "delivery": "Seçilmiş oto elektrik veya bakım servisi kabulü netleşince açık adres ikinci konum olarak gönderilir. Park ve servis girişleri ayrı tutulur; örnek kuruluş adı gerçek operasyon ortaklığı, özel saha deneyimi veya varış süresi sözü içermez."
+      },
+      "status": "verified_address_context",
+      "limitations": [
+        "Kayıttaki yol alanı muhtarlık adresine ait referanstır; araç alma adresi veya işletme şubesi değildir.",
+        "Senaryo koşullu editoryal örnektir; yapılmış hizmet kaydı değildir."
+      ]
+    },
+    "/bolgeler/noktalar/inonu/": {
+      "name": "İnönü",
+      "facts": [
+        "İBB muhtarlık listesinde İNÖNÜ adı Buca ilçesiyle eşleşir; kayıt yol alanı 682/2 olarak yer alır.",
+        "İBB muhtarlık listesinde İNÖNÜ adı Ödemiş ilçesiyle eşleşir; kayıt yol alanı KANUNİ olarak yer alır.",
+        "İBB muhtarlık listesinde İNÖNÜ adı Bornova ilçesiyle eşleşir; kayıt yol alanı 756 olarak yer alır.",
+        "İBB muhtarlık listesinde İNÖNÜ adı Çiğli ilçesiyle eşleşir; kayıt yol alanı 9202 olarak yer alır.",
+        "İBB muhtarlık listesinde İNÖNÜ adı Torbalı ilçesiyle eşleşir; kayıt yol alanı 129 olarak yer alır."
+      ],
+      "sources": [
+        {
+          "title": "İBB Açık Veri — Muhtarlıklar",
+          "url": "https://acikveri.bizizmir.com/dataset/muhtarliklar",
+          "type": "official_primary"
+        }
+      ],
+      "district_if_verified": null,
+      "sections": [
+        {
+          "heading": "İnönü için beş ilçeyi tek konum saymama",
+          "paragraphs": [
+            "İBB muhtarlık listesinde İnönü adı Buca, Ödemiş, Bornova, Çiğli ve Torbalı ilçelerinde görünür. Her kaydın yol referansı farklıdır; bu sayfa bunlardan birini aracın konumu olarak seçmez. İlçe ve gerçek sokak bilgisi belirtilmeden İnönü Mahallesi talebinin hangi noktayı anlattığı kesinleşmez; pin açıkça gönderilmelidir."
+          ]
+        },
+        {
+          "heading": "Beş ilçe kaydında iki noktayı seçme",
+          "paragraphs": [
+            "İnönü adıyla birden fazla ilçenin kaydı bulunduğundan alma adresini ve seçilen servisi açık ilçe bilgisiyle yazın. İkisi aynı mahalle adına sahip olsa bile tek adres değildir. Araç modeli ve hareket durumunu gönderin. Konum düzeltmesinde önceki pinin geçersiz olduğunu söylemek, servis kabulündeki adrese yapılan ayrı değişiklikle karışıklığı önlemeye yardımcı olur."
+          ]
+        },
+        {
+          "heading": "Araç durumu ve teslim bilgisi",
+          "paragraphs": [
+            "Taşıma servisi aynı isimli başka mahalledeyse alma ve teslim bilgisi özellikle etiketlenmelidir. Mahalle isimleri aynı olsa bile adresler aynı değildir. Kullanıcı yanlış ilçeyi fark ettiğinde yeni pinle birlikte düzeltme yapmalı; araç türü ve hareket durumunu bu adres karışıklığından bağımsız olarak paylaşmalıdır."
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "q": "İnönü yazmak ilçe seçmemi gereksiz yapar mı?",
+          "a": "Hayır; resmi listede beş ayrı ilçede kayıt bulunur, gerçek ilçeyi açıkça yazın."
+        },
+        {
+          "q": "Alma ve servis mahallesi ikisi de İnönüyse ne yapayım?",
+          "a": "İki açık adresi ve pini alma/teslim olarak etiketleyin; aynı isimli adresleri tek nokta saymayın."
+        }
+      ],
+      "scenario": {
+        "title": "İnönü adında farklı ilçelere ait iki konum",
+        "situation": "Bir kullanıcı Buca İnönüdeki otomobilini Bornova İnönüde seçilmiş servise taşıtmak ister. İki mahalle adı aynı olsa da mesajda ilçeler ve gerçek pinler alma/teslim olarak ayrı yazılır; muhtarlık yol referansları gerçek araç adreslerinin yerine kullanılmaz.",
+        "assessment": "Araç modeli, anahtar ve tekerlek hareketi alınır. Aynı mahalle adından kısa mesafe veya ortak erişim varsayımı yapılmaz. Kullanıcı arıza nedenini bilmiyorsa gözlenen belirtiyle yetinir; Buca alma noktası ile Bornova teslim adresi değerlendirmede ayrı kalır.",
+        "delivery": "Seçilmiş servis kabulünü teyit ederek açık kapı bilgisi paylaşır. Örnek talepteki iki ilçe gerçek operasyon örneği değildir; ücret, süre ve uygunluk araç ile iki gerçek konum üzerinden konuşulur, aynı isimden sonuç çıkarılmaz."
+      },
+      "status": "verified_address_context",
+      "limitations": [
+        "Kayıttaki yol alanı muhtarlık adresine ait referanstır; araç alma adresi veya işletme şubesi değildir.",
+        "Senaryo koşullu editoryal örnektir; yapılmış hizmet kaydı değildir."
+      ]
+    },
+    "/bolgeler/bornova/kavaklidere/": {
+      "name": "Kavaklıdere",
+      "facts": [
+        "İBB muhtarlık listesinde KAVAKLIDERE adı Bornova ilçesiyle eşleşir; kayıt yol alanı KAVAKLIDERE olarak yer alır."
+      ],
+      "sources": [
+        {
+          "title": "İBB Açık Veri — Muhtarlıklar",
+          "url": "https://acikveri.bizizmir.com/dataset/muhtarliklar",
+          "type": "official_primary"
+        },
+        {
+          "title": "MEB — Kavaklıdere Saliha Hüseyin Özyavuz İlkokulu",
+          "url": "https://turkmasha.meb.gov.tr/turkiye/izmir/bornova/kavaklidere-saliha-huseyin-ozyavuz-ilkokulu",
+          "type": "official_primary"
+        }
+      ],
+      "district_if_verified": "Bornova",
+      "sections": [
+        {
+          "heading": "Kavaklıderede Bornova adresini mevki tarifinden ayırma",
+          "paragraphs": [
+            "Kavaklıdere İBB kaydında Bornova ile eşleşir; yol alanı da Kavaklıdere olarak görünür. MEBin okul tanıtımı Kavaklıdereyi Belkahve çevresindeki İzmir–Ankara karayolu bağlamında anar. Ancak aracın gerçekten o yol üzerinde olduğunu mahalle adından çıkaramayız; mevcut sokak veya giriş pininizi ayrı gönderin."
+          ]
+        },
+        {
+          "heading": "Mevki referansını yol kimliği saymama",
+          "paragraphs": [
+            "Kavaklıderedeki araca Belkahve adıyla tarif verilmesi, aracın otoyol tünelinde olduğu anlamına gelmez. Kullanıcı hangi yol ya da sokakta beklediğini kendi piniyle açıklamalıdır. Görünen uyarı kesin motor teşhisi sayılmaz. Teslim servisi ve kabul edecek kişi bilgisi ayrı paylaşılır; mevki üzerinden erişim, eğim veya özel bölge deneyimi iddiası üretilmemelidir."
+          ]
+        },
+        {
+          "heading": "Araç durumu ve teslim bilgisi",
+          "paragraphs": [
+            "Bir binek araç mahalle içinde arızalanmışsa Belkahve yakınlığı yardımcı referans olabilir fakat otoyol tüneli adresine dönüştürülmemelidir. Görünen motor uyarısını, tekerlek hareketini ve anahtar durumunu açıklayın. Servis tesliminde açık adres ve kabul bilgisi gereklidir; mevki adına göre eğim veya kesin süre tahmin edilmemelidir. Tünel referansı verilmişse gerçek yol ayrımını özellikle belirtin."
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "q": "Kavaklıdere yazarsam Ankara yolunda olduğum anlaşılır mı?",
+          "a": "Hayır; gerçek yol ve pin gerekir, mahalle adı ana yol konumu kanıtı değildir."
+        },
+        {
+          "q": "Belkahve Tüneli pinini mahalle adresim yerine göndereyim mi?",
+          "a": "Sadece araç gerçekten tüneldeyse; mahalle içindeki bekleme için kendi konumunuzu kullanın."
+        }
+      ],
+      "scenario": {
+        "title": "Kavaklıderede mahalle içi arıza ve Belkahve referansı",
+        "situation": "Bornova Kavaklıderede bir araç mahalle içindeki sokakta stop eder. Kullanıcı Belkahveyi yardımcı referans olarak söyler fakat otoyol tünelinde olmadığını açıklar; gerçek sokak pinini paylaşır ve ana yol adresi tahmin edilmez.",
+        "assessment": "Motorun durmadan önce verdiği görünen uyarı ve hareket durumu alınır. Kavaklıdere muhtarlık yol kaydı aracın bekleme kapısının yerine kullanılmaz. Mevki adı üzerinden eğim, trafik veya servis yakınlığı iddiası kurulmadan konum değerlendirilir; aracı ana yola çıkarmak zorunlu adım değildir.",
+        "delivery": "Bornovada seçilmiş bir servise teslim için açık adres ve kabulü kullanıcı teyit eder. Mahalle ile Belkahve tünel ayrımı korunur; senaryo yapılmış bölgesel iş, özel erişim deneyimi veya kesin varış süresi garantisi anlamına gelmez."
+      },
+      "status": "verified_address_context",
+      "limitations": [
+        "Kayıttaki yol alanı muhtarlık adresine ait referanstır; araç alma adresi veya işletme şubesi değildir.",
+        "Senaryo koşullu editoryal örnektir; yapılmış hizmet kaydı değildir."
+      ]
+    },
+    "/bolgeler/noktalar/kazimdirik/": {
+      "name": "Kazımdirik",
+      "facts": [
+        "İBB muhtarlık listesinde KAZIM DİRİK adı Foça ilçesiyle eşleşir; kayıt yol alanı 408 olarak yer alır.",
+        "İBB muhtarlık listesinde KAZIM DİRİK adı Aliağa ilçesiyle eşleşir; kayıt yol alanı ATATÜRK olarak yer alır.",
+        "İBB muhtarlık listesinde KAZIM DİRİK adı Foça ilçesiyle eşleşir; kayıt yol alanı FOÇA İZMİR KARAYOLU olarak yer alır.",
+        "İBB muhtarlık listesinde KAZIMDİRİK adı Bornova ilçesiyle eşleşir; kayıt yol alanı 180/2 olarak yer alır.",
+        "İBB muhtarlık listesinde KAZIM DİRİK adı Aliağa ilçesiyle eşleşir; kayıt yol alanı CUMHURİYET olarak yer alır."
+      ],
+      "sources": [
+        {
+          "title": "İBB Açık Veri — Muhtarlıklar",
+          "url": "https://acikveri.bizizmir.com/dataset/muhtarliklar",
+          "type": "official_primary"
+        }
+      ],
+      "district_if_verified": null,
+      "sections": [
+        {
+          "heading": "Kazımdirik yazımında üç ilçe ve mükerrer kayıt",
+          "paragraphs": [
+            "İBB listesinde Kazımdirik/Kazım Dirik adı Bornova, Foça ve Aliağa ilçelerinde farklı kayıtlarla bulunur; Foça ve Aliağa için birden fazla yol referansı da vardır. Yazımda boşluk farkı ilçeyi seçmez. Talebinizde gerçek ilçe ve mevcut pin bulunmalı; kayıt sayısı ayrı çekici adresleri veya hizmet şubeleri olarak yorumlanmamalıdır."
+          ]
+        },
+        {
+          "heading": "Yazım farkından konum tahmini yapmama",
+          "paragraphs": [
+            "Kazımdirik ve Kazım Dirik yazımları kayıtları ararken yardımcı olabilir ancak ilçeyi seçmez. Bir işletmenin adında bu söz geçiyorsa gerçek mahalle ile iş yeri adı ayrı tutulmalıdır. Aracın boyutu ve yük durumu konuşulur. Aynı ilçedeki birden fazla kayıt güncel araç konumu sayılmadan gerçek giriş pini kullanılır; teslim adresi ilgili serviste teyit edilmelidir."
+          ]
+        },
+        {
+          "heading": "Araç durumu ve teslim bilgisi",
+          "paragraphs": [
+            "Bir işletmenin adı içinde Kazım Dirik geçmesi, aracın bu mahallelerden birinde olduğunu kanıtlamaz. İşletmenin açık adresini ve aracın beklediği girişini ayrıca yazın. Alma ile teslim ilçeleri farklıysa iki noktayı etiketleyin. Araç modeli ve hareket bilgisi paylaşılırken belirsiz adreslerden mesafe veya süre hesabı yapılmamalıdır."
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "q": "Kazımdirik yazımı Bornovayı kesin seçer mi?",
+          "a": "Hayır, listede Foça ve Aliağa için de aynı adın farklı yazımları vardır; ilçe gereklidir."
+        },
+        {
+          "q": "Aynı ilçe için iki yol kaydı varsa iki hizmet noktası mı var?",
+          "a": "Hayır; bunlar muhtarlık veri kayıtlarıdır, çekici şube adresi değildir."
+        }
+      ],
+      "scenario": {
+        "title": "Kazım Dirik adında ilçe ve işletme karışıklığı",
+        "situation": "Bir kullanıcı Kazım Dirik adı geçen işletmeden araç taşıma ister; bulunduğu ilçenin Aliağa olduğu ve aracın gerçek iş yeri girişinde beklediği netleştirilir. Bornova veya Foçadaki benzer mahalle pinleri alma noktası olarak kullanılmaz.",
+        "assessment": "İşletme adıyla gerçek mahalle bilgisi ayrı tutulur. Aracın yük durumu, boyutları ve tekerlek hareketi sorulur. Aynı ilçedeki birden fazla muhtarlık referansı operasyon noktası sayılmaz; kullanıcı hangi kayıt güncel bilmiyorsa pinini ve açık adresini esas alır.",
+        "delivery": "Servis kabulü ve açık teslim adresi başka konum olarak paylaşılır. Üç ilçe adı arasındaki belirsizlik süre tahminine dönüştürülmez; örnek talep ilçe ayrımını açıklar, geçmiş hizmet kaydı veya yerel şube iddiası taşımaz."
+      },
+      "status": "verified_address_context",
+      "limitations": [
+        "Kayıttaki yol alanı muhtarlık adresine ait referanstır; araç alma adresi veya işletme şubesi değildir.",
+        "Senaryo koşullu editoryal örnektir; yapılmış hizmet kaydı değildir."
+      ]
+    },
+    "/bolgeler/menderes/kisik/": {
+      "name": "Kısık",
+      "facts": [
+        "İBB muhtarlık listesinde KISIK adı Menderes ilçesiyle eşleşir; kayıt yol alanı 7700 olarak yer alır."
+      ],
+      "sources": [
+        {
+          "title": "İBB Açık Veri — Muhtarlıklar",
+          "url": "https://acikveri.bizizmir.com/dataset/muhtarliklar",
+          "type": "official_primary"
+        }
+      ],
+      "district_if_verified": "Menderes",
+      "sections": [
+        {
+          "heading": "Kısık mahallesi ile Kısıkköy tesis tarifleri",
+          "paragraphs": [
+            "Kısık İBB muhtarlık listesinde Menderes ilçesiyle ve 7700 yol alanıyla eşleşir. Kısık mahalle adresi, Kısıkköy veya ESTİM gibi bir tesis tarifinin tamamı değildir. Araç gerçekten hangi sokak ya da iş yeri girişinde bekliyorsa o bilgiyi gönderin; idari kayıt yolunu şirketin araç alma adresi saymayın."
+          ]
+        },
+        {
+          "heading": "Sanayi referansının kapsamını belirtme",
+          "paragraphs": [
+            "Kısıkta sanayi tesisi yakınında kalan binek araç ile tesis içinde bekleyen ticari araç farklı bilgiler gerektirir. Kullanıcı içeride mi dışarıda mı olduğunu açık söylemelidir. Yük ve boyut bilgisi araç türüne göre alınır. ESTİM ya da Kısıkköy adı tek kapı göstermez; teslim yapılacak işletme kendi açık giriş adresini ve kabulünü ayrıca teyit etmelidir."
+          ]
+        },
+        {
+          "heading": "Araç durumu ve teslim bilgisi",
+          "paragraphs": [
+            "Tesis içindeki ticari araç için işletme adı, blok veya kapı bilgisi gerekebilir. Yerel yolda kalan binek araçta ise tesis adresi yerine güncel bekleme pini kullanılmalıdır. Yük ve araç boyutu açıklanmalı, kabul edilecek servis adresi ayrı tutulmalıdır. Mahalle adından otomatik sanayi girişi veya ekip uygunluğu varsayımı yapılmamalıdır."
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "q": "Kısık adresi ESTİM içinde olduğumu gösterir mi?",
+          "a": "Hayır; gerçek tesis ve kapı bilgisi varsa ayrıca belirtin."
+        },
+        {
+          "q": "7700 kayıt yolunu taşıma adresi kabul edeyim mi?",
+          "a": "Ancak araç gerçekten oradaysa; kendi bekleme konumunuzu esas alın."
+        }
+      ],
+      "scenario": {
+        "title": "Kısıkta tesis dışında kalan binek araç",
+        "situation": "Menderes Kısıkta bir binek araç yerel yolda hareket edemez; kullanıcı yakın bir sanayi tesisini referans gösterir. Talepte tesis içinde olmadığını ve gerçek yol pinini gönderir; Kısıkköy veya ESTİM adı alma adresinin yerine kullanılmaz.",
+        "assessment": "Aracın modeli, anahtar ve tekerlek hareketi alınır. 7700 muhtarlık kaydı kullanıcının mevcut yolunu doğrulamaz. Tesis referansı giriş yetkisi veya aynı yükleme koşulları anlamına gelmez; aracın beklediği dış nokta gerçek konum bilgisiyle değerlendirilir.",
+        "delivery": "Kullanıcı tesis içindeki bir servise teslim isterse işletme ve kapı adresini ayrıca teyit eder. Alma yerel yolu ile teslim girişi ayrılır; örnek durum sanayi ilişkisi, yerel operasyon geçmişi veya belirli varış süresi iddiası üretmez."
+      },
+      "status": "verified_address_context",
+      "limitations": [
+        "Kayıttaki yol alanı muhtarlık adresine ait referanstır; araç alma adresi veya işletme şubesi değildir.",
+        "Senaryo koşullu editoryal örnektir; yapılmış hizmet kaydı değildir."
+      ]
+    },
+    "/bolgeler/buca/kozagac/": {
+      "name": "Kozağaç",
+      "facts": [
+        "İBB muhtarlık listesinde KOZAĞAÇ adı Buca ilçesiyle eşleşir; kayıt yol alanı 231/2 olarak yer alır."
+      ],
+      "sources": [
+        {
+          "title": "İBB Açık Veri — Muhtarlıklar",
+          "url": "https://acikveri.bizizmir.com/dataset/muhtarliklar",
+          "type": "official_primary"
+        }
+      ],
+      "district_if_verified": "Buca",
+      "sections": [
+        {
+          "heading": "Kozağaçta Buca ve araç bekleme alanı",
+          "paragraphs": [
+            "Kozağaç İBB listesinde Buca altında yer alır; muhtarlık yol alanı 231/2dir. Apartman veya bahçe içindeki bir araç için mahalle eşleşmesi yeterli adres değildir. Kendi sokak ve giriş pininizi, kapı numarasıyla birlikte gönderin; kayıt yolunu aracın burada durduğuna veya çekicinin konumuna ilişkin kanıt olarak kullanmayın."
+          ]
+        },
+        {
+          "heading": "Anahtar yokluğunu servis kabulüne iletme",
+          "paragraphs": [
+            "Kozağaçta anahtarsız aracı servise taşıtmak isteyen kullanıcı bu durumu servis kabulüne de bildirmelidir. Anahtarın olmaması vites veya direksiyon hareketinin de bilindiği anlamına gelmez; bildiğiniz durumları ayrı aktarın. Kilit mekanizmasını zorlamak hazırlık adımı değildir. Gerçek alma alanı ve servis kapısı, uygunluk konuşulurken açık adreslerle belirtilmelidir."
+          ]
+        },
+        {
+          "heading": "Araç durumu ve teslim bilgisi",
+          "paragraphs": [
+            "Aracın hiç anahtarı bulunmaması, direksiyonun kilitli olması veya tekerleğin dönmemesi taşıma görüşmesinde önceden belirtilmelidir. Kullanıcıdan kilit mekanizmasına müdahale etmesi beklenmez. Aracı alma alanı ve servisin kabul kapısı farklı koşullar taşıyabilir; iki konumla birlikte bilinen hareket bilgisi ayrı değerlendirilir. Servis kabulüne anahtar eksikliğini de önceden bildirmeniz gerekir."
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "q": "Kozağaçta anahtar yoksa bunu önce söylemeli miyim?",
+          "a": "Evet; model ve hareket durumuyla birlikte görüşmenin başında belirtin."
+        },
+        {
+          "q": "231/2 kayıt yolu aracı alma adresi mi?",
+          "a": "Kendi aracınız o yolda değilse hayır; gerçek sokak/kapı ve pin gerekir."
+        }
+      ],
+      "scenario": {
+        "title": "Kozağaçta anahtarı bulunmayan park halindeki araç",
+        "situation": "Buca Kozağaçta park edilen otomobilin anahtarı bulunamaz ve sahibi servise taşıma ister. Kullanıcı gerçek kapı ve park pinini gönderir; 231/2 kayıt referansı alma adresi yapılmaz ve mahalle adı yükleme koşulunu belirlemez.",
+        "assessment": "Model, direksiyon ve tekerlek hareketi bilinen ölçüde alınır. Kullanıcıdan kilit mekanizmasına müdahale etmesi ya da aracı zorlaması beklenmez. Aracı kimin teslim edeceği ve bekleme alanının giriş bilgisi netleştirilir; uygun yöntem bu gerçek koşullarla değerlendirilir.",
+        "delivery": "Seçilmiş servisin açık kabul adresi paylaşılır. Anahtar yokluğu servise de bildirilerek kabul teyit edilir; örnek durum kilit açma yetkisi, özel ekipman sahipliği veya gerçekleşmiş yerel iş kaydı hakkında bir iddia oluşturmaz."
+      },
+      "status": "verified_address_context",
+      "limitations": [
+        "Kayıttaki yol alanı muhtarlık adresine ait referanstır; araç alma adresi veya işletme şubesi değildir.",
+        "Senaryo koşullu editoryal örnektir; yapılmış hizmet kaydı değildir."
+      ]
+    },
+    "/bolgeler/buca/kurucesme/": {
+      "name": "Kuruçeşme",
+      "facts": [
+        "İBB muhtarlık listesinde KURUÇEŞME adı Buca ilçesiyle eşleşir; kayıt yol alanı 205 olarak yer alır."
+      ],
+      "sources": [
+        {
+          "title": "İBB Açık Veri — Muhtarlıklar",
+          "url": "https://acikveri.bizizmir.com/dataset/muhtarliklar",
+          "type": "official_primary"
+        }
+      ],
+      "district_if_verified": "Buca",
+      "sections": [
+        {
+          "heading": "Kuruçeşmede alma ve teslim parkını ayırma",
+          "paragraphs": [
+            "Kuruçeşme İBB listesinde Buca ilçesiyle eşleşir; muhtarlık kayıt yol alanı 205tir. Başka illerde de kullanılan Kuruçeşme adı nedeniyle İzmir/Buca bilgisi talepte korunmalıdır. Araç bir site veya otopark içindeyse genel mahalle adı yerine gerçek giriş ve park pinini gönderin; 205 referansı otomatik araç adresi değildir."
+          ]
+        },
+        {
+          "heading": "Satın alma amacıyla taşıma planını açıklama",
+          "paragraphs": [
+            "Kuruçeşmeden satın alınan araç çalışıyorsa sırf taşıma talebi var diye arızalı anlatılmamalıdır. Kullanıcı amacını doğru söyleyip model, anahtar ve hareket durumunu aktarır. Satıcı aracı teslim edecek kişiyi, alıcı da kabul adresini netleştirir. Çalışır durumda olmak giriş değerlendirmesini gereksiz yapmaz; talebin kapsamı iki gerçek adresle ayrıca konuşulmalıdır."
+          ]
+        },
+        {
+          "heading": "Araç durumu ve teslim bilgisi",
+          "paragraphs": [
+            "Bir araç satın alma ya da servis değişimi amacıyla taşınacaksa talebin arıza bekleme durumundan farklı olduğu açıklanmalıdır. Araç modeli, anahtar ve hareket durumu paylaşılır. Satıcı veya servis teslimini yapan kişiyle alıcı kabulü ayrı netleştirilir; adresler birbirinin yerine kullanılarak taşıma kapsamı belirsiz bırakılmamalıdır."
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "q": "Kuruçeşme için İzmir/Buca belirtmek gerekli mi?",
+          "a": "Aynı isim başka yerleri de anlatabileceğinden il ve ilçe paylaşın."
+        },
+        {
+          "q": "Araç satın alma taşımasında arıza anlatmam gerekir mi?",
+          "a": "Hayır; amacı doğru açıklayın ve bilinen hareket durumu ile iki gerçek adresi gönderin."
+        }
+      ],
+      "scenario": {
+        "title": "Kuruçeşmeden satın alınan aracın teslimi",
+        "situation": "Bir kullanıcı Buca Kuruçeşmede satın aldığı çalışır durumdaki otomobili başka adrese taşıtmak ister. Talebin yolda kalma olmadığını açıkça belirtir; satıcının gerçek giriş pinini paylaşır ve 205 muhtarlık referansı araç adresi yapılmaz.",
+        "assessment": "Model, anahtar ve bilinen tekerlek/vites hareketi alınır. Aracı satıcı mı başka kişi mi teslim edecek netleştirilir. Çalışır olması taşıma ihtiyacını veya giriş değerlendirmesini gereksiz kılmaz; sahte arıza nedeni üretilmez, satıcı ve alıcı koordinasyonu gerçek bilgilerle tutulur.",
+        "delivery": "Alıcının açık teslim adresi ve kabul edecek kişi ikinci konum olarak paylaşılır. Satın alma senaryosu geçmiş taşıma hizmeti ya da satış ortaklığı iddiası değildir; ücret, kapsam ve uygunluk iki gerçek adresle görüşülür."
+      },
+      "status": "verified_address_context",
+      "limitations": [
+        "Kayıttaki yol alanı muhtarlık adresine ait referanstır; araç alma adresi veya işletme şubesi değildir.",
+        "Senaryo koşullu editoryal örnektir; yapılmış hizmet kaydı değildir."
+      ]
+    },
+    "/bolgeler/menderes/kuner/": {
+      "name": "Küner",
+      "facts": [
+        "İBB muhtarlık listesinde KÜNER adı Menderes ilçesiyle eşleşir; kayıt yol alanı KÜNER olarak yer alır."
+      ],
+      "sources": [
+        {
+          "title": "İBB Açık Veri — Muhtarlıklar",
+          "url": "https://acikveri.bizizmir.com/dataset/muhtarliklar",
+          "type": "official_primary"
+        }
+      ],
+      "district_if_verified": "Menderes",
+      "sections": [
+        {
+          "heading": "Künerde Menderes kaydını konuma bağlama",
+          "paragraphs": [
+            "Küner muhtarlık listesinde Menderes ilçesiyle eşleşir ve yol alanında Küner adı bulunur. Kayıt, mahalle ve ilçe bilgisini destekler; hangi bahçe, sokak veya iş yeri girişinde araç beklediğini göstermez. Konum mesajı gerçek giriş piniyle tamamlanmalıdır; mahalle adından yol yapısı veya uzaklık tahmin edilmemelidir."
+          ]
+        },
+        {
+          "heading": "Ticari yük ve araç teslimini ayırma",
+          "paragraphs": [
+            "Künerde ticari yük bulunan aracın taşınması istenirken yükün ayrıca teslimi veya başka araca aktarılması talebi varsa açıkça belirtilmelidir. İşletme adı bu kapsamı otomatik belirlemez. Araç boyutu ve hareket durumu paylaşılır. Teslim girişinin hangi kapı olduğu ilgili işletmeden öğrenilir; yer adına dayanarak ekip kapasitesi veya yükleme alanı hakkında iddia kurulmaz."
+          ]
+        },
+        {
+          "heading": "Araç durumu ve teslim bilgisi",
+          "paragraphs": [
+            "Hafif ticari aracın yükle beraber mi taşınacağı ya da yükün ayrıca aktarılması mı istendiği açıklanmalıdır. Aracın hareket durumu ve boyutları bilinen ölçüde paylaşılır. Teslim edilecek iş yeri aracı hangi girişte kabul edeceğini teyit etmeli; araç taşıması ile ticari mal teslimi otomatik aynı kapsam kabul edilmemelidir."
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "q": "Küner adı yol yüzeyini veya eğimi gösterir mi?",
+          "a": "Hayır; doğrulanan kayıt yalnızca yer/adres bağlamı sağlar."
+        },
+        {
+          "q": "Yük aktarımını araç taşımasına dahil varsayabilir miyim?",
+          "a": "Hayır, ayrı istek varsa talepte açıkça belirtip kapsamı görüşün."
+        }
+      ],
+      "scenario": {
+        "title": "Künerde iş yeri girişinde yüklü ticari araç",
+        "situation": "Menderes Künerde bir hafif ticari araç iş yeri girişinde stop eder ve içinde ticari mal bulunur. Kullanıcı gerçek giriş pinini, araç boyutlarını ve yükün mevcut durumunu bildirir; mahalle adı üzerinden zemin veya eğim iddiası kurulmaz.",
+        "assessment": "Motorun çalışması ve tekerlek hareketi gibi bilinen durumlar alınır. Yükün araçta kalıp kalmayacağı veya ayrıca aktarım istendiği netleştirilir. İş yeri kapı yönlendirmesi güncel bilgiyle paylaşılır; kayıt yol adı bekleme noktasının veya şirket şubesinin adresi sayılmaz.",
+        "delivery": "Teslim edilecek servis ya da işletmenin açık adresi ve kabulü teyit edilir. Ticari malı ayrı taşımak otomatik hizmet kapsamı yapılmaz; örnek senaryo araç kapasitesi, ekipman sahipliği veya geçmiş Küner operasyonu iddiasına dönüşmez."
+      },
+      "status": "verified_address_context",
+      "limitations": [
+        "Kayıttaki yol alanı muhtarlık adresine ait referanstır; araç alma adresi veya işletme şubesi değildir.",
+        "Senaryo koşullu editoryal örnektir; yapılmış hizmet kaydı değildir."
+      ]
+    },
+    "/bolgeler/bornova/laka-mahallesi/": {
+      "name": "Laka Mahallesi",
+      "facts": [
+        "İBB muhtarlık listesinde LAKA adı Bornova ilçesiyle eşleşir; kayıt yol alanı GÜL olarak yer alır."
+      ],
+      "sources": [
+        {
+          "title": "İBB Açık Veri — Muhtarlıklar",
+          "url": "https://acikveri.bizizmir.com/dataset/muhtarliklar",
+          "type": "official_primary"
+        }
+      ],
+      "district_if_verified": "Bornova",
+      "sections": [
+        {
+          "heading": "Lakada mahalle kaydıyla saha koşulunu ayırma",
+          "paragraphs": [
+            "Laka, İBB listesinde Bornova ilçesine bağlı mahalle adıyla bulunur; yol alanı Güldür. Bu bilgi Laka içindeki her yolun biçimini, yüzeyini veya araç girişini açıklamaz. Yardım talebinde gerçek sokak ve giriş konumunuzu gönderin; doğrulanmış mahalle adını teyitsiz coğrafi ya da trafik ayrıntısıyla genişletmeyin."
+          ]
+        },
+        {
+          "heading": "Motosiklet girişini gerçek alanla tarif etme",
+          "paragraphs": [
+            "Lakada özel mülk içindeki motosiklet için kapının araç çıkışına uygunluğu kullanıcı tarafından bilinen ölçüde anlatılır. Ölçü bilinmiyorsa tahmin yapılmaz. Model, tekerlek hareketi ve ayakta durabilme bilgisi konuşulur. Motosikleti kapıya çekmek veya bağlama denemesi yapmak zorunlu hazırlık değildir; servis kabulü ve teslim giriş adresi gerçek bilgilerle ayrıca teyit edilir."
+          ]
+        },
+        {
+          "heading": "Araç durumu ve teslim bilgisi",
+          "paragraphs": [
+            "Motosiklet özel mülk içinde bekliyorsa kapı erişimi, model ve ayakta durabilme durumu konuşulur. Anahtar ve servis kabul bilgisi ayrı paylaşılmalıdır. Kullanıcı giriş ölçülerini bilmiyorsa tahmin etmez; taşıma talebinin uygunluğu güncel konum ve araç bilgileriyle değerlendirilir, mahalle adına göre yöntem veya ETA belirlenmez."
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "q": "Laka kaydı çekicinin her girişe ulaşabileceğini kanıtlar mı?",
+          "a": "Hayır; gerçek giriş ve araç koşulları ayrıca değerlendirilir."
+        },
+        {
+          "q": "Gül muhtarlık yolunu adres olarak kullanmalı mıyım?",
+          "a": "Sadece motosiklet veya araç gerçekten o yoldaysa; kendi konumunuzu esas alın."
+        }
+      ],
+      "scenario": {
+        "title": "Lakada özel mülk içinde motosiklet talebi",
+        "situation": "Bornova Lakada bir motosiklet özel mülkün park alanında çalışmaz. Kullanıcı kapı girişini ve gerçek pini gönderir; Gül yol kaydı alma adresi yerine kullanılmaz ve mahalle adından zemin, eğim veya ulaşım kolaylığı iddiası kurulmaz.",
+        "assessment": "Model, tekerlek hareketi, ayakta durabilme ve anahtar bilgisi alınır. Kapı erişimi kullanıcı tarafından bilinen ölçüde aktarılır; bilinmeyen ölçü tahmin edilmez. Motosikleti zorla dışarı çıkarma ya da bağlama denemesi gerekli adım olarak sunulmaz; uygun taşıma koşulları gerçek bilgiyle konuşulur.",
+        "delivery": "Seçilmiş motosiklet servisinin açık adresi ve kabulü teyit edilir. Özel mülk girişiyle servis kapısı ayrı tutulur; örnek durum Laka saha deneyimi, ekipman sahipliği veya kesin teslim süresi hakkında bir iddia içermez."
+      },
+      "status": "verified_address_context",
+      "limitations": [
+        "Kayıttaki yol alanı muhtarlık adresine ait referanstır; araç alma adresi veya işletme şubesi değildir.",
+        "Senaryo koşullu editoryal örnektir; yapılmış hizmet kaydı değildir."
+      ]
+    },
+    "/bolgeler/karabaglar/limontepe/": {
+      "name": "Limontepe",
+      "facts": [
+        "İBB muhtarlık listesinde LİMONTEPE adı Karabağlar ilçesiyle eşleşir; kayıt yol alanı 9701 olarak yer alır."
+      ],
+      "sources": [
+        {
+          "title": "İBB Açık Veri — Muhtarlıklar",
+          "url": "https://acikveri.bizizmir.com/dataset/muhtarliklar",
+          "type": "official_primary"
+        }
+      ],
+      "district_if_verified": "Karabağlar",
+      "sections": [
+        {
+          "heading": "Limontepede gerçek araç girişi",
+          "paragraphs": [
+            "Limontepe İBB mahalle kaydında Karabağlar ile eşleşir. Talep adresini mahalle adına göre değil gerçek bina, park veya sokak girişine göre belirtin. Kayıttaki 9701 yol referansı araç bekleme noktası değildir; güncel pin farklıysa kendi adresiniz kullanılmalıdır. İsimden yol eğimi veya erişim koşulu çıkarılamaz."
+          ]
+        },
+        {
+          "heading": "Ölçüsü bilinmeyen alanda varsayım kurmama",
+          "paragraphs": [
+            "Limontepedeki kapalı parkın giriş yüksekliği veya açıklığı bilinmiyorsa talepte bunu açık söyleyin. Güncel tesis yönlendirmesi ölçüyle ilgili belirsizliği netleştirmeye yardımcı olur. Araç boyutu ve hareket koşulları ayrıca değerlendirilir. Kullanıcı kapalı alandan çıkarılamayan aracı dışarıda bekliyormuş gibi tarif etmemeli; servis kabul kapısı da aynı giriş koşuluna sahip varsayılmamalıdır."
+          ]
+        },
+        {
+          "heading": "Araç durumu ve teslim bilgisi",
+          "paragraphs": [
+            "Bir kapalı parkta bekleyen araç için giriş yüksekliği biliniyorsa paylaşılmalı; bilinmiyorsa tahmin edilmemelidir. Model, anahtar ve vites durumu konuma eklenir. Aracın bulunduğu giriş ile teslim servisi iki ayrı adres olabilir. İlgili işletmelerin araç alma/kabul yönlendirmesini kullanıcı teyit etmeli; tek taşıma yöntemi veya hazır erişim varsayımı yapılmamalıdır."
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "q": "Limontepe adı yolun eğimini gösterir mi?",
+          "a": "Bu kayıt böyle bir bilgi içermez; gerçek bekleme noktasındaki koşulları bildirin."
+        },
+        {
+          "q": "Kapalı park yüksekliğini bilmiyorsam ne yapayım?",
+          "a": "Tahmin üretmeden bilmediğinizi belirtin; tesisle güncel giriş bilgisini teyit edin."
+        }
+      ],
+      "scenario": {
+        "title": "Limontepede giriş yüksekliği bilinmeyen park",
+        "situation": "Karabağlar Limontepede bir otomobil kapalı parkta hareket edemez. Kullanıcı gerçek park girişini ve pini paylaşır ancak giriş yüksekliğini bilmediğini açıkça söyler; 9701 muhtarlık referansı veya mahalle adından giriş koşulu tahmin edilmez.",
+        "assessment": "Model, anahtar ve tekerlek/vites hareketi alınır. Tesisle güncel araç alma yönlendirmesi teyit edilir; ölçü bilinmeden belirli ekipman uygunluğu garanti edilmez. Kullanıcıdan aracı kendi başına dışarı çıkarması beklenmez, mevcut durum ve erişim belirsizliği ayrı değerlendirilir.",
+        "delivery": "Seçilmiş servisin açık adresi ve kabulü ikinci konum olarak aktarılır. Park ve servis kapısı farklı koşullar taşıyabilir; örnek talep saha deneyimi, kesin ETA veya özel ekipman iddiası değil, koşullu bilgi ihtiyacını açıklar."
+      },
+      "status": "verified_address_context",
+      "limitations": [
+        "Kayıttaki yol alanı muhtarlık adresine ait referanstır; araç alma adresi veya işletme şubesi değildir.",
+        "Senaryo koşullu editoryal örnektir; yapılmış hizmet kaydı değildir."
+      ]
+    },
+    "/bolgeler/noktalar/maltepe/": {
+      "name": "Maltepe",
+      "facts": [
+        "İBB muhtarlık listesinde MALTEPE adı Çiğli ilçesiyle eşleşir; kayıt yol alanı 8090 olarak yer alır.",
+        "İBB muhtarlık listesinde MALTEPE adı Güzelbahçe ilçesiyle eşleşir; kayıt yol alanı MİTHATPAŞA olarak yer alır.",
+        "İBB muhtarlık listesinde MALTEPE adı Bergama ilçesiyle eşleşir; kayıt yol alanı KAYMAKAM KEMALBEY olarak yer alır."
+      ],
+      "sources": [
+        {
+          "title": "İBB Açık Veri — Muhtarlıklar",
+          "url": "https://acikveri.bizizmir.com/dataset/muhtarliklar",
+          "type": "official_primary"
+        }
+      ],
+      "district_if_verified": null,
+      "sections": [
+        {
+          "heading": "Maltepede üç ayrı ilçe seçeneği",
+          "paragraphs": [
+            "Maltepe adı İBB listesinde Çiğli, Güzelbahçe ve Bergama ilçelerinde bulunur. 8090, Mithatpaşa ve Kaymakam Kemalbey yol referansları farklı kayıtlara aittir; araç konumu olarak otomatik seçilmez. Talebi ilçe, gerçek sokak ve pinle iletin; aynı mahalle adını üç ilçenin ortak tek hizmet noktası saymayın."
+          ]
+        },
+        {
+          "heading": "İş yeri adresini mahalle isminden ayırma",
+          "paragraphs": [
+            "Maltepede üç ilçe eşleşmesi bulunması, bir ticari işletmenin hangi ilçede olduğunun tahmin edilmesini doğru yapmaz. Gerçek şirket kapısı ve araç pini yazılmalıdır. Yük durumu, boyut ve anahtar bilgisi alınır. İşletmenin araç alma yönlendirmesi açıklandığında teslim servisinin kabulü ayrı teyit edilir; isim benzerliği ortak erişim, kapasite veya süre iddiasına dönüştürülmez."
+          ]
+        },
+        {
+          "heading": "Araç durumu ve teslim bilgisi",
+          "paragraphs": [
+            "Bir iş yeri önünde bekleyen ticari araç için işletmenin açık adresi de gereklidir. Aracı almak istediğiniz Maltepe ile teslimdeki Maltepe farklı ilçelerdeyse iki pini etiketleyin. Yük, boyut ve hareket durumu paylaşılır. İsmin aynı oluşu kısa mesafe, aynı giriş koşulu veya ücret sonucu çıkarmak için yeterli değildir."
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "q": "Maltepe yazınca hangi ilçe seçilir?",
+          "a": "Otomatik seçim yapılmamalı; Çiğli, Güzelbahçe veya Bergama gibi gerçek ilçeyi yazın."
+        },
+        {
+          "q": "Aynı mahalle adıyla farklı ilçeye teslimi nasıl açıklayayım?",
+          "a": "Alma ve teslim ilçelerini açık yazıp iki pini ayrı etiketleyin."
+        }
+      ],
+      "scenario": {
+        "title": "Maltepe adında üç ilçeden doğru konumu seçme",
+        "situation": "Bir ticari araç Güzelbahçe Maltepede iş yeri önünde çalışmaz. Kullanıcı başka Maltepe sonuçlarını fark edip Güzelbahçe ilçesini ve gerçek iş yeri pinini net yazar; Çiğli veya Bergama muhtarlık kayıtları alternatif alma konumu sayılmaz.",
+        "assessment": "Araç boyutları, yükün araçta kalıp kalmayacağı ve hareket durumu sorulur. Mithatpaşa kayıt referansı gerçek kapı yerine kullanılmaz. Kullanıcının mevcut adresi bir yol kaydıyla uyuşmasa bile araç pini esas alınır; isim benzerliğinden mekanik ya da erişim sonucu çıkarılmaz.",
+        "delivery": "Seçilmiş servisin açık kabul adresi ikinci konum olarak gönderilir. Talep gerçek üç ilçe arasında yapılmış operasyon örneği değildir; ücret ve uygunluk gerçek alma/teslim adresleriyle konuşulur, mahalle adı üzerinden süre garantisi üretilmez."
+      },
+      "status": "verified_address_context",
+      "limitations": [
+        "Kayıttaki yol alanı muhtarlık adresine ait referanstır; araç alma adresi veya işletme şubesi değildir.",
+        "Senaryo koşullu editoryal örnektir; yapılmış hizmet kaydı değildir."
+      ]
+    },
+    "/bolgeler/bayrakli/manavkuyu/": {
+      "name": "Manavkuyu",
+      "facts": [
+        "İBB muhtarlık listesinde MANAVKUYU adı Bayraklı ilçesiyle eşleşir; kayıt yol alanı 275/2 olarak yer alır."
+      ],
+      "sources": [
+        {
+          "title": "İBB Açık Veri — Muhtarlıklar",
+          "url": "https://acikveri.bizizmir.com/dataset/muhtarliklar",
+          "type": "official_primary"
+        }
+      ],
+      "district_if_verified": "Bayraklı",
+      "sections": [
+        {
+          "heading": "Manavkuyuda iş yeri kabulü ve gerçek adres",
+          "paragraphs": [
+            "Manavkuyu İBB listesinde Bayraklı ilçesiyle eşleşir; kayıt yol alanı 275/2 olarak görünür. Bir ofis veya iş yeri adının genel adresi aracın gerçek park alanından farklı olabilir. Konum mesajında bina adı, araç girişi ve bekleme pinini birlikte kullanın; mahalle kaydı özel tesis erişimi sağlamaz."
+          ]
+        },
+        {
+          "heading": "Ofis görevlisiyle araç başındaki kişiyi ayırma",
+          "paragraphs": [
+            "Manavkuyudaki şirket aracı için talebi ileten çalışan garajda değilse güncel belirtiler sahadaki kişiden alınmalıdır. Anahtarın hangi kişide olduğu ve gerçek araç girişi paylaşılır. Ofisin yaya kapısı yükleme alanı sayılmaz. Bakım servisinin adresi ve kabul edecek kişi, şirketin genel adresinden ayrı tutulmalı; kurumsal isimden gerçekleşmiş hizmet ilişkisi iddiası çıkarılmamalıdır."
+          ]
+        },
+        {
+          "heading": "Araç durumu ve teslim bilgisi",
+          "paragraphs": [
+            "Şirket aracı için anahtarın hangi çalışanda olduğu ve servis kabulünü kimin yöneteceği görüşülmelidir. Talebi ileten kişi araç yanında değilse bilmediği arızayı tahmin etmemelidir. Aracın modeli ve hareket durumu güncel gözlemle paylaşılır; alma ile teslimdeki muhatapların farklı oluşu koordinasyonda açık tutulmalıdır."
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "q": "Manavkuyuda ofis adresi gerçek araç pini sayılır mı?",
+          "a": "Araç gerçekten o noktadaysa; park veya garaj girişini ayrıca belirtin."
+        },
+        {
+          "q": "Talebi çalışan iletiyorsa hangi bilgiyi eklemeli?",
+          "a": "Anahtarın kimde olduğu, aracı teslim eden kişi ve servis kabul adresi açık olmalıdır."
+        }
+      ],
+      "scenario": {
+        "title": "Manavkuyuda ofis garajındaki şirket aracı",
+        "situation": "Bayraklı Manavkuyuda bir şirket otomobili ofis garajında çalışmaz; talebi ofisteki başka çalışan iletir. Gerçek garaj girişi ve park pini paylaşılır, 275/2 muhtarlık referansı ya da binanın yaya kapısı araç alma noktası yapılmaz.",
+        "assessment": "Anahtarın kimde olduğu ve araç yanında bulunan kişi netleştirilir. Güncel marş ve tekerlek durumu alınır; bilinmeyen arıza nedeni kesin bilgi olarak sunulmaz. Ofis adı özel tesis girişi veya yükleme alanı garantisi sayılmaz; erişim ilgili işletmeyle teyit edilir.",
+        "delivery": "Bakım servisi kabulünü yöneten çalışan açık servis adresini gönderir. Alma ve kabul kişileri ayrı tutulur; örnek iş yeri talebi mevcut filo ilişkisi, gerçekleşmiş şirket operasyonu veya kesin hizmet süresi hakkında iddia taşımaz."
+      },
+      "status": "verified_address_context",
+      "limitations": [
+        "Kayıttaki yol alanı muhtarlık adresine ait referanstır; araç alma adresi veya işletme şubesi değildir.",
+        "Senaryo koşullu editoryal örnektir; yapılmış hizmet kaydı değildir."
+      ]
+    },
+    "/bolgeler/noktalar/menderes-mahallesi/": {
+      "name": "Menderes Mahallesi",
+      "facts": [
+        "İBB muhtarlık listesinde MENDERES adı Beydağ ilçesiyle eşleşir; kayıt yol alanı MENDERES olarak yer alır.",
+        "İBB muhtarlık listesinde MENDERES adı Gaziemir ilçesiyle eşleşir; kayıt yol alanı BÜYÜK MENDERES olarak yer alır.",
+        "İBB muhtarlık listesinde MENDERES adı Buca ilçesiyle eşleşir; kayıt yol alanı ADNAN KAHVECİ olarak yer alır."
+      ],
+      "sources": [
+        {
+          "title": "İBB Açık Veri — Muhtarlıklar",
+          "url": "https://acikveri.bizizmir.com/dataset/muhtarliklar",
+          "type": "official_primary"
+        }
+      ],
+      "district_if_verified": null,
+      "sections": [
+        {
+          "heading": "Menderes ilçesi ile Menderes Mahallesini ayırma",
+          "paragraphs": [
+            "Menderes Mahallesi adı İBB listesinde Beydağ, Gaziemir ve Buca ilçelerinde bulunur. Bu mahalle kaydı Menderes ilçesiyle aynı şey değildir. Talepte Menderes Mahallesi derken hangi ilçeyi kastettiğinizi açık yazın; gerçek pin idari ad ayrımını tamamlar ve muhtarlık yol alanı araç adresinin yerine kullanılmaz."
+          ]
+        },
+        {
+          "heading": "İlçe sözcüğüyle mahalle sözcüğünü eksiksiz yazma",
+          "paragraphs": [
+            "Menderes Mahallesi talebinde ilçe bilgisi atlanırsa Menderes ilçesiyle karışabilir. Kullanıcı Buca, Gaziemir veya Beydağ gibi gerçek ilçeyi açıkça belirtmelidir. Aynı ad teslim servisinde de geçiyorsa iki adres ayrı etiketlenir. Model ve hareket bilgisi paylaşılır; doğru ilçe belirlenmeden yol, mesafe veya süre tahmini üzerinden taşıma kapsamı kesinleştirilmemelidir."
+          ]
+        },
+        {
+          "heading": "Araç durumu ve teslim bilgisi",
+          "paragraphs": [
+            "İlçe adı yanlış seçilmişse yeni konumla birlikte düzeltme yapılmalıdır. Bir araç Gaziemir Menderes Mahallesinde alınacak, Buca Menderes Mahallesindeki servise bırakılacak olabilir; iki adresin aynı adlı olması tek nokta olduklarını göstermez. Model, anahtar ve hareket bilgisi adresler netleşince talebe eklenir. Mahalle ve ilçe sözcüklerini mesajda tam yazın."
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "q": "Menderes Mahallesi Menderes ilçesi midir?",
+          "a": "Hayır; listede Beydağ, Gaziemir ve Bucada mahalle kayıtları vardır."
+        },
+        {
+          "q": "Talepte Menderes yazmak neden yeterli değil?",
+          "a": "İlçe mi mahalle mi olduğunu ve mahallenin gerçek ilçesini belirtmeniz gerekir."
+        }
+      ],
+      "scenario": {
+        "title": "Menderes sözcüğünde ilçe ve mahalle karışıklığı",
+        "situation": "Bir kullanıcı Menderes yazıp aracı için talep iletir; gerçekte araç Buca Menderes Mahallesinde beklemektedir. Görüşmede bunun Menderes ilçesi olmadığı açıkça belirtilir ve gerçek sokak/park pini gönderilir, idari yol referansı alma adresi sayılmaz.",
+        "assessment": "İlçe ve mahalle ayrımı netleştirilir; model, anahtar ve motorun çalışma durumu alınır. Beydağ veya Gaziemirdeki aynı isimli kayıtlar talebin noktası gibi kullanılmaz. Sürücünün yeni konuma gitmesi gerekmez; gerçek bekleme konumu ve erişim bilgilerinin açıklanması yeterlidir.",
+        "delivery": "Seçilmiş servis kabulü ve açık adresi ayrı paylaşılır. İlçe karışıklığından taşıma mesafesi ya da ücret sonucu çıkarılmaz; örnek talep gerçek operasyon veya Menderes merkezli şirket üssü bulunduğu iddiası içermez."
+      },
+      "status": "verified_address_context",
+      "limitations": [
+        "Kayıttaki yol alanı muhtarlık adresine ait referanstır; araç alma adresi veya işletme şubesi değildir.",
+        "Senaryo koşullu editoryal örnektir; yapılmış hizmet kaydı değildir."
+      ]
+    },
+    "/bolgeler/bornova/mevlana-mahallesi/": {
+      "name": "Mevlana Mahallesi",
+      "facts": [
+        "İBB muhtarlık listesinde MEVLANA adı Bornova ilçesiyle eşleşir; kayıt yol alanı 1751 olarak yer alır."
+      ],
+      "sources": [
+        {
+          "title": "İBB Açık Veri — Muhtarlıklar",
+          "url": "https://acikveri.bizizmir.com/dataset/muhtarliklar",
+          "type": "official_primary"
+        }
+      ],
+      "district_if_verified": "Bornova",
+      "sections": [
+        {
+          "heading": "Mevlana için Bornova ve açık sokak bilgisi",
+          "paragraphs": [
+            "Mevlana Mahallesi İBB listesinde Bornova ilçesiyle ve 1751 yol alanıyla bulunur. Sık kullanılan mahalle adının başka yerlerle karışmaması için Bornova bilgisini talebinizde koruyun. Konum sokak, kapı veya park girişini göstermeli; muhtarlık kayıt numarası aracın mevcut bekleme yeri kabul edilmemelidir."
+          ]
+        },
+        {
+          "heading": "Scooter için belirtileri açık aktarma",
+          "paragraphs": [
+            "Mevlanadaki scooter motoru çalışmıyorsa model ve gösterge belirtisi bilinen ölçüde bildirilir. Tekerleğin dönmemesi ayrı bilgi olduğundan ikisini tek arıza adıyla birleştirmeyin. Ayakta durabilme ve anahtar durumu taşıma görüşmesine eklenir. Kullanıcı kendi yükleme yöntemini denemek zorunda değildir; servis kabulü gerçek kapı adresiyle netleştirildiğinde teslim tercihi açık hale gelir."
+          ]
+        },
+        {
+          "heading": "Araç durumu ve teslim bilgisi",
+          "paragraphs": [
+            "Kullanıcı bir motosiklet veya scooter için talep iletirken araç türünü baştan söylemelidir. Model, anahtar ve tekerlek hareketi değerlendirmeye eklenir; binek araç için kullanılan yaklaşım aynı kabul edilmez. Motosiklet servisi kabulü ve açık teslim adresi ayrıca paylaşılır; ilçe/mahalle adı ekipman uygunluğu garantisi sağlamaz. Bekleme alanının girişini motosikletin gerçek park noktasıyla birlikte açıklayın."
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "q": "Mevlana talebinde Bornova eklemeli miyim?",
+          "a": "Evet; gerçek ilçe ile sokak ve pin birlikte gönderilmelidir."
+        },
+        {
+          "q": "Scooter talebini otomobil gibi iletebilir miyim?",
+          "a": "Araç türünü ve modelini açık belirtin; hareket/ayakta durma durumunu ekleyin."
+        }
+      ],
+      "scenario": {
+        "title": "Mevlanada kapı önünde duran scooter",
+        "situation": "Bornova Mevlana Mahallesinde bir scooter çalışmaz ve ev kapısı önünde bekler. Kullanıcı araç türünü, modeli ve gerçek bekleme pinini paylaşır; 1751 muhtarlık kaydı alma noktasının yerine kullanılmaz, başka Mevlana sonucu seçilmez.",
+        "assessment": "Tekerlek hareketi, anahtar ve ayakta durabilme bilgisi alınır. Kapı girişindeki erişim koşulu kullanıcı tarafından aktarılır. Binek araç yaklaşımının otomatik uygun olduğu veya belirli bağlama ekipmanının mevcut olduğu varsayılmaz; kullanıcıdan zorunlu yükleme denemesi yapması beklenmez.",
+        "delivery": "Seçilen motosiklet servisi kabulünü teyit edince açık adres ikinci konum olarak gönderilir. Mahalle adı özel ekipman, süre veya geçmiş bölgesel hizmet iddiası üretmez; senaryo yalnızca olası talebin değerlendirme ve teslim bilgilerini açıklar."
+      },
+      "status": "verified_address_context",
+      "limitations": [
+        "Kayıttaki yol alanı muhtarlık adresine ait referanstır; araç alma adresi veya işletme şubesi değildir.",
+        "Senaryo koşullu editoryal örnektir; yapılmış hizmet kaydı değildir."
+      ]
+    },
+    "/bolgeler/bornova/naldoken/": {
+      "name": "Naldöken",
+      "facts": [
+        "İBB muhtarlık listesinde NALDÖKEN adı Bornova ilçesiyle eşleşir; kayıt yol alanı 1218 olarak yer alır."
+      ],
+      "sources": [
+        {
+          "title": "İBB Açık Veri — Muhtarlıklar",
+          "url": "https://acikveri.bizizmir.com/dataset/muhtarliklar",
+          "type": "official_primary"
+        }
+      ],
+      "district_if_verified": "Bornova",
+      "sections": [
+        {
+          "heading": "Naldökende sanayi referansı ve araç alma adresi",
+          "paragraphs": [
+            "Naldöken İBB listesinde Bornova ilçesiyle eşleşir; muhtarlık yol alanı 1218dir. Bir sanayi sitesi veya atölye adıyla verilen adres, mahalle içindeki her aracın aynı noktada olduğunu göstermez. Talepte gerçek sokak, dükkân ya da giriş pini kullanılmalıdır; sanayi numarası teslim amacıysa ikinci adres olarak yazılmalıdır."
+          ]
+        },
+        {
+          "heading": "Parça aktarımını talepte ayrıca belirtme",
+          "paragraphs": [
+            "Naldökendeki atölyeden alınacak araçta sökülmüş parça varsa hangi parçaların araçla birlikte teslim edilmesi istendiği konuşulmalıdır. Bu ek kapsam araç taşımasından kendiliğinden çıkarılamaz. Tekerlek hareketi ve anahtar durumu paylaşılır. Atölye içindeki araç için güncel erişim ve teslim edecek kişi bilgisi alınır; yeni servisin araç durumunu kabul ettiği ayrıca teyit edilir."
+          ]
+        },
+        {
+          "heading": "Araç durumu ve teslim bilgisi",
+          "paragraphs": [
+            "Atölyeden alınacak araç tamir nedeniyle parçaları sökülmüş halde olabilir. Kullanıcı söküm durumunu, tekerlek hareketini ve anahtarın kimde olduğunu açıklamalıdır. Malzeme veya sökülmüş parça aktarımı ayrıca isteniyorsa kapsam ayrı konuşulur; aracın bir sanayide bulunması hazır yükleme veya kabul anlamına gelmez."
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "q": "Naldöken yazmak sanayi numarasını belirler mi?",
+          "a": "Hayır; gerçek iş yeri ve kapı adresi gerekir, teslim site numarası ayrıca yazılır."
+        },
+        {
+          "q": "Araç parçaları sökülmüşse hangi bilgiyi paylaşayım?",
+          "a": "Söküm kapsamı, hareket durumu ve parçaların ayrıca aktarılması talebi varsa onu açıkça belirtin."
+        }
+      ],
+      "scenario": {
+        "title": "Naldökende sökülmüş parçalı araç aktarımı",
+        "situation": "Bornova Naldökende bir atölyede duran araç başka servise taşınacaktır; bazı parçaların söküldüğü kullanıcı tarafından açıklanır. Atölyenin gerçek dükkân ve giriş pini gönderilir; 1218 idari referansı ya da sanayi adı tek alma adresi yapılmaz.",
+        "assessment": "Tekerlek hareketi, anahtar ve söküm kapsamı konuşulur. Sökülen parçaların ayrı aktarımı isteniyorsa bu talep açık belirtilir. Araç atölyede diye yüklemeye hazır varsayılmaz; güncel erişim ve teslim edecek kişi bilgisi alınır, kullanıcı müdahalesi zorunlu sayılmaz.",
+        "delivery": "Yeni servis açık adres ve kabulünü teyit eder. Parça taşımak otomatik kapsam yapılmaz; örnek durum gerçek bir atölye ilişkisi veya geçmiş Naldöken işi iddiası değil, koşullu araç talebinin bilgi gereksinimini açıklayan örnektir."
+      },
+      "status": "verified_address_context",
+      "limitations": [
+        "Kayıttaki yol alanı muhtarlık adresine ait referanstır; araç alma adresi veya işletme şubesi değildir.",
+        "Senaryo koşullu editoryal örnektir; yapılmış hizmet kaydı değildir."
+      ]
+    },
+    "/bolgeler/narlidere/narli/": {
+      "name": "Narlı",
+      "facts": [
+        "İBB muhtarlık listesinde NARLI adı Narlıdere ilçesiyle eşleşir; kayıt yol alanı KOÇYİĞİT olarak yer alır.",
+        "İBB muhtarlık listesinde NARLI adı Narlıdere ilçesiyle eşleşir; kayıt yol alanı İLKAY olarak yer alır."
+      ],
+      "sources": [
+        {
+          "title": "İBB Açık Veri — Muhtarlıklar",
+          "url": "https://acikveri.bizizmir.com/dataset/muhtarliklar",
+          "type": "official_primary"
+        }
+      ],
+      "district_if_verified": "Narlıdere",
+      "sections": [
+        {
+          "heading": "Narlıda aynı ilçe içindeki farklı yol kayıtları",
+          "paragraphs": [
+            "Narlı adı İBB listesinde Narlıdere ilçesinde görünür; Koçyiğit ve İlkay yol alanlarıyla birden fazla muhtarlık kaydı bulunur. Bu kayıtlar iki ayrı çekici noktası değildir. Narlıda aracı almak istediğiniz sokak ve kapıyı kendi konumunuzla yazın; kayıt sayısından güncel adres veya operasyon erişimi sonucu çıkarılmamalıdır."
+          ]
+        },
+        {
+          "heading": "Mükerrer kaydı birden fazla operasyon üssü saymama",
+          "paragraphs": [
+            "Narlıdaki birden fazla muhtarlık yol referansı, çekici işletmesinin o sokaklarda bulunduğuna veya iki ayrı alma alanı sunduğuna işaret etmez. Kullanıcı kendi gerçek park pini ve sokak adresini esas alır. Teslim başka otoparka yapılacaksa kabul kapısı ayrıca teyit edilir. Model ve hareket durumu bilinmeden tek yükleme yaklaşımı veya kısa süre iddiası üretilmemelidir."
+          ]
+        },
+        {
+          "heading": "Araç durumu ve teslim bilgisi",
+          "paragraphs": [
+            "Aracı başka bir otoparka teslim istiyorsanız alma parkı ve teslim parkının girişlerini ayırın. Model, anahtar ve hareket durumu paylaşılır. Teslim otoparkının kabulü ilgili işletmeyle teyit edilmeli; aynı ilçe içinde olması kısa süre veya tek ekipmanla erişim garantisi gibi sunulmamalıdır."
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "q": "Narlı için iki yol kaydı iki şube anlamına gelir mi?",
+          "a": "Hayır, bunlar muhtarlık adres referanslarıdır; şirket şubesi değildir."
+        },
+        {
+          "q": "Koçyiğit veya İlkaydan hangisini seçeyim?",
+          "a": "Aracın gerçek sokağını ve pinini esas alın; resmi kayıt birini sizin adınıza seçmez."
+        }
+      ],
+      "scenario": {
+        "title": "Narlıda parklar arasında çalışmayan araç taşıması",
+        "situation": "Narlıdere Narlıda bir otomobil park yerinde çalışmaz ve kullanıcı başka otoparka teslim ister. Gerçek alma pini paylaşılır; Koçyiğit veya İlkay muhtarlık referanslarından biri otomatik araç adresi olarak seçilmez, iki kayıt hizmet şubesi sayılmaz.",
+        "assessment": "Araç modeli, anahtar ve vites/tekerlek hareketi alınır. Alma parkının giriş koşulu güncel bilgiyle açıklanır. Kullanıcıdan aracı dışarı sürmesi veya mekanizmayı zorlaması beklenmez; aynı ilçe içinde bulunmak uygun yöntem ya da erişim garantisi oluşturmaz.",
+        "delivery": "Teslim otoparkı kabulünü ve açık giriş adresini teyit eder. İki park noktası ayrı tutulur; örnek talep geçmiş parklar arası iş kaydı veya kesin süre/fiyat iddiası üretmeden koşullu taşıma değerlendirmesini anlatır."
+      },
+      "status": "verified_address_context",
+      "limitations": [
+        "Kayıttaki yol alanı muhtarlık adresine ait referanstır; araç alma adresi veya işletme şubesi değildir.",
+        "Senaryo koşullu editoryal örnektir; yapılmış hizmet kaydı değildir."
+      ]
+    },
+    "/bolgeler/noktalar/onur-mahallesi/": {
+      "name": "Onur Mahallesi",
+      "facts": [
+        "İBB muhtarlık listesinde ONUR adı Bayraklı ilçesiyle eşleşir; kayıt yol alanı 7364/1 olarak yer alır.",
+        "İBB muhtarlık listesinde ONUR adı Balçova ilçesiyle eşleşir; kayıt yol alanı MİNE olarak yer alır."
+      ],
+      "sources": [
+        {
+          "title": "İBB Açık Veri — Muhtarlıklar",
+          "url": "https://acikveri.bizizmir.com/dataset/muhtarliklar",
+          "type": "official_primary"
+        }
+      ],
+      "district_if_verified": null,
+      "sections": [
+        {
+          "heading": "Onur Mahallesinde Bayraklı ve Balçova ayrımı",
+          "paragraphs": [
+            "İBB listesinde Onur adı Bayraklı ve Balçova ilçelerinde bulunur; yol referansları sırasıyla 7364/1 ve Minedir. İki kaydı tek mahalle konumu olarak kullanmayın. Yardım mesajında gerçek ilçeyi ve bekleme pinini belirtin; kayıt yol alanı aracın adresini, servis konumunu veya şirketin hizmet üssünü göstermez."
+          ]
+        },
+        {
+          "heading": "Aynı isimli teslim servisini ilçe ile doğrulama",
+          "paragraphs": [
+            "Onur Mahallesinde bulunan aracı aynı adlı başka ilçe servisine teslim etmek istiyorsanız açık ilçe, sokak ve kapı bilgisi gerekir. Alma piniyle servis pini ayrı tutulmalıdır. Kullanıcı anahtar ve marş belirtisini aktarır. Aynı adın varlığı ortak erişim veya yakın mesafe garantisi değildir; kabul eden işletmeyle güncel adres teyit edilmeden eski pin kullanılmamalıdır."
+          ]
+        },
+        {
+          "heading": "Araç durumu ve teslim bilgisi",
+          "paragraphs": [
+            "Servisin bulunduğu Onur Mahallesi aracın alma ilçesinden farklı olabilir. İki adresi alma ve teslim olarak ayırın. Araç tipi ve hareket durumu gözleme dayanarak paylaşılır; aynı isimli iki yer arasında süre, güzergâh veya ücretin aynı olduğu varsayılmadan gerçek konumlar üzerinden talep değerlendirilir."
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "q": "Onur Mahallesi Bayraklı mı Balçova mı?",
+          "a": "Listede ikisi de vardır; gerçek ilçeyi açık yazın."
+        },
+        {
+          "q": "Servis adresi de Onursa neyi farklı belirtmeliyim?",
+          "a": "Alma ve teslim ilçesi/pinlerini ayrı etiketleyin; aynı ad iki adresi tek nokta yapmaz."
+        }
+      ],
+      "scenario": {
+        "title": "Onur adında iki ilçeye ait alma ve teslim",
+        "situation": "Bir araç Balçova Onurda çalışmaz; kullanıcı Bayraklı Onurdaki bir servise teslim ister. Mesajda iki ilçeyi ve gerçek pinleri alma/teslim olarak ayrı yazar; Mine ve 7364/1 muhtarlık referansları araç ve servis adresi yerine kullanılmaz.",
+        "assessment": "Model, anahtar ve marş belirtisi alınır. Aynı mahalle adı nedeniyle iki konum birleştirilmez; aracı hangi kişi teslim edecek netleştirilir. Kullanıcı kesin mekanik teşhis bilmiyorsa gözlem paylaşır; isim eşleşmesi erişim veya yöntem garantisi sayılmaz.",
+        "delivery": "Bayraklıdaki servis açık kapı adresini ve kabulünü teyit eder. Ücret ve kapsam gerçek iki konumla görüşülür; örnek talep iki Onur mahallesi arasında yapılmış geçmiş operasyon, yerel ekip üssü ya da ETA iddiası değildir."
+      },
+      "status": "verified_address_context",
+      "limitations": [
+        "Kayıttaki yol alanı muhtarlık adresine ait referanstır; araç alma adresi veya işletme şubesi değildir.",
+        "Senaryo koşullu editoryal örnektir; yapılmış hizmet kaydı değildir."
+      ]
+    },
+    "/bolgeler/urla/ozbek/": {
+      "name": "Özbek",
+      "facts": [
+        "İBB muhtarlık listesinde ÖZBEK adı Urla ilçesiyle eşleşir; kayıt yol alanı 6002 olarak yer alır."
+      ],
+      "sources": [
+        {
+          "title": "İBB Açık Veri — Muhtarlıklar",
+          "url": "https://acikveri.bizizmir.com/dataset/muhtarliklar",
+          "type": "official_primary"
+        },
+        {
+          "title": "İzmir Valiliği — Urla",
+          "url": "https://www.izmir.gov.tr/urla",
+          "type": "official_primary"
+        }
+      ],
+      "district_if_verified": "Urla",
+      "sections": [
+        {
+          "heading": "Özbekte Urla kaydı ve araç girişinin farkı",
+          "paragraphs": [
+            "Özbek İBB listesinde Urla ilçesiyle eşleşir; muhtarlık yol alanı 6002dir. Valilik Urla tanıtımında Özbek adını da anmaktadır. Bu yerel bilgiler aracın sahilde, köy içinde veya belirli işletmede olduğunu kanıtlamaz. Gerçek sokak ve giriş pini gereklidir; kayıttan teyitsiz yol koşulu ya da mevsimsel trafik anlatısı üretilmemelidir."
+          ]
+        },
+        {
+          "heading": "İşletme kapısının dışını tesis içi saymama",
+          "paragraphs": [
+            "Özbekte bir işletmenin dışında duran motosiklet için tesis adı yardımcı referans olabilir; içeri alma talebi veya özel giriş izni anlamına gelmez. Gerçek dış kapı noktası pinle açıklanır. Model, tekerlek hareketi ve ayakta durabilme paylaşılır. Seçilmiş servis kabulüyle teslim girişi ayrı teyit edilmeli; yerel turistik bağlamdan trafik, doluluk veya süre iddiası çıkarılmamalıdır."
+          ]
+        },
+        {
+          "heading": "Araç durumu ve teslim bilgisi",
+          "paragraphs": [
+            "Motosiklet veya binek araç talebinde araç türü baştan belirtilir. Anahtar, tekerlek hareketi ve mevcut hasar bilgisi konuşulur. Bir tesis kapısı referanssa içeride mi dışarıda mı durduğunuzu açıklayın; servis kabulü ve açık teslim adresi ayrı gönderilir. Yer adı yalnızca bağlam sağlar, taşıma yöntemini kendiliğinden belirlemez."
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "q": "Özbek adı sahilde beklediğim anlamına gelir mi?",
+          "a": "Hayır; gerçek sokak veya giriş pininizi ayrıca gönderin."
+        },
+        {
+          "q": "Araç türünü talebin başında neden belirtmeliyim?",
+          "a": "Motosiklet ve binek araç farklı değerlendirme bilgileri gerektirebilir; model ve hareket durumunu da ekleyin."
+        }
+      ],
+      "scenario": {
+        "title": "Özbekte işletme kapısı dışında motosiklet",
+        "situation": "Urla Özbekte bir motosiklet işletme kapısı dışında hareket edemez. Kullanıcı tesis içinde olmadığını, gerçek kapı önü pinini ve motosiklet modelini paylaşır; 6002 muhtarlık referansı veya mahalle adından sahil konumu tahmini yapılmaz.",
+        "assessment": "Tekerlek hareketi, anahtar ve ayakta durabilme bilgisi alınır. Tesis adı giriş izni veya hazır yükleme alanı garantisi sayılmaz. Kullanıcıdan motosikleti başka noktaya çekerek deneme yapması beklenmez; güvenli bekleme ve mevcut araç koşulları görüşmede ele alınır.",
+        "delivery": "Seçilmiş motosiklet servisi açık adresi ve kabulü teyit eder. Alma dış kapı noktası ile servis girişi ayrılır; örnek talep gerçek Özbek işi, sezonluk trafik deneyimi veya belirli ekipman sahipliği hakkında iddia içermez."
+      },
+      "status": "verified_address_context",
+      "limitations": [
+        "Kayıttaki yol alanı muhtarlık adresine ait referanstır; araç alma adresi veya işletme şubesi değildir.",
+        "Senaryo koşullu editoryal örnektir; yapılmış hizmet kaydı değildir."
+      ]
+    },
+    "/bolgeler/noktalar/payamli/": {
+      "name": "Payamlı",
+      "facts": [
+        "İBB muhtarlık listesinde PAYAMLI adı Güzelbahçe ilçesiyle eşleşir; kayıt yol alanı VALİ KAZIM DİRİK olarak yer alır.",
+        "İBB muhtarlık listesinde PAYAMLI adı Seferihisar ilçesiyle eşleşir; kayıt yol alanı KUŞADASI SEFERİHİSAR YOLU olarak yer alır."
+      ],
+      "sources": [
+        {
+          "title": "İBB Açık Veri — Muhtarlıklar",
+          "url": "https://acikveri.bizizmir.com/dataset/muhtarliklar",
+          "type": "official_primary"
+        }
+      ],
+      "district_if_verified": null,
+      "sections": [
+        {
+          "heading": "Payamlı için Güzelbahçe ve Seferihisar ayrımı",
+          "paragraphs": [
+            "Payamlı adı İBB listesinde Güzelbahçe ve Seferihisar ilçelerinde ayrı kayıtlara sahiptir. Vali Kazım Dirik ve Kuşadası Seferihisar Yolu referansları farklı muhtarlık adresleri içindir. Talepte hangi Payamlıyı kastettiğinizi ilçe ve gerçek pinle netleştirin; kayıt yolunu aracın ana yol üzerinde olduğuna ilişkin kanıt olarak kullanmayın."
+          ]
+        },
+        {
+          "heading": "Ana yol referansını gerçek bekleme yeriyle tamamlama",
+          "paragraphs": [
+            "Payamlıda muhtarlık kaydındaki yol adını görmek, araç ana yolda kaldı demek için yeterli değildir. İşletme veya sokak konumu gerçek pinle paylaşılır. Kamyonet yük durumu ve boyutları talepte açıklanır; ayrı aktarım isteniyorsa kapsamı konuşulur. Güzelbahçe ve Seferihisar kayıtları tek nokta yapılmadan teslim servisi ilgili işletmeyle açık adres üzerinden teyit edilir."
+          ]
+        },
+        {
+          "heading": "Araç durumu ve teslim bilgisi",
+          "paragraphs": [
+            "Araç bir işletmede veya mahalle sokağında bekliyorsa yakın ana yol yalnızca yardımcı tarif olabilir. Alma noktasını yön ve kapı bilgisiyle açıklayın. Yük taşıyan araç için yük durumu ve boyut paylaşılmalı; teslim servisi ayrı adresle belirtilmelidir. İki ilçedeki aynı isme dayanarak ortak erişim veya süre tahmini yapılmamalıdır."
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "q": "Payamlı hangi ilçeyi ifade eder?",
+          "a": "Bu kaynakta Güzelbahçe ve Seferihisar kayıtları vardır; gerçek ilçenizi belirtin."
+        },
+        {
+          "q": "Kuşadası Seferihisar Yolu kaydı otoyolda olduğumu gösterir mi?",
+          "a": "Hayır; muhtarlık referansı araç konumu değildir, kendi gerçek pininizi gönderin."
+        }
+      ],
+      "scenario": {
+        "title": "Payamlı talebinde mahalle ile ana yol ayrımı",
+        "situation": "Seferihisar Payamlıda bir kamyonet işletme önünde durur. Kullanıcı ilçe bilgisini ve gerçek giriş pinini paylaşır; Kuşadası Seferihisar Yolu muhtarlık referansı araç ana yolda bekliyormuş gibi kullanılmaz, Güzelbahçedeki aynı isimli kayıt seçilmez.",
+        "assessment": "Aracın boyutları, yük durumu ve motorun çalışıp çalışmadığı alınır. İşletme önünde bekleme ile yol üzerindeki arıza ayrılır. Yük aktarımı isteniyorsa kapsamı ayrıca konuşulur; yer adı ve yol referansından kapasite, yöntem ya da trafik sonucu çıkarılmaz.",
+        "delivery": "Seçilen servisin açık adresi ve kabulü ayrı paylaşılır. Aracı teslim edecek kişi netleştirilir; örnek talep gerçek Payamlı operasyonu değildir, iki ilçe arasında uydurma erişim veya kesin varış süresi garantisi sunmadan bilgi ihtiyacını açıklar."
+      },
+      "status": "verified_address_context",
+      "limitations": [
+        "Kayıttaki yol alanı muhtarlık adresine ait referanstır; araç alma adresi veya işletme şubesi değildir.",
+        "Senaryo koşullu editoryal örnektir; yapılmış hizmet kaydı değildir."
+      ]
+    },
+    "/bolgeler/karabaglar/poligon/": {
+      "name": "Poligon",
+      "facts": [
+        "İBB muhtarlık listesinde POLİGON adı Karabağlar ilçesiyle eşleşir; kayıt yol alanı 124 olarak yer alır."
+      ],
+      "sources": [
+        {
+          "title": "İBB Açık Veri — Muhtarlıklar",
+          "url": "https://acikveri.bizizmir.com/dataset/muhtarliklar",
+          "type": "official_primary"
+        }
+      ],
+      "district_if_verified": "Karabağlar",
+      "sections": [
+        {
+          "heading": "Poligonda Karabağlar mahallesi ve gerçek park",
+          "paragraphs": [
+            "İBB muhtarlık kaydı Poligon adını Karabağlar ile ve 124 yol alanıyla eşleştirir. Ulaşım durağı, semt veya işletme referansı aracın bulunduğu adresin yerine geçmez. Talepte gerçek ilçe, sokak ve park pini kullanılmalıdır; muhtarlığın kaydı özel bir çekici alma noktası ya da şirket şubesi değildir."
+          ]
+        },
+        {
+          "heading": "Marş belirtisinden çözüm garantisi üretmeme",
+          "paragraphs": [
+            "Poligondaki otomobil marş almadığında kullanıcı gördüğü gösterge ve duyduğu sesi anlatabilir. Bu gözlem tek başına akü arızası veya her koşulda yerinde çözüm kanıtı değildir. Anahtar ve gerçek park girişi paylaşılır. Oto elektrik servisine teslim tercihi varsa kabul kapısı ayrı netleşir; konum ve araç değerlendirilmeden ekipman, fiyat veya kesin süre sözü verilmemelidir."
+          ]
+        },
+        {
+          "heading": "Araç durumu ve teslim bilgisi",
+          "paragraphs": [
+            "Otoparkta motoru çalışmayan araç için marş belirtisi ve anahtar durumu paylaşılmalıdır. Kullanıcı akü sorunu olduğunu kesin bilmiyorsa gözlemini anlatabilir. Yerinde destek veya servise taşıma tercihi araç ve güvenli erişimle konuşulur; seçilmiş oto elektrik servisinin kabulü açık teslim adresiyle ayrıca teyit edilmelidir."
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "q": "Poligon durağı pini araç konumum olabilir mi?",
+          "a": "Yalnızca araç gerçekten oradaysa; gerçek park pininizi esas alın."
+        },
+        {
+          "q": "Marş almayan araca kesin akü arızası demeli miyim?",
+          "a": "Kesin bilmiyorsanız gözlemi paylaşın; destek veya taşıma uygunluğu ayrıca değerlendirilir."
+        }
+      ],
+      "scenario": {
+        "title": "Poligonda otoparkta marş almayan otomobil",
+        "situation": "Karabağlar Poligonda bir otomobil otoparkta marş almaz. Kullanıcı ulaşım durağı yerine gerçek park girişini ve bekleme pinini gönderir; 124 muhtarlık kayıt yolu otomatik alma adresi yapılmaz, kesin akü arızası teşhisi ileri sürülmez.",
+        "assessment": "Marş sesi, gösterge durumu ve anahtar bilgisi bilinen ölçüde alınır. Yerinde destek ya da taşıma uygunluğu güvenli erişim ve araçla değerlendirilir. Otoparkın araç alma yönlendirmesi kullanıcı tarafından teyit edilir; her giriş için tek yöntem veya ekipman garantisi kurulmaz.",
+        "delivery": "Seçilmiş oto elektrik servisi kabulünü teyit ederse açık adres ikinci konum olarak gönderilir. Örnek durum gerçekleşmiş Poligon işi değil; doğru konum, gözlem ve teslim bilgilerinin koşullu talepte nasıl kullanılacağını gösterir, kesin süre sözü içermez."
+      },
+      "status": "verified_address_context",
+      "limitations": [
+        "Kayıttaki yol alanı muhtarlık adresine ait referanstır; araç alma adresi veya işletme şubesi değildir.",
+        "Senaryo koşullu editoryal örnektir; yapılmış hizmet kaydı değildir."
+      ]
+    },
+    "/bolgeler/seferihisar/sigacik/": {
+      "name": "Sığacık",
+      "facts": [
+        "İBB muhtarlık listesinde SIĞACIK adı Seferihisar ilçesiyle eşleşir; kayıt yol alanı ŞADIRVAN olarak yer alır."
+      ],
+      "sources": [
+        {
+          "title": "İBB Açık Veri — Muhtarlıklar",
+          "url": "https://acikveri.bizizmir.com/dataset/muhtarliklar",
+          "type": "official_primary"
+        },
+        {
+          "title": "İzmir Valiliği — Seferihisar",
+          "url": "https://www.izmir.gov.tr/seferihisar",
+          "type": "official_primary"
+        }
+      ],
+      "district_if_verified": "Seferihisar",
+      "sections": [
+        {
+          "heading": "Sığacıkta tesis adı ve mahalle konumu",
+          "paragraphs": [
+            "Sığacık İBB listesinde Seferihisar ile eşleşir; muhtarlık yol alanı Şadırvandır. Valilik ilçe tanıtımında da Sığacık adı yer alır. Tatil tesisi, restoran veya otoparkın genel adı aracı alma kapısını göstermeyebilir; gerçek bekleme pini ve araç girişini paylaşın. Mahalle kaydından mevsimsel doluluk veya yol kısıtı iddiası üretilmez."
+          ]
+        },
+        {
+          "heading": "Tatil hedefiyle servis teslimini ayrı belirleme",
+          "paragraphs": [
+            "Sığacıkta kalan kullanıcının dönüş şehri, aracın otomatik teslim adresi değildir. Yakın bir servis veya kendi tercih ettiği başka adres açıkça konuşulur. Konaklama tesisinin gerçek araç alma girişi teyit edilir; genel otel adresi tek park noktası sayılmaz. Model, anahtar ve hareket durumuyla birlikte seçilen servisin kabulü, taşıma kapsamı değerlendirilmeden ayrı netleştirilmelidir."
+          ]
+        },
+        {
+          "heading": "Araç durumu ve teslim bilgisi",
+          "paragraphs": [
+            "Tatil sırasında arızalanan araçta kullanıcı teslimi kendi şehrindeki servis veya seçilmiş yakın işletme olarak isteyebilir. Yolculuk hedefiyle taşıma tercihi ayrılmalıdır. Model, hareket durumu ve kabul adresi birlikte gönderilir; konaklama tesisiyle servis kabulü farklı işlemler olduğundan her iki giriş bilgisi ilgili işletmeyle teyit edilmelidir."
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "q": "Sığacıkta otel adı araç alma kapısını gösterir mi?",
+          "a": "Otomatik olarak değil; gerçek araç girişini ve park pinini ayrıca paylaşın."
+        },
+        {
+          "q": "Tatildeki aracımı başka şehirdeki servise teslim isteyebilir miyim?",
+          "a": "İstediğiniz açık adresi iletin; taşımanın kapsamı ve uygunluğu ayrıca değerlendirilir."
+        }
+      ],
+      "scenario": {
+        "title": "Sığacıkta konaklama otoparkındaki tatil aracı",
+        "situation": "Seferihisar Sığacıkta tatil yapan kullanıcının otomobili konaklama tesisinin otoparkında çalışmaz. Kullanıcı tesisin araç girişini ve gerçek park pinini gönderir; Şadırvan muhtarlık referansı veya mahalle adı tek alma adresi yapılmaz.",
+        "assessment": "Model, anahtar ve marş/hareket durumu alınır. Tesisin güncel araç alma yönlendirmesi kullanıcı tarafından teyit edilir; mevsim veya tatil doluluğu hakkında uydurma iddia kurulmaz. Kullanıcının şehir dışına dönüş hedefi otomatik teslim kararı sayılmaz, araç güvenliğiyle birlikte seçenekler konuşulur.",
+        "delivery": "Kullanıcı kendi tercih ettiği servisin açık adresini ve kabulünü paylaşır. Otel girişi ile servis kabul kapısı ayrılır; örnek tatil durumu geçmiş Sığacık operasyonu, yerel ekip deneyimi veya kesin ücret/süre garantisi içermez."
+      },
+      "status": "verified_address_context",
+      "limitations": [
+        "Kayıttaki yol alanı muhtarlık adresine ait referanstır; araç alma adresi veya işletme şubesi değildir.",
+        "Senaryo koşullu editoryal örnektir; yapılmış hizmet kaydı değildir."
+      ]
+    }
+  }
+}

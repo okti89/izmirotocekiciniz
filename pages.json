@@ -53,8 +53,383 @@
       "ready": true
     },
     {
+      "path": "/guzergahlar/izmir-cevre-yolu/",
+      "title": "İzmir Çevre Yolu çekici ve yol yardım | İzmir Oto Çekiciniz",
+      "ready": true
+    },
+    {
+      "path": "/guzergahlar/izmir-aydin-otoyolu/",
+      "title": "Aydın Otoban çekici ve yol yardım | İzmir Oto Çekiciniz",
+      "ready": true
+    },
+    {
+      "path": "/guzergahlar/izmir-cesme-otoyolu/",
+      "title": "Çeşme Otoyolu çekici ve yol yardım | İzmir Oto Çekiciniz",
+      "ready": true
+    },
+    {
+      "path": "/guzergahlar/sabuncubeli-tuneli/",
+      "title": "Sabuncubeli Tüneli çekici ve yol yardım | İzmir Oto Çekiciniz",
+      "ready": true
+    },
+    {
+      "path": "/guzergahlar/belkahve-rampasi/",
+      "title": "Belkahve Rampası çekici ve yol yardım | İzmir Oto Çekiciniz",
+      "ready": true
+    },
+    {
+      "path": "/guzergahlar/bayrakli-tunelleri/",
+      "title": "Bayraklı Tünelleri çekici ve yol yardım | İzmir Oto Çekiciniz",
+      "ready": true
+    },
+    {
+      "path": "/guzergahlar/konak-tuneli/",
+      "title": "Konak Tüneli çekici ve yol yardım | İzmir Oto Çekiciniz",
+      "ready": true
+    },
+    {
+      "path": "/guzergahlar/kuzey-cevre-yolu/",
+      "title": "Kuzey Çevre Yolu çekici ve yol yardım | İzmir Oto Çekiciniz",
+      "ready": true
+    },
+    {
+      "path": "/guzergahlar/guney-cevre-yolu/",
+      "title": "Güney Çevre Yolu çekici ve yol yardım | İzmir Oto Çekiciniz",
+      "ready": true
+    },
+    {
+      "path": "/guzergahlar/bornova-cevre-yolu/",
+      "title": "Bornova Çevre Yolu çekici ve yol yardım | İzmir Oto Çekiciniz",
+      "ready": true
+    },
+    {
+      "path": "/guzergahlar/karsiyaka-cevre-yolu/",
+      "title": "Karşıyaka Çevre Yolu çekici ve yol yardım | İzmir Oto Çekiciniz",
+      "ready": true
+    },
+    {
+      "path": "/guzergahlar/altinyol-sahil-yolu/",
+      "title": "Altınyol Sahil Yolu çekici ve yol yardım | İzmir Oto Çekiciniz",
+      "ready": true
+    },
+    {
+      "path": "/guzergahlar/istanbul-otoyolu/",
+      "title": "İstanbul Otoyolu çekici ve yol yardım | İzmir Oto Çekiciniz",
+      "ready": true
+    },
+    {
+      "path": "/guzergahlar/ankara-yolu/",
+      "title": "Ankara Yolu çekici ve yol yardım | İzmir Oto Çekiciniz",
+      "ready": true
+    },
+    {
+      "path": "/guzergahlar/bursa-yolu/",
+      "title": "Bursa Yolu çekici ve yol yardım | İzmir Oto Çekiciniz",
+      "ready": true
+    },
+    {
+      "path": "/guzergahlar/torbali-otoyolu/",
+      "title": "Torbalı Otoyolu çekici ve yol yardım | İzmir Oto Çekiciniz",
+      "ready": true
+    },
+    {
+      "path": "/guzergahlar/liman-yolu/",
+      "title": "Liman Yolu çekici ve yol yardım | İzmir Oto Çekiciniz",
+      "ready": true
+    },
+    {
+      "path": "/sanayi/1-sanayi-sitesi/",
+      "title": "1. Sanayi Sitesi çekici ve yol yardım | İzmir Oto Çekiciniz",
+      "ready": true
+    },
+    {
+      "path": "/sanayi/2-sanayi-sitesi/",
+      "title": "2. Sanayi Sitesi çekici ve yol yardım | İzmir Oto Çekiciniz",
+      "ready": true
+    },
+    {
+      "path": "/sanayi/3-sanayi-sitesi/",
+      "title": "3. Sanayi Sitesi çekici ve yol yardım | İzmir Oto Çekiciniz",
+      "ready": true
+    },
+    {
+      "path": "/sanayi/4-sanayi-sitesi/",
+      "title": "4. Sanayi Sitesi çekici ve yol yardım | İzmir Oto Çekiciniz",
+      "ready": true
+    },
+    {
+      "path": "/sanayi/5-sanayi-sitesi/",
+      "title": "5. Sanayi Sitesi çekici ve yol yardım | İzmir Oto Çekiciniz",
+      "ready": true
+    },
+    {
+      "path": "/sanayi/6-sanayi-sitesi/",
+      "title": "6. Sanayi Sitesi çekici ve yol yardım | İzmir Oto Çekiciniz",
+      "ready": true
+    },
+    {
+      "path": "/sanayi/7-sanayi-sitesi/",
+      "title": "7. Sanayi Sitesi çekici ve yol yardım | İzmir Oto Çekiciniz",
+      "ready": true
+    },
+    {
+      "path": "/sanayi/kisikkoy-sanayi-sitesi/",
+      "title": "Kısıkköy Sanayi Sitesi çekici ve yol yardım | İzmir Oto Çekiciniz",
+      "ready": true
+    },
+    {
+      "path": "/bolgeler/cesme/alacati/",
+      "title": "Alaçatı çekici ve yol yardım | İzmir Oto Çekiciniz",
+      "ready": true
+    },
+    {
+      "path": "/bolgeler/cesme/ilica/",
+      "title": "Ilıca çekici ve yol yardım | İzmir Oto Çekiciniz",
+      "ready": true
+    },
+    {
+      "path": "/bolgeler/cesme/boyalik/",
+      "title": "Boyalık çekici ve yol yardım | İzmir Oto Çekiciniz",
+      "ready": true
+    },
+    {
+      "path": "/bolgeler/cesme/altinkum/",
+      "title": "Altınkum çekici ve yol yardım | İzmir Oto Çekiciniz",
+      "ready": true
+    },
+    {
+      "path": "/bolgeler/cesme/dalyan/",
+      "title": "Dalyan çekici ve yol yardım | İzmir Oto Çekiciniz",
+      "ready": true
+    },
+    {
+      "path": "/bolgeler/cesme/ildir/",
+      "title": "Ildır çekici ve yol yardım | İzmir Oto Çekiciniz",
+      "ready": true
+    },
+    {
+      "path": "/bolgeler/cesme/sifne/",
+      "title": "Şifne çekici ve yol yardım | İzmir Oto Çekiciniz",
+      "ready": true
+    },
+    {
+      "path": "/bolgeler/cesme/16-eylul/",
+      "title": "16 Eylül çekici ve yol yardım | İzmir Oto Çekiciniz",
+      "ready": true
+    },
+    {
+      "path": "/bolgeler/cesme/ovacik/",
+      "title": "Ovacık çekici ve yol yardım | İzmir Oto Çekiciniz",
+      "ready": true
+    },
+    {
+      "path": "/bolgeler/guzelbahce/yelki/",
+      "title": "Yelki çekici ve yol yardım | İzmir Oto Çekiciniz",
+      "ready": true
+    },
+    {
+      "path": "/bolgeler/guzelbahce/kahramandere/",
+      "title": "Kahramandere çekici ve yol yardım | İzmir Oto Çekiciniz",
+      "ready": true
+    },
+    {
+      "path": "/bolgeler/guzelbahce/camli/",
+      "title": "Çamlı çekici ve yol yardım | İzmir Oto Çekiciniz",
+      "ready": true
+    },
+    {
+      "path": "/bolgeler/torbali/",
+      "title": "Torbalı çekici ve yol yardım | İzmir Oto Çekiciniz",
+      "ready": true
+    },
+    {
+      "path": "/bolgeler/torbali/ayrancilar/",
+      "title": "Torbalı Ayrancılar çekici ve yol yardım | İzmir Oto Çekiciniz",
+      "ready": true
+    },
+    {
+      "path": "/bolgeler/torbali/pancar/",
+      "title": "Torbalı Pancar çekici ve yol yardım | İzmir Oto Çekiciniz",
+      "ready": true
+    },
+    {
+      "path": "/bolgeler/torbali/yazibasi/",
+      "title": "Torbalı Yazıbaşı çekici ve yol yardım | İzmir Oto Çekiciniz",
+      "ready": true
+    },
+    {
+      "path": "/bolgeler/torbali/caybasi/",
+      "title": "Torbalı Çaybaşı çekici ve yol yardım | İzmir Oto Çekiciniz",
+      "ready": true
+    },
+    {
+      "path": "/bolgeler/torbali/subasi/",
+      "title": "Torbalı Subaşı çekici ve yol yardım | İzmir Oto Çekiciniz",
+      "ready": true
+    },
+    {
+      "path": "/bolgeler/torbali/capak/",
+      "title": "Torbalı Çapak çekici ve yol yardım | İzmir Oto Çekiciniz",
+      "ready": true
+    },
+    {
+      "path": "/bolgeler/torbali/karakizlar/",
+      "title": "Torbalı Karakızlar çekici ve yol yardım | İzmir Oto Çekiciniz",
+      "ready": true
+    },
+    {
+      "path": "/bolgeler/torbali/ahmetli/",
+      "title": "Torbalı Ahmetli çekici ve yol yardım | İzmir Oto Çekiciniz",
+      "ready": true
+    },
+    {
+      "path": "/bolgeler/torbali/kuscuburun/",
+      "title": "Torbalı Kuşçuburun çekici ve yol yardım | İzmir Oto Çekiciniz",
+      "ready": true
+    },
+    {
+      "path": "/bolgeler/menemen/",
+      "title": "Menemen çekici ve yol yardım | İzmir Oto Çekiciniz",
+      "ready": true
+    },
+    {
+      "path": "/bolgeler/bergama/",
+      "title": "Bergama çekici ve yol yardım | İzmir Oto Çekiciniz",
+      "ready": true
+    },
+    {
+      "path": "/bolgeler/odemis/",
+      "title": "Ödemiş çekici ve yol yardım | İzmir Oto Çekiciniz",
+      "ready": true
+    },
+    {
+      "path": "/bolgeler/tire/",
+      "title": "Tire çekici ve yol yardım | İzmir Oto Çekiciniz",
+      "ready": true
+    },
+    {
+      "path": "/bolgeler/bayindir/",
+      "title": "Bayındır çekici ve yol yardım | İzmir Oto Çekiciniz",
+      "ready": true
+    },
+    {
+      "path": "/bolgeler/selcuk/",
+      "title": "Selçuk çekici ve yol yardım | İzmir Oto Çekiciniz",
+      "ready": true
+    },
+    {
+      "path": "/bolgeler/kinik/",
+      "title": "Kınık çekici ve yol yardım | İzmir Oto Çekiciniz",
+      "ready": true
+    },
+    {
+      "path": "/bolgeler/kiraz/",
+      "title": "Kiraz çekici ve yol yardım | İzmir Oto Çekiciniz",
+      "ready": true
+    },
+    {
+      "path": "/bolgeler/noktalar/nazilli/",
+      "title": "Nazilli–İzmir araç transferi talebi | İzmir Oto Çekiciniz",
+      "ready": true
+    },
+    {
+      "path": "/bolgeler/buca/golet/",
+      "title": "Buca Gölet çekici ve yol yardım | İzmir Oto Çekiciniz",
+      "ready": true
+    },
+    {
+      "path": "/bolgeler/buca/belenbasi/",
+      "title": "Belenbaşı çekici ve yol yardım | İzmir Oto Çekiciniz",
+      "ready": true
+    },
+    {
+      "path": "/bolgeler/bornova/pinarbasi/",
+      "title": "Pınarbaşı çekici ve yol yardım | İzmir Oto Çekiciniz",
+      "ready": true
+    },
+    {
+      "path": "/bolgeler/aliaga/",
+      "title": "Aliağa çekici ve yol yardım | İzmir Oto Çekiciniz",
+      "ready": true
+    },
+    {
+      "path": "/bolgeler/balcova/",
+      "title": "Balçova çekici ve yol yardım | İzmir Oto Çekiciniz",
+      "ready": true
+    },
+    {
+      "path": "/bolgeler/bayrakli/",
+      "title": "Bayraklı çekici ve yol yardım | İzmir Oto Çekiciniz",
+      "ready": true
+    },
+    {
+      "path": "/bolgeler/beydag/",
+      "title": "Beydağ çekici ve yol yardım | İzmir Oto Çekiciniz",
+      "ready": true
+    },
+    {
+      "path": "/bolgeler/bornova/",
+      "title": "Bornova çekici ve yol yardım | İzmir Oto Çekiciniz",
+      "ready": true
+    },
+    {
+      "path": "/bolgeler/buca/",
+      "title": "Buca çekici ve yol yardım | İzmir Oto Çekiciniz",
+      "ready": true
+    },
+    {
+      "path": "/bolgeler/cesme/",
+      "title": "Çeşme çekici ve yol yardım | İzmir Oto Çekiciniz",
+      "ready": true
+    },
+    {
+      "path": "/bolgeler/cigli/",
+      "title": "Çiğli çekici ve yol yardım | İzmir Oto Çekiciniz",
+      "ready": true
+    },
+    {
+      "path": "/bolgeler/dikili/",
+      "title": "Dikili çekici ve yol yardım | İzmir Oto Çekiciniz",
+      "ready": true
+    },
+    {
+      "path": "/bolgeler/foca/",
+      "title": "Foça çekici ve yol yardım | İzmir Oto Çekiciniz",
+      "ready": true
+    },
+    {
       "path": "/bolgeler/gaziemir/",
       "title": "Gaziemir çekici ve yol yardım | İzmir Oto Çekiciniz",
+      "ready": true
+    },
+    {
+      "path": "/bolgeler/guzelbahce/",
+      "title": "Güzelbahçe çekici ve yol yardım | İzmir Oto Çekiciniz",
+      "ready": true
+    },
+    {
+      "path": "/bolgeler/karabaglar/",
+      "title": "Karabağlar çekici ve yol yardım | İzmir Oto Çekiciniz",
+      "ready": true
+    },
+    {
+      "path": "/bolgeler/karaburun/",
+      "title": "Karaburun çekici ve yol yardım | İzmir Oto Çekiciniz",
+      "ready": true
+    },
+    {
+      "path": "/bolgeler/karsiyaka/",
+      "title": "Karşıyaka çekici ve yol yardım | İzmir Oto Çekiciniz",
+      "ready": true
+    },
+    {
+      "path": "/bolgeler/kemalpasa/",
+      "title": "Kemalpaşa çekici ve yol yardım | İzmir Oto Çekiciniz",
+      "ready": true
+    },
+    {
+      "path": "/bolgeler/konak/",
+      "title": "Konak çekici ve yol yardım | İzmir Oto Çekiciniz",
       "ready": true
     },
     {
@@ -63,1233 +438,858 @@
       "ready": true
     },
     {
-      "path": "/guzergahlar/izmir-cevre-yolu/",
-      "title": "İzmir Çevre Yolu Çekici ve Yol Yardım | İzmir Oto Çekiciniz",
-      "ready": true
-    },
-    {
-      "path": "/guzergahlar/izmir-aydin-otoyolu/",
-      "title": "Aydın Otoban Çekici ve Yol Yardım | İzmir Oto Çekiciniz",
-      "ready": true
-    },
-    {
-      "path": "/guzergahlar/izmir-cesme-otoyolu/",
-      "title": "Çeşme Otoyolu Çekici ve Yol Yardım | İzmir Oto Çekiciniz",
-      "ready": true
-    },
-    {
-      "path": "/guzergahlar/sabuncubeli-tuneli/",
-      "title": "Sabuncubeli Tüneli Çekici ve Yol Yardım | İzmir Oto Çekiciniz",
-      "ready": true
-    },
-    {
-      "path": "/guzergahlar/belkahve-rampasi/",
-      "title": "Belkahve Rampası Çekici ve Yol Yardım | İzmir Oto Çekiciniz",
-      "ready": true
-    },
-    {
-      "path": "/guzergahlar/bayrakli-tunelleri/",
-      "title": "Bayraklı Tünelleri Çekici ve Yol Yardım | İzmir Oto Çekiciniz",
-      "ready": true
-    },
-    {
-      "path": "/guzergahlar/konak-tuneli/",
-      "title": "Konak Tüneli Çekici ve Yol Yardım | İzmir Oto Çekiciniz",
-      "ready": true
-    },
-    {
-      "path": "/guzergahlar/kuzey-cevre-yolu/",
-      "title": "Kuzey Çevre Yolu Çekici ve Yol Yardım | İzmir Oto Çekiciniz",
-      "ready": true
-    },
-    {
-      "path": "/guzergahlar/guney-cevre-yolu/",
-      "title": "Güney Çevre Yolu Çekici ve Yol Yardım | İzmir Oto Çekiciniz",
-      "ready": true
-    },
-    {
-      "path": "/guzergahlar/bornova-cevre-yolu/",
-      "title": "Bornova Çevre Yolu Çekici ve Yol Yardım | İzmir Oto Çekiciniz",
-      "ready": true
-    },
-    {
-      "path": "/guzergahlar/karsiyaka-cevre-yolu/",
-      "title": "Karşıyaka Çevre Yolu Çekici ve Yol Yardım | İzmir Oto Çekiciniz",
-      "ready": true
-    },
-    {
-      "path": "/guzergahlar/altinyol-sahil-yolu/",
-      "title": "Altınyol Sahil Yolu Çekici ve Yol Yardım | İzmir Oto Çekiciniz",
-      "ready": true
-    },
-    {
-      "path": "/guzergahlar/istanbul-otoyolu/",
-      "title": "İstanbul Otoyolu Çekici ve Yol Yardım | İzmir Oto Çekiciniz",
-      "ready": true
-    },
-    {
-      "path": "/guzergahlar/ankara-yolu/",
-      "title": "Ankara Yolu Çekici ve Yol Yardım | İzmir Oto Çekiciniz",
-      "ready": true
-    },
-    {
-      "path": "/guzergahlar/bursa-yolu/",
-      "title": "Bursa Yolu Çekici ve Yol Yardım | İzmir Oto Çekiciniz",
-      "ready": true
-    },
-    {
-      "path": "/guzergahlar/torbali-otoyolu/",
-      "title": "Torbalı Otoyolu Çekici ve Yol Yardım | İzmir Oto Çekiciniz",
-      "ready": true
-    },
-    {
-      "path": "/guzergahlar/liman-yolu/",
-      "title": "Liman Yolu Çekici ve Yol Yardım | İzmir Oto Çekiciniz",
-      "ready": true
-    },
-    {
-      "path": "/sanayi/1-sanayi-sitesi/",
-      "title": "1. Sanayi Sitesi Çekici ve Yol Yardım | İzmir Oto Çekiciniz",
-      "ready": true
-    },
-    {
-      "path": "/sanayi/2-sanayi-sitesi/",
-      "title": "2. Sanayi Sitesi Çekici ve Yol Yardım | İzmir Oto Çekiciniz",
-      "ready": true
-    },
-    {
-      "path": "/sanayi/3-sanayi-sitesi/",
-      "title": "3. Sanayi Sitesi Çekici ve Yol Yardım | İzmir Oto Çekiciniz",
-      "ready": true
-    },
-    {
-      "path": "/sanayi/4-sanayi-sitesi/",
-      "title": "4. Sanayi Sitesi Çekici ve Yol Yardım | İzmir Oto Çekiciniz",
-      "ready": true
-    },
-    {
-      "path": "/sanayi/5-sanayi-sitesi/",
-      "title": "5. Sanayi Sitesi Çekici ve Yol Yardım | İzmir Oto Çekiciniz",
-      "ready": true
-    },
-    {
-      "path": "/sanayi/6-sanayi-sitesi/",
-      "title": "6. Sanayi Sitesi Çekici ve Yol Yardım | İzmir Oto Çekiciniz",
-      "ready": true
-    },
-    {
-      "path": "/sanayi/7-sanayi-sitesi/",
-      "title": "7. Sanayi Sitesi Çekici ve Yol Yardım | İzmir Oto Çekiciniz",
-      "ready": true
-    },
-    {
-      "path": "/sanayi/kisikkoy-sanayi-sitesi/",
-      "title": "Kısıkköy Sanayi Sitesi Çekici ve Yol Yardım | İzmir Oto Çekiciniz",
-      "ready": true
-    },
-    {
-      "path": "/bolgeler/cesme/alacati/",
-      "title": "Alaçatı Çekici ve Yol Yardım | İzmir Oto Çekiciniz",
-      "ready": true
-    },
-    {
-      "path": "/bolgeler/cesme/ilica/",
-      "title": "Ilıca Çekici ve Yol Yardım | İzmir Oto Çekiciniz",
-      "ready": true
-    },
-    {
-      "path": "/bolgeler/cesme/boyalik/",
-      "title": "Boyalık Çekici ve Yol Yardım | İzmir Oto Çekiciniz",
-      "ready": true
-    },
-    {
-      "path": "/bolgeler/cesme/altinkum/",
-      "title": "Altınkum Çekici ve Yol Yardım | İzmir Oto Çekiciniz",
-      "ready": true
-    },
-    {
-      "path": "/bolgeler/cesme/dalyan/",
-      "title": "Dalyan Çekici ve Yol Yardım | İzmir Oto Çekiciniz",
-      "ready": true
-    },
-    {
-      "path": "/bolgeler/cesme/ildir/",
-      "title": "Ildır Çekici ve Yol Yardım | İzmir Oto Çekiciniz",
-      "ready": true
-    },
-    {
-      "path": "/bolgeler/cesme/sifne/",
-      "title": "Şifne Çekici ve Yol Yardım | İzmir Oto Çekiciniz",
-      "ready": true
-    },
-    {
-      "path": "/bolgeler/cesme/16-eylul/",
-      "title": "16 Eylül Çekici ve Yol Yardım | İzmir Oto Çekiciniz",
-      "ready": true
-    },
-    {
-      "path": "/bolgeler/cesme/ovacik/",
-      "title": "Ovacık Çekici ve Yol Yardım | İzmir Oto Çekiciniz",
-      "ready": true
-    },
-    {
-      "path": "/bolgeler/guzelbahce/yelki/",
-      "title": "Yelki Çekici ve Yol Yardım | İzmir Oto Çekiciniz",
-      "ready": true
-    },
-    {
-      "path": "/bolgeler/guzelbahce/kahramandere/",
-      "title": "Kahramandere Çekici ve Yol Yardım | İzmir Oto Çekiciniz",
-      "ready": true
-    },
-    {
-      "path": "/bolgeler/guzelbahce/camli/",
-      "title": "Çamlı Çekici ve Yol Yardım | İzmir Oto Çekiciniz",
-      "ready": true
-    },
-    {
-      "path": "/bolgeler/torbali/",
-      "title": "Torbalı Çekici ve Yol Yardım | İzmir Oto Çekiciniz",
-      "ready": true
-    },
-    {
-      "path": "/bolgeler/torbali/ayrancilar/",
-      "title": "Torbalı Ayrancılar Çekici ve Yol Yardım | İzmir Oto Çekiciniz",
-      "ready": true
-    },
-    {
-      "path": "/bolgeler/torbali/pancar/",
-      "title": "Torbalı Pancar Çekici ve Yol Yardım | İzmir Oto Çekiciniz",
-      "ready": true
-    },
-    {
-      "path": "/bolgeler/torbali/yazibasi/",
-      "title": "Torbalı Yazıbaşı Çekici ve Yol Yardım | İzmir Oto Çekiciniz",
-      "ready": true
-    },
-    {
-      "path": "/bolgeler/torbali/caybasi/",
-      "title": "Torbalı Çaybaşı Çekici ve Yol Yardım | İzmir Oto Çekiciniz",
-      "ready": true
-    },
-    {
-      "path": "/bolgeler/torbali/subasi/",
-      "title": "Torbalı Subaşı Çekici ve Yol Yardım | İzmir Oto Çekiciniz",
-      "ready": true
-    },
-    {
-      "path": "/bolgeler/torbali/capak/",
-      "title": "Torbalı Çapak Çekici ve Yol Yardım | İzmir Oto Çekiciniz",
-      "ready": true
-    },
-    {
-      "path": "/bolgeler/torbali/karakizlar/",
-      "title": "Torbalı Karakızlar Çekici ve Yol Yardım | İzmir Oto Çekiciniz",
-      "ready": true
-    },
-    {
-      "path": "/bolgeler/torbali/ahmetli/",
-      "title": "Torbalı Ahmetli Çekici ve Yol Yardım | İzmir Oto Çekiciniz",
-      "ready": true
-    },
-    {
-      "path": "/bolgeler/torbali/kuscuburun/",
-      "title": "Torbalı Kuşçuburun Çekici ve Yol Yardım | İzmir Oto Çekiciniz",
-      "ready": true
-    },
-    {
-      "path": "/bolgeler/menemen/",
-      "title": "Menemen Çekici ve Yol Yardım | İzmir Oto Çekiciniz",
-      "ready": true
-    },
-    {
-      "path": "/bolgeler/bergama/",
-      "title": "Bergama Çekici ve Yol Yardım | İzmir Oto Çekiciniz",
-      "ready": true
-    },
-    {
-      "path": "/bolgeler/odemis/",
-      "title": "Ödemiş Çekici ve Yol Yardım | İzmir Oto Çekiciniz",
-      "ready": true
-    },
-    {
-      "path": "/bolgeler/tire/",
-      "title": "Tire Çekici ve Yol Yardım | İzmir Oto Çekiciniz",
-      "ready": true
-    },
-    {
-      "path": "/bolgeler/bayindir/",
-      "title": "Bayındır Çekici ve Yol Yardım | İzmir Oto Çekiciniz",
-      "ready": true
-    },
-    {
-      "path": "/bolgeler/selcuk/",
-      "title": "Selçuk Çekici ve Yol Yardım | İzmir Oto Çekiciniz",
-      "ready": true
-    },
-    {
-      "path": "/bolgeler/kinik/",
-      "title": "Kınık Çekici ve Yol Yardım | İzmir Oto Çekiciniz",
-      "ready": true
-    },
-    {
-      "path": "/bolgeler/kiraz/",
-      "title": "Kiraz Çekici ve Yol Yardım | İzmir Oto Çekiciniz",
-      "ready": true
-    },
-    {
-      "path": "/bolgeler/noktalar/nazilli/",
-      "title": "Nazilli Çekici ve Yol Yardım | İzmir Oto Çekiciniz",
-      "ready": true
-    },
-    {
-      "path": "/bolgeler/buca/golet/",
-      "title": "Buca Gölet Çekici ve Yol Yardım | İzmir Oto Çekiciniz",
-      "ready": true
-    },
-    {
-      "path": "/bolgeler/buca/belenbasi/",
-      "title": "Belenbaşı Çekici ve Yol Yardım | İzmir Oto Çekiciniz",
-      "ready": true
-    },
-    {
-      "path": "/bolgeler/bornova/pinarbasi/",
-      "title": "Pınarbaşı Çekici ve Yol Yardım | İzmir Oto Çekiciniz",
-      "ready": true
-    },
-    {
-      "path": "/bolgeler/aliaga/",
-      "title": "Aliağa Çekici ve Yol Yardım | İzmir Oto Çekiciniz",
-      "ready": true
-    },
-    {
-      "path": "/bolgeler/balcova/",
-      "title": "Balçova Çekici ve Yol Yardım | İzmir Oto Çekiciniz",
-      "ready": true
-    },
-    {
-      "path": "/bolgeler/bayrakli/",
-      "title": "Bayraklı Çekici ve Yol Yardım | İzmir Oto Çekiciniz",
-      "ready": true
-    },
-    {
-      "path": "/bolgeler/beydag/",
-      "title": "Beydağ Çekici ve Yol Yardım | İzmir Oto Çekiciniz",
-      "ready": true
-    },
-    {
-      "path": "/bolgeler/bornova/",
-      "title": "Bornova Çekici ve Yol Yardım | İzmir Oto Çekiciniz",
-      "ready": true
-    },
-    {
-      "path": "/bolgeler/buca/",
-      "title": "Buca Çekici ve Yol Yardım | İzmir Oto Çekiciniz",
-      "ready": true
-    },
-    {
-      "path": "/bolgeler/cesme/",
-      "title": "Çeşme Çekici ve Yol Yardım | İzmir Oto Çekiciniz",
-      "ready": true
-    },
-    {
-      "path": "/bolgeler/cigli/",
-      "title": "Çiğli Çekici ve Yol Yardım | İzmir Oto Çekiciniz",
-      "ready": true
-    },
-    {
-      "path": "/bolgeler/dikili/",
-      "title": "Dikili Çekici ve Yol Yardım | İzmir Oto Çekiciniz",
-      "ready": true
-    },
-    {
-      "path": "/bolgeler/foca/",
-      "title": "Foça Çekici ve Yol Yardım | İzmir Oto Çekiciniz",
-      "ready": true
-    },
-    {
-      "path": "/bolgeler/guzelbahce/",
-      "title": "Güzelbahçe Çekici ve Yol Yardım | İzmir Oto Çekiciniz",
-      "ready": true
-    },
-    {
-      "path": "/bolgeler/karabaglar/",
-      "title": "Karabağlar Çekici ve Yol Yardım | İzmir Oto Çekiciniz",
-      "ready": true
-    },
-    {
-      "path": "/bolgeler/karaburun/",
-      "title": "Karaburun Çekici ve Yol Yardım | İzmir Oto Çekiciniz",
-      "ready": true
-    },
-    {
-      "path": "/bolgeler/karsiyaka/",
-      "title": "Karşıyaka Çekici ve Yol Yardım | İzmir Oto Çekiciniz",
-      "ready": true
-    },
-    {
-      "path": "/bolgeler/kemalpasa/",
-      "title": "Kemalpaşa Çekici ve Yol Yardım | İzmir Oto Çekiciniz",
-      "ready": true
-    },
-    {
-      "path": "/bolgeler/konak/",
-      "title": "Konak Çekici ve Yol Yardım | İzmir Oto Çekiciniz",
-      "ready": true
-    },
-    {
       "path": "/bolgeler/narlidere/",
-      "title": "Narlıdere Çekici ve Yol Yardım | İzmir Oto Çekiciniz",
+      "title": "Narlıdere çekici ve yol yardım | İzmir Oto Çekiciniz",
       "ready": true
     },
     {
       "path": "/bolgeler/seferihisar/",
-      "title": "Seferihisar Çekici ve Yol Yardım | İzmir Oto Çekiciniz",
+      "title": "Seferihisar çekici ve yol yardım | İzmir Oto Çekiciniz",
       "ready": true
     },
     {
       "path": "/bolgeler/urla/",
-      "title": "Urla Çekici ve Yol Yardım | İzmir Oto Çekiciniz",
+      "title": "Urla çekici ve yol yardım | İzmir Oto Çekiciniz",
       "ready": true
     },
     {
       "path": "/bolgeler/konak/alsancak/",
-      "title": "Alsancak Çekici ve Yol Yardım | İzmir Oto Çekiciniz",
+      "title": "Alsancak çekici ve yol yardım | İzmir Oto Çekiciniz",
       "ready": true
     },
     {
       "path": "/bolgeler/karsiyaka/bostanli/",
-      "title": "Bostanlı Çekici ve Yol Yardım | İzmir Oto Çekiciniz",
+      "title": "Bostanlı çekici ve yol yardım | İzmir Oto Çekiciniz",
       "ready": true
     },
     {
       "path": "/bolgeler/karsiyaka/mavisehir/",
-      "title": "Mavişehir Çekici ve Yol Yardım | İzmir Oto Çekiciniz",
+      "title": "Mavişehir çekici ve yol yardım | İzmir Oto Çekiciniz",
       "ready": true
     },
     {
       "path": "/bolgeler/buca/sirinyer/",
-      "title": "Şirinyer Çekici ve Yol Yardım | İzmir Oto Çekiciniz",
+      "title": "Şirinyer çekici ve yol yardım | İzmir Oto Çekiciniz",
       "ready": true
     },
     {
       "path": "/bolgeler/gaziemir/sarnic/",
-      "title": "Sarnıç Çekici ve Yol Yardım | İzmir Oto Çekiciniz",
+      "title": "Sarnıç çekici ve yol yardım | İzmir Oto Çekiciniz",
       "ready": true
     },
     {
       "path": "/bolgeler/bornova/isikkent/",
-      "title": "Işıkkent Çekici ve Yol Yardım | İzmir Oto Çekiciniz",
+      "title": "Işıkkent çekici ve yol yardım | İzmir Oto Çekiciniz",
       "ready": true
     },
     {
       "path": "/bolgeler/konak/goztepe/",
-      "title": "Göztepe Çekici ve Yol Yardım | İzmir Oto Çekiciniz",
+      "title": "Göztepe çekici ve yol yardım | İzmir Oto Çekiciniz",
       "ready": true
     },
     {
       "path": "/bolgeler/konak/hatay/",
-      "title": "Hatay Çekici ve Yol Yardım | İzmir Oto Çekiciniz",
+      "title": "Hatay çekici ve yol yardım | İzmir Oto Çekiciniz",
       "ready": true
     },
     {
       "path": "/bolgeler/bornova/camdibi/",
-      "title": "Çamdibi Çekici ve Yol Yardım | İzmir Oto Çekiciniz",
+      "title": "Çamdibi çekici ve yol yardım | İzmir Oto Çekiciniz",
       "ready": true
     },
     {
       "path": "/bolgeler/bornova/ozkanlar/",
-      "title": "Özkanlar Çekici ve Yol Yardım | İzmir Oto Çekiciniz",
+      "title": "Özkanlar çekici ve yol yardım | İzmir Oto Çekiciniz",
       "ready": true
     },
     {
       "path": "/bolgeler/karabaglar/ucyol/",
-      "title": "Üçyol Çekici ve Yol Yardım | İzmir Oto Çekiciniz",
+      "title": "Üçyol çekici ve yol yardım | İzmir Oto Çekiciniz",
       "ready": true
     },
     {
       "path": "/bolgeler/kemalpasa/yesilyurt/",
-      "title": "Yeşilyurt Çekici ve Yol Yardım | İzmir Oto Çekiciniz",
+      "title": "Yeşilyurt çekici ve yol yardım | İzmir Oto Çekiciniz",
       "ready": true
     },
     {
       "path": "/bolgeler/urla/cesmealti/",
-      "title": "Çeşmealtı Çekici ve Yol Yardım | İzmir Oto Çekiciniz",
+      "title": "Çeşmealtı çekici ve yol yardım | İzmir Oto Çekiciniz",
       "ready": true
     },
     {
       "path": "/bolgeler/buca/adatepe/",
-      "title": "Adatepe Çekici ve Yol Yardım | İzmir Oto Çekiciniz",
+      "title": "Adatepe çekici ve yol yardım | İzmir Oto Çekiciniz",
       "ready": true
     },
     {
       "path": "/bolgeler/menderes/ahmetbeyli/",
-      "title": "Ahmetbeyli Çekici ve Yol Yardım | İzmir Oto Çekiciniz",
+      "title": "Ahmetbeyli çekici ve yol yardım | İzmir Oto Çekiciniz",
       "ready": true
     },
     {
       "path": "/bolgeler/menderes/akcakoy/",
-      "title": "Akçaköy Çekici ve Yol Yardım | İzmir Oto Çekiciniz",
+      "title": "Akçaköy çekici ve yol yardım | İzmir Oto Çekiciniz",
       "ready": true
     },
     {
       "path": "/bolgeler/noktalar/akincilar/",
-      "title": "Akıncılar Çekici ve Yol Yardım | İzmir Oto Çekiciniz",
+      "title": "Akıncılar çekici ve yol yardım | İzmir Oto Çekiciniz",
       "ready": true
     },
     {
       "path": "/bolgeler/noktalar/aktepe/",
-      "title": "Aktepe Çekici ve Yol Yardım | İzmir Oto Çekiciniz",
+      "title": "Aktepe çekici ve yol yardım | İzmir Oto Çekiciniz",
       "ready": true
     },
     {
       "path": "/bolgeler/bornova/altindag/",
-      "title": "Altındağ Çekici ve Yol Yardım | İzmir Oto Çekiciniz",
+      "title": "Altındağ çekici ve yol yardım | İzmir Oto Çekiciniz",
       "ready": true
     },
     {
       "path": "/bolgeler/noktalar/altinevler/",
-      "title": "Altınevler Çekici ve Yol Yardım | İzmir Oto Çekiciniz",
+      "title": "Altınevler çekici ve yol yardım | İzmir Oto Çekiciniz",
       "ready": true
     },
     {
       "path": "/bolgeler/noktalar/altintas/",
-      "title": "Altıntaş Çekici ve Yol Yardım | İzmir Oto Çekiciniz",
+      "title": "Altıntaş çekici ve yol yardım | İzmir Oto Çekiciniz",
       "ready": true
     },
     {
       "path": "/bolgeler/menderes/atakoy/",
-      "title": "Ataköy Çekici ve Yol Yardım | İzmir Oto Çekiciniz",
+      "title": "Ataköy çekici ve yol yardım | İzmir Oto Çekiciniz",
       "ready": true
     },
     {
       "path": "/bolgeler/karabaglar/aydin-mahallesi/",
-      "title": "Aydın Mahallesi Çekici ve Yol Yardım | İzmir Oto Çekiciniz",
+      "title": "Aydın Mahallesi çekici ve yol yardım | İzmir Oto Çekiciniz",
       "ready": true
     },
     {
       "path": "/bolgeler/balcova/bahcelerarasi/",
-      "title": "Bahçelerarası Çekici ve Yol Yardım | İzmir Oto Çekiciniz",
+      "title": "Bahçelerarası çekici ve yol yardım | İzmir Oto Çekiciniz",
       "ready": true
     },
     {
       "path": "/bolgeler/noktalar/bahcelievler/",
-      "title": "Bahçelievler Çekici ve Yol Yardım | İzmir Oto Çekiciniz",
+      "title": "Bahçelievler çekici ve yol yardım | İzmir Oto Çekiciniz",
       "ready": true
     },
     {
       "path": "/bolgeler/urla/balikli-ova/",
-      "title": "Balıklı Ova Çekici ve Yol Yardım | İzmir Oto Çekiciniz",
+      "title": "Balıklı Ova çekici ve yol yardım | İzmir Oto Çekiciniz",
       "ready": true
     },
     {
       "path": "/bolgeler/noktalar/barbaros-mahallesi/",
-      "title": "Barbaros Mahallesi Çekici ve Yol Yardım | İzmir Oto Çekiciniz",
+      "title": "Barbaros Mahallesi çekici ve yol yardım | İzmir Oto Çekiciniz",
       "ready": true
     },
     {
       "path": "/bolgeler/karabaglar/basin-sitesi/",
-      "title": "Basın Sitesi Çekici ve Yol Yardım | İzmir Oto Çekiciniz",
+      "title": "Basın Sitesi çekici ve yol yardım | İzmir Oto Çekiciniz",
       "ready": true
     },
     {
       "path": "/bolgeler/konak/basmane/",
-      "title": "Basmane Çekici ve Yol Yardım | İzmir Oto Çekiciniz",
+      "title": "Basmane çekici ve yol yardım | İzmir Oto Çekiciniz",
       "ready": true
     },
     {
       "path": "/bolgeler/selcuk/belevi/",
-      "title": "Belevi Çekici ve Yol Yardım | İzmir Oto Çekiciniz",
+      "title": "Belevi çekici ve yol yardım | İzmir Oto Çekiciniz",
       "ready": true
     },
     {
       "path": "/bolgeler/noktalar/beton-yol/",
-      "title": "Beton Yol Çekici ve Yol Yardım | İzmir Oto Çekiciniz",
+      "title": "Beton Yol çekici ve yol yardım | İzmir Oto Çekiciniz",
       "ready": true
     },
     {
       "path": "/bolgeler/gaziemir/beyazevler/",
-      "title": "Beyazevler Çekici ve Yol Yardım | İzmir Oto Çekiciniz",
+      "title": "Beyazevler çekici ve yol yardım | İzmir Oto Çekiciniz",
       "ready": true
     },
     {
       "path": "/bolgeler/karabaglar/bozyaka/",
-      "title": "Bozyaka Çekici ve Yol Yardım | İzmir Oto Çekiciniz",
+      "title": "Bozyaka çekici ve yol yardım | İzmir Oto Çekiciniz",
       "ready": true
     },
     {
       "path": "/bolgeler/menderes/bulgurca/",
-      "title": "Bulgurca Çekici ve Yol Yardım | İzmir Oto Çekiciniz",
+      "title": "Bulgurca çekici ve yol yardım | İzmir Oto Çekiciniz",
       "ready": true
     },
     {
       "path": "/bolgeler/karabaglar/cennet-cesme/",
-      "title": "Cennet Çeşme Çekici ve Yol Yardım | İzmir Oto Çekiciniz",
+      "title": "Cennet Çeşme çekici ve yol yardım | İzmir Oto Çekiciniz",
       "ready": true
     },
     {
       "path": "/bolgeler/karabaglar/cennetoglu/",
-      "title": "Cennetoğlu Çekici ve Yol Yardım | İzmir Oto Çekiciniz",
+      "title": "Cennetoğlu çekici ve yol yardım | İzmir Oto Çekiciniz",
       "ready": true
     },
     {
       "path": "/bolgeler/noktalar/cam-tepe/",
-      "title": "Çam Tepe Çekici ve Yol Yardım | İzmir Oto Çekiciniz",
+      "title": "Çam Tepe çekici ve yol yardım | İzmir Oto Çekiciniz",
       "ready": true
     },
     {
       "path": "/bolgeler/bergama/camkoy/",
-      "title": "Çamköy Çekici ve Yol Yardım | İzmir Oto Çekiciniz",
+      "title": "Çamköy çekici ve yol yardım | İzmir Oto Çekiciniz",
       "ready": true
     },
     {
       "path": "/bolgeler/buca/camlikule/",
-      "title": "Çamlıkule Çekici ve Yol Yardım | İzmir Oto Çekiciniz",
+      "title": "Çamlıkule çekici ve yol yardım | İzmir Oto Çekiciniz",
       "ready": true
     },
     {
       "path": "/bolgeler/menderes/camonu/",
-      "title": "Çamönü Çekici ve Yol Yardım | İzmir Oto Çekiciniz",
+      "title": "Çamönü çekici ve yol yardım | İzmir Oto Çekiciniz",
       "ready": true
     },
     {
       "path": "/bolgeler/konak/cankaya/",
-      "title": "Çankaya Çekici ve Yol Yardım | İzmir Oto Çekiciniz",
+      "title": "Çankaya çekici ve yol yardım | İzmir Oto Çekiciniz",
       "ready": true
     },
     {
       "path": "/bolgeler/menderes/catalca/",
-      "title": "Çatalca Çekici ve Yol Yardım | İzmir Oto Çekiciniz",
+      "title": "Çatalca çekici ve yol yardım | İzmir Oto Çekiciniz",
       "ready": true
     },
     {
       "path": "/bolgeler/noktalar/catalkaya/",
-      "title": "Çatalkaya Çekici ve Yol Yardım | İzmir Oto Çekiciniz",
+      "title": "Çatalkaya çekici ve yol yardım | İzmir Oto Çekiciniz",
       "ready": true
     },
     {
       "path": "/bolgeler/noktalar/cataltepe/",
-      "title": "Çataltepe Çekici ve Yol Yardım | İzmir Oto Çekiciniz",
+      "title": "Çataltepe çekici ve yol yardım | İzmir Oto Çekiciniz",
       "ready": true
     },
     {
       "path": "/bolgeler/konak/cinarli/",
-      "title": "Çınarlı Çekici ve Yol Yardım | İzmir Oto Çekiciniz",
+      "title": "Çınarlı çekici ve yol yardım | İzmir Oto Çekiciniz",
       "ready": true
     },
     {
       "path": "/bolgeler/noktalar/ciceklikoy/",
-      "title": "Çiçekliköy Çekici ve Yol Yardım | İzmir Oto Çekiciniz",
+      "title": "Çiçekliköy çekici ve yol yardım | İzmir Oto Çekiciniz",
       "ready": true
     },
     {
       "path": "/bolgeler/menderes/cile/",
-      "title": "Çile Çekici ve Yol Yardım | İzmir Oto Çekiciniz",
+      "title": "Çile çekici ve yol yardım | İzmir Oto Çekiciniz",
       "ready": true
     },
     {
       "path": "/bolgeler/menderes/cileme/",
-      "title": "Çileme Çekici ve Yol Yardım | İzmir Oto Çekiciniz",
+      "title": "Çileme çekici ve yol yardım | İzmir Oto Çekiciniz",
       "ready": true
     },
     {
       "path": "/bolgeler/menemen/degirmendere/",
-      "title": "Değirmendere Çekici ve Yol Yardım | İzmir Oto Çekiciniz",
+      "title": "Değirmendere çekici ve yol yardım | İzmir Oto Çekiciniz",
       "ready": true
     },
     {
       "path": "/bolgeler/menderes/develi/",
-      "title": "Develi Çekici ve Yol Yardım | İzmir Oto Çekiciniz",
+      "title": "Develi çekici ve yol yardım | İzmir Oto Çekiciniz",
       "ready": true
     },
     {
       "path": "/bolgeler/bornova/doganlar/",
-      "title": "Doğanlar Çekici ve Yol Yardım | İzmir Oto Çekiciniz",
+      "title": "Doğanlar çekici ve yol yardım | İzmir Oto Çekiciniz",
       "ready": true
     },
     {
       "path": "/bolgeler/bornova/egemenlik/",
-      "title": "Egemenlik Çekici ve Yol Yardım | İzmir Oto Çekiciniz",
+      "title": "Egemenlik çekici ve yol yardım | İzmir Oto Çekiciniz",
       "ready": true
     },
     {
       "path": "/bolgeler/bornova/erzene-mahallesi/",
-      "title": "Erzene Mahallesi Çekici ve Yol Yardım | İzmir Oto Çekiciniz",
+      "title": "Erzene Mahallesi çekici ve yol yardım | İzmir Oto Çekiciniz",
       "ready": true
     },
     {
       "path": "/bolgeler/noktalar/esendere/",
-      "title": "Esendere Çekici ve Yol Yardım | İzmir Oto Çekiciniz",
+      "title": "Esendere çekici ve yol yardım | İzmir Oto Çekiciniz",
       "ready": true
     },
     {
       "path": "/bolgeler/noktalar/esenkent/",
-      "title": "Esenkent Çekici ve Yol Yardım | İzmir Oto Çekiciniz",
+      "title": "Esenkent çekici ve yol yardım | İzmir Oto Çekiciniz",
       "ready": true
     },
     {
       "path": "/bolgeler/noktalar/esentepe/",
-      "title": "Esentepe Çekici ve Yol Yardım | İzmir Oto Çekiciniz",
+      "title": "Esentepe çekici ve yol yardım | İzmir Oto Çekiciniz",
       "ready": true
     },
     {
       "path": "/bolgeler/buca/evka-1/",
-      "title": "Evka 1 Çekici ve Yol Yardım | İzmir Oto Çekiciniz",
+      "title": "Evka 1 çekici ve yol yardım | İzmir Oto Çekiciniz",
       "ready": true
     },
     {
       "path": "/bolgeler/cigli/evka-2/",
-      "title": "Evka 2 Çekici ve Yol Yardım | İzmir Oto Çekiciniz",
+      "title": "Evka 2 çekici ve yol yardım | İzmir Oto Çekiciniz",
       "ready": true
     },
     {
       "path": "/bolgeler/bornova/evka-3/",
-      "title": "Evka 3 Çekici ve Yol Yardım | İzmir Oto Çekiciniz",
+      "title": "Evka 3 çekici ve yol yardım | İzmir Oto Çekiciniz",
       "ready": true
     },
     {
       "path": "/bolgeler/bornova/evka-4/",
-      "title": "Evka 4 Çekici ve Yol Yardım | İzmir Oto Çekiciniz",
+      "title": "Evka 4 çekici ve yol yardım | İzmir Oto Çekiciniz",
       "ready": true
     },
     {
       "path": "/bolgeler/cigli/evka-5/",
-      "title": "Evka 5 Çekici ve Yol Yardım | İzmir Oto Çekiciniz",
+      "title": "Evka 5 çekici ve yol yardım | İzmir Oto Çekiciniz",
       "ready": true
     },
     {
       "path": "/bolgeler/cigli/evka-6/",
-      "title": "Evka 6 Çekici ve Yol Yardım | İzmir Oto Çekiciniz",
+      "title": "Evka 6 çekici ve yol yardım | İzmir Oto Çekiciniz",
       "ready": true
     },
     {
       "path": "/bolgeler/cigli/evka-7/",
-      "title": "Evka 7 Çekici ve Yol Yardım | İzmir Oto Çekiciniz",
+      "title": "Evka 7 çekici ve yol yardım | İzmir Oto Çekiciniz",
       "ready": true
     },
     {
       "path": "/bolgeler/karabaglar/fahrettin-altay/",
-      "title": "Fahrettin Altay Çekici ve Yol Yardım | İzmir Oto Çekiciniz",
+      "title": "Fahrettin Altay çekici ve yol yardım | İzmir Oto Çekiciniz",
       "ready": true
     },
     {
       "path": "/bolgeler/noktalar/gediz/",
-      "title": "Gediz Çekici ve Yol Yardım | İzmir Oto Çekiciniz",
+      "title": "Gediz çekici ve yol yardım | İzmir Oto Çekiciniz",
       "ready": true
     },
     {
       "path": "/bolgeler/bornova/gokdere/",
-      "title": "Gökdere Çekici ve Yol Yardım | İzmir Oto Çekiciniz",
+      "title": "Gökdere çekici ve yol yardım | İzmir Oto Çekiciniz",
       "ready": true
     },
     {
       "path": "/bolgeler/buca/goksu/",
-      "title": "Göksu Çekici ve Yol Yardım | İzmir Oto Çekiciniz",
+      "title": "Göksu çekici ve yol yardım | İzmir Oto Çekiciniz",
       "ready": true
     },
     {
       "path": "/bolgeler/menemen/gorece/",
-      "title": "Görece Çekici ve Yol Yardım | İzmir Oto Çekiciniz",
+      "title": "Görece çekici ve yol yardım | İzmir Oto Çekiciniz",
       "ready": true
     },
     {
       "path": "/bolgeler/urla/gulbahce/",
-      "title": "Gülbahçe Çekici ve Yol Yardım | İzmir Oto Çekiciniz",
+      "title": "Gülbahçe çekici ve yol yardım | İzmir Oto Çekiciniz",
       "ready": true
     },
     {
       "path": "/bolgeler/karabaglar/gulyaka/",
-      "title": "Gülyaka Çekici ve Yol Yardım | İzmir Oto Çekiciniz",
+      "title": "Gülyaka çekici ve yol yardım | İzmir Oto Çekiciniz",
       "ready": true
     },
     {
       "path": "/bolgeler/menderes/gumuldur/",
-      "title": "Gümüldür Çekici ve Yol Yardım | İzmir Oto Çekiciniz",
+      "title": "Gümüldür çekici ve yol yardım | İzmir Oto Çekiciniz",
       "ready": true
     },
     {
       "path": "/bolgeler/karabaglar/gunaltay/",
-      "title": "Günaltay Çekici ve Yol Yardım | İzmir Oto Çekiciniz",
+      "title": "Günaltay çekici ve yol yardım | İzmir Oto Çekiciniz",
       "ready": true
     },
     {
       "path": "/bolgeler/konak/guzelyali/",
-      "title": "Güzelyalı Çekici ve Yol Yardım | İzmir Oto Çekiciniz",
+      "title": "Güzelyalı çekici ve yol yardım | İzmir Oto Çekiciniz",
       "ready": true
     },
     {
       "path": "/bolgeler/gaziemir/havalimani/",
-      "title": "Havalimanı Çekici ve Yol Yardım | İzmir Oto Çekiciniz",
+      "title": "Havalimanı çekici ve yol yardım | İzmir Oto Çekiciniz",
       "ready": true
     },
     {
       "path": "/bolgeler/noktalar/irmak-mahallesi/",
-      "title": "Irmak Mahallesi Çekici ve Yol Yardım | İzmir Oto Çekiciniz",
+      "title": "Irmak Mahallesi çekici ve yol yardım | İzmir Oto Çekiciniz",
       "ready": true
     },
     {
       "path": "/bolgeler/urla/icmeler/",
-      "title": "İçmeler Çekici ve Yol Yardım | İzmir Oto Çekiciniz",
+      "title": "İçmeler çekici ve yol yardım | İzmir Oto Çekiciniz",
       "ready": true
     },
     {
       "path": "/bolgeler/balcova/inciralti/",
-      "title": "İnciraltı Çekici ve Yol Yardım | İzmir Oto Çekiciniz",
+      "title": "İnciraltı çekici ve yol yardım | İzmir Oto Çekiciniz",
       "ready": true
     },
     {
       "path": "/bolgeler/noktalar/inonu/",
-      "title": "İnönü Çekici ve Yol Yardım | İzmir Oto Çekiciniz",
+      "title": "İnönü çekici ve yol yardım | İzmir Oto Çekiciniz",
       "ready": true
     },
     {
       "path": "/bolgeler/noktalar/karatas/",
-      "title": "Karataş Çekici ve Yol Yardım | İzmir Oto Çekiciniz",
+      "title": "Karataş çekici ve yol yardım | İzmir Oto Çekiciniz",
       "ready": true
     },
     {
       "path": "/bolgeler/bornova/kavaklidere/",
-      "title": "Kavaklıdere Çekici ve Yol Yardım | İzmir Oto Çekiciniz",
+      "title": "Kavaklıdere çekici ve yol yardım | İzmir Oto Çekiciniz",
       "ready": true
     },
     {
       "path": "/bolgeler/buca/kaynaklar/",
-      "title": "Kaynaklar Çekici ve Yol Yardım | İzmir Oto Çekiciniz",
+      "title": "Kaynaklar çekici ve yol yardım | İzmir Oto Çekiciniz",
       "ready": true
     },
     {
       "path": "/bolgeler/noktalar/kazimdirik/",
-      "title": "Kazımdirik Çekici ve Yol Yardım | İzmir Oto Çekiciniz",
+      "title": "Kazımdirik çekici ve yol yardım | İzmir Oto Çekiciniz",
       "ready": true
     },
     {
       "path": "/bolgeler/menderes/kisik/",
-      "title": "Kısık Çekici ve Yol Yardım | İzmir Oto Çekiciniz",
+      "title": "Kısık çekici ve yol yardım | İzmir Oto Çekiciniz",
       "ready": true
     },
     {
       "path": "/bolgeler/buca/kozagac/",
-      "title": "Kozağaç Çekici ve Yol Yardım | İzmir Oto Çekiciniz",
+      "title": "Kozağaç çekici ve yol yardım | İzmir Oto Çekiciniz",
       "ready": true
     },
     {
       "path": "/bolgeler/buca/kurucesme/",
-      "title": "Kuruçeşme Çekici ve Yol Yardım | İzmir Oto Çekiciniz",
+      "title": "Kuruçeşme çekici ve yol yardım | İzmir Oto Çekiciniz",
       "ready": true
     },
     {
       "path": "/bolgeler/noktalar/kucuk-park/",
-      "title": "Küçük Park Çekici ve Yol Yardım | İzmir Oto Çekiciniz",
+      "title": "Küçük Park çekici ve yol yardım | İzmir Oto Çekiciniz",
       "ready": true
     },
     {
       "path": "/bolgeler/noktalar/kucukyali/",
-      "title": "Küçükyalı Çekici ve Yol Yardım | İzmir Oto Çekiciniz",
+      "title": "Küçükyalı çekici ve yol yardım | İzmir Oto Çekiciniz",
       "ready": true
     },
     {
       "path": "/bolgeler/menderes/kuner/",
-      "title": "Küner Çekici ve Yol Yardım | İzmir Oto Çekiciniz",
+      "title": "Küner çekici ve yol yardım | İzmir Oto Çekiciniz",
       "ready": true
     },
     {
       "path": "/bolgeler/bornova/laka-mahallesi/",
-      "title": "Laka Mahallesi Çekici ve Yol Yardım | İzmir Oto Çekiciniz",
+      "title": "Laka Mahallesi çekici ve yol yardım | İzmir Oto Çekiciniz",
       "ready": true
     },
     {
       "path": "/bolgeler/guzelbahce/liman-reis/",
-      "title": "Liman Reis Çekici ve Yol Yardım | İzmir Oto Çekiciniz",
+      "title": "Liman Reis çekici ve yol yardım | İzmir Oto Çekiciniz",
       "ready": true
     },
     {
       "path": "/bolgeler/karabaglar/limontepe/",
-      "title": "Limontepe Çekici ve Yol Yardım | İzmir Oto Çekiciniz",
+      "title": "Limontepe çekici ve yol yardım | İzmir Oto Çekiciniz",
       "ready": true
     },
     {
       "path": "/bolgeler/noktalar/maltepe/",
-      "title": "Maltepe Çekici ve Yol Yardım | İzmir Oto Çekiciniz",
+      "title": "Maltepe çekici ve yol yardım | İzmir Oto Çekiciniz",
       "ready": true
     },
     {
       "path": "/bolgeler/bayrakli/manavkuyu/",
-      "title": "Manavkuyu Çekici ve Yol Yardım | İzmir Oto Çekiciniz",
+      "title": "Manavkuyu çekici ve yol yardım | İzmir Oto Çekiciniz",
       "ready": true
     },
     {
       "path": "/bolgeler/noktalar/menderes-mahallesi/",
-      "title": "Menderes Mahallesi Çekici ve Yol Yardım | İzmir Oto Çekiciniz",
+      "title": "Menderes Mahallesi çekici ve yol yardım | İzmir Oto Çekiciniz",
       "ready": true
     },
     {
       "path": "/bolgeler/bornova/mevlana-mahallesi/",
-      "title": "Mevlana Mahallesi Çekici ve Yol Yardım | İzmir Oto Çekiciniz",
+      "title": "Mevlana Mahallesi çekici ve yol yardım | İzmir Oto Çekiciniz",
       "ready": true
     },
     {
       "path": "/bolgeler/bornova/naldoken/",
-      "title": "Naldöken Çekici ve Yol Yardım | İzmir Oto Çekiciniz",
+      "title": "Naldöken çekici ve yol yardım | İzmir Oto Çekiciniz",
       "ready": true
     },
     {
       "path": "/bolgeler/noktalar/narbel/",
-      "title": "Narbel Çekici ve Yol Yardım | İzmir Oto Çekiciniz",
+      "title": "Narbel çekici ve yol yardım | İzmir Oto Çekiciniz",
       "ready": true
     },
     {
       "path": "/bolgeler/narlidere/narli/",
-      "title": "Narlı Çekici ve Yol Yardım | İzmir Oto Çekiciniz",
+      "title": "Narlı çekici ve yol yardım | İzmir Oto Çekiciniz",
       "ready": true
     },
     {
       "path": "/bolgeler/menderes/oglananasi/",
-      "title": "Oğlananası Çekici ve Yol Yardım | İzmir Oto Çekiciniz",
+      "title": "Oğlananası çekici ve yol yardım | İzmir Oto Çekiciniz",
       "ready": true
     },
     {
       "path": "/bolgeler/noktalar/onur-mahallesi/",
-      "title": "Onur Mahallesi Çekici ve Yol Yardım | İzmir Oto Çekiciniz",
+      "title": "Onur Mahallesi çekici ve yol yardım | İzmir Oto Çekiciniz",
       "ready": true
     },
     {
       "path": "/bolgeler/urla/ozbek/",
-      "title": "Özbek Çekici ve Yol Yardım | İzmir Oto Çekiciniz",
+      "title": "Özbek çekici ve yol yardım | İzmir Oto Çekiciniz",
       "ready": true
     },
     {
       "path": "/bolgeler/menderes/ozdere/",
-      "title": "Özdere Çekici ve Yol Yardım | İzmir Oto Çekiciniz",
+      "title": "Özdere çekici ve yol yardım | İzmir Oto Çekiciniz",
       "ready": true
     },
     {
       "path": "/bolgeler/noktalar/payamli/",
-      "title": "Payamlı Çekici ve Yol Yardım | İzmir Oto Çekiciniz",
+      "title": "Payamlı çekici ve yol yardım | İzmir Oto Çekiciniz",
       "ready": true
     },
     {
       "path": "/bolgeler/noktalar/peker-mahallesi/",
-      "title": "Peker Mahallesi Çekici ve Yol Yardım | İzmir Oto Çekiciniz",
+      "title": "Peker Mahallesi çekici ve yol yardım | İzmir Oto Çekiciniz",
       "ready": true
     },
     {
       "path": "/bolgeler/karabaglar/poligon/",
-      "title": "Poligon Çekici ve Yol Yardım | İzmir Oto Çekiciniz",
+      "title": "Poligon çekici ve yol yardım | İzmir Oto Çekiciniz",
       "ready": true
     },
     {
       "path": "/bolgeler/noktalar/selway/",
-      "title": "Selway Çekici ve Yol Yardım | İzmir Oto Çekiciniz",
+      "title": "Selway çekici ve yol yardım | İzmir Oto Çekiciniz",
       "ready": true
     },
     {
       "path": "/bolgeler/seferihisar/sigacik/",
-      "title": "Sığacık Çekici ve Yol Yardım | İzmir Oto Çekiciniz",
+      "title": "Sığacık çekici ve yol yardım | İzmir Oto Çekiciniz",
       "ready": true
     },
     {
       "path": "/bolgeler/noktalar/siteler/",
-      "title": "Siteler Çekici ve Yol Yardım | İzmir Oto Çekiciniz",
+      "title": "Siteler çekici ve yol yardım | İzmir Oto Çekiciniz",
       "ready": true
     },
     {
       "path": "/bolgeler/menderes/sasal/",
-      "title": "Şaşal Çekici ve Yol Yardım | İzmir Oto Çekiciniz",
+      "title": "Şaşal çekici ve yol yardım | İzmir Oto Çekiciniz",
       "ready": true
     },
     {
       "path": "/bolgeler/karsiyaka/semikler/",
-      "title": "Şemikler Çekici ve Yol Yardım | İzmir Oto Çekiciniz",
+      "title": "Şemikler çekici ve yol yardım | İzmir Oto Çekiciniz",
       "ready": true
     },
     {
       "path": "/bolgeler/noktalar/tekeli-turkmen/",
-      "title": "Tekeli Türkmen Çekici ve Yol Yardım | İzmir Oto Çekiciniz",
+      "title": "Tekeli Türkmen çekici ve yol yardım | İzmir Oto Çekiciniz",
       "ready": true
     },
     {
       "path": "/bolgeler/balcova/teleferik/",
-      "title": "Teleferik Çekici ve Yol Yardım | İzmir Oto Çekiciniz",
+      "title": "Teleferik çekici ve yol yardım | İzmir Oto Çekiciniz",
       "ready": true
     },
     {
       "path": "/bolgeler/bornova/tuna/",
-      "title": "Tuna Çekici ve Yol Yardım | İzmir Oto Çekiciniz",
+      "title": "Tuna çekici ve yol yardım | İzmir Oto Çekiciniz",
       "ready": true
     },
     {
       "path": "/bolgeler/seferihisar/ulamis/",
-      "title": "Ulamış Çekici ve Yol Yardım | İzmir Oto Çekiciniz",
+      "title": "Ulamış çekici ve yol yardım | İzmir Oto Çekiciniz",
       "ready": true
     },
     {
       "path": "/bolgeler/kemalpasa/ulucak/",
-      "title": "Ulucak Çekici ve Yol Yardım | İzmir Oto Çekiciniz",
+      "title": "Ulucak çekici ve yol yardım | İzmir Oto Çekiciniz",
       "ready": true
     },
     {
       "path": "/bolgeler/urla/iskele/",
-      "title": "Urla İskele Çekici ve Yol Yardım | İzmir Oto Çekiciniz",
+      "title": "Urla İskele çekici ve yol yardım | İzmir Oto Çekiciniz",
       "ready": true
     },
     {
       "path": "/bolgeler/noktalar/uzundere/",
-      "title": "Uzundere Çekici ve Yol Yardım | İzmir Oto Çekiciniz",
+      "title": "Uzundere çekici ve yol yardım | İzmir Oto Çekiciniz",
       "ready": true
     },
     {
       "path": "/bolgeler/seferihisar/urkmez/",
-      "title": "Ürkmez Çekici ve Yol Yardım | İzmir Oto Çekiciniz",
+      "title": "Ürkmez çekici ve yol yardım | İzmir Oto Çekiciniz",
       "ready": true
     },
     {
       "path": "/bolgeler/noktalar/yaka-mahallesi/",
-      "title": "Yaka Mahallesi Çekici ve Yol Yardım | İzmir Oto Çekiciniz",
+      "title": "Yaka Mahallesi çekici ve yol yardım | İzmir Oto Çekiciniz",
       "ready": true
     },
     {
       "path": "/bolgeler/noktalar/yali-mahallesi/",
-      "title": "Yalı Mahallesi Çekici ve Yol Yardım | İzmir Oto Çekiciniz",
+      "title": "Yalı Mahallesi çekici ve yol yardım | İzmir Oto Çekiciniz",
       "ready": true
     },
     {
       "path": "/bolgeler/narlidere/yenikale/",
-      "title": "Yenikale Çekici ve Yol Yardım | İzmir Oto Çekiciniz",
+      "title": "Yenikale çekici ve yol yardım | İzmir Oto Çekiciniz",
       "ready": true
     },
     {
       "path": "/bolgeler/noktalar/yenikoy/",
-      "title": "Yeniköy Çekici ve Yol Yardım | İzmir Oto Çekiciniz",
+      "title": "Yeniköy çekici ve yol yardım | İzmir Oto Çekiciniz",
       "ready": true
     },
     {
       "path": "/bolgeler/noktalar/yesilova/",
-      "title": "Yeşilova Çekici ve Yol Yardım | İzmir Oto Çekiciniz",
+      "title": "Yeşilova çekici ve yol yardım | İzmir Oto Çekiciniz",
       "ready": true
     },
     {
       "path": "/bolgeler/noktalar/yildiz-mahallesi/",
-      "title": "Yıldız Mahallesi Çekici ve Yol Yardım | İzmir Oto Çekiciniz",
+      "title": "Yıldız Mahallesi çekici ve yol yardım | İzmir Oto Çekiciniz",
       "ready": true
     },
     {
       "path": "/bolgeler/urla/zeytinler/",
-      "title": "Zeytinler Çekici ve Yol Yardım | İzmir Oto Çekiciniz",
+      "title": "Zeytinler çekici ve yol yardım | İzmir Oto Çekiciniz",
       "ready": true
     },
     {
       "path": "/bolgeler/karabaglar/uckuyular/",
-      "title": "Üçkuyular Çekici ve Yol Yardım | İzmir Oto Çekiciniz",
+      "title": "Üçkuyular çekici ve yol yardım | İzmir Oto Çekiciniz",
       "ready": true
     },
     {
       "path": "/bolgeler/noktalar/eskiizmir/",
-      "title": "Eskiizmir Çekici ve Yol Yardım | İzmir Oto Çekiciniz",
+      "title": "Eskiizmir çekici ve yol yardım | İzmir Oto Çekiciniz",
       "ready": true
     },
     {
       "path": "/bolgeler/narlidere/sahilevleri/",
-      "title": "Sahilevleri Çekici ve Yol Yardım | İzmir Oto Çekiciniz",
+      "title": "Sahilevleri çekici ve yol yardım | İzmir Oto Çekiciniz",
       "ready": true
     },
     {
       "path": "/bolgeler/selcuk/sirince/",
-      "title": "Şirince Çekici ve Yol Yardım | İzmir Oto Çekiciniz",
+      "title": "Şirince çekici ve yol yardım | İzmir Oto Çekiciniz",
       "ready": true
     },
     {
       "path": "/guzergahlar/manisa-yolu/",
-      "title": "Manisa Yolu Çekici ve Yol Yardım | İzmir Oto Çekiciniz",
+      "title": "Manisa Yolu çekici ve yol yardım | İzmir Oto Çekiciniz",
       "ready": true
     },
     {
       "path": "/bolgeler/noktalar/karakoy/",
-      "title": "Karaköy Çekici ve Yol Yardım | İzmir Oto Çekiciniz",
+      "title": "Karaköy çekici ve yol yardım | İzmir Oto Çekiciniz",
       "ready": true
     },
     {
       "path": "/bolgeler/noktalar/ataturk-mahallesi/",
-      "title": "Atatürk Mahallesi Çekici ve Yol Yardım | İzmir Oto Çekiciniz",
+      "title": "Atatürk Mahallesi çekici ve yol yardım | İzmir Oto Çekiciniz",
       "ready": true
     },
     {
       "path": "/bolgeler/guzelbahce/celebi-mahallesi/",
-      "title": "Çelebi Mahallesi Çekici ve Yol Yardım | İzmir Oto Çekiciniz",
+      "title": "Çelebi Mahallesi çekici ve yol yardım | İzmir Oto Çekiciniz",
       "ready": true
     },
     {
       "path": "/bolgeler/noktalar/kucukkaya/",
-      "title": "Küçükkaya Çekici ve Yol Yardım | İzmir Oto Çekiciniz",
+      "title": "Küçükkaya çekici ve yol yardım | İzmir Oto Çekiciniz",
       "ready": true
     },
     {
       "path": "/bolgeler/noktalar/eserkent/",
-      "title": "Eserkent Çekici ve Yol Yardım | İzmir Oto Çekiciniz",
+      "title": "Eserkent çekici ve yol yardım | İzmir Oto Çekiciniz",
       "ready": true
     },
     {
       "path": "/bolgeler/selcuk/zeytinkoy/",
-      "title": "Zeytinköy Çekici ve Yol Yardım | İzmir Oto Çekiciniz",
+      "title": "Zeytinköy çekici ve yol yardım | İzmir Oto Çekiciniz",
       "ready": true
     },
     {
       "path": "/bolgeler/selcuk/acarlar/",
-      "title": "Acarlar Çekici ve Yol Yardım | İzmir Oto Çekiciniz",
+      "title": "Acarlar çekici ve yol yardım | İzmir Oto Çekiciniz",
       "ready": true
     },
     {
       "path": "/bolgeler/selcuk/barutcu/",
-      "title": "Barutçu Çekici ve Yol Yardım | İzmir Oto Çekiciniz",
+      "title": "Barutçu çekici ve yol yardım | İzmir Oto Çekiciniz",
       "ready": true
     },
     {
       "path": "/bolgeler/torbali/19-mayis/",
-      "title": "Torbalı 19 Mayıs Çekici ve Yol Yardım | İzmir Oto Çekiciniz",
+      "title": "Torbalı 19 Mayıs çekici ve yol yardım | İzmir Oto Çekiciniz",
       "ready": true
     },
     {
       "path": "/bolgeler/torbali/arslanlar/",
-      "title": "Torbalı Arslanlar Çekici ve Yol Yardım | İzmir Oto Çekiciniz",
+      "title": "Torbalı Arslanlar çekici ve yol yardım | İzmir Oto Çekiciniz",
       "ready": true
     },
     {
       "path": "/bolgeler/torbali/atalan/",
-      "title": "Torbalı Atalan Çekici ve Yol Yardım | İzmir Oto Çekiciniz",
+      "title": "Torbalı Atalan çekici ve yol yardım | İzmir Oto Çekiciniz",
       "ready": true
     },
     {
       "path": "/bolgeler/torbali/ataturk/",
-      "title": "Torbalı Atatürk Çekici ve Yol Yardım | İzmir Oto Çekiciniz",
+      "title": "Torbalı Atatürk çekici ve yol yardım | İzmir Oto Çekiciniz",
       "ready": true
     },
     {
       "path": "/bolgeler/torbali/bahcelievler/",
-      "title": "Torbalı Bahçelievler Çekici ve Yol Yardım | İzmir Oto Çekiciniz",
+      "title": "Torbalı Bahçelievler çekici ve yol yardım | İzmir Oto Çekiciniz",
       "ready": true
     },
     {
       "path": "/bolgeler/torbali/bozkoy/",
-      "title": "Torbalı Bozköy Çekici ve Yol Yardım | İzmir Oto Çekiciniz",
+      "title": "Torbalı Bozköy çekici ve yol yardım | İzmir Oto Çekiciniz",
       "ready": true
     },
     {
       "path": "/bolgeler/torbali/bulbuldere/",
-      "title": "Torbalı Bülbüldere Çekici ve Yol Yardım | İzmir Oto Çekiciniz",
+      "title": "Torbalı Bülbüldere çekici ve yol yardım | İzmir Oto Çekiciniz",
       "ready": true
     },
     {
       "path": "/bolgeler/torbali/cumhuriyet/",
-      "title": "Torbalı Cumhuriyet Çekici ve Yol Yardım | İzmir Oto Çekiciniz",
+      "title": "Torbalı Cumhuriyet çekici ve yol yardım | İzmir Oto Çekiciniz",
       "ready": true
     },
     {
       "path": "/bolgeler/torbali/cakirbeyli/",
-      "title": "Torbalı Çakırbeyli Çekici ve Yol Yardım | İzmir Oto Çekiciniz",
+      "title": "Torbalı Çakırbeyli çekici ve yol yardım | İzmir Oto Çekiciniz",
       "ready": true
     },
     {
       "path": "/bolgeler/torbali/camlica/",
-      "title": "Torbalı Çamlıca Çekici ve Yol Yardım | İzmir Oto Çekiciniz",
+      "title": "Torbalı Çamlıca çekici ve yol yardım | İzmir Oto Çekiciniz",
       "ready": true
     },
     {
       "path": "/bolgeler/torbali/dagkizilca/",
-      "title": "Torbalı Dağkızılca Çekici ve Yol Yardım | İzmir Oto Çekiciniz",
+      "title": "Torbalı Dağkızılca çekici ve yol yardım | İzmir Oto Çekiciniz",
       "ready": true
     },
     {
       "path": "/bolgeler/torbali/demirci/",
-      "title": "Torbalı Demirci Çekici ve Yol Yardım | İzmir Oto Çekiciniz",
+      "title": "Torbalı Demirci çekici ve yol yardım | İzmir Oto Çekiciniz",
       "ready": true
     },
     {
       "path": "/bolgeler/torbali/ertugrul/",
-      "title": "Torbalı Ertuğrul Çekici ve Yol Yardım | İzmir Oto Çekiciniz",
+      "title": "Torbalı Ertuğrul çekici ve yol yardım | İzmir Oto Çekiciniz",
       "ready": true
     },
     {
       "path": "/bolgeler/torbali/fevzi-cakmak/",
-      "title": "Torbalı Fevzi Çakmak Çekici ve Yol Yardım | İzmir Oto Çekiciniz",
+      "title": "Torbalı Fevzi Çakmak çekici ve yol yardım | İzmir Oto Çekiciniz",
       "ready": true
     },
     {
       "path": "/bolgeler/torbali/golluce/",
-      "title": "Torbalı Göllüce Çekici ve Yol Yardım | İzmir Oto Çekiciniz",
+      "title": "Torbalı Göllüce çekici ve yol yardım | İzmir Oto Çekiciniz",
       "ready": true
     },
     {
       "path": "/bolgeler/torbali/helvaci/",
-      "title": "Torbalı Helvacı Çekici ve Yol Yardım | İzmir Oto Çekiciniz",
+      "title": "Torbalı Helvacı çekici ve yol yardım | İzmir Oto Çekiciniz",
       "ready": true
     },
     {
       "path": "/bolgeler/torbali/istiklal/",
-      "title": "Torbalı İstiklal Çekici ve Yol Yardım | İzmir Oto Çekiciniz",
+      "title": "Torbalı İstiklal çekici ve yol yardım | İzmir Oto Çekiciniz",
       "ready": true
     },
     {
       "path": "/bolgeler/torbali/kaplancik/",
-      "title": "Torbalı Kaplancık Çekici ve Yol Yardım | İzmir Oto Çekiciniz",
+      "title": "Torbalı Kaplancık çekici ve yol yardım | İzmir Oto Çekiciniz",
       "ready": true
     },
     {
       "path": "/bolgeler/torbali/karakuyu/",
-      "title": "Torbalı Karakuyu Çekici ve Yol Yardım | İzmir Oto Çekiciniz",
+      "title": "Torbalı Karakuyu çekici ve yol yardım | İzmir Oto Çekiciniz",
       "ready": true
     },
     {
       "path": "/bolgeler/torbali/karsiyaka/",
-      "title": "Torbalı Karşıyaka Çekici ve Yol Yardım | İzmir Oto Çekiciniz",
+      "title": "Torbalı Karşıyaka çekici ve yol yardım | İzmir Oto Çekiciniz",
       "ready": true
     },
     {
       "path": "/bolgeler/torbali/pamukyazi/",
-      "title": "Torbalı Pamukyazı Çekici ve Yol Yardım | İzmir Oto Çekiciniz",
+      "title": "Torbalı Pamukyazı çekici ve yol yardım | İzmir Oto Çekiciniz",
       "ready": true
     },
     {
       "path": "/bolgeler/torbali/saglik/",
-      "title": "Torbalı Sağlık Çekici ve Yol Yardım | İzmir Oto Çekiciniz",
+      "title": "Torbalı Sağlık çekici ve yol yardım | İzmir Oto Çekiciniz",
       "ready": true
     },
     {
       "path": "/bolgeler/torbali/tulum/",
-      "title": "Torbalı Tulum Çekici ve Yol Yardım | İzmir Oto Çekiciniz",
+      "title": "Torbalı Tulum çekici ve yol yardım | İzmir Oto Çekiciniz",
       "ready": true
     },
     {
       "path": "/bolgeler/torbali/yogurtcular/",
-      "title": "Torbalı Yoğurtçular Çekici ve Yol Yardım | İzmir Oto Çekiciniz",
+      "title": "Torbalı Yoğurtçular çekici ve yol yardım | İzmir Oto Çekiciniz",
       "ready": true
     },
     {
       "path": "/guzergahlar/izmir-otoyolu/",
-      "title": "İzmir Otoyolu Çekici ve Yol Yardım | İzmir Oto Çekiciniz",
+      "title": "İzmir Otoyolu çekici ve yol yardım | İzmir Oto Çekiciniz",
       "ready": true
     },
     {
       "path": "/guzergahlar/otogar-otoyolu/",
-      "title": "Otogar Otoyolu Çekici ve Yol Yardım | İzmir Oto Çekiciniz",
+      "title": "Otogar Otoyolu çekici ve yol yardım | İzmir Oto Çekiciniz",
       "ready": true
     },
     {
       "path": "/guzergahlar/belkahve-tunelleri/",
-      "title": "Belkahve Tünelleri Çekici ve Yol Yardım | İzmir Oto Çekiciniz",
+      "title": "Belkahve Tünelleri çekici ve yol yardım | İzmir Oto Çekiciniz",
       "ready": true
     },
     {
       "path": "/bolgeler/konak/kordon/",
-      "title": "Kordon Çekici ve Yol Yardım | İzmir Oto Çekiciniz",
+      "title": "Kordon çekici ve yol yardım | İzmir Oto Çekiciniz",
       "ready": true
     },
     {
       "path": "/bolgeler/konak/pasaport/",
-      "title": "Pasaport Çekici ve Yol Yardım | İzmir Oto Çekiciniz",
+      "title": "Pasaport çekici ve yol yardım | İzmir Oto Çekiciniz",
       "ready": true
     },
     {
       "path": "/bolgeler/cesme/ciftlikkoy/",
-      "title": "Çiftlikköy Çekici ve Yol Yardım | İzmir Oto Çekiciniz",
+      "title": "Çiftlikköy çekici ve yol yardım | İzmir Oto Çekiciniz",
       "ready": true
     },
     {

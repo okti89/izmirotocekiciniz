@@ -1,0 +1,50 @@
+{
+  "oto-cekici": {
+    "title": "Marş alıyor, fakat vites seçilemiyor",
+    "situation": "Örnekte sürücü, otomatik vitesli otomobilini servise götürmek istiyor. Motor çalışmasına rağmen araç vites seçmiyor. Alınış yeri bir apartmanın açık otoparkı; teslim adresi sürücünün seçtiği servis. Aracın sürülebileceği varsayılmadan transfer talebi hazırlanır.",
+    "assessment": "İlk görüşmede marka-model, vitesin boşa alınabilmesi, elektronik park freninin bırakılması ve anahtarın bulunması sorulur. Otopark girişi ile aracın önündeki alanın fotoğrafı yükleme erişimini anlamaya yardımcı olur. Üreticinin taşıma talimatı ve tekerleklerin durumu değerlendirilmeden aracın kendi tekerlekleri üzerinde çekilmesi kararlaştırılmaz.",
+    "delivery": "Servisin araç kabul kapısı, kabul saati ve teslim alacak kişi netleştirilir. Kilitli yürür aksam için ayrı bir yükleme hazırlığı gerekirse bunun kapsamı taşıma öncesinde görüşülür. Sürücü yalnızca servis adını değil, alınış ve teslim konumlarını ayrı ayrı paylaşır."
+  },
+  "aku-takviye": {
+    "title": "Uzun süre parkta kalan araçta marş sorunu",
+    "situation": "Bu örnekte otomobil bir süredir kullanılmamış. Sürücü kontağı açtığında gösterge ışıklarının zayıfladığını ve marşın dönmediğini bildiriyor. Araç açık bir alanda; sürücü önce yerinde uygun destek olup olmadığını öğrenmek istiyor. Belirtiler aküyle ilişkili olabilir, ancak kesin arıza teşhisi sayılmaz.",
+    "assessment": "Araç modeli, akünün yeri, daha önce takviye yapılıp yapılmadığı ve ekranda görülen uyarılar konuşulur. Takviye noktalarına erişim ve üretici talimatları değerlendirilir. Hibrit veya elektrikli model söz konusuysa yardımcı akü ile çekiş bataryası birbirine karıştırılmaz; bağlantı yöntemi modele göre ele alınır.",
+    "delivery": "Takviye uygun bulunur ve araç çalışırsa sonraki kullanım kararı mevcut uyarılara göre değerlendirilir. Şarj uyarısı sürüyorsa veya yeniden çalışmama sorunu yaşanıyorsa kalıcı çözüm sağlandığı söylenmez. Sürücü, akü ve şarj sistemi kontrolü için servis seçeneğini; yerinde destek yetersizse transfer kapsamını görüşür."
+  },
+  "oto-elektrik": {
+    "title": "Anahtarı tanımayan araçta doğru destek seçimi",
+    "situation": "Senaryodaki hafif ticari araç açılıyor, ancak ekranda anahtar uyarısı görünüyor ve marşa izin vermiyor. Sürücü bunu akü boşalması olarak tarif etmiş olabilir. Araç işletmenin park alanında; başka bir kişide yedek anahtar bulunuyor. İlk amaç işlem türünü doğru belirlemektir.",
+    "assessment": "Uyarı mesajı, yedek anahtarla davranış ve son yapılan işlemler paylaşılır. İmmobilizer, anahtar veya kontrol ünitesi ihtimali yalnızca anlatımla kesinleşmez. Mobil değerlendirme uygunluğu ile özel servis işlemi gereksinimi ayrı görüşülür. Aracın her elektronik sorununun yol kenarında çözülebileceği varsayılmaz.",
+    "delivery": "Servis incelemesi gerekirse işletme kapısından alınış, anahtar teslimi ve hedef servis kabulü planlanır. Elektronik park freni ya da vites kilidi yüklemeyi etkiliyorsa önceden bildirilir. Yerinde inceleme ve taşıma aynı kapsamda olmayabileceğinden yapılacak işler ile toplam ücret yönlendirmeden önce netleştirilir."
+  },
+  "oto-kurtarma": {
+    "title": "Yol seviyesinin dışında kalan hasarlı araç",
+    "situation": "Örnekte bir binek araç yol seviyesinden daha aşağıdaki zeminde durmuş ve ön tekerleklerinden biri hasar görmüş. Sürücü yalnızca servise taşıma istemek yerine aracın bulunduğu yerden alınması gerektiğini bildirir. Bu anlatım, standart platform yüklemesinden farklı bir kurtarma değerlendirmesi gerektirir.",
+    "assessment": "Araç modeli, gövde ve tekerlek hasarı, zemin ile yaklaşım alanı birlikte ele alınır. Sürücü, güvenli bir noktadan alınabilen genel görünüm fotoğrafını paylaşır; tehlikeli bir yere inmesi istenmez. Kurtarma yöntemi, gerekli ekipman ve çalışma alanı gerçek koşullar incelenerek belirlenir.",
+    "delivery": "Aracın bulunduğu yerden alınması ile servise transferi iki ayrı aşama olarak konuşulur. Hedef servis hasarlı aracı kabul edebiliyorsa tam giriş adresi ve teslim yetkilisi belirtilir. Kurtarma, yükleme ve taşıma işlerinden hangilerinin teklif kapsamında olduğu baştan açıklığa kavuşturulur."
+  },
+  "agir-vasita-kurtarma": {
+    "title": "Yüklü çekici-dorse birleşiminde hareket kaybı",
+    "situation": "Bu örnekte tırın çekici kısmı hareket edemiyor, dorse bağlı ve üzerinde yük bulunuyor. Sürücü yalnızca araç markasıyla değil, çekici-dorse düzeni ve yaklaşık toplam ağırlıkla talep oluşturuyor. Aracın bulunduğu alanın ağır ekipmana erişimi ayrıca değerlendirilmelidir.",
+    "assessment": "Aks, fren, hasar ve yük türü bilgileri sorulur. Dorsenin ayrılabilmesi, yükün yerinde kalması veya ek işlem ihtiyacı operasyonun kapsamını değiştirebilir. Fotoğraflar ilk hazırlığa yardımcı olsa da saha koşulları görülmeden tek bir yöntem ya da süre kesinleştirilmez. Gerekli ekipmanın uygunluğu yönlendirme aşamasında teyit edilir.",
+    "delivery": "Teslim edilecek ağır araç servisinin giriş ölçüleri ve kabul imkânı görüşülür. Yük, dorse ve çekici aynı adrese gitmeyecekse bunlar ayrı teslimler olarak belirtilir. Kurtarma, transfer ve olası ek işlemler için kapsam netleşmeden bütün hizmetlerin tek bir standart ücretle yapılacağı varsayılmaz."
+  },
+  "agir-ticari-cekici": {
+    "title": "Depo önünde arızalanan yüklü ticari araç",
+    "situation": "Senaryoda dağıtım için kullanılan ticari araç depo önünde arızalanmış, kasasında yük var. Sürücü aracı başka bir ilçedeki tamir noktasına göndermek istiyor. Araç boşken geçerli olabilecek bir plan, mevcut yük ve üstyapı dikkate alınmadan uygulanmaz.",
+    "assessment": "Kasa ölçüsü, araç yüksekliği, toplam ağırlık ve yükün niteliği paylaşılır. Depo girişindeki manevra alanı ile aracın anahtar ve tekerlek durumu konuşulur. Platform ve bağlama uygunluğu teyit edilmeden taşıma taahhüdü verilmez. Yükün ayrı ele alınması gerekiyorsa bu ihtiyaç ilk görüşmede ortaya konur.",
+    "delivery": "Hedef işletmenin aracı yüküyle kabul edip edemeyeceği sürücü tarafından öğrenilir. Depodan çıkışı onaylayacak kişi ve serviste teslim alacak yetkili belirlenir. Alınış, yükleme hazırlığı ve teslim mesafesi üzerinden teklif değerlendirilir; işlemlerden biri değişirse kapsam tekrar görüşülür."
+  },
+  "motosiklet-cekici": {
+    "title": "Direksiyon kilidi açılamayan motosiklet",
+    "situation": "Örnekte motosikletin anahtarı yanında olmayan kullanıcı, aracı bir tamir noktasına götürmek istiyor. Direksiyon kilitli ve ön tekerlek istenen yönde hareket etmiyor. Motosikletin bir otomobil gibi ele alınması yerine kendi ölçü ve kilit koşulları açıklanır.",
+    "assessment": "Model, mevcut kilitler, anahtara erişim ve yürür aksam durumu paylaşılır. Motosikletin bulunduğu alan ile çıkarılacağı giriş fotoğrafla tarif edilebilir. Uygun yükleme ve sabitleme ihtiyacı değerlendirilir; kilitli aracın zorlanarak sürüklenebileceği varsayılmaz. Varsa aksesuar ve önceki hasarlar da bildirilir.",
+    "delivery": "Tamir noktasının motosikleti kabul edeceği adres ve saati belirlenir. Anahtarı getirecek kişiyle teslimi alacak kişi farklıysa iletişim sırası netleştirilir. Taşıma uygunluğu, ekipman ve toplam ücret görüşüldükten sonra plan oluşturulur; kilit koşulu değişirse yükleme değerlendirmesi de güncellenir."
+  },
+  "lastik-yol-yardim": {
+    "title": "Yedek lastiği olmayan araçta servis seçeneği",
+    "situation": "Bu örnekte otomobilin lastiği hasar görmüş ve araçta kullanılabilir yedek lastik bulunmuyor. Sürücü yalnızca tekerleğin havasının inmediğini değil, yanakta görülen hasarı da bildiriyor. Araç modeline ve lastik durumuna göre yerinde destek ile servis transferi seçenekleri konuşulur.",
+    "assessment": "Hasarlı lastiğin yeri, lastik ölçüsü, mevcut ekipman ve diğer tekerleklerin durumu aktarılır. Fotoğraf ilk değerlendirmeye yardımcı olur; yanak ya da jant hasarında basit bir işlemle çözüm sözü verilmez. Bulunulan alan yerinde çalışmaya uygun değilse taşıma ihtiyacı ayrıca ele alınır.",
+    "delivery": "Sürücü aracı kabul edebilen lastik servisini ve teslim girişini belirler. Lastik desteği ile aracı o servise götürme aynı hizmet olarak varsayılmaz; hangi işlem yapılacağı ve kapsamı baştan görüşülür. Lastiğin bulunduğu hâliyle aracın sürülebileceği yönünde yalnızca telefonda kesin bir karar verilmez."
+  }
+}

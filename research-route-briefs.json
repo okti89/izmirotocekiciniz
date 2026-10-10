@@ -1,0 +1,1579 @@
+{
+  "checked_on": "2026-10-11",
+  "scope": "21 güzergâh ve 8 sanayi sayfası için bağımsız editoryal açıklama ve koşullu örnek senaryo",
+  "limitations": [
+    "Senaryolar yapılmış iş veya müşteri kaydı değildir.",
+    "Hizmet ekipmanı, kapasite, fiyat, ETA, şube ve geçmiş deneyim iddiası içermez.",
+    "Eski resmî raporlardan yalnızca sabit bağlantı ve yer adları kullanıldı; tarihî faaliyet sayıları veya güncel yol durumu kullanılmadı.",
+    "7. Sanayi adlı tesis için birincil adres doğrulanmadı; içerik açık adres doğrulaması ve talep rehberidir."
+  ],
+  "regions": {
+    "/guzergahlar/izmir-cevre-yolu/": {
+      "name": "İzmir Çevre Yolu",
+      "facts": [
+        "KGM, İzmir Çevre Otoyolunu O-30 koduyla listeler.",
+        "Bornova Viyadüğü ve Üniversite Kavşağı aynı resmi bültende çevre yolu bağlantısı olarak yer alır."
+      ],
+      "sources": [
+        {
+          "title": "KGM — 2. Bölge yol bülteni",
+          "url": "https://www.kgm.gov.tr/Sayfalar/KGM/SiteTr/YolDanisma/CalismaYapilanYollarYeni.aspx?Bolge=2",
+          "type": "official_primary"
+        }
+      ],
+      "district_if_verified": null,
+      "sections": [
+        {
+          "heading": "O-30 üzerinde doğru kesimi belirleme",
+          "paragraphs": [
+            "İzmir Çevre Yolu için çekici talebinde yalnızca O-30 yazılması yeterli konum bilgisi sağlamaz. Bir çıkış tabelası, viyadük adı veya kavşak levhası görünüyorsa mesajınıza ekleyin. Bornova Viyadüğü ya da Üniversite Kavşağı gibi adı bulunan noktaları, araç gerçekten o noktadaysa kullanın. Haritadaki pinin karşı taşıt yoluna düşüp düşmediğini yön bilgisiyle birlikte kontrol edin."
+          ]
+        },
+        {
+          "heading": "Ana yol ile bağlantı kolunun farkı",
+          "paragraphs": [
+            "Aracın ana taşıt yolunda mı yoksa katılım veya ayrılma kolunda mı beklediğini açıklamak, talebin değerlendirilmesinde ayrı bir bilgidir. Son geçtiğiniz çıkış ile önünüzde gördüğünüz çıkış aynı olmayabilir. İkisini birbirine karıştırmadan tarif edin; yardım istemek amacıyla geri gitmeyin veya çıkışa ulaşmaya çalışmayın. Konum değişirse eski mesajın yanına yeni bekleme noktasını yazın."
+          ]
+        },
+        {
+          "heading": "Çevre yolundan servis teslimine",
+          "paragraphs": [
+            "Alma noktasını netleştirdikten sonra teslim edilecek servisin açık adresini ayrı paylaşın. Aynı ilçe içindeki kısa bir taşıma ile başka ilçeye teslim aynı güzergâhı gerektirmeyebilir. Araç modeli, tekerleklerin hareket durumu ve görünen hasar bilgisi, konumdan bağımsız olarak taşıma biçiminin değerlendirilmesine yardımcı olur. Mesafe veya fiyatı yalnızca çevre yolu adına göre kesinleştirmek doğru değildir."
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "q": "Çevre yolunda kilometre bilgim yoksa ne göndereyim?",
+          "a": "Görünen kavşak ya da çıkış levhasını, hareket yönünü ve mevcut konum pinini birlikte gönderin. Bilmediğiniz kilometreyi tahmin etmeniz gerekmez."
+        },
+        {
+          "q": "Bağlantı kolunda beklemek talep bilgisini değiştirir mi?",
+          "a": "Evet. Kolun hangi yola bağlandığını ve ana yol yerine bağlantı bölümünde olduğunuzu açıklayın; ana yol üzerindeki bir pin aynı erişim noktasını göstermeyebilir."
+        }
+      ],
+      "status": "verified_static_facts",
+      "limitations": [],
+      "scenario": {
+        "title": "Çıkış kolunda hareket etmeyen binek araç",
+        "situation": "Bir binek araç O-30 üzerinde ana yoldan ayrılan kolda durur; motor çalışmasına rağmen araç hareket edemez. Kullanıcı ana yolun değil bağlantı kolunun pinini, gördüğü çıkış adını ve sürüş yönünü gönderir.",
+        "assessment": "Marka/model, vitesin boşa geçip geçmediği ve tekerleklerin dönüp dönmediği değerlendirilir. Kullanıcının bağlantı kolu bilgisi alma noktasını açıklamaya yardımcı olur; fotoğraf yalnızca güvenli bekleme noktasından paylaşılır ve telefondan kesin arıza tanısı kurulmaz.",
+        "delivery": "Kullanıcı bir ilçedeki servise teslim isterse açık adresini ikinci konum olarak iletir. Servisin kabulü teyit edilir; taşıma yöntemi, süre ve ücret araç ile iki konum değerlendirilmeden kesinleştirilmez."
+      }
+    },
+    "/guzergahlar/izmir-aydin-otoyolu/": {
+      "name": "Aydın Otoban",
+      "facts": [
+        "KGM, İzmir–Aydın Otoyolunu O-31 olarak tanımlar.",
+        "75. Yıl Selatin Tüneli İzmir–Aydın Otoyolu üzerindedir."
+      ],
+      "sources": [
+        {
+          "title": "KGM — Tünel envanteri",
+          "url": "https://www.kgm.gov.tr/SiteCollectionDocuments/KGMdocuments/Istatistikler/KopruveTunelBilgileri/TehMadTuneller.pdf",
+          "type": "official_primary"
+        }
+      ],
+      "district_if_verified": null,
+      "sections": [
+        {
+          "heading": "Aydın yönü ile İzmir yönünü ayırma",
+          "paragraphs": [
+            "İzmir–Aydın Otoyolu O-31 olarak tanımlanır; yardım mesajında yol kodunu hareket yönüyle birlikte yazın. Aydın yönüne giderken gördüğünüz çıkış adını İzmir yönündeki bekleme noktasının yerine kullanmayın. Bir kilometre levhası veya gişe adı mevcutsa aynen aktarın. Navigasyonun önerdiği güzergâh yerine, aracın şu anda durduğu yol kesimini belirtmek önemlidir."
+          ]
+        },
+        {
+          "heading": "Selatin çevresinde tünel konumunu anlatma",
+          "paragraphs": [
+            "75. Yıl Selatin Tüneli bu otoyol üzerinde yer alır. Bu çevrede bir talep iletirken tünel içinde, giriş yaklaşımında veya çıkış sonrasında olduğunuzu ayrı ifade edin. Portalı tarif etmek için yön ve konum pininden yararlanın. Fotoğraf gerekiyorsa yalnızca güvenli bulunduğunuz noktadan paylaşın; konum tarifi uğruna taşıt yoluna çıkmak veya tünel içinde yürümek uygun değildir."
+          ]
+        },
+        {
+          "heading": "Uzun güzergâhta teslim adresi seçimi",
+          "paragraphs": [
+            "İzmir’e dönüş, Aydın’da teslim ya da güzergâh üzerindeki bir servise taşıma seçeneklerinden hangisini istediğinizi başlangıçta belirtin. Bir servisi seçmek, o işletmenin aracı kabul edeceği anlamına gelmez; teslimin kabulünü kullanıcı servisle netleştirmelidir. Araç çalışıyor olsa bile yeniden sürüşe uygun olup olmadığını telefonda kesin teşhis etmek mümkün değildir; gözlemlenen arıza belirtilerini aktarın."
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "q": "O-31 ile eski İzmir–Aydın yolu aynı talep mi?",
+          "a": "Hayır. Mesajda otoyolda mı yoksa devlet yolunda mı olduğunuzu açıkça belirtin; benzer şehir yönleri farklı alma noktalarını gösterebilir."
+        },
+        {
+          "q": "Selatin Tüneli adı tek başına yeterli mi?",
+          "a": "Hangi yönde olduğunuz ve tünel içinde mi dışında mı beklediğiniz de gerekir. Görünen levha ve pin, tünel adıyla birlikte kullanılmalıdır."
+        }
+      ],
+      "status": "verified_static_facts",
+      "limitations": [],
+      "scenario": {
+        "title": "Selatin çevresinde motor uyarısı",
+        "situation": "Aydın yönünde yolculuk eden bir aile aracında motor uyarısı görünür ve araç Selatin Tüneli dışındaki bir noktada durur. Talepte tünel dışında olduğu, hareket yönü ve görünen yol işareti açıkça yazılır.",
+        "assessment": "Gözlenen uyarı ve aracın yeniden hareket edip etmediği konuşulur; motoru çalıştırarak tekrar deneme zorunluluğu oluşturulmaz. Pin, tünel portalı ve karşı yönle karışmayacak şekilde tarif edilir; yol kesimi arıza açıklamasından ayrı ele alınır.",
+        "delivery": "Kullanıcı İzmir’e geri taşıma yerine seçtiği bir servise teslim isteyebilir. İlgili adres ve kabul durumu paylaşılır; Aydın yönünde bulunmak aracı otomatik olarak Aydın’a teslim edilecek araç haline getirmez."
+      }
+    },
+    "/guzergahlar/izmir-cesme-otoyolu/": {
+      "name": "Çeşme Otoyolu",
+      "facts": [
+        "KGM gişe listesinde Seferihisar (Güzelbahçe), Urla, Karaburun, Zeytinler, Alaçatı ve Çeşme istasyonları bulunur."
+      ],
+      "sources": [
+        {
+          "title": "KGM — İzmir Çeşme Otoyolu istasyon tablosu",
+          "url": "https://www.kgm.gov.tr/SiteCollectionDocuments/KGMdocuments/Otoyollar/OtoyolKopruUcret/2025Gecis_Ucret/KGM%20%C4%B0zmir%20-%20%C3%87e%C5%9Fme%20Otoyolu%20Ge%C3%A7i%C5%9F%20%C3%9Ccretleri.pdf",
+          "type": "official_primary"
+        }
+      ],
+      "district_if_verified": null,
+      "sections": [
+        {
+          "heading": "Çeşme hattında istasyon adlarıyla tarif",
+          "paragraphs": [
+            "KGM istasyon tablosunda Seferihisar (Güzelbahçe), Urla, Karaburun, Zeytinler, Alaçatı ve Çeşme adları bulunur. Talebinizde gördüğünüz istasyon adını aktarın; gitmek istediğiniz tatil beldesi aracın bulunduğu çıkışla aynı olmayabilir. İzmir veya Çeşme yönünü ayrıca yazın. Buradaki adlar konum tarifine yardımcı olur, güncel geçiş ücreti ya da açık şerit bilgisi yerine geçmez."
+          ]
+        },
+        {
+          "heading": "Gişe öncesi ve sonrası bekleme noktası",
+          "paragraphs": [
+            "Gişe çevresinde arıza yaşandığında istasyona gelmeden önce mi yoksa geçtikten sonra mı durduğunuzu açıklayın. Ana yol, çıkış kolu ve gişe sonrası yerel yol farklı konumlar olabilir. Çıkışın karşı tarafını gösteren bir harita pini, yön bilgisi olmadan belirsiz kalır. Aracınız güvenli bir noktaya alındıysa yardım görüşmesinde önceki konumu değil yeni noktayı kullanın."
+          ]
+        },
+        {
+          "heading": "Sahil varış noktası için açık teslim bilgisi",
+          "paragraphs": [
+            "Otoyoldan çıktıktan sonra Alaçatı, Urla veya başka bir sahil yerleşimindeki adrese teslim istiyorsanız otel ya da işletme adıyla birlikte açık adresi paylaşın. Bir otoparkın içine teslim talebi varsa giriş ve araç kabul bilgisi kullanıcı tarafından doğrulanmalıdır. Otoyoldaki alma konumu ile son teslim noktası ayrı değerlendirilir; yalnızca çıkış adından toplam taşıma mesafesi çıkarılamaz."
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "q": "Karaburun yazmam otoyoldaki konumumu belirler mi?",
+          "a": "Karaburun istasyonu çevresini mi yoksa ilçe içindeki bir noktayı mı kastettiğinizi belirtin. İstasyon ve yerleşim adı aynı bekleme noktasını ifade etmez."
+        },
+        {
+          "q": "Gişeyi geçtikten sonra yerel yolda kaldım, ne yazmalıyım?",
+          "a": "Geçtiğiniz istasyon adını, gişe sonrası olduğunuzu ve bulunduğunuz yerel yolun konum pinini gönderin; otoyol ana şeridinde olduğunuzu yazmayın."
+        }
+      ],
+      "status": "verified_static_facts",
+      "limitations": [],
+      "scenario": {
+        "title": "Urla istasyonu sonrasında lastik sorunu",
+        "situation": "Bir araç Urla istasyonunu geçtikten sonra lastik hasarı nedeniyle durur. Sürücü yolun Çeşme yönünde olduğunu, istasyon sonrası bulunduğunu ve aracın mevcut pinini bildirir; Urla ilçe merkezi adresini alma konumunun yerine kullanmaz.",
+        "assessment": "Hasarın hangi tekerlekte olduğu ve aracın sürülebilirliğiyle ilgili gözlemler alınır. Yol kenarında kullanıcının kendi başına lastik değiştirmesi yönünde varsayım kurulmaz; alma noktası ana taşıt yolu ve yerel bağlantı ayrımıyla değerlendirilir.",
+        "delivery": "Teslim için kullanıcı Alaçatı tarafındaki bir işletmeyi seçerse işletmenin açık adresini ve kabul bilgisini ayrıca gönderir. Otoyol istasyon adı, son teslim yerini veya toplam taşıma mesafesini tek başına belirlemez."
+      }
+    },
+    "/guzergahlar/sabuncubeli-tuneli/": {
+      "name": "Sabuncubeli Tüneli",
+      "facts": [
+        "Sabuncubeli Tüneli Manisa–İzmir devlet yolu üzerindedir.",
+        "KGM proje tanıtımı Bornova tarafındaki giriş ile Manisa tarafındaki çıkışı ayırır."
+      ],
+      "sources": [
+        {
+          "title": "KGM — Sabuncubeli Tüneli",
+          "url": "https://www.kgm.gov.tr/Sayfalar/KGM/SiteTr/Projeler/ProjelerDetay.aspx?q=22",
+          "type": "official_primary"
+        }
+      ],
+      "district_if_verified": null,
+      "sections": [
+        {
+          "heading": "Bornova ve Manisa taraflarını netleştirme",
+          "paragraphs": [
+            "Sabuncubeli, Manisa–İzmir devlet yolu üzerinde bulunan bir tüneldir. KGM tanıtımı Bornova tarafındaki giriş ile Manisa tarafındaki çıkışı ayırır. Çekici talebinde şehir adını varış hedefi olarak değil, hareket yönünüz olarak açıklayın. Hangi portal yakınında olduğunuzu biliyorsanız yazın; bilmiyorsanız görünen levha bilgisini konum pinine eklemek tahminde bulunmaktan daha yararlıdır."
+          ]
+        },
+        {
+          "heading": "Tünel içi arıza ile yaklaşım yolu talebi",
+          "paragraphs": [
+            "Aracın tünel içinde kaldığı bir durum ile portal dışındaki yaklaşım yolunda durması aynı şekilde tarif edilmemelidir. İçerideyseniz bunu görüşmenin ilk cümlesinde söyleyin ve işletme ya da yetkili birimin bulunduğunuz yerdeki yönlendirmelerine uyun. Yardım talebini kolaylaştırmak için aracı kendiniz girişe götürmeye veya bulunduğunuz yönden geri çıkmaya çalışmayın."
+          ]
+        },
+        {
+          "heading": "Manisa yolunda kalan aracın taşıma değerlendirmesi",
+          "paragraphs": [
+            "Sabuncubeli adını içeren bir mesaj, aracın otomatik olarak İzmir’e teslim edilmesini istediğiniz anlamına gelmez. Bornova’daki bir servis, Manisa’daki bir adres veya başka bir teslim noktası varsa ayrı belirtin. Aracın vites ve tekerlek durumu, taşıma talebinin temel parçasıdır. Motorun neden durduğuna ilişkin tahmin yerine ekranda görülen uyarıyı ve gerçekleşen olayı anlatın."
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "q": "Sabuncubeli talebinde hangi tarafı söylemeliyim?",
+          "a": "Bornova/İzmir ya da Manisa yönünü, bulunduğunuz portalı ve tünel içi veya dışı durumunu belirtin."
+        },
+        {
+          "q": "Tünel içinde konum pini tek başına yeterli olur mu?",
+          "a": "Pin yardımcıdır; tünel içi olduğunu, yönü ve gördüğünüz işaretleri de aktarın. Harita konumu portal veya karşı taşıt yolu yakınında gösterebilir."
+        }
+      ],
+      "status": "verified_static_facts",
+      "limitations": [],
+      "scenario": {
+        "title": "Manisa tarafındaki portal yakınında stop eden araç",
+        "situation": "Manisa yönüne giden bir araç Sabuncubeli çıkışına yakın dış noktada motoru durduğu için bekler. Kullanıcı tünel içinde olmadığını ve Manisa tarafında bulunduğunu bildirir; görünen levha bilgisiyle harita pinini birlikte gönderir.",
+        "assessment": "Araç modeli ve motor durmadan önce gözlenen belirti sorulur. Tünel yakınlığı nedeniyle yön ve portal bilgisi ayrı netleştirilir. Sürücünün girişe geri gitmesi veya araç üstünde bilinmeyen bir müdahale yapması senaryonun parçası değildir.",
+        "delivery": "Kullanıcı Bornova’daki servisine dönüş isterse teslim adresi ilk konumdan ayrı kaydedilir. Servis aracı kabul ettiğini teyit eder; iki il adı üzerinden tahmini varış süresi ya da taşıma yöntemi garanti edilmez."
+      }
+    },
+    "/guzergahlar/belkahve-rampasi/": {
+      "name": "Belkahve Rampası",
+      "facts": [
+        "Kültür ve Turizm Müdürlüğü Belkahve’yi Ankara–İzmir karayolunda Bornova ve Kemalpaşa ovaları arasındaki geçit olarak tanımlar."
+      ],
+      "sources": [
+        {
+          "title": "İzmir İl Kültür ve Turizm Müdürlüğü — Bornova / Belkahve",
+          "url": "https://izmir.ktb.gov.tr/EN-110150/bornova.html",
+          "type": "official_primary"
+        }
+      ],
+      "district_if_verified": "Bornova",
+      "sections": [
+        {
+          "heading": "Belkahve rampası ve otoyol tünelini karıştırmama",
+          "paragraphs": [
+            "Belkahve adı hem İzmir–Ankara karayolu üzerindeki mevki için hem de otoyoldaki tünel için kullanılabilir. Kültür ve Turizm Müdürlüğünün Bornova tanıtımı, Belkahve’yi Bornova ve Kemalpaşa ovaları arasındaki geçit olarak ele alır. Rampada yardım isterken otoyol tünelinde olmadığınızı, kullandığınız yol adıyla birlikte açıklayın. Bu ayrım çekicinin alma noktasını değerlendirmesini kolaylaştırır."
+          ]
+        },
+        {
+          "heading": "Eğimde duran aracın durumunu tarif etme",
+          "paragraphs": [
+            "Rampa üzerinde motor arızası, hareket edememe ya da lastik sorunu yaşandıysa aracın yukarı veya aşağı yönde beklediğini ve sürüşün hangi nedenle sonlandığını aktarın. Tekerleğin kilitli olması veya araç altında sıvı görülmesi gibi gözlemler taşıma değerlendirmesi için ayrı bilgi sağlar. Bir fotoğraf almak amacıyla aracın altına girmeyin; güvenli konumdan görülen bilgileri paylaşın."
+          ]
+        },
+        {
+          "heading": "Kemalpaşa bağlantısında hedefi ayrı yazma",
+          "paragraphs": [
+            "Konum mesajında Belkahve mevkiini belirttikten sonra servisin Kemalpaşa tarafında mı yoksa Bornova tarafında mı olduğunu açıklayın. Rampanın adı, toplam taşıma mesafesini veya yardımın ulaşma süresini belirlemez. Yakındaki bir işletmeyi referans veriyorsanız işletme girişinde mi ana yol üzerinde mi olduğunuzu ayırın. İşletme adını çekiciye ait şube ya da buluşma noktası gibi kullanmayın."
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "q": "Belkahve rampası ile Belkahve Tüneli aynı yer mi?",
+          "a": "Aynı ad kullanılsa da devlet yolu üzerindeki geçit ile otoyol tüneli ayrımı yapılmalıdır. Kullandığınız yol ve konum pinini gönderin."
+        },
+        {
+          "q": "Rampada araç kayma riski taşıyorsa neyi bildirmeliyim?",
+          "a": "Eğim yönünü, aracın hareket edip etmediğini ve görünür tekerlek sorununu görüşmede belirtin. Yerinde müdahale yöntemini uzaktan tarif ederek denemek yerine güvenliğiniz için yetkili yönlendirmeyi izleyin."
+        }
+      ],
+      "status": "verified_static_facts",
+      "limitations": [],
+      "scenario": {
+        "title": "Geçitte hararet uyarısı görülen araç",
+        "situation": "Devlet yolundaki Belkahve geçidinde bir binek araçta hararet uyarısı görülür ve yolculuk sonlanır. Sürücü otoyol tünelinde olmadığını, Kemalpaşa yönünde beklediğini ve mevcut pini açıklar; sıcak motor kapağına müdahale ettiği varsayılmaz.",
+        "assessment": "Görünen uyarı, sıvı kaçağı olup olmadığı ve aracın hareket durumu ayrı aktarılır. Rampa yönü alma noktasının tarifine eklenir; uzaktan motor arızasının nedeni kesinleştirilmez ve sürücünün güvenli bekleme alanından ayrılmasına gerek oluşturulmaz.",
+        "delivery": "Kullanıcı Kemalpaşa tarafındaki bir servise teslim isterse o işletmenin açık adresi ve kabulü teyit edilir. Belkahve adıyla otoyol tünel konumu karıştırılmaz; fiyat ve süre gerçek alma ve teslim bilgileri üzerinden konuşulur."
+      }
+    },
+    "/guzergahlar/bayrakli-tunelleri/": {
+      "name": "Bayraklı Tünelleri",
+      "facts": [
+        "KGM envanterinde Bayraklı 1 ve Bayraklı 2 ayrı tünellerdir.",
+        "İkisi de İzmir Çevre Otoyolunun O30-13 kesiminde listelenir."
+      ],
+      "sources": [
+        {
+          "title": "KGM — Tünel envanteri",
+          "url": "https://www.kgm.gov.tr/SiteCollectionDocuments/KGMdocuments/Istatistikler/KopruveTunelBilgileri/TehMadTuneller.pdf",
+          "type": "official_primary"
+        }
+      ],
+      "district_if_verified": null,
+      "sections": [
+        {
+          "heading": "Bayraklı 1 ve Bayraklı 2 ayrımı",
+          "paragraphs": [
+            "KGM envanterinde Bayraklı 1 ile Bayraklı 2 farklı tüneller olarak yer alır ve O30-13 kesimiyle ilişkilendirilir. Arızayı yalnızca Bayraklı tüneli şeklinde bildirmek hangi yapı yakınında olduğunuzu belirsiz bırakır. Levhada görünen numarayı biliyorsanız paylaşın. Numarayı görmüyorsanız tahmin etmek yerine hareket yönü, konum pini ve son gördüğünüz kavşak bilgisini iletin."
+          ]
+        },
+        {
+          "heading": "İki portal arasında veya tünel içinde bekleme",
+          "paragraphs": [
+            "Bir tünelden çıktıktan sonra başka tünel yaklaşımında duruyorsanız hangi yapıdan geçtiğinizi anlatın; bunu tünel içinde kaldım ifadesinden ayrı tutun. Tünel içindeki bir araç için bulunduğunuz yerdeki işaretler ve yetkili yönlendirmeler önceliklidir. Konumunuzu göstermek için güvenli bekleme alanından ayrılmanız gerekmez. Telefon görüşmesinde tünel içi durumunu ilk aşamada bildirin."
+          ]
+        },
+        {
+          "heading": "Bayraklı adıyla ilçe içi talebin ayrılması",
+          "paragraphs": [
+            "Bayraklı ilçesinde bir sokakta kalan araç ile çevre otoyolundaki tünel talebi farklı alma noktalarıdır. Ana yol, tünel, çıkış kolu veya kent içi adres ayrımını açık yazın. Taşıma için seçtiğiniz servisin mahalle ve açık adresini ayrıca paylaşın. Tünel adı üzerinden aracın boyutu ya da yükleme ihtiyacı bilinemez; araç modeli ve hareket durumu da değerlendirmeye eklenmelidir."
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "q": "Bayraklı 1 veya 2 numarasını bilmiyorsam yardım isteyebilir miyim?",
+          "a": "Evet. Bilmediğiniz numarayı yazmadan yön, pin ve gördüğünüz işaretleri aktarın; tünel içinde olup olmadığınızı netleştirin."
+        },
+        {
+          "q": "İlçedeki adresimi tünel sayfasından bildirebilir miyim?",
+          "a": "İletebilirsiniz; ancak çevre yolunda olmadığınızı ve sokak adresinizi açıkça yazın. Bayraklı ilçe adı tek başına tünel talebi sayılmaz."
+        }
+      ],
+      "status": "verified_static_facts",
+      "limitations": [],
+      "scenario": {
+        "title": "Bayraklı 2 çıkışından sonra dönmeyen tekerlek",
+        "situation": "Bir araç Bayraklı 2 levhasını geçtikten sonra dışarıdaki kesimde durur; kullanıcı ön tekerleklerden birinin dönmediğini bildirir. Mesajda tünel numarası, dış konum, yön ve mevcut pin bulunur; Bayraklı ilçe içi adresi kullanılmaz.",
+        "assessment": "Görülen tekerlek sorunu ve araç boyutu değerlendirilir. Bayraklı 1 ile 2 ayrımı korunur; kullanıcı emin olmadığı bir tünel numarasını tahmin etmek zorunda değildir. Aracı ileri geri zorlayarak hareket ettirmek yerine bilinen durum aktarılır.",
+        "delivery": "Teslimin bir yürüyen aksam servisine yapılması istenirse servis ve dükkân adresi netleştirilir. Çekici uygunluğu tekerlek durumuyla birlikte ele alınır; sadece tünelin adı üzerinden belirli araç veya varış süresi sözü verilmez."
+      }
+    },
+    "/guzergahlar/konak-tuneli/": {
+      "name": "Konak Tüneli",
+      "facts": [
+        "Konak Tüneli bağlantısı Yeşildere kavşak düzenlemesini içerir.",
+        "Proje Konak çevresindeki kent içi bağlantıyı ele alır."
+      ],
+      "sources": [
+        {
+          "title": "KGM — Konak Tüneli",
+          "url": "https://www.kgm.gov.tr/Sayfalar/KGM/SiteTr/Projeler/OtoyolProjeleri/Konak.aspx",
+          "type": "official_primary"
+        }
+      ],
+      "district_if_verified": null,
+      "sections": [
+        {
+          "heading": "Konak tarafı ve Yeşildere bağlantısı",
+          "paragraphs": [
+            "KGM proje tanıtımı Konak Tüneli bağlantısını Yeşildere kavşak düzenlemesiyle birlikte ele alır. Yardım talebinde Konak tarafında mı yoksa Yeşildere tarafında mı olduğunuzu belirtin. Bir bağlantı kolunda bekliyorsanız tünelin kendisinde olduğunuzu yazmayın. Konumun kısa tarifi, harita pini ve hareket yönü birlikte verildiğinde kent içindeki benzer adreslerden ayrım yapmak kolaylaşır."
+          ]
+        },
+        {
+          "heading": "Tünelden çıkış sonrasında konum değişikliği",
+          "paragraphs": [
+            "Arıza tünelde başlayıp araç dışarıdaki bir noktada durmuş olabilir. Böyle bir durumda olayın başladığı yer ile alma noktasını ayrı anlatın. Yardımın alınacağı konum, aracın son durduğu yerdir. Yol koşulları veya yetkili yönlendirme nedeniyle araç başka yere alınırsa güncel pini gönderin. Eski bir tünel konumu, görüşmede düzeltilmeden bırakılırsa talep değerlendirmesini zorlaştırabilir."
+          ]
+        },
+        {
+          "heading": "Kent merkezinde teslim noktası",
+          "paragraphs": [
+            "Konak çevresinde servis veya otoparka teslim talebi varsa açık adresle birlikte giriş bilgisini paylaşın. Bina adı, tünel çıkışı ya da meydan adı tek başına araç indirilecek alanı göstermeyebilir. Teslim adresindeki kabul durumunu ilgili işletmeyle netleştirin. Tünel talebinde de aracın tekerleklerinin dönüp dönmediği ve görünen hasar, uygun taşıma yaklaşımının belirlenmesi için gereklidir."
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "q": "Konak Tüneli içinde değil Yeşildere bağlantısındayım, nasıl tarif edeyim?",
+          "a": "Bağlantı yolunda olduğunuzu, yönü ve mevcut pini belirtin. Tünel yakınlığını ek bilgi olarak yazın."
+        },
+        {
+          "q": "Arıza tünelde başladı ama dışarı çıktım; hangi konum geçerli?",
+          "a": "Araç şu anda nerede bekliyorsa alma noktası odur. Olayın tünelde başladığını ayrıca söyleyebilirsiniz."
+        }
+      ],
+      "status": "verified_static_facts",
+      "limitations": [
+        "Kaynak eski proje sayfasıdır; inşaat durumu, uzunluk ve güncel çalışma bilgisi kullanılmadı."
+      ],
+      "scenario": {
+        "title": "Yeşildere tarafında durmuş küçük otomobil",
+        "situation": "Konak Tünelinden çıkan küçük bir otomobil Yeşildere tarafındaki bağlantıda durur. Arıza tünel içinde başlamış olsa bile kullanıcı yardımın alınacağı dış noktayı gönderir; tünel içindeki eski pinin artık geçerli olmadığını açıkça belirtir.",
+        "assessment": "Bağlantı yolunun ana taşıt yolundan ayrımı ve hareket yönü konuşulur. Kullanıcının bildirdiği motor stop etme belirtisi kesin teşhis sayılmaz. Araç boyutu, anahtarın bulunması ve hareket durumu değerlendirme için ayrı bilgi olarak alınır.",
+        "delivery": "Konak çevresinde seçilmiş bir servise teslim için bina girişi ve açık adres paylaşılır. Tünel çıkışının adı servisin adresi yerine geçirilmez; kabul edecek işletmeyle teslim noktası kullanıcı tarafından netleştirildikten sonra talebin kapsamı konuşulur."
+      }
+    },
+    "/guzergahlar/kuzey-cevre-yolu/": {
+      "name": "Kuzey Çevre Yolu",
+      "facts": [
+        "KGM raporu çevre yolunun kuzey dalını Çiğli, Yamanlar, Bornova ve Işıkkent bağlantısıyla açıklar."
+      ],
+      "sources": [
+        {
+          "title": "KGM — 2011 faaliyet raporu, çevre yolu kuzey dalı",
+          "url": "https://www.kgm.gov.tr/SiteCollectionDocuments/KGMdocuments/MerkezBirimler/Kurumsal/FaaliyetRaporu/2011Faaliyet.pdf",
+          "type": "official_primary"
+        },
+        {
+          "title": "KGM — Menemen Aliağa Çandarlı Otoyolu",
+          "url": "https://www.kgm.gov.tr/Sayfalar/KGM/SiteTr/Projeler/ProjelerDetay.aspx?q=18",
+          "type": "official_primary"
+        }
+      ],
+      "district_if_verified": null,
+      "sections": [
+        {
+          "heading": "Kuzey dalının hangi bölümünde bulunduğunuz",
+          "paragraphs": [
+            "KGM faaliyet raporunda çevre yolunun kuzey dalı Çiğli’den başlayıp Yamanlar üzerinden Bornova ve Işıkkent’e uzanan bağlantı olarak anlatılır. Bu nedenle kuzey çevre yolu ifadesi tek bir çıkışa karşılık gelmez. Çiğli, tünel çevresi veya Bornova kesimlerinden hangisinde olduğunuzu, görünen yol levhasına dayanarak belirtin. Tarihî rapordaki güzergâh açıklaması güncel yol çalışması bilgisi değildir."
+          ]
+        },
+        {
+          "heading": "Kuzey Ege Otoyolu ile isim ayrımı",
+          "paragraphs": [
+            "Kuzey çevre yolu ve kuzey yönünde devam eden başka otoyollar, günlük konuşmada benzer biçimde tarif edilebilir. Menemen–Aliağa–Çandarlı hattını kastediyorsanız kullanılan otoyol adını ayrıca yazın. KGM bu projeyi çevre otoyolunun devamı olarak tanımlar; aynı kavşakta beklediğinizi göstermez. En yakın çıkışın levhadaki adı ve konum pini, yalnızca kuzey sözcüğünden daha belirleyicidir."
+          ]
+        },
+        {
+          "heading": "Körfezin kuzeyinden servis teslimi",
+          "paragraphs": [
+            "Aracın alınacağı kesimi belirledikten sonra teslim adresinin aynı yakada mı yoksa başka bir ilçede mi olduğunu aktarın. Gitmek istediğiniz şehir adı hareket yönünüzle karışmamalıdır. Mesajda önce alma noktası, ardından teslim adresi yazmak bu belirsizliği azaltır. Araç çekiciye yüklenemeyecek bir durumda olduğunu düşünüyorsanız gözleminizi açıklayın; operasyon biçimi araç ve konum değerlendirmesinden sonra ele alınmalıdır."
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "q": "Kuzey çevre yolu demem yeterli mi?",
+          "a": "Hayır. Çiğli, tünel veya Bornova kesimi gibi mevcut bölüm ve en yakın çıkış bilgisiyle pini paylaşın."
+        },
+        {
+          "q": "Menemen–Aliağa hattı için hangi yol adını yazayım?",
+          "a": "Kullandığınız levhada Menemen–Aliağa–Çandarlı otoyolu yazıyorsa onu belirtin. Kuzey çevre yolu ifadesine dayanarak aynı yol kabul edilmesini beklemeyin."
+        }
+      ],
+      "status": "verified_static_facts",
+      "limitations": [],
+      "scenario": {
+        "title": "Çiğli kesiminde yüklü hafif ticari araç",
+        "situation": "Bir hafif ticari araç çevre yolunun Çiğli kesiminde hareket edemez ve içinde ticari yük bulunur. Kullanıcı kuzey çevre yolu demekle yetinmez; en yakın çıkış levhasını, bulunduğu yönü ve ana yol pinini gönderir.",
+        "assessment": "Araç boyutları ve yükün araçta kalıp kalmayacağı görüşülür. Menemen–Aliağa hattına geçilmiş olup olmadığı ayrıca netleştirilir; kuzey sözcüğü tek başına yol kimliği sayılmaz. Kullanıcının yük aktarımı ihtiyacı taşıma talebinden ayrı değerlendirilir.",
+        "delivery": "Çiğli’deki iş yerine veya başka bir servise teslim tercihi açık adresle aktarılır. İş yerinin aracı ve yükü kabulü kullanıcı tarafından teyit edilir; ekip uygunluğu ve ücret yalnızca konum başlığından çıkarılamaz."
+      }
+    },
+    "/guzergahlar/guney-cevre-yolu/": {
+      "name": "Güney Çevre Yolu",
+      "facts": [
+        "KGM raporu çevre yolunun güney dalını İkiztepe, Uzundere, Karabağlar ve Işıkkent üzerinden açıklar."
+      ],
+      "sources": [
+        {
+          "title": "KGM — 2011 faaliyet raporu, çevre yolu güney dalı",
+          "url": "https://www.kgm.gov.tr/SiteCollectionDocuments/KGMdocuments/MerkezBirimler/Kurumsal/FaaliyetRaporu/2011Faaliyet.pdf",
+          "type": "official_primary"
+        }
+      ],
+      "district_if_verified": null,
+      "sections": [
+        {
+          "heading": "Uzundere, Karabağlar ve Işıkkent kesimlerini ayırma",
+          "paragraphs": [
+            "KGM raporunda çevre yolunun güney dalı İkiztepe’den başlayıp Uzundere ve Karabağlar üzerinden Işıkkent’e bağlanan güzergâh olarak açıklanır. Talep sırasında bu yer adlarından hangisinin gerçekten bulunduğunuz kesimi anlattığını belirtin. Kent içindeki bir Karabağlar adresi, çevre otoyolundaki bekleme noktası değildir. Yol adı, çıkış levhası ve pin birlikte kullanılmalıdır."
+          ]
+        },
+        {
+          "heading": "Aydın veya Çeşme hedefini konum yerine kullanmama",
+          "paragraphs": [
+            "Güney çevre yolu üzerinden başka bir otoyola devam etmek üzereyken kaldıysanız, gitmek istediğiniz yön ile bulunduğunuz yol bölümünü ayırın. Aydın’a gidiyorum veya Çeşme’ye döneceğim ifadesi aracın hangi ayrımın öncesinde olduğunu göstermez. Son geçtiğiniz kavşak biliniyorsa ekleyin. Henüz ulaşmadığınız bir çıkışı mevcut bekleme noktasının yerine göstermeyin."
+          ]
+        },
+        {
+          "heading": "Alt bağlantı yolu ile ana taşıt yolu",
+          "paragraphs": [
+            "Aracın yolun altında kalan bir yerel bağlantıda, üstündeki ana taşıt yolunda veya çıkış rampasında durması farklı erişim bilgisi gerektirir. Harita ekranında birbirine yakın pinler bunu her zaman açıklamaz. Görüşmede yol seviyesini ve yönünü anlatın. Teslim edilecek servis kent içinde bulunuyorsa sokak ve giriş bilgisini ayrıca verin; çevre yolu kesim adıyla servis adresini birleştirmeyin."
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "q": "Karabağlar yazmak güney çevre yolu talebini tanımlar mı?",
+          "a": "İlçe içindeki adres ile otoyol kesimini ayırmanız gerekir. Otoyoldaysanız çıkış adı, yön ve pin ekleyin."
+        },
+        {
+          "q": "Bir köprünün altında duruyorum; otoyol pinini göndereyim mi?",
+          "a": "Bulunduğunuz yerel yolun pinini gönderin ve köprünün altında olduğunuzu açıklayın. Üstteki otoyol, aracın alma noktası olmayabilir."
+        }
+      ],
+      "status": "verified_static_facts",
+      "limitations": [],
+      "scenario": {
+        "title": "Uzundere yakınında karşıt seviyede bekleyen araç",
+        "situation": "Bir sürücü Uzundere yakınındaki bağlantı yolunda araç arızası yaşar; harita pini otoyola yakın görünür. Kullanıcı ana otoyol üzerinde değil alt bağlantıda olduğunu, geçtiği işareti ve mevcut bekleme noktasını mesaja açıkça ekler.",
+        "assessment": "Yol seviyesi ve erişim tarafı konum değerlendirmesinde ayrı ele alınır. Araç modelinin yanında marş ve hareket durumu paylaşılır; pinin üstteki taşıt yolunda görünmesi otomatik olarak aracın o yol üzerinde olduğu şeklinde yorumlanmaz.",
+        "delivery": "Karabağlar’daki bir servis seçilirse alma ve teslim pinleri ayrı etiketlenir. Servisin kapı ve kabul bilgisi netleştirilir; kısa düz mesafe veya ilçe adı üzerinden yükleme biçimi ve teslim süresi için kesin iddia kurulmaz."
+      }
+    },
+    "/guzergahlar/bornova-cevre-yolu/": {
+      "name": "Bornova Çevre Yolu",
+      "facts": [
+        "KGM yol bülteninde O-30/11 Bornova Viyadüğü Üniversite Kavşağı adı bulunur.",
+        "Ankara Caddesinden Karşıyaka yönüne bağlantı kolu bu kesimde tanımlanır."
+      ],
+      "sources": [
+        {
+          "title": "KGM — 2. Bölge yol bülteni",
+          "url": "https://www.kgm.gov.tr/Sayfalar/KGM/SiteTr/YolDanisma/CalismaYapilanYollarYeni.aspx?Bolge=2",
+          "type": "official_primary"
+        }
+      ],
+      "district_if_verified": null,
+      "sections": [
+        {
+          "heading": "Üniversite Kavşağı ve Bornova Viyadüğü yakınındaki talepler",
+          "paragraphs": [
+            "KGM bülteninde Bornova Viyadüğü–Üniversite Kavşağı kesimi O-30/11 adıyla yer alır. Bu bölümde yardım isterken ana taşıt yolunda mı yoksa Ankara Caddesi bağlantısında mı beklediğinizi belirtin. Resmî kaynaktaki sabit yer adları konum tarifini destekler; bültendeki geçici çalışma durumunu burada güncel trafik bilgisi olarak kullanmıyoruz."
+          ]
+        },
+        {
+          "heading": "Ankara Caddesi bağlantısının yön bilgisi",
+          "paragraphs": [
+            "Bornova çevre yolu talebine Ankara Caddesi adı eklendiğinde hangi yolun üzerinde olduğunuz yine açık olmalıdır. Çevre yoluna katılmadan önce kalmak ile katıldıktan sonra durmak aynı nokta değildir. Tabelada yazan varış yönünü aktarın ve bağlantı kolunu tarif edin. Aracın konumu sonradan değiştiyse ilk paylaşılan pini güncelleyin; kavşak adı tek başına eski ve yeni noktayı ayırmaz."
+          ]
+        },
+        {
+          "heading": "Bornova içinde kısa servis taşıması",
+          "paragraphs": [
+            "Çevre yolundan Bornova’daki bir sanayi sitesine veya servise teslim istendiğinde yalnızca sanayi numarası vermek yeterli olmaz. Sokak, iş yeri ve kabul edecek servis adı ayrı yazılmalıdır. Aracın motoru çalışsa bile tekerlek veya yürüyen aksam problemi nedeniyle taşınması gerekebilir; kullanıcının gördüğü belirti, yükleme değerlendirmesinde motor arızası tahmininden daha açıklayıcıdır."
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "q": "Üniversite Kavşağı yakınındayım; bağlantı kolunu da söylemeli miyim?",
+          "a": "Evet. Ana yol ile Ankara Caddesi bağlantısının hangisinde olduğunuzu, yön ve pinle birlikte belirtin."
+        },
+        {
+          "q": "Bornova’daki bir sanayiye teslim için sadece site numarası yeterli mi?",
+          "a": "Sokak, dükkân ve servis adı da gerekir. Alma noktasını çevre yolu konumu olarak ayrı gönderin."
+        }
+      ],
+      "status": "verified_static_facts",
+      "limitations": [],
+      "scenario": {
+        "title": "Üniversite Kavşağı bağlantısında otomatik araç",
+        "situation": "Otomatik vitesli bir araç Üniversite Kavşağı çevresindeki bağlantı kolunda kaldığında kullanıcı Ankara Caddesi bağlantısında mı yoksa O-30 ana yolunda mı olduğunu açıklar. Yön, görünen levha ve bekleme pini tek mesajda paylaşılır.",
+        "assessment": "Vitesin boşa geçmediği biliniyorsa bu bilgi alınır; kullanıcıdan mekanizmayı zorlaması beklenmez. Bornova Viyadüğü adı yardımcı yer bilgisi olarak kullanılır ve ana yol/kol ayrımı korunur. Araç modeli ve tekerlek durumu ayrıca değerlendirilir.",
+        "delivery": "Bornova içindeki bir sanayi servisine teslimde sokak ve dükkân adresi teyit edilir. Site numarası tek teslim konumu kabul edilmez; servis kabulü ve taşıma kapsamı birlikte konuşulurken herhangi bir ekipman sahipliği veya ETA iddiası üretilmez."
+      }
+    },
+    "/guzergahlar/karsiyaka-cevre-yolu/": {
+      "name": "Karşıyaka Çevre Yolu",
+      "facts": [
+        "KGM raporunda çevre yolunun kuzey dalı Çiğli–Yamanlar–Bornova–Işıkkent bağlantısıyla tarif edilir."
+      ],
+      "sources": [
+        {
+          "title": "KGM — 2011 faaliyet raporu",
+          "url": "https://www.kgm.gov.tr/SiteCollectionDocuments/KGMdocuments/MerkezBirimler/Kurumsal/FaaliyetRaporu/2011Faaliyet.pdf",
+          "type": "official_primary"
+        }
+      ],
+      "district_if_verified": null,
+      "sections": [
+        {
+          "heading": "Karşıyaka kent içi yollarıyla çevre otoyolunu ayırma",
+          "paragraphs": [
+            "Karşıyaka çevre yolu sözü günlük konum tarifinde kullanılabilir; ancak ilçe içindeki bir cadde ile çevre otoyolunun kuzey kesimi aynı alma noktası değildir. KGM raporunda kuzey dalı Çiğli–Yamanlar–Bornova bağlantısıyla anlatılır. Bu sayfadaki yardım talebinde otoyolda olduğunuzu, en yakın çıkış adını ve hareket yönünüzü açıkça belirtin."
+          ]
+        },
+        {
+          "heading": "Sahil güzergâhı ve tünel yaklaşımı farklı taleplerdir",
+          "paragraphs": [
+            "Bostanlı veya Karşıyaka sahilinde duruyorsanız çevre yolu yerine bulunduğunuz caddeyi yazın. Tünel yaklaşımında kaldıysanız da tünel adı ve portal tarafını ekleyin. Bir mahalle adını referans olarak vermek, otoyoldan o mahalleye doğrudan giriş bulunduğunu göstermez. Kesin bağlantı veya varış süresi tahmin etmek yerine mevcut yolun pini ve levha bilgisi esas alınmalıdır."
+          ]
+        },
+        {
+          "heading": "Karşıyaka tarafına teslim planı",
+          "paragraphs": [
+            "Aracı kuzey çevre yolu kesiminden Karşıyaka’daki bir adrese taşıtmak istiyorsanız açık teslim adresini baştan bildirin. Otopark veya iş yeri girişinde yükseklik, kapı ya da teslim alanı bilgisi gerekiyorsa ilgili işletmeden doğrulayın. Alınacak araç hakkında marka/model ve hareket durumu paylaşılması, yalnızca Karşıyaka başlıklı bir talebe göre çok daha yararlı değerlendirme sağlar."
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "q": "Karşıyaka sahilindeyim, çevre yolu talebi mi oluşturmalıyım?",
+          "a": "Mesajınızda sahil caddesi ve açık konum yazılmalıdır. İlçe adı yüzünden otoyolda olduğunuz varsayılmamalıdır."
+        },
+        {
+          "q": "Karşıyaka çevre yolu hangi çıkışı ifade eder?",
+          "a": "Tek bir çıkış olarak kullanılmamalıdır. Görünen kavşak veya çıkış levhası ve yön, talebinizin gerçek kesimini belirlemeye yardımcı olur."
+        }
+      ],
+      "status": "verified_static_facts",
+      "limitations": [
+        "Kaynak kuzey dalını destekler; Karşıyaka Çevre Yolu adını bağımsız resmî yol olarak doğrulamaz."
+      ],
+      "scenario": {
+        "title": "Otoyol çıkışında anahtarı bulunmayan araç",
+        "situation": "Karşıyaka yönüne devam etmek üzereyken bir araç otoyol çıkış kolunda kalır ve anahtarın araçta bulunmadığı açıklanır. Kullanıcı sahil caddesinde değil çevre yolu bağlantısında olduğunu, çıkışın levhadaki adını ve pinini gönderir.",
+        "assessment": "Anahtar yokluğu, aracın modeli ve hareket durumu taşıma talebine eklenir. İlçe adı pinin yerine kullanılmaz. Kilit ya da direksiyona kullanıcı müdahalesi tarif edilmeden aracın mevcut koşulları konuşulur; araç sahibinin teslim koordinasyonu netleştirilir.",
+        "delivery": "Karşıyaka’daki bir otoparka teslim tercih edilirse otoparkın aracı kabulü ve araç giriş bilgisi kullanıcı tarafından doğrulanır. Otoyol konumu ile şehir içi teslim adresi ayrı tutulur; süre veya yöntem adres başlığına göre garanti edilmez."
+      }
+    },
+    "/guzergahlar/altinyol-sahil-yolu/": {
+      "name": "Altınyol Sahil Yolu",
+      "facts": [
+        "İBB plan açıklaması Altınyol ile Anadolu Caddesini kuzey ulaşım aksında ele alır.",
+        "Ankara Caddesi Bornova–Kemalpaşa yönünde bu akstan ayrılır."
+      ],
+      "sources": [
+        {
+          "title": "İBB — Konak Alsancak Kahramanlar plan açıklama raporu",
+          "url": "https://www.izmir.bel.tr/YuklenenDosyalar/NazimImarPlani/2810930_18144.pdf",
+          "type": "official_primary"
+        }
+      ],
+      "district_if_verified": null,
+      "sections": [
+        {
+          "heading": "Altınyol ile Ankara Caddesi ayrımını tarif etme",
+          "paragraphs": [
+            "İBB plan açıklaması Altınyol ve Anadolu Caddesi aksını kuzey ulaşımıyla, Ankara Caddesini ise Bornova–Kemalpaşa yönüyle ilişkilendirir. Yardım isterken Altınyol üzerinde mi, Ankara Caddesi ayrımında mı bulunduğunuzu söyleyin. Alsancak veya Karşıyaka yönü konum mesajına eklenmelidir. Yolun güncel durumunu talep sırasında gözlediğiniz koşullarla açıklayın; güzergâh tarifi anlık şerit erişimini belirlemez."
+          ]
+        },
+        {
+          "heading": "Sahil yolu adıyla karşı şeridi karıştırmama",
+          "paragraphs": [
+            "Deniz tarafındayım gibi bir tarif hareket yönünün yerini her durumda tutmaz. Yolda gördüğünüz bir kavşağı veya bina adını güvenli konumdan aktarabilirseniz pinin hangi taşıt yoluna ait olduğunu açıklamak kolaylaşır. Karşı şeritteki bir işletmeyi referans verirken bunun aracın bulunduğu tarafta olmadığını belirtin. Fotoğraf çekmek için yolun karşısına geçmeniz gerekmez."
+          ]
+        },
+        {
+          "heading": "Kent içi arızanın servise aktarılması",
+          "paragraphs": [
+            "Altınyol talebinde konuma ek olarak lastik sorunu, motorun durması veya aracın hareket edememesi gibi gözlemlenen durumu belirtin. Telefon üzerinden kesin mekanik teşhis verilemez. Aracın alınacağı yol ile teslim edileceği sanayi veya servis adresini ayrı yazın. Kent içinde yakın görünen iki nokta için dahi erişim yolunu ve taşıma mesafesini yalnızca harita üzerindeki düz mesafeden çıkarmayın."
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "q": "Altınyol talebinde deniz tarafındayım demek yeterli mi?",
+          "a": "Yön, en yakın kavşak ve pin de gerekir. Deniz tarafı gibi bir tarif her kesimde aynı taşıt yolunu açıkça göstermeyebilir."
+        },
+        {
+          "q": "Ankara Caddesi ayrımında kaldım; hangi adı kullanayım?",
+          "a": "Altınyol ana yolunda mı yoksa ayrılan bağlantıda mı olduğunuzu açıklayın; levhadaki adı ve güncel pini birlikte gönderin."
+        }
+      ],
+      "status": "verified_static_facts",
+      "limitations": [],
+      "scenario": {
+        "title": "Ankara Caddesi ayrımında akü belirtisi",
+        "situation": "Altınyol üzerinde Ankara Caddesi ayrımı yakınında duran bir araçta elektriksel bir belirti gözlenir. Kullanıcı Alsancak yönünü, ayrımdaki gerçek pinini ve motorun çalışıp çalışmadığını aktarır; deniz tarafı tarifiyle yetinmez veya kesin akü arızası iddia etmez.",
+        "assessment": "Basit destek mi taşıma mı gerektiği gözlenen belirtiler ve güvenli erişim durumuyla ele alınır. Kullanıcıdan trafikte kendi teşhisini yapmak için araç etrafında dolaşması beklenmez. Ana yol ve ayrım kolu bilgisi yardım talebini açıklığa kavuşturur.",
+        "delivery": "Taşıma gerekirse kullanıcı seçtiği oto elektrik servisini açık adresiyle bildirir. Servis kabulünü kendisi teyit eder; bir elektrik belirtisi her koşulda yerinde çözüm veya aynı müdahale biçimi garantisi olarak sunulmaz."
+      }
+    },
+    "/guzergahlar/istanbul-otoyolu/": {
+      "name": "İstanbul Otoyolu",
+      "facts": [
+        "Gebze–Orhangazi–İzmir Otoyolu İzmir Çevre Yolundaki Otogar Kavşağına bağlanır.",
+        "Güzergâh Bursa, Balıkesir ve Manisa çevresinden geçer."
+      ],
+      "sources": [
+        {
+          "title": "KGM — Gebze Orhangazi İzmir Otoyolu",
+          "url": "https://www.kgm.gov.tr/Sayfalar/KGM/SiteTr/Projeler/OtoyolProjeleri/GebzeOrhangazi.aspx",
+          "type": "official_primary"
+        }
+      ],
+      "district_if_verified": null,
+      "sections": [
+        {
+          "heading": "Gebze–Orhangazi–İzmir hattında bulunduğunuz bölüm",
+          "paragraphs": [
+            "KGM tanıtımına göre Gebze–Orhangazi–İzmir Otoyolu İzmir tarafında çevre yolunun Otogar Kavşağına bağlanır; güzergâh Bursa, Balıkesir ve Manisa çevresinden geçer. İstanbul otoyolu başlıklı bir talepte bu uzun hattın hangi bölümünde olduğunuzu belirtmek gerekir. Şehirler arası hedefinizden ayrı olarak görünen istasyon, çıkış ya da kilometre levhasını paylaşın."
+          ]
+        },
+        {
+          "heading": "Şehirler arası hedef ile yerel alma konumu",
+          "paragraphs": [
+            "İstanbul’a gitmek üzere İzmir yakınında kalan bir araç için teslimin mutlaka İstanbul olması gerekmez. Yakındaki servis, İzmir’deki bir adres veya başka bir varış noktası seçilebilir; talep edilen teslim adresini açık yazın. Uzak bir şehir adı üzerinden ekip uygunluğu, süre ve ücret kesinleştirilemez. Aracın gerçekten bulunduğu kesim ve taşımanın kapsamı değerlendirilmelidir."
+          ]
+        },
+        {
+          "heading": "Yol değiştirdiyseniz yeni konumu iletme",
+          "paragraphs": [
+            "Ana otoyoldan bir istasyona veya yerel bağlantıya çıktıktan sonra yardım istiyorsanız bunu açıklayın. Son kullandığınız otoyolun adı, aracın şu anda beklediği yerin yerine geçmez. Görüşmede gişe içi/dışı ve tesis girişindeki durumunuzu ayırın. Uzun yol sırasında araçtan görülen uyarı, sıvı kaçağı veya tekerlek sorunu varsa yalnızca gözleminizi aktarın; aracı zorlayarak yeniden sürme denemesi tarif etmeyin."
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "q": "İstanbul’a gidiyorum demem konum için yeterli olur mu?",
+          "a": "Hayır. Bulunduğunuz otoyol kesimi, yön ve en yakın çıkış veya istasyon adı da gönderilmelidir."
+        },
+        {
+          "q": "Taşıma teslimini yol üzerindeki bir servise yapabilir miyim?",
+          "a": "İstediğiniz servis adresini iletebilirsiniz; servis kabulü ve taşıma uygunluğu ayrıca netleştirilir. Uzak varış hedefiniz otomatik teslim adresi değildir."
+        }
+      ],
+      "status": "verified_static_facts",
+      "limitations": [],
+      "scenario": {
+        "title": "İzmir çıkışında elektrikli araç uyarısı",
+        "situation": "İstanbul yönündeki yolculuğuna yeni başlayan elektrikli bir araçta sürüş sistemi uyarısı görünür ve otoyol üzerindeki bir noktada yolculuk kesilir. Sürücü kullanılan yolun adını, en yakın çıkışı ve mevcut yönü açıkça gönderir.",
+        "assessment": "Elektrikli araç modeli, görülen uyarı ve tekerlek/vites durumu değerlendirmeye eklenir. Kullanıcının bilmediği çekme prosedürü tahmin edilmez; üreticiye uygun taşıma gereksinimi talepte belirtilir. İstanbul hedefi otomatik olarak şehirler arası teslim zorunluluğu oluşturmaz.",
+        "delivery": "Kullanıcı İzmir’deki yetkili servisle araç kabulünü görüşürse o adres teslim tercihi olarak paylaşılır. Ekipman uygunluğu araç bilgisiyle değerlendirilir; marka, yol veya örnek senaryo üzerinden filoya ya da kesin operasyon biçimine ilişkin iddia kurulmaz."
+      }
+    },
+    "/guzergahlar/ankara-yolu/": {
+      "name": "Ankara Yolu",
+      "facts": [
+        "İBB plan açıklamasında Ankara Caddesi Bornova–Kemalpaşa yönünde İç Ege ve İç Anadolu bağlantısı olarak tanımlanır."
+      ],
+      "sources": [
+        {
+          "title": "İBB — Konak Alsancak Kahramanlar plan açıklama raporu",
+          "url": "https://www.izmir.bel.tr/YuklenenDosyalar/NazimImarPlani/2810930_18144.pdf",
+          "type": "official_primary"
+        }
+      ],
+      "district_if_verified": null,
+      "sections": [
+        {
+          "heading": "Ankara Caddesi ve şehirler arası yol kesimi",
+          "paragraphs": [
+            "İBB plan raporu Ankara Caddesini Bornova–Kemalpaşa doğrultusundaki bağlantı olarak ele alır. Ankara yolu ifadesiyle kent içindeki caddeyi mi yoksa Kemalpaşa yönündeki yol kesimini mi kastettiğinizi talep sırasında açıklayın. Ankara’ya gitmek, aracın Ankara Caddesinde bulunduğunu göstermez. Levha adı ve harita konumunu hareket yönünüzle birlikte paylaşın."
+          ]
+        },
+        {
+          "heading": "Belkahve yakınlığını yardımcı bilgi olarak kullanma",
+          "paragraphs": [
+            "Aracınız gerçekten Belkahve mevkiindeyse bunu konum mesajına ekleyin; ancak otoyol tüneli ile devlet yolundaki geçit ayrımını koruyun. Kent içi bir arıza için Belkahve adı kullanmak talebin alma noktasını yanlış gösterebilir. Son geçtiğiniz kavşak ile beklediğiniz mevcut noktanın arasındaki farkı yazın. Konum tarifi yalnızca doğrulayabildiğiniz işaretler üzerinden yapılmalıdır."
+          ]
+        },
+        {
+          "heading": "Motor sorunu sonrası taşımaya hazırlık bilgileri",
+          "paragraphs": [
+            "Ankara yolu üzerinde motorun çekişten düşmesi, stop etmesi veya uyarı vermesi halinde gördüğünüz belirtileri ayrı ayrı açıklayın. Bunlar uzaktan kesin arıza tanısı değildir. Araç modeli ve tekerleklerin hareket durumu, taşıma talebine eklenmelidir. Bornova, Kemalpaşa veya başka yerde teslim edilecek servisin açık adresi konumdan sonra yazılmalı; yol adı servis seçiminden bağımsız tutulmalıdır."
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "q": "Ankara yolu ile Ankara Caddesi aynı tarif mi?",
+          "a": "Her talepte aynı anlamı taşımaz. Kent içi cadde ya da şehirler arası yol kesimini pin ve levha bilgisiyle ayırın."
+        },
+        {
+          "q": "Belkahve çevresindeyim; tünel yazmalı mıyım?",
+          "a": "Yalnızca gerçekten otoyol tünelindeyseniz tünel adı kullanın. Devlet yolundaki Belkahve geçidinde bekliyorsanız yol adını ayrıca belirtin."
+        }
+      ],
+      "status": "verified_static_facts",
+      "limitations": [],
+      "scenario": {
+        "title": "Kemalpaşa yönünde çekiş kaybı",
+        "situation": "Bir binek araç Ankara yolu diye tarif edilen Kemalpaşa yönündeki kesimde çekiş kaybı nedeniyle durur. Kullanıcı kent içi Ankara Caddesinde olup olmadığını pinle netleştirir; mevcut yol adını ve son gördüğü işareti ayrı aktarır.",
+        "assessment": "Motorun çalışıp çalışmadığı, görünen uyarı ve tekerlek hareketi konuşulur. Belkahve yakınlığı varsa tünel ve devlet yolu ayrımı korunur. Kullanıcıdan aracı zorlayarak rampaya devam etmesi veya sorun kaynağını deneyerek bulması beklenmez; gözlemler değerlendirmeye aktarılır.",
+        "delivery": "Bornova tarafındaki bir servise teslim istendiğinde açık adres ve kabul durumu paylaşılır. Ankara’ya gidilen yolculuk hedefi, teslimin Ankara olması anlamına gelmez; ücret ve süre gerçek konum ile seçilen teslim noktasına göre ele alınır."
+      }
+    },
+    "/guzergahlar/bursa-yolu/": {
+      "name": "Bursa Yolu",
+      "facts": [
+        "Gebze–Orhangazi–İzmir Otoyolu Bursa Çevre Otoyoluna bağlanır."
+      ],
+      "sources": [
+        {
+          "title": "KGM — Gebze Orhangazi İzmir Otoyolu",
+          "url": "https://www.kgm.gov.tr/Sayfalar/KGM/SiteTr/Projeler/OtoyolProjeleri/GebzeOrhangazi.aspx",
+          "type": "official_primary"
+        }
+      ],
+      "district_if_verified": null,
+      "sections": [
+        {
+          "heading": "Bursa yönünü yol adından ayrı açıklama",
+          "paragraphs": [
+            "Bursa yolu sözü tek başına kullandığınız yolu kesinleştirmez. KGM, Gebze–Orhangazi–İzmir Otoyolunun Bursa Çevre Otoyoluna bağlantısını açıklar; bu bilgi tüm alternatif yolların aynı güzergâh olduğu anlamına gelmez. Talebinizde otoyol, devlet yolu veya yerel bağlantı ayrımını yapın. En yakın istasyon, çıkış ve konum pini gerçek alma noktasını gösteren temel bilgilerdir."
+          ]
+        },
+        {
+          "heading": "İzmir yakınındaki talepte uzun yol hedefi",
+          "paragraphs": [
+            "Bursa’ya yolculuk ederken İzmir tarafında arıza yaşadıysanız bulunduğunuz kesimi önce, gitmek istediğiniz şehri sonra belirtin. Taşımanın Bursa’ya mı yoksa daha yakın bir servise mi yapılmasını istediğinizi netleştirin. Şehirler arası hedefe bakılarak yardımın hangi araçla yapılacağı veya kaç saatte tamamlanacağı söylenemez; talebin kapsamı ayrı değerlendirilir."
+          ]
+        },
+        {
+          "heading": "Ücret değerlendirmesi için iki konum",
+          "paragraphs": [
+            "Uzun yol taşımalarında yalnızca mesafe adı değil, aracın alma ve bırakma noktaları önemlidir. Otoyoldan çıktığınız bir tesisin veya yerel yolun konumunu gönderiyorsanız otoyol üzerindeyim ifadesini düzeltin. Araç boyutu, hareket edebilme durumu ve istediğiniz teslim adresi iletilmelidir. Değerlendirme için belirsiz bir şehir yönü yerine iki açık konum kullanmak gereksiz adres karışıklığını azaltır."
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "q": "Bursa yolu yazarsam hangi yol kabul edilir?",
+          "a": "Kesin bir yol varsayılmamalıdır. Kullandığınız otoyol veya devlet yolunun adını ve pini iletin."
+        },
+        {
+          "q": "Bursa yerine İzmir’de servise teslim isteyebilir miyim?",
+          "a": "Talebinizde İzmir’deki servis adresini açıkça yazabilirsiniz. Varış hedefiniz ve taşıma teslim noktası birbirinden ayrı belirlenir."
+        }
+      ],
+      "status": "verified_static_facts",
+      "limitations": [
+        "Bu kayıt yalnızca otoyol bağlantısını destekler; Bursa yönündeki bütün alternatif yolları doğrulamaz."
+      ],
+      "scenario": {
+        "title": "Bursa hedefli yolculukta İzmir tarafında kalan minibüs",
+        "situation": "Bursa’ya gitmek üzere yola çıkan bir minibüs İzmir tarafındaki otoyol kesiminde hareket edemez. Talep Bursa yolu şeklinde genel bırakılmaz; mevcut yol, çıkış, yön ve araç boyutları kullanıcının bildiği ölçüde mesaja eklenir.",
+        "assessment": "Minibüsün yolcu durumu ve hareketi engelleyen belirti alınır. Yolcuların başka ulaşım ihtiyaçları araç taşıma hizmetiyle otomatik eşitlenmez. Alternatif devlet yolu kullanılıyorsa bu ayrıca açıklanır; Bursa hedefi kesin güzergâh veya hizmet uygunluğu göstergesi sayılmaz.",
+        "delivery": "Kullanıcı minibüsü İzmir’deki bir servise teslim ettirmek isterse adresi ve aracı kimin kabul edeceğini netleştirir. Uzun yol hedefiyle yerel teslim ayrılır; ekip kapasitesi ve taşıma fiyatı araç detayları değerlendirilmeden kesinleştirilmez."
+      }
+    },
+    "/guzergahlar/torbali-otoyolu/": {
+      "name": "Torbalı Otoyolu",
+      "facts": [
+        "Torbalı için İzmir–Aydın otoyolu bağlantısı resmi Valilik tanıtımında yer alır.",
+        "Karabel üzerinden Kemalpaşa–Ankara karayoluna bağlantı ayrıca belirtilir."
+      ],
+      "sources": [
+        {
+          "title": "İzmir Valiliği — Torbalı",
+          "url": "https://www.izmir.gov.tr/torbali",
+          "type": "official_primary"
+        }
+      ],
+      "district_if_verified": null,
+      "sections": [
+        {
+          "heading": "Torbalı otoyol bağlantısı ve Karabel ayrımı",
+          "paragraphs": [
+            "İzmir Valiliği Torbalı tanıtımında İzmir–Aydın otoyolu bağlantısı ve Karabel üzerinden Kemalpaşa–Ankara karayolu bağlantısı ayrı anlatılır. Torbalı otoyolu talebinde bu iki hattı birbirinin yerine kullanmayın. Ana otoyol üzerinde, çıkış kolunda veya ilçe içindeki bağlantıda beklediğinizi açıkça söyleyin. En yakın levha ve harita piniyle mevcut yol kesimini doğrulayın."
+          ]
+        },
+        {
+          "heading": "Otoyol çıkışından ilçe içi adrese geçiş",
+          "paragraphs": [
+            "Torbalı çıkışını geçtikten sonra kent içindeki bir yolda kalan araç için otoyol çıkışı ancak yardımcı referanstır. Alma noktası bulunduğunuz cadde veya sokaktır. Sanayi, iş yeri veya konut girişinde bekliyorsanız açık adresi gönderin. Bir ana yolun yanında duran araç, çekicinin aynı otoyol şeridinden ulaşabileceği bir noktada olmayabilir; giriş tarafını tarif etmek bu ayrımı açıklamaya yardımcı olur."
+          ]
+        },
+        {
+          "heading": "Ticari araç talebinde yük bilgisi",
+          "paragraphs": [
+            "Torbalı çevresindeki bir taşıma talebi ticari araç içinse araç türü ve boyutlarıyla birlikte yüklü olup olmadığını bildirin. Aynı yol kesiminde kalan bir binek araçla ticari aracın yükleme ihtiyacı aynı kabul edilmez. Teslim edilecek servis veya iş yeri adresini ve kabul durumunu ayrı netleştirin. Araç tipi bilinmeden çekme yöntemi veya fiyat için kesin yanıt vermek uygun değildir."
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "q": "Torbalı–Kemalpaşa yolundayım; otoyol yazabilir miyim?",
+          "a": "Kullandığınız Karabel bağlantısını veya gerçek yol adını belirtin. İzmir–Aydın otoyolu üzerinde olduğunuz varsayılmamalıdır."
+        },
+        {
+          "q": "Otoyol çıkışını geçtim, hangi adresi göndereyim?",
+          "a": "Aracın şu anda bulunduğu ilçe içi noktayı gönderin. Çıkış adını yardımcı tarif olarak ekleyebilirsiniz."
+        }
+      ],
+      "status": "verified_static_facts",
+      "limitations": [],
+      "scenario": {
+        "title": "Torbalı çıkışı sonrası yük taşıyan kamyonet",
+        "situation": "Bir kamyonet Torbalı otoyol çıkışını geçip yerel bağlantıya ulaştıktan sonra durur. Kullanıcı artık ana otoyolda olmadığını açıklar ve yerel bekleme pinini gönderir; çıkış adı yalnızca yardımcı referans olarak mesajda yer alır.",
+        "assessment": "Aracın yüklü olduğu, yaklaşık boyutları ve hareket durumu konuşulur. Karabel–Kemalpaşa bağlantısı ile İzmir–Aydın otoyolu birbirinin yerine kullanılmaz. Yükün ayrıca aktarılması isteniyorsa bunun araç taşımasından ayrı kapsam oluşturduğu görüşmede netleştirilir; uygunluk varsayımı yapılmaz.",
+        "delivery": "Torbalı’daki işletmeye ya da servise teslim istendiğinde araç kabul edecek giriş adresi paylaşılır. Yük ve aracı kimin teslim alacağı teyit edilir; otoyol çıkışı adı teslim kapısı veya toplam taşıma mesafesi yerine geçirilmez."
+      }
+    },
+    "/guzergahlar/liman-yolu/": {
+      "name": "Liman Yolu",
+      "facts": [
+        "İBB Alsancak Liman bölgesini Konak Ege Mahallesi kapsamında ele alır."
+      ],
+      "sources": [
+        {
+          "title": "İBB — Alsancak Liman bölgesi altyapı tanıtımı",
+          "url": "https://www.izmir.bel.tr/tr/Haberler/alsancak-in-altyapisini-guclendirecek-proje-yurttaslara-tanitildi/53682/156",
+          "type": "official_primary"
+        }
+      ],
+      "district_if_verified": "Konak",
+      "sections": [
+        {
+          "heading": "Hangi liman ve hangi yol",
+          "paragraphs": [
+            "Liman yolu ifadesi, araç alma noktasını tek başına belirlemez. Alsancak Liman çevresini kastediyorsanız Konak/Ege Mahallesi çevresinde mi, Liman Caddesinde mi yoksa başka bir bağlantıda mı olduğunuzu belirtin. İBB kaynakları Alsancak liman bölgesini Ege Mahallesiyle ilişkilendirir. Başka bir limana giden araç için Alsancak konumu varsayılmamalı; tesis adı ve pin birlikte gönderilmelidir."
+          ]
+        },
+        {
+          "heading": "Tesis kapısı ile dış yoldaki bekleme noktası",
+          "paragraphs": [
+            "Araç liman kapısının dışında mı, giriş yaklaşımında mı yoksa tesis içinde mi bekliyor, bunu yardım görüşmesinin başında söyleyin. Tesis içi talepte giriş yetkisi ve kabul işlemleri kullanıcı ile ilgili tesis tarafından netleştirilmelidir; çekici çağrısı giriş izni sağlamaz. Kapı adı biliniyorsa paylaşın. Harita pini kapının yalnızca yakınını gösteriyorsa beklediğiniz tarafı da açıklayın."
+          ]
+        },
+        {
+          "heading": "Ticari taşıma ve teslim adresi",
+          "paragraphs": [
+            "Liman çevresindeki bir ticari araç talebinde araç türü, yük durumu ve görünür hasar bilgisi değerlendirmeye eklenmelidir. Sadece liman adı üzerinden ağır araç kapasitesi veya ekip uygunluğu varsayılamaz. Teslimin liman dışında bir servise yapılması isteniyorsa açık adresi ayrı gönderin. Alma ve teslim girişleri farklı olduğunda ikisini de belirtmek talebin kapsamını daha anlaşılır hale getirir."
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "q": "Liman yolu deyince Alsancak Limanı mı anlaşılır?",
+          "a": "Otomatik olarak öyle kabul edilmemelidir. Liman veya tesisin adı, kapısı ve gerçek konum pini gereklidir."
+        },
+        {
+          "q": "Liman içindeki aracı almak için izin gerekir mi?",
+          "a": "Tesisin giriş ve araç kabul işlemlerini ilgili tesisle netleştirin. Yardım talebi tek başına tesis giriş yetkisi vermez."
+        }
+      ],
+      "status": "verified_static_facts",
+      "limitations": [
+        "Liman Yolu adı tüm limanların tek güzergâhı olarak eşleştirilmez; kaynak Alsancak çevresini destekler."
+      ],
+      "scenario": {
+        "title": "Alsancak Liman kapısı dışında ticari araç",
+        "situation": "Bir ticari araç Alsancak Liman çevresinde kapı dışında arızalanır. Kullanıcı hangi liman olduğunu, kapı veya cadde adını ve dış yolda beklediğini belirtir; tesis içi pin ile kapı önünü aynı konum gibi göstermez.",
+        "assessment": "Araç türü, yük durumu ve görünür arıza alınır. Tesis içinden alma istenmediği netleştirilir; gerekiyorsa giriş yetkisi ilgili tesisle görüşülmelidir. Liman adının bir ağır araç kapasitesi veya özel ekipman sahibi olunduğu iddiasına dönüşmesine izin verilmez.",
+        "delivery": "Kullanıcı liman dışında seçilmiş bir servise teslim isterse açık adresi ayrıca gönderir. Servis kabulü ve yükün araçta kalıp kalmayacağı konuşulur; iki farklı girişin olduğu bir teslimde girişlerin birbirine karıştırılmaması sağlanır."
+      }
+    },
+    "/sanayi/1-sanayi-sitesi/": {
+      "name": "1. Sanayi Sitesi",
+      "facts": [
+        "İBB plan raporu 1. Sanayi Sitesini Halkapınar adıyla ilişkilendirir."
+      ],
+      "sources": [
+        {
+          "title": "İBB — Plan açıklama raporu",
+          "url": "https://www.izmir.bel.tr/YuklenenDosyalar/NazimImarPlani/3118480_13233.pdf",
+          "type": "official_primary"
+        },
+        {
+          "title": "İzmir Oto Tamircileri Odası — 1. Sanayi Sitesi",
+          "url": "https://izmirototamircileriodasi.com/?page_id=142",
+          "type": "official_primary"
+        }
+      ],
+      "district_if_verified": null,
+      "sections": [
+        {
+          "heading": "Halkapınar 1. Sanayiye teslim adresi",
+          "paragraphs": [
+            "İBB plan raporu ve İzmir Oto Tamircileri Odası 1. Sanayi Sitesini Halkapınar adıyla ilişkilendirir. Bu nedenle bir teslim talebinde 1. Sanayi numarasını Halkapınar ve servis adıyla birlikte kullanabilirsiniz. Ancak site adı tek başına doğru dükkânı göstermez. Sokak numarası, kapı bilgisi ve aracı kabul edecek işletmenin açık adresi aynı mesajda bulunmalıdır."
+          ]
+        },
+        {
+          "heading": "Sanayi içindeki başka servise aktarım",
+          "paragraphs": [
+            "Araç zaten bir servisteyken başka iş yerine taşınacaksa hangi servisten alınacağını ve hangisine bırakılacağını ayrı belirtin. Motor veya parçalar sökülmüşse bu bilgiyi önceden aktarın; araç dışarıdan sağlam görünse de hareket ettirme koşulları değişebilir. Aracı kabul eden kişinin müsaitliği kullanıcı tarafından netleştirilmelidir. Yakın dükkânlar arasında taşıma da yalnızca yürüyüş mesafesine bakılarak planlanamaz."
+          ]
+        },
+        {
+          "heading": "Sokakta bekleyen araç için servisle koordinasyon",
+          "paragraphs": [
+            "Halkapınar çevresinde kalan bir aracın 1. Sanayiye tesliminde alma konumu site dışında olabilir. Sokak pini ile servisin pinini birbirine karıştırmayın. Çekici talebinde anahtarın araçla birlikte olup olmadığını ve tekerleklerin hareket durumunu bildirin. Aracı teslim alacak iş yeri henüz seçilmediyse bunu açık söyleyin; site adını hazır bir servis kabulü gibi kullanmayın."
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "q": "1. Sanayiye teslim için Halkapınar demek yeterli mi?",
+          "a": "Servis adı, sokak ve dükkân numarası da gereklidir. Halkapınar siteyi ayırmaya yardımcı olur ancak teslim noktasını tek başına göstermez."
+        },
+        {
+          "q": "Sökülmüş motoru olan araç için ne bildirmeliyim?",
+          "a": "Serviste yapılan sökümün kapsamını, aracın hareket durumunu ve parça tesliminin taşıma talebine dahil olup olmadığını önceden açıklayın."
+        }
+      ],
+      "status": "verified_static_facts",
+      "limitations": [],
+      "scenario": {
+        "title": "Halkapınarda sökülmüş motorlu servis aktarımı",
+        "situation": "1. Sanayide bir serviste duran araç başka bir iş yerine aktarılacaktır; motorun araçtan söküldüğü kullanıcı tarafından açıklanır. Kullanıcı Halkapınar site adının yanına alma servisinin sokak ve dükkân bilgisini, ardından ikinci teslim adresini ekler.",
+        "assessment": "Aracın tekerlek ve direksiyon hareketi sorulur. Sökülen parçaların ayrıca taşınması talebi varsa kapsamı ayrıca konuşulur; aracın servis içinde bulunması yüklemeye hazır olduğu anlamına gelmez. Anahtar ve teslim edecek kişi bilgisinin mevcut olması koordinasyonu açıklar.",
+        "delivery": "Aracı kabul edecek yeni servis adresi ve kabulü teyit edilir. Aynı site içindeki kısa mesafe, operasyon biçimi veya ücret için tek ölçüt yapılmaz; alma ve teslim koşulları araç bilgisiyle birlikte değerlendirilir."
+      }
+    },
+    "/sanayi/2-sanayi-sitesi/": {
+      "name": "2. Sanayi Sitesi",
+      "facts": [
+        "2. Sanayi Sitesi Bornova Belediyesinin resmi sanayi siteleri haberinde yer alır."
+      ],
+      "sources": [
+        {
+          "title": "Bornova Belediyesi — Sanayi siteleri",
+          "url": "https://bornova.bel.tr/bornovada-verilen-sozler-tutuluyor/",
+          "type": "official_primary"
+        },
+        {
+          "title": "İzmir Oto Tamircileri Odası — 2. Sanayi Sitesi",
+          "url": "https://izmirototamircileriodasi.com/?page_id=144",
+          "type": "official_primary"
+        }
+      ],
+      "district_if_verified": "Bornova",
+      "sections": [
+        {
+          "heading": "Bornova 2. Sanayi talebini numarayla netleştirme",
+          "paragraphs": [
+            "Bornova Belediyesi sanayi siteleri haberinde 2. Sanayi Sitesi yer alır. Yakın bir başka sanayi numarasıyla karışmaması için talepte 2. Sanayi adını servis tabelası ve sokak bilgisiyle birlikte yazın. Araç site içindeki dükkânda mı yoksa siteye gelmeden bir yolda mı bekliyor, bunu ayırın. Belediye haberindeki isim, bir servisin güncel çalışma veya araç kabul saatini göstermez."
+          ]
+        },
+        {
+          "heading": "Arıza tespiti için teslim edilen araç",
+          "paragraphs": [
+            "Araç henüz hangi mekanik sorun nedeniyle durduğunu bilmiyorsanız kesin teşhis adı vermeniz gerekmez. Marş dönmesi, motorun çalışmaması veya hareket etmeyen tekerlek gibi gözlemleri aktarın. Servise arıza tespiti amacıyla teslim istediğinizi söyleyin ve açık adresi netleştirin. Çekici görüşmesi onarım talebinin yerine geçmez; servis kabulünü ve yapılacak işlemi ilgili iş yeriyle konuşmalısınız."
+          ]
+        },
+        {
+          "heading": "Site girişinden dükkân önüne son teslim",
+          "paragraphs": [
+            "Teslimi yalnızca sanayi girişine değil belirli dükkâna istiyorsanız kapı numarasını ve teslim alanını açıklayın. Servisin önünde park edilmiş araçlar yükleme alanını etkiliyorsa mevcut durumu kabul yetkilisiyle görüşün; alanın uygunluğu güncel bilgiyle değerlendirilir. Anahtarın kime verileceği ve aracı kimin kabul edeceği taşıma tamamlanmadan önce netleştirilmelidir."
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "q": "2. Sanayide hangi servis açık, burada öğrenebilir miyim?",
+          "a": "Bu sayfa servislerin güncel açık saatlerini doğrulamaz. Seçtiğiniz servisle araç kabulünü ayrıca görüşün."
+        },
+        {
+          "q": "Arıza teşhisini bilmiyorum; çekici talebi oluşturabilir miyim?",
+          "a": "Gözlemlediğiniz belirtileri ve hareket durumunu iletin. Kesin teşhis uydurmadan arıza tespiti için servise teslim istediğinizi belirtebilirsiniz."
+        }
+      ],
+      "status": "verified_static_facts",
+      "limitations": [
+        "Resmi kaynak site adı ve Bornova ilişkisini destekler; kapı, sokak veya yönetim adresi ayrıca doğrulanmadı."
+      ],
+      "scenario": {
+        "title": "Teşhis için dışarıdan 2. Sanayiye taşıma",
+        "situation": "Kent içindeki bir sokakta motoru çalışmayan araç için kullanıcı 2. Sanayide arıza tespiti randevusu alır. Aracın henüz siteye ulaşmadığını belirtir; sokaktaki alma pinini ve servisin açık dükkân adresini iki ayrı konum olarak paylaşır.",
+        "assessment": "Marşın dönmesi gibi gözlenmiş belirtiler ile aracın hareket durumu alınır; kullanıcı kesin mekanik teşhis üretmez. Servis kabulü çekici talebinden ayrı teyit edilir. Aracın boyutu ve anahtar durumu yükleme değerlendirmesine eklenir; site adı tek başına yöntem belirlemez.",
+        "delivery": "Teslim kabul edecek kişi ve kapı bilgisi netleştirilir. Aracın yalnızca sanayi girişine mi yoksa belirli servisin önüne mi teslim edileceği konuşulur; randevu onarım süresi veya taşıma ETA garantisi şeklinde sunulmaz."
+      }
+    },
+    "/sanayi/3-sanayi-sitesi/": {
+      "name": "3. Sanayi Sitesi",
+      "facts": [
+        "3. Sanayi Sitesi Bornova Belediyesinin resmi sanayi siteleri haberinde yer alır."
+      ],
+      "sources": [
+        {
+          "title": "Bornova Belediyesi — Sanayi siteleri",
+          "url": "https://bornova.bel.tr/bornovada-verilen-sozler-tutuluyor/",
+          "type": "official_primary"
+        },
+        {
+          "title": "İzmir Oto Tamircileri Odası — 3. Sanayi Sitesi",
+          "url": "https://izmirototamircileriodasi.com/?page_id=146",
+          "type": "official_primary"
+        }
+      ],
+      "district_if_verified": "Bornova",
+      "sections": [
+        {
+          "heading": "Bornova 3. Sanayi ve çevredeki yollar",
+          "paragraphs": [
+            "Bornova Belediyesi ve İzmir Oto Tamircileri Odası 3. Sanayi Sitesini Bornova ile ilişkilendirir. Oda tanıtımı siteyi Ankara–İstanbul ana arter bağlantısı çevresinde ele alır. Ancak ana yoldaki bir arızayı site içinde bekleyen araçla karıştırmayın. Alma noktası ana yol ise onu ayrıca yazın; 3. Sanayi teslimi için servis ve dükkân adresini ikinci konum olarak gönderin."
+          ]
+        },
+        {
+          "heading": "Otomatik vitesli araç için bilgi aktarımı",
+          "paragraphs": [
+            "3. Sanayiye taşınacak otomatik vitesli bir araçta vitesin boşa alınıp alınamadığını bildirin. Bunu kontrol etmek için kullanıcıdan araç altına girmesi veya bir mekanizmayı zorlaması beklenmemelidir. Anahtarın bulunması ve tekerleklerin dönmesi gibi bilinen durumlar değerlendirmeye yardımcı olur. Araç modeli bilinmeden yalnızca sanayi adresine dayanarak tek bir taşıma yöntemi önerilemez."
+          ]
+        },
+        {
+          "heading": "Servis değişikliğinde teslim teyidi",
+          "paragraphs": [
+            "İlk görüştüğünüz servis aracı kabul edemiyorsa yeni teslim adresini taşıma görüşmesinde açıkça güncelleyin. Aynı site içindeki iki dükkânın yakın olması adres değişikliğinin önemsiz olduğu anlamına gelmez. Yeni işletmenin sokak, kapı ve kabul bilgisi teyit edilmelidir. Önceki pinle yeni servis adı çelişiyorsa mesajı düzeltin; son teslim bilgisi tek ve anlaşılır olmalıdır."
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "q": "3. Sanayiye giden ana yolda kaldım; site pini göndereyim mi?",
+          "a": "Aracın mevcut bekleme noktasının pinini gönderin. Site pinini yalnızca istenen teslim adresi olarak ayrı paylaşın."
+        },
+        {
+          "q": "Otomatik vites boşa geçmiyorsa bunu belirtmeli miyim?",
+          "a": "Evet. Marka/model, anahtar durumu ve boşa geçmediği bilgisi taşıma değerlendirmesine eklenmelidir; mekanizmayı zorlamayın."
+        }
+      ],
+      "status": "verified_static_facts",
+      "limitations": [
+        "Resmi kaynak site adı ve Bornova ilişkisini destekler; kapı, sokak veya yönetim adresi ayrıca doğrulanmadı."
+      ],
+      "scenario": {
+        "title": "Boşa geçmeyen otomatik aracın servis değişimi",
+        "situation": "Otomatik vitesli araç 3. Sanayide bir dükkân önünde beklemektedir; servis değişikliği nedeniyle başka bir iş yerine taşınması istenir. Kullanıcı vitesin boşa geçmediğini, anahtarın kendisinde olduğunu ve iki dükkânın adreslerini ayrı paylaşır.",
+        "assessment": "Model ve tekerlek hareketi alınır; kullanıcıdan vites mekanizmasına müdahale etmesi istenmez. İşletme kapısındaki bekleme konumu pinle netleştirilir. Yakın iki dükkân arasındaki mesafe, aracın mevcut mekanik durumunu veya uygun taşıma ihtiyacını ortadan kaldırmaz.",
+        "delivery": "Yeni servis aracı kabul edeceğini teyit ederse güncel teslim adresi esas alınır. İlk mesajda farklı bir servis varsa bu açıkça düzeltilir; taşıma yöntemine veya ekipman sahipliğine dair varsayım, senaryonun bir parçası değildir."
+      }
+    },
+    "/sanayi/4-sanayi-sitesi/": {
+      "name": "4. Sanayi Sitesi",
+      "facts": [
+        "4. Sanayi Sitesi Bornova Belediyesinin resmi sanayi siteleri haberinde yer alır.",
+        "Oda tanıtımı 4. Sanayi Sitesini Bornova Doğanlar–Naldöken çevresiyle ilişkilendirir."
+      ],
+      "sources": [
+        {
+          "title": "Bornova Belediyesi — Sanayi siteleri",
+          "url": "https://bornova.bel.tr/bornovada-verilen-sozler-tutuluyor/",
+          "type": "official_primary"
+        },
+        {
+          "title": "İzmir Oto Tamircileri Odası — 4. Sanayi Sitesi",
+          "url": "https://izmirototamircileriodasi.com/?page_id=148",
+          "type": "official_primary"
+        }
+      ],
+      "district_if_verified": "Bornova",
+      "sections": [
+        {
+          "heading": "Doğanlar ve Naldöken çevresinde 4. Sanayi adresi",
+          "paragraphs": [
+            "İzmir Oto Tamircileri Odası 4. Sanayi Sitesini Bornova’nın Doğanlar–Naldöken bölgesiyle ilişkilendirir. Yerel tarifte bu adlar geçse de aracın bulunduğu dükkân veya sokak yine ayrıca belirtilmelidir. Site içindeki iş yerini alma noktası olarak kullanıyorsanız güncel kapı bilgisini gönderin. Oda tanıtımındaki eski kuruluş veya iş yeri sayıları burada güncel faaliyet bilgisi olarak aktarılmamaktadır."
+          ]
+        },
+        {
+          "heading": "Atölyeden araç alma talebinde farklı ihtiyaçlar",
+          "paragraphs": [
+            "Bir otomotiv atölyesinden alınacak araçla üretim atölyesinin önünde bekleyen bir binek araç farklı ayrıntılar gerektirebilir. Araçta sökülmüş parça, açıkta kalan yürüyen aksam veya dönmeyen tekerlek bulunuyorsa bunu bildirin. Sanayi sitesi adı aracın kendi kendine hareket edebildiğini göstermez. Yükleme alanı hakkında güncel bilgiyi araç sahibi ve iş yeri birlikte netleştirmelidir."
+          ]
+        },
+        {
+          "heading": "İmalat girişini servis girişinden ayırma",
+          "paragraphs": [
+            "Teslim edilecek iş yerinin birden fazla kapısı varsa aracı hangi girişte kabul edeceğini ilgili işletmeyle görüşün. Mal kabul kapısı, yaya kapısı ve araç bakım bölümü aynı alan olmayabilir. Adresin yanında giriş bilgisi paylaşmak yeterlidir; tesisin tüm iç düzenini bildiğinizi varsaymayın. Araç boyutları veya hasar nedeniyle erişim sınırlaması varsa değerlendirme talebine açıkça ekleyin."
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "q": "4. Sanayi için Doğanlar yazmak yeterli mi?",
+          "a": "Site numarası, sokak ve dükkân bilgisi de gereklidir. Doğanlar veya Naldöken çevresi yalnızca bölgesel referanstır."
+        },
+        {
+          "q": "Araç atölyenin farklı kapısından alınacaksa ne yapmalıyım?",
+          "a": "İş yeriyle araç kabul/alma girişini netleştirip pin ve kapı bilgisini görüşmeye ekleyin; yaya girişini araç girişinin yerine kullanmayın."
+        }
+      ],
+      "status": "verified_static_facts",
+      "limitations": [
+        "Resmi kaynak site adı ve Bornova ilişkisini destekler; kapı, sokak veya yönetim adresi ayrıca doğrulanmadı."
+      ],
+      "scenario": {
+        "title": "Doğanlar çevresinde atölye içinde kalan araç",
+        "situation": "4. Sanayi içindeki bir atölyede araç ön tekerleği sökülmüş halde bekler ve başka adrese taşıma istenir. Kullanıcı Doğanlar–Naldöken çevresindeki iş yerinin gerçek kapı adresini paylaşır; aracın dükkân içinde bulunduğunu görüşmenin başında açıklar.",
+        "assessment": "Söküm kapsamı, tekerleklerin hareketi ve kapı erişimi değerlendirilir. Kullanıcı aracı dışarı çıkarabilecek durumda değilse bunu belirtir. Araç boyutu bilinmeden atölye girişinin uygun olduğu veya belirli ekipmanın kullanılacağı garanti edilmez; mevcut koşullar bilgi olarak aktarılır.",
+        "delivery": "Teslimin başka imalat ya da bakım kapısına yapılması istenirse ilgili iş yeri girişini teyit eder. Yaya girişiyle araç kabul kapısı ayrılır; açık adres ve kabul edecek kişi taşıma talebine eklenir."
+      }
+    },
+    "/sanayi/5-sanayi-sitesi/": {
+      "name": "5. Sanayi Sitesi",
+      "facts": [
+        "5. Sanayi Sitesi Bornova Belediyesinin resmi sanayi siteleri haberinde yer alır."
+      ],
+      "sources": [
+        {
+          "title": "Bornova Belediyesi — Sanayi siteleri",
+          "url": "https://bornova.bel.tr/bornovada-verilen-sozler-tutuluyor/",
+          "type": "official_primary"
+        },
+        {
+          "title": "İzmir Oto Tamircileri Odası — 5. Sanayi Sitesi",
+          "url": "https://izmirototamircileriodasi.com/?page_id=150",
+          "type": "official_primary"
+        }
+      ],
+      "district_if_verified": "Bornova",
+      "sections": [
+        {
+          "heading": "Bornova 5. Sanayide iş yeri konumunu bulma",
+          "paragraphs": [
+            "Bornova Belediyesi 5. Sanayi Sitesini resmi sanayi siteleri haberinde anmaktadır. Talebinizde site numarasını açık yazın ve iş yerinin sokak/kapı bilgisini ekleyin. Bir sanayi sitesine teslim edilmesi istenen araç henüz site içinde bulunmayabilir. Mevcut alma konumunu servis adresinden ayrı göndermek, hangi noktadan taşıma istendiğini belirlemeyi kolaylaştırır."
+          ]
+        },
+        {
+          "heading": "Dükkân içinde bekleyen aracın erişim bilgisi",
+          "paragraphs": [
+            "Araç dükkânın içinde, kapının önünde veya başka bir park alanında bekliyorsa bunu ayrı ifade edin. Kapı açıklığı ve yükleme yapılabilecek alanla ilgili güncel bilgiyi işletmeden öğrenin; araç sokağa çıkarılamıyorsa bu durum talep sırasında bilinmelidir. Anahtar bulunmaması, sökülmüş tekerlek veya kilitli direksiyon gibi durumlar tek tek aktarılmalıdır. Bunlardan hareketle uzaktan ekipman uygunluğu garantisi verilemez."
+          ]
+        },
+        {
+          "heading": "Mesai sonrası teslimin kabul edilmesi",
+          "paragraphs": [
+            "7/24 çekici iletişimi, teslim edilecek servisin de aynı saatlerde açık olduğu anlamına gelmez. 5. Sanayide belirli bir iş yerine gece teslim düşünüyorsanız aracı kimin kabul edeceğini ve kabul yerini servisle görüşün. Kapalı dükkân önüne bırakma gibi bir kararın kendiliğinden alınmasını beklemeyin. Talep edilen adres, kabul biçimi ve anahtar teslimi taşıma değerlendirmesinin parçasıdır."
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "q": "Gece 5. Sanayiye bırakmak için neyi teyit etmeliyim?",
+          "a": "Seçtiğiniz servisin kabul durumunu, aracı teslim alacak kişiyi ve anahtarın nasıl aktarılacağını ilgili işletmeyle netleştirin."
+        },
+        {
+          "q": "Araç dükkân içinde ve dışarı çıkarılamıyor; ne bildireyim?",
+          "a": "İçeride olduğunu, kapı erişimini ve hareketi engelleyen bilinen durumu açıklayın. Fotoğrafı yalnızca güvenli ve izin verilen noktadan paylaşın."
+        }
+      ],
+      "status": "verified_static_facts",
+      "limitations": [
+        "Resmi kaynak site adı ve Bornova ilişkisini destekler; kapı, sokak veya yönetim adresi ayrıca doğrulanmadı."
+      ],
+      "scenario": {
+        "title": "Mesai sonrası kapalı servise teslim talebi",
+        "situation": "Bir kullanıcı gece arızalanan aracı 5. Sanayideki servisinin adresine taşıtmak ister. Servisin o saatte kapalı olduğunu bildirir; 7/24 çekici iletişiminin servis kabul saatinden farklı olduğunu göz önünde bulundurarak kabul durumunu işletmeyle görüşür.",
+        "assessment": "Aracın hareket durumu ve alma konumu değerlendirilir. Kapalı iş yeri önüne bırakma otomatik teslim seçeneği yapılmaz. Anahtarın kimde olduğu ve aracı kimin kabul edeceği netleştirilir; kullanıcıdan dükkân dışında güvenli olmayan bir teslim denemesi beklenmez.",
+        "delivery": "İşletme uygun bir kabul noktası teyit ederse sokak, kapı ve kişi bilgisi teslim talebine eklenir. Kabul yoksa alternatif adres kullanıcının tercihiyle görüşülür; örnek durum bir yapılmış gece operasyonu iddiası içermez."
+      }
+    },
+    "/sanayi/6-sanayi-sitesi/": {
+      "name": "6. Sanayi Sitesi",
+      "facts": [
+        "İzmir Oto Tamircileri Odası 6. Sanayi Sitesini Buca ve Gaziemir çevresiyle ilişkilendirir.",
+        "Oda tanıtımı çevrede Otokent araç satış alanını da anmaktadır."
+      ],
+      "sources": [
+        {
+          "title": "İzmir Oto Tamircileri Odası — 6. Sanayi Sitesi",
+          "url": "https://izmirototamircileriodasi.com/?page_id=152",
+          "type": "official_primary"
+        },
+        {
+          "title": "Gaziemir Belediyesi — stratejik plan, yerel ekonomi",
+          "url": "https://api.gaziemir.bel.tr/stratejik_plan26377215.pdf",
+          "type": "official_primary"
+        }
+      ],
+      "district_if_verified": null,
+      "sections": [
+        {
+          "heading": "Buca ve Gaziemir tariflerini birlikte netleştirme",
+          "paragraphs": [
+            "İzmir Oto Tamircileri Odası 6. Sanayi Sitesini Buca ve Gaziemir çevresini kapsayan bölgeyle ilişkilendirir; Gaziemir Belediyesi de siteyi oto bakım ve tamir alanı olarak anar. Bu nedenle tek bir ilçe adına dayanarak aracın kapı adresini tahmin etmeyin. Talepte 6. Sanayi numarası, sokak, iş yeri ve konum pini birlikte bulunmalıdır."
+          ]
+        },
+        {
+          "heading": "Otokent çevresi ile sanayi dükkânı ayrımı",
+          "paragraphs": [
+            "Oda tanıtımı 6. Sanayi çevresinde Otokent araç satış alanını da anmaktadır. Otokent yakınında kalan bir araçla 6. Sanayi içindeki serviste bekleyen araç aynı noktada olmayabilir. Ticari işletme adı yanında gerçek alma konumunu yazın. Araç satış veya teslim amacıyla taşınacaksa alıcının kabul adresini ve aracı kimin teslim alacağını da netleştirin; çevredeki tesis adına dayanarak kabul varsaymayın."
+          ]
+        },
+        {
+          "heading": "Tamirden çıkan ama yürüyemeyen araç",
+          "paragraphs": [
+            "Araç serviste tamir işleminden geçmiş olsa da motorun çalışması yol sürüşüne uygun olduğunu tek başına göstermez. Kullanıcının bildiği tekerlek, fren veya direksiyon hareketi sorunları taşıma görüşmesinde açıklanmalıdır. Servisten çıkış ve başka adrese teslim iki ayrı konum olarak yazılmalıdır. Talep, geçmişte burada yapılmış bir taşıma örneğine veya belirli varış süresi iddiasına dayanmaz."
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "q": "6. Sanayi için Buca mı Gaziemir mi yazayım?",
+          "a": "Adresinizdeki gerçek ilçe bilgisini ve sokak/kapı numarasını gönderin. Site numarası ve pin, iki yerel tarifi ayırmaya yardımcı olur."
+        },
+        {
+          "q": "Otokent yakınındayım; 6. Sanayi dükkân adresi kullanabilir miyim?",
+          "a": "Aracın gerçek alma noktasını kullanın. Yakındaki sanayi veya satış alanı adı, başka bir dükkânı alma adresi yapmaz."
+        }
+      ],
+      "status": "verified_static_facts",
+      "limitations": [],
+      "scenario": {
+        "title": "Otokent yakınından sanayi servisine teslim",
+        "situation": "Otokent çevresinde bekleyen bir araç 6. Sanayide seçilmiş bir servise taşınacaktır. Kullanıcı satış alanı yakınındaki alma pinini ve servisin sokak adresini ayrı gönderir; aracın zaten 6. Sanayi dükkânında olduğunu söylemez veya ilçe adından kapı tahmini üretmez.",
+        "assessment": "Araç çalışsa bile sürüşe engel yürüyen aksam belirtisi varsa paylaşılır. Tekerlek ve anahtar durumu değerlendirilir. Buca/Gaziemir yerel tariflerinin gerçek açık adresle uyuşması kontrol edilir; sanayi yakınlığı yükleme koşulları veya varış süresi için garanti sayılmaz.",
+        "delivery": "Servis kabulü ve aracı teslim alacak kişi teyit edilir. Taşıma amacı araç satışıysa alıcının adresi ayrıca netleştirilir; komşu satış alanı adı, sanayi içindeki teslim kapısının yerini tutmaz."
+      }
+    },
+    "/sanayi/7-sanayi-sitesi/": {
+      "name": "7. Sanayi Sitesi",
+      "facts": [],
+      "sources": [],
+      "district_if_verified": null,
+      "sections": [
+        {
+          "heading": "7. Sanayi talebinde adresi önce doğrulama",
+          "paragraphs": [
+            "7. Sanayi şeklindeki bir konum tarifinde tesisin tam adını, ilçesini ve sokak adresini birlikte paylaşın. 7. Sanayi adıyla hangi tesisin kastedildiği netleşmeden araç alım kapısı veya mahalle belirlenemez. Bir iş yerinin paylaştığı adrese gidilecekse site numarasını doğrudan o işletmeyle doğrulayın. Konum pini ve açık adres uyuşmuyorsa taşıma talebinden önce bu farkı netleştirin."
+          ]
+        },
+        {
+          "heading": "Numaralı sanayi adının karışmasını önleme",
+          "paragraphs": [
+            "Telefonda verilen bir sanayi numarası, mesajdaki açık adresin yerine geçmez. 7. Sanayi derken başka bir sitenin kapı numarası veya bir işletmenin adını kastediyorsanız bunu açıklayın. Aracı almak için kullanılacak adresi ve teslim adresini ayrı yazın. Doğrulanmamış tesis ismini büyüterek yollar, yakınlıklar ya da erişim bağlantıları hakkında kesin bilgiler üretmek kullanıcıya yardımcı olmaz."
+          ]
+        },
+        {
+          "heading": "Adres netleştiğinde taşıma bilgileri",
+          "paragraphs": [
+            "Tam konum belirlendikten sonra marka/model, anahtar durumu ve tekerleklerin hareket edip etmediği iletilmelidir. Aracı teslim alacak servisin kabulünü kullanıcı ilgili işletmeyle görüşmelidir. Tesisin adı belirsizken yardımın kaç dakikada geleceği veya ücretin ne olacağı söylenemez. Açık adresi doğrulamak talebin ilk adımıdır; bu bölüm belirli bir yerde yapılan geçmiş operasyon kaydı içermez."
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "q": "7. Sanayinin kesin adresi bu sayfada var mı?",
+          "a": "Hayır. Birincil kaynakla doğrulanmış tesis adresi mevcut değil. Servisin size verdiği açık adres ve güncel pini birlikte paylaşın."
+        },
+        {
+          "q": "Sanayi numarası ile konum pini çelişiyorsa ne yapayım?",
+          "a": "Servis veya ilgili işletmeyle adresi netleştirin ve düzeltilmiş alma/teslim bilgisini gönderin. Numara üzerinden konum tahmin edilmemelidir."
+        }
+      ],
+      "status": "absent",
+      "limitations": [
+        "Bu adın kesin yol/tesis konumu için yeterli resmi kaynak bu araştırmada bulunamadı."
+      ],
+      "scenario": {
+        "title": "Belirsiz sanayi numarası için adres düzeltme",
+        "situation": "Bir kullanıcı telefonla aldığı adresi 7. Sanayi olarak hatırlar; harita pini farklı bir tesis gösterir. Araç başka bir sokakta arızalı olarak beklemektedir. Yardım mesajında belirsizlik açıkça söylenir ve mevcut alma konumu kesin bilgi olarak paylaşılır.",
+        "assessment": "Teslim edilecek işletmeyle site numarası, ilçe, sokak ve kapı adresi doğrulanır. Teyit olmadan bölge yolu veya yakın servis önerisi üretilmez. Araç modeli ve hareket durumunun alınması adres belirsizliğini gizlemez; iki konu ayrı değerlendirilir.",
+        "delivery": "İşletme açık adres ve kabul bilgisi verdiğinde yeni teslim pini kullanılır. Önceki yanlış pin mesajda düzeltilir; bu örnek teyitsiz 7. Sanayi tesisinin varlığına, belirli konumuna veya daha önce yapılmış taşıma kaydına kanıt değildir."
+      }
+    },
+    "/sanayi/kisikkoy-sanayi-sitesi/": {
+      "name": "Kısıkköy Sanayi Sitesi",
+      "facts": [
+        "Kısıkköy’deki ESTİM sanayi ve ticaret alanı İBB haberinde tanımlanır."
+      ],
+      "sources": [
+        {
+          "title": "İBB — Meslek Fabrikası ESTİM Kurs Merkezi",
+          "url": "https://basinhaberleri.izmir.bel.tr/tr/Haberler/1/62458",
+          "type": "official_primary"
+        }
+      ],
+      "district_if_verified": null,
+      "sections": [
+        {
+          "heading": "Kısıkköy, ESTİM ve iş yeri adı",
+          "paragraphs": [
+            "İBB haberinde Kısıkköy’deki ESTİM sanayi ve ticaret alanı tanımlanır. Kısıkköy talebinde ESTİM içinde mi başka bir tesiste mi olduğunuzu açıklayın. Bölge adı tüm dükkânların tek girişe sahip olduğunu göstermez. Blok, sokak ve iş yeri numarasını paylaşın; araç hâlâ bölge dışındaki yolda bekliyorsa bu adresi yalnızca istenen teslim yeri olarak kullanın."
+          ]
+        },
+        {
+          "heading": "Ticari iş yerinde araç tesliminin kapsamı",
+          "paragraphs": [
+            "Bir iş yerine teslim edilen araç için yük durumu, boyut ve hareket bilgisi görüşmede bulunmalıdır. Araç içindeki ticari malın ayrı aktarılması isteniyorsa bunu kendiliğinden taşıma hizmetine dahil kabul etmeyin; kapsamı açıkça konuşun. İşletmenin hangi bölümde aracı kabul edeceğini doğrulayın. Mal kabul girişinin bir binek araç veya arızalı ticari araç için uygunluğu adres adından çıkarılamaz."
+          ]
+        },
+        {
+          "heading": "Menderes tarafındaki alma adresi",
+          "paragraphs": [
+            "Kısıkköy veya Menderes adı, aracın otoyolda mı, tesis içinde mi yoksa yerel yolda mı kaldığını tek başına göstermez. İki pin kullanılacaksa birini alma, diğerini teslim olarak etiketleyin. İş yeri kapısında beklediğiniz noktayı ve erişim yönünü açıklayın. Bölgeye özgü kesin süre ya da trafik iddiası yerine, mevcut konum ve teslim kabulü üzerinden talep oluşturmak daha anlaşılırdır."
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "q": "Kısıkköy deyince ESTİM içinde olduğum kabul edilir mi?",
+          "a": "Hayır. ESTİM veya başka tesis adını, blok/sokak ve iş yeri adresini açıkça belirtin."
+        },
+        {
+          "q": "Ticari araçtaki yük de taşınacaksa ne yazmalıyım?",
+          "a": "Yükün araçta kalıp kalmayacağını ve ayrı aktarım talebi bulunup bulunmadığını belirtin. Taşıma kapsamı ve uygunluğu görüşmede netleştirilmelidir."
+        }
+      ],
+      "status": "verified_static_facts",
+      "limitations": [],
+      "scenario": {
+        "title": "ESTİM iş yerinde yüklü hafif ticari araç",
+        "situation": "Kısıkköyde ESTİM içindeki bir iş yerinde hafif ticari araç çalışmaz. Kullanıcı tesis, blok ve iş yeri bilgilerini mevcut pinle gönderir; araçta ticari mal bulunduğunu ve aracın kapalı iş yeri alanında beklediğini talebe ayrıca ekler.",
+        "assessment": "Yükün araçta kalacağı mı yoksa aktarım istendiği mi konuşulur. Kapı ve araç erişimi iş yeriyle netleştirilir. Araç boyutu ve tekerlek hareketi bilinmeden taşıma uygunluğu veya tesisin belirli girişinde yükleme yapılacağı garanti edilmez; koşullar birlikte değerlendirilir.",
+        "delivery": "Teslim başka bir servis veya işletmeye yapılacaksa açık adres ve kabul edecek kişi kullanıcı tarafından doğrulanır. Ticari yük aktarımı ayrıca istenmişse kapsam ayrı konuşulur; Kısıkköy adı tek alma noktası yerine geçmez."
+      }
+    },
+    "/guzergahlar/manisa-yolu/": {
+      "name": "Manisa Yolu",
+      "facts": [
+        "İzmir–Manisa devlet yolu üzerinde Sabuncubeli Tüneli bulunur."
+      ],
+      "sources": [
+        {
+          "title": "KGM — Sabuncubeli Tüneli",
+          "url": "https://www.kgm.gov.tr/Sayfalar/KGM/SiteTr/Projeler/ProjelerDetay.aspx?q=22",
+          "type": "official_primary"
+        }
+      ],
+      "district_if_verified": null,
+      "sections": [
+        {
+          "heading": "Devlet yolu ile başka Manisa bağlantıları",
+          "paragraphs": [
+            "KGM’ye göre Sabuncubeli Tüneli Manisa–İzmir devlet yolu üzerindedir. Manisa yolu ifadesiyle bu hattı mı yoksa başka bir bağlantıyı mı kastettiğinizi açıklayın. İl sınırına yakın olmanız tek başına tünel içinde olduğunuzu göstermez. Görünen yol adı, hareket yönü ve pini gönderin; gitmek istediğiniz şehri aracın mevcut konumu yerine kullanmayın."
+          ]
+        },
+        {
+          "heading": "Eski yol tarifi ve güncel bekleme noktası",
+          "paragraphs": [
+            "Tanıdık bir eski yol veya mevki adıyla tarif yapılabilir; ancak pininizin bulunduğunuz güncel yol üzerinde olması gerekir. Sabuncubeli çevresinde tünelden mi yoksa farklı bir bağlantıdan mı geçtiğinizi bildirin. Bilmiyorsanız kesin yol iddiası kurmadan görünen levhayı aktarın. Harita önerisi, aracı geri sürmeniz gerektiği anlamına gelmez; yardım için gerçek bekleme noktasını paylaşmak yeterlidir."
+          ]
+        },
+        {
+          "heading": "İki il arasında teslim seçimi",
+          "paragraphs": [
+            "İzmir veya Manisa’daki bir servis arasında tercih yapıyorsanız, taşıma görüşmesinde seçtiğiniz açık adresi belirtin. Aracın neden durduğuna dair gözlemleri ve hareket durumunu ekleyin. İl adı üzerinden araç uygunluğu ve ücret belirlenemez. Bir servisin onarım kabulü ile çekici talebinin değerlendirilmesi ayrı işlemlerdir; işletmeye teslim kararı için servisle teyit yapılmalıdır."
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "q": "Manisa yolu talebi Sabuncubeli demek midir?",
+          "a": "Her durumda değil. Devlet yolu, tünel veya farklı bağlantı ayrımını yol levhası ve pinle açıklayın."
+        },
+        {
+          "q": "Aracı Manisa yerine İzmir’e teslim isteyebilir miyim?",
+          "a": "İstediğiniz İzmir adresini ayrıca yazabilirsiniz. Alma konumu ve teslim tercihi ayrı değerlendirilir."
+        }
+      ],
+      "status": "verified_static_facts",
+      "limitations": [],
+      "scenario": {
+        "title": "Eski yol tarifiyle yeni pinin ayrılması",
+        "situation": "Bir sürücü Manisa yolu üzerinde arızalı aracın konumunu tanıdığı bir eski yol adıyla tarif eder. Mevcut pin Sabuncubeli çevresinde görünür ancak tünel içinde olduğunu söylemez; kullanıcı görünen levhayı, yönü ve gerçek bekleme noktasını birlikte paylaşır.",
+        "assessment": "Devlet yolu veya başka bağlantı ayrımı netleştirilir. Araçta bilinen marş, vites ve tekerlek durumu alınır; eski mevki adı kesin yol kodu gibi kullanılmaz. Konum teyidi için kullanıcının aracı geri götürmesi veya başka noktaya sürmesi beklenmez.",
+        "delivery": "Manisa yerine İzmir’deki bir servis seçilirse kullanıcı o adresi açık teslim tercihi olarak belirtir. İl yönü ile teslim kararı ayrılır; kabul durumu ilgili serviste teyit edilir ve taşıma koşulları gerçek iki adresle değerlendirilir."
+      }
+    },
+    "/guzergahlar/izmir-otoyolu/": {
+      "name": "İzmir Otoyolu",
+      "facts": [
+        "KGM İzmir–Aydın, İzmir–Çeşme ve İzmir Çevre Otoyolu bağlantılarını ayrı yol adlarıyla tanımlar."
+      ],
+      "sources": [
+        {
+          "title": "KGM — Otoyol ve köprü bağlantıları",
+          "url": "https://www.kgm.gov.tr/sayfalar/kgm/sitetr/otoyollar/ucretleryeni.aspx",
+          "type": "official_primary"
+        }
+      ],
+      "district_if_verified": null,
+      "sections": [
+        {
+          "heading": "İzmir otoyolu ifadesini kesinleştirme",
+          "paragraphs": [
+            "İzmir otoyolu sözü çevre yolunu, İzmir–Aydın hattını, Çeşme hattını veya İstanbul bağlantısını anlatmak için kullanılabilir. KGM bu bağlantıları ayrı proje ve yol adlarıyla ele alır. Çekici talebinde levhada gördüğünüz gerçek yol adını belirtin. Yalnızca İzmir’e doğru gidiyorum ifadesi, aracın hangi otoyol ve hangi çıkış üzerinde durduğunu belirlemez."
+          ]
+        },
+        {
+          "heading": "Yol adı bilinmediğinde kullanılacak işaretler",
+          "paragraphs": [
+            "Yolun kodunu bilmiyorsanız tahmin etmeyin. Bir istasyon, çıkış tabelası veya tünel adı görüyorsanız aktarın; hareket yönünü ve mevcut konum pinini ekleyin. Haritanız aracın yanında değil eski bir arama noktasında açılmışsa pini düzeltin. Yardım talebi bir adres testi değildir; bildiğiniz bilgileri doğru paylaşmanız, kesin olmayan yol isimleri üretmenizden daha faydalıdır."
+          ]
+        },
+        {
+          "heading": "Talebin sınırını iki adresle açıklama",
+          "paragraphs": [
+            "Aracın otoyolda alınması ve şehir içinde bırakılması bir arada istenebilir. Mesajda otoyol alma noktasını, ardından servisin açık adresini ayrı belirtin. İstenen teslim yeri henüz belli değilse bunu söyleyin. Bir yol adını netleştirmeden kilometre, süre veya fiyat hesabı yapmak uygun değildir. Araç tipi ve hareket durumu da konumla birlikte değerlendirmeye eklenmelidir."
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "q": "İzmir otoyolu yazmak yerine hangi bilgiyi göndereyim?",
+          "a": "Levhadaki yol adını veya kodunu, en yakın çıkışı, yönü ve pini paylaşın. Kod bilinmiyorsa görünen bir istasyon veya tünel adı yardımcı olur."
+        },
+        {
+          "q": "Otoyol adını bilmiyorsam talep iletemez miyim?",
+          "a": "İletebilirsiniz. Tahmin yerine mevcut pin ve görünen işaretleri kullanın; bulunduğunuz yönü açıkça söyleyin."
+        }
+      ],
+      "status": "verified_static_facts",
+      "limitations": [
+        "Genel İzmir Otoyolu ifadesi bağımsız tek yol olarak eşleştirilmemiştir."
+      ],
+      "scenario": {
+        "title": "Yol adını bilmeyen sürücünün talebi",
+        "situation": "Bir sürücü İzmir otoyolu diye tarif ettiği yolda kalır; hangi otoyol kodunu kullandığını bilmez. Yakındaki levhada bir istasyon adı görebildiğini ve İzmir yönünde ilerlediğini söyler; mevcut konum pinini açık şekilde yardım mesajına ekler.",
+        "assessment": "Bilmediği kodu tahmin etmesi beklenmez. Görünen istasyon veya çıkış adıyla araç boyutu ve hareket durumu birlikte değerlendirilir. Genel İzmir otoyolu ifadesi tek bir resmî yol olarak kabul edilmez; farklı yol seçenekleri konusunda kesin olmayan bağlantı iddiası üretilmez.",
+        "delivery": "Teslim adresi henüz seçilmediyse bu açıkça konuşulur; seçildiğinde açık servis konumu ayrıca paylaşılır. Talepteki belirsizlik düzeltildikten sonra taşıma kapsamı değerlendirilir, yalnızca İzmir hedefinden mesafe, süre veya ücret sonucu çıkarılmaz."
+      }
+    },
+    "/guzergahlar/otogar-otoyolu/": {
+      "name": "Otogar Otoyolu",
+      "facts": [
+        "Gebze–Orhangazi–İzmir Otoyolunun İzmir tarafında Otogar Kavşağı bağlantısı bulunur."
+      ],
+      "sources": [
+        {
+          "title": "KGM — Gebze Orhangazi İzmir Otoyolu",
+          "url": "https://www.kgm.gov.tr/Sayfalar/KGM/SiteTr/Projeler/OtoyolProjeleri/GebzeOrhangazi.aspx",
+          "type": "official_primary"
+        }
+      ],
+      "district_if_verified": null,
+      "sections": [
+        {
+          "heading": "Otogar Kavşağı ile terminal içini ayırma",
+          "paragraphs": [
+            "KGM proje tanıtımı Gebze–Orhangazi–İzmir Otoyolunun İzmir Çevre Yoluna Otogar Kavşağında bağlandığını belirtir. Bu kavşaktaki bir otoyol talebi, terminal içindeki otopark veya yolcu indirme noktasında kalan araçtan farklıdır. Mesajda kavşak, bağlantı kolu, terminal yolu veya otopark ayrımını yapın. Otogar adını gerçek alma konumunu gösterecek pinle birlikte kullanın."
+          ]
+        },
+        {
+          "heading": "Yolcu aracı için bekleme ve anahtar bilgisi",
+          "paragraphs": [
+            "Terminal yakınında bir özel araçta arıza yaşandıysa aracın kimin gözetiminde olduğunu ve anahtarın kullanıcıda bulunup bulunmadığını belirtin. Yolcu indirme amacıyla gelmiş olmak taşıma için terminalin belirli alanlarını kullanma izni vermez. Güncel giriş ve kabul yönlendirmesini ilgili tesisle netleştirin. Aracı konum tarifini kolaylaştırmak için hareket ettirmeye çalışmanız beklenmez."
+          ]
+        },
+        {
+          "heading": "Otogar çevresinden sanayiye teslim",
+          "paragraphs": [
+            "Aracı terminal çevresinden bir sanayi servisine taşıtmak istiyorsanız açık dükkân adresini ikinci konum olarak gönderin. Terminalin ana adresini almak istediğiniz noktanın yerine yazmayın; aracın park ettiği alan veya bağlantı yolunun pinini belirtin. Teslim servisi belli değilse yalnızca sanayi adı üzerinden kabul varsaymayın. Araç modeli, hareket durumu ve görünen arıza bilgisi görüşmeye eklenmelidir."
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "q": "Otogarın genel adresi otoyoldaki aracımı gösterir mi?",
+          "a": "Hayır. Otoyol kavşağı, bağlantı kolu ve terminal içi adresler farklıdır. Aracın bulunduğu noktanın pinini gönderin."
+        },
+        {
+          "q": "Terminal otoparkındaki araç için hangi bilgiyi ekleyeyim?",
+          "a": "Otopark alanını, giriş bilgisini, anahtar durumunu ve varsa tesisin güncel araç alma yönlendirmesini belirtin."
+        }
+      ],
+      "status": "verified_static_facts",
+      "limitations": [],
+      "scenario": {
+        "title": "Terminal otoparkında anahtarı kullanıcıda olan araç",
+        "situation": "Yolcu indirmek için terminale gelen bir binek araç otoparkta çalışmaz. Kullanıcı Otogar Kavşağının otoyol kolunda olmadığını, terminal otoparkında beklediğini ve anahtarın kendisinde bulunduğunu açıklar; otogarın genel adresi yerine bekleme pini gönderilir.",
+        "assessment": "Otopark girişi ve tesisin güncel araç alma yönlendirmesi kullanıcı tarafından teyit edilir. Araç modeli ve marş belirtisi alınır; yolcu indirme amacıyla gelmek otomatik yükleme alanı kullanma izni olarak yorumlanmaz. Ana yol ile terminal içi konum birbirine karıştırılmaz.",
+        "delivery": "Bornova’daki bir servise teslim istenirse servis adresi ve kabul durumu ikinci konum olarak paylaşılır. Terminal girişiyle servis kapısı ayrılır; bu örnek herhangi bir terminal içi gerçekleşmiş operasyon veya özel giriş yetkisi iddiası taşımaz."
+      }
+    },
+    "/guzergahlar/belkahve-tunelleri/": {
+      "name": "Belkahve Tünelleri",
+      "facts": [
+        "Belkahve Tüneli Gebze–Orhangazi–İzmir Otoyolu projesinde yer alır.",
+        "KGM bu tüneli çift tüplü yapı olarak tanımlar."
+      ],
+      "sources": [
+        {
+          "title": "KGM — Gebze Orhangazi İzmir Otoyolu",
+          "url": "https://www.kgm.gov.tr/Sayfalar/KGM/SiteTr/Projeler/OtoyolProjeleri/GebzeOrhangazi.aspx",
+          "type": "official_primary"
+        }
+      ],
+      "district_if_verified": null,
+      "sections": [
+        {
+          "heading": "Otoyol tüneli ile Belkahve geçidinin ayrımı",
+          "paragraphs": [
+            "KGM Belkahve Tünelini Gebze–Orhangazi–İzmir Otoyolu projesinde çift tüplü yapı olarak tanımlar. Bu nedenle talepte otoyol tünelinde olduğunuzu, devlet yolundaki Belkahve rampasını kastetmediğinizi netleştirin. Yapının adı yanında hareket yönü ve giriş/çıkış tarafı kullanılmalıdır. Tünelin proje tanıtımı güncel trafik veya işletme şartlarını gösteren bir duyuru değildir."
+          ]
+        },
+        {
+          "heading": "Çift tüpte yön bilgisinin önemi",
+          "paragraphs": [
+            "Aynı tünel adı altında karşıt yönlerde araçlar bulunabileceğinden bir harita pini tek başına hangi taşıt yolunda olduğunuzu açıklamayabilir. İzmir yönü veya yolculuğunuzdaki diğer yönü, görünen levha üzerinden aktarın. Tünel içinde kaldıysanız bunu ilk cümlede bildirin. Portal dışında bekliyorsanız tünel içindeyim ifadesini kullanmayın; alma noktasının gerçek durumunu tarif edin."
+          ]
+        },
+        {
+          "heading": "Tünel talebinden servis teslimine geçiş",
+          "paragraphs": [
+            "Arıza sonrası teslimin İzmir’de veya başka bir yerde yapılması istenebilir. Otoyoldaki alma konumunu servis adresinden ayrı gönderin. Araçta görünen hasar veya dönmeyen tekerlek varsa bu bilgi tünel adı kadar önemlidir. Yükleme biçimi, süre ve ücretin yalnızca tünel adına göre belirlenmesi uygun değildir; araç durumu, konum ve teslim talebi birlikte değerlendirilmelidir."
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "q": "Belkahve Tüneli için rampa konumunu gönderebilir miyim?",
+          "a": "Gerçek alma noktası tünel ise otoyol konumunu gönderin. Devlet yolundaki geçit veya rampayı aynı yer gibi göstermeyin."
+        },
+        {
+          "q": "Çift tüplü tünelde hangi bilgi kritik?",
+          "a": "Hareket yönü ve tünel içi/portal dışı durumu açık olmalıdır; pin ve görünen işaretleri bu bilgiyle birlikte paylaşın."
+        }
+      ],
+      "status": "verified_static_facts",
+      "limitations": [],
+      "scenario": {
+        "title": "Otoyol tüneli çıkışında hasarlı araç",
+        "situation": "Bir araç otoyoldaki Belkahve Tüneli çıkışı sonrasında görünür tekerlek hasarı nedeniyle durur. Kullanıcı devlet yolundaki rampayı kastetmediğini, tünelin dışında beklediğini ve sürüş yönünü belirtir; mevcut pin mesajda ayrı konum olarak paylaşılır.",
+        "assessment": "Hasarın görülen durumu, aracın boyutu ve tekerleklerin hareketi değerlendirilir. Çift tüplü yapıda karşıt yönlerin farklı olması nedeniyle yön bilgisi korunur. Fotoğraf yalnızca güvenli noktadan alınır; hasarlı aracı portal yönüne geri götürme veya zorla hareket ettirme önerilmez.",
+        "delivery": "Kullanıcı seçtiği kaporta veya yürüyen aksam servisine teslim için açık adresi ve kabulünü teyit eder. Tünel adı yükleme biçimini tek başına belirlemez; araç ve iki konum görüşülmeden süre ya da fiyat garantisi oluşturulmaz."
+      }
+    }
+  }
+}

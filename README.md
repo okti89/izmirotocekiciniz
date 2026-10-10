@@ -29,7 +29,7 @@ DNS kaydı: `launch/DNS-VE-YAYIN.md`. Alan adı bağlantısı DNS/SSL doğrulama
 
 Bölge sayfaları hizmet talebine yardımcı olan kısa rehberlerdir; başlık, gerçek ilçe ilişkisi, güzergâh/erişim bilgisi ve bölgeye özel WhatsApp talep bağlantısı içerir. Aynı mahalle adının birden fazla ilçede geçtiği durumlarda ilçe seçimi açıklanır. Ortak taşıma prosedürleri tekrar edebilir; yalnızca kelimeleri değiştirmek özgün yerel değer sayılmaz.
 
-Kaynak yer bilgisi sınırlı olan sayfalarda özel ekip, şube, gerçek vaka, kesin süre veya fiyat uydurulmadı. Gerçek hizmet kaydı bulunmayan bölgelerde vaka veya operasyon örneği oluşturulmaz. Mevcut kaynakların bağımsız doğrulanması ve güncel erişim bilgilerinin kontrolü kalite çalışması olarak devam eder. Bütün sayfaların oluşturulması, bütün sayfaların Google tarafından indeksleneceği veya sıralanacağı anlamına gelmez.
+Kaynak yer bilgisi sınırlı olan sayfalarda özel ekip, şube, gerçek vaka, kesin süre veya fiyat uydurulmadı. İşletme sahibinin 11 Ekim 2026 talebiyle gerçekçi, açıkça etiketli örnek senaryolar kullanılır; bunlar yapılmış iş veya gerçek müşteri kaydı değildir. Mevcut kaynakların bağımsız doğrulanması ve güncel erişim bilgilerinin kontrolü kalite çalışması olarak devam eder. Bütün sayfaların oluşturulması, bütün sayfaların Google tarafından indeksleneceği veya sıralanacağı anlamına gelmez.
 
 `reference-facts.json` işletme sahibine ait referans siteden okunan yer bilgilerini; `region-catalog.json` birleşen adları ve yeni yolları saklar. Bu kaynak verileri operasyon iddialarını veya resmî coğrafi doğruluğu bağımsız olarak kanıtlamaz. Hatalı kaynak adres `/isikkoy-cekici`, Işıkkent sayfasına eşlenmiştir.
 
@@ -52,3 +52,7 @@ Koyu lacivert, amber/sarı ve beyaz tasarım bütün sayfalarda kullanılır. Mo
 ## 9 Ekim 2026 — kaynaklı yerel içerik ve mobil hız
 
 195 bölge sayfasında görünür resmî kaynaklı bilgiler, 53 bölgede açık bilgi eksikleri kaydedildi. İçerik üretimi `local_content.py` ve kaynak JSON dosyalarından yapılır. Ayrıntılar ve ölçüm sınırları: `reports/SEO-IYILESTIRME.md`. Ana sayfa yerel mobil Lighthouse performansı 89 → 99; bu bir genel SEO/sıralama puanı değildir. Yayın derlemesi hâlâ `python3 build.py --public` komutuyla yapılır. CSS ve JS içerik sürümü adresleri, eski önbelleğin yeni yayını gizlemesini önler.
+
+## 11 Ekim 2026 — sayfaya özel rehberler ve örnek senaryolar
+
+248 bölge için ayrı editoryal açıklamalar, iki ilgili soru ve gerçek iş kaydı olmayan örnek durumlar hazırlanır. Sekiz hizmet sayfasında farklı senaryolar bulunur. Yer kimliği ve senaryo birbirinden ayrılır; belirsiz yerlerde kesin adres uydurulmaz. Kaynaklar ve sınırlamalar: `reports/OZGUN-ICERIK-CALISMASI.md`. Derlemeden sonra `python3 tools/audit_content.py` kapsam ve metin benzerliği kontrolünü çalıştırır; bu kontrol Google sıralamasını veya içerik kalitesini tek başına kanıtlamaz.

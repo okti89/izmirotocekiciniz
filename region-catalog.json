@@ -2069,8 +2069,10 @@
       "name": "Çatalkaya",
       "path": "/bolgeler/noktalar/catalkaya/",
       "kind": "noktalar",
-      "district": null,
-      "candidates": [],
+      "district": "Narlıdere",
+      "candidates": [
+        "Narlıdere"
+      ],
       "roads": [],
       "source_note": "Çatalkaya adıyla yardım isterken ilçe, resmi mahalle adı ve konum bağlantısını birlikte paylaşın. Semt, site veya tesis adı ile resmi adres farklı olabilir; yalnızca yer adıyla ekip yönlendirmesi yapılmadan konum netleştirilir.",
       "source_paths": [
@@ -2110,8 +2112,10 @@
       "name": "Çiçekliköy",
       "path": "/bolgeler/noktalar/ciceklikoy/",
       "kind": "noktalar",
-      "district": null,
-      "candidates": [],
+      "district": "Bornova",
+      "candidates": [
+        "Bornova"
+      ],
       "roads": [],
       "source_note": "Çiçekliköy adıyla yardım isterken ilçe, resmi mahalle adı ve konum bağlantısını birlikte paylaşın. Semt, site veya tesis adı ile resmi adres farklı olabilir; yalnızca yer adıyla ekip yönlendirmesi yapılmadan konum netleştirilir.",
       "source_paths": [
@@ -2228,8 +2232,10 @@
       "name": "Esendere",
       "path": "/bolgeler/noktalar/esendere/",
       "kind": "noktalar",
-      "district": null,
-      "candidates": [],
+      "district": "Karabağlar",
+      "candidates": [
+        "Karabağlar"
+      ],
       "roads": [],
       "source_note": "Esendere adıyla yardım isterken ilçe, resmi mahalle adı ve konum bağlantısını birlikte paylaşın. Semt, site veya tesis adı ile resmi adres farklı olabilir; yalnızca yer adıyla ekip yönlendirmesi yapılmadan konum netleştirilir.",
       "source_paths": [
@@ -2360,9 +2366,9 @@
       "name": "Evka 7",
       "path": "/bolgeler/cigli/evka-7/",
       "kind": "noktalar",
-      "district": "Çiğli",
+      "district": "Gaziemir",
       "candidates": [
-        "Çiğli"
+        "Gaziemir"
       ],
       "roads": [],
       "source_note": "Evka7 adıyla yardım isterken ilçe, resmi mahalle adı ve konum bağlantısını birlikte paylaşın. Semt, site veya tesis adı ile resmi adres farklı olabilir; yalnızca yer adıyla ekip yönlendirmesi yapılmadan konum netleştirilir.",
@@ -2390,8 +2396,10 @@
       "name": "Gediz",
       "path": "/bolgeler/noktalar/gediz/",
       "kind": "noktalar",
-      "district": null,
-      "candidates": [],
+      "district": "Buca",
+      "candidates": [
+        "Buca"
+      ],
       "roads": [],
       "source_note": "Gediz adıyla yardım isterken ilçe, resmi mahalle adı ve konum bağlantısını birlikte paylaşın. Semt, site veya tesis adı ile resmi adres farklı olabilir; yalnızca yer adıyla ekip yönlendirmesi yapılmadan konum netleştirilir.",
       "source_paths": [
@@ -2603,8 +2611,10 @@
       "name": "Karataş",
       "path": "/bolgeler/noktalar/karatas/",
       "kind": "noktalar",
-      "district": null,
-      "candidates": [],
+      "district": "Konak",
+      "candidates": [
+        "Konak"
+      ],
       "roads": [],
       "source_note": "Karataş adıyla yardım isterken ilçe, resmi mahalle adı ve konum bağlantısını birlikte paylaşın. Semt, site veya tesis adı ile resmi adres farklı olabilir; yalnızca yer adıyla ekip yönlendirmesi yapılmadan konum netleştirilir.",
       "source_paths": [
@@ -2713,8 +2723,10 @@
       "name": "Küçük Park",
       "path": "/bolgeler/noktalar/kucuk-park/",
       "kind": "noktalar",
-      "district": null,
-      "candidates": [],
+      "district": "Bornova",
+      "candidates": [
+        "Bornova"
+      ],
       "roads": [],
       "source_note": "Küçük Park adıyla yardım isterken ilçe, resmi mahalle adı ve konum bağlantısını birlikte paylaşın. Semt, site veya tesis adı ile resmi adres farklı olabilir; yalnızca yer adıyla ekip yönlendirmesi yapılmadan konum netleştirilir.",
       "source_paths": [
@@ -2726,8 +2738,10 @@
       "name": "Küçükyalı",
       "path": "/bolgeler/noktalar/kucukyali/",
       "kind": "noktalar",
-      "district": null,
-      "candidates": [],
+      "district": "Konak",
+      "candidates": [
+        "Konak"
+      ],
       "roads": [],
       "source_note": "Küçükyalı adıyla yardım isterken ilçe, resmi mahalle adı ve konum bağlantısını birlikte paylaşın. Semt, site veya tesis adı ile resmi adres farklı olabilir; yalnızca yer adıyla ekip yönlendirmesi yapılmadan konum netleştirilir.",
       "source_paths": [
@@ -2875,8 +2889,10 @@
       "name": "Narbel",
       "path": "/bolgeler/noktalar/narbel/",
       "kind": "noktalar",
-      "district": null,
-      "candidates": [],
+      "district": "Narlıdere",
+      "candidates": [
+        "Narlıdere"
+      ],
       "roads": [],
       "source_note": "Narbel adıyla yardım isterken ilçe, resmi mahalle adı ve konum bağlantısını birlikte paylaşın. Semt, site veya tesis adı ile resmi adres farklı olabilir; yalnızca yer adıyla ekip yönlendirmesi yapılmadan konum netleştirilir.",
       "source_paths": [
@@ -2980,8 +2996,10 @@
       "name": "Peker Mahallesi",
       "path": "/bolgeler/noktalar/peker-mahallesi/",
       "kind": "noktalar",
-      "district": null,
-      "candidates": [],
+      "district": "Karabağlar",
+      "candidates": [
+        "Karabağlar"
+      ],
       "roads": [],
       "source_note": "Peker Mahallesi adıyla yardım isterken ilçe, resmi mahalle adı ve konum bağlantısını birlikte paylaşın. Semt, site veya tesis adı ile resmi adres farklı olabilir; yalnızca yer adıyla ekip yönlendirmesi yapılmadan konum netleştirilir.",
       "source_paths": [
@@ -3008,8 +3026,10 @@
       "name": "Selway",
       "path": "/bolgeler/noktalar/selway/",
       "kind": "noktalar",
-      "district": null,
-      "candidates": [],
+      "district": "Balçova",
+      "candidates": [
+        "Balçova"
+      ],
       "roads": [],
       "source_note": "Selway adıyla yardım isterken ilçe, resmi mahalle adı ve konum bağlantısını birlikte paylaşın. Semt, site veya tesis adı ile resmi adres farklı olabilir; yalnızca yer adıyla ekip yönlendirmesi yapılmadan konum netleştirilir.",
       "source_paths": [
@@ -3334,8 +3354,10 @@
       "name": "Eskiizmir",
       "path": "/bolgeler/noktalar/eskiizmir/",
       "kind": "noktalar",
-      "district": null,
-      "candidates": [],
+      "district": "Karabağlar",
+      "candidates": [
+        "Karabağlar"
+      ],
       "roads": [],
       "source_note": "Eskiizmir adıyla yardım isterken ilçe, resmi mahalle adı ve konum bağlantısını birlikte paylaşın. Semt, site veya tesis adı ile resmi adres farklı olabilir; yalnızca yer adıyla ekip yönlendirmesi yapılmadan konum netleştirilir.",
       "source_paths": [
@@ -3456,8 +3478,10 @@
       "name": "Eserkent",
       "path": "/bolgeler/noktalar/eserkent/",
       "kind": "noktalar",
-      "district": null,
-      "candidates": [],
+      "district": "Karabağlar",
+      "candidates": [
+        "Karabağlar"
+      ],
       "roads": [],
       "source_note": "Eserkent adıyla yardım isterken ilçe, resmi mahalle adı ve konum bağlantısını birlikte paylaşın. Semt, site veya tesis adı ile resmi adres farklı olabilir; yalnızca yer adıyla ekip yönlendirmesi yapılmadan konum netleştirilir.",
       "source_paths": [

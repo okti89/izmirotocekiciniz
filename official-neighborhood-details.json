@@ -1,0 +1,1871 @@
+{
+  "/bolgeler/cesme/alacati/": {
+    "records": [
+      {
+        "district": "Çeşme",
+        "name": "ALAÇATI",
+        "road": "11002"
+      }
+    ],
+    "source": "https://acikveri.bizizmir.com/dataset/muhtarliklar",
+    "checked_on": "2026-10-11"
+  },
+  "/bolgeler/cesme/ilica/": {
+    "records": [
+      {
+        "district": "Çeşme",
+        "name": "ILICA",
+        "road": "5133"
+      }
+    ],
+    "source": "https://acikveri.bizizmir.com/dataset/muhtarliklar",
+    "checked_on": "2026-10-11"
+  },
+  "/bolgeler/cesme/boyalik/": {
+    "records": [
+      {
+        "district": "Çeşme",
+        "name": "BOYALIK",
+        "road": "3209"
+      }
+    ],
+    "source": "https://acikveri.bizizmir.com/dataset/muhtarliklar",
+    "checked_on": "2026-10-11"
+  },
+  "/bolgeler/cesme/altinkum/": {
+    "records": [
+      {
+        "district": "Çeşme",
+        "name": "ALTINKUM",
+        "road": "200"
+      }
+    ],
+    "source": "https://acikveri.bizizmir.com/dataset/muhtarliklar",
+    "checked_on": "2026-10-11"
+  },
+  "/bolgeler/cesme/dalyan/": {
+    "records": [
+      {
+        "district": "Çeşme",
+        "name": "DALYAN",
+        "road": "4218"
+      }
+    ],
+    "source": "https://acikveri.bizizmir.com/dataset/muhtarliklar",
+    "checked_on": "2026-10-11"
+  },
+  "/bolgeler/cesme/ildir/": {
+    "records": [
+      {
+        "district": "Çeşme",
+        "name": "ILDIR",
+        "road": "ILDIR GAZİ MUSTAFA KEMAL"
+      }
+    ],
+    "source": "https://acikveri.bizizmir.com/dataset/muhtarliklar",
+    "checked_on": "2026-10-11"
+  },
+  "/bolgeler/cesme/sifne/": {
+    "records": [
+      {
+        "district": "Çeşme",
+        "name": "ŞİFNE",
+        "road": "6460"
+      }
+    ],
+    "source": "https://acikveri.bizizmir.com/dataset/muhtarliklar",
+    "checked_on": "2026-10-11"
+  },
+  "/bolgeler/cesme/16-eylul/": {
+    "records": [
+      {
+        "district": "Çeşme",
+        "name": "16 EYLÜL",
+        "road": "3001"
+      }
+    ],
+    "source": "https://acikveri.bizizmir.com/dataset/muhtarliklar",
+    "checked_on": "2026-10-11"
+  },
+  "/bolgeler/cesme/ovacik/": {
+    "records": [
+      {
+        "district": "Çeşme",
+        "name": "OVACIK",
+        "road": "7000"
+      }
+    ],
+    "source": "https://acikveri.bizizmir.com/dataset/muhtarliklar",
+    "checked_on": "2026-10-11"
+  },
+  "/bolgeler/guzelbahce/yelki/": {
+    "records": [
+      {
+        "district": "Güzelbahçe",
+        "name": "YELKİ",
+        "road": "2251"
+      }
+    ],
+    "source": "https://acikveri.bizizmir.com/dataset/muhtarliklar",
+    "checked_on": "2026-10-11"
+  },
+  "/bolgeler/guzelbahce/kahramandere/": {
+    "records": [
+      {
+        "district": "Güzelbahçe",
+        "name": "KAHRAMANDERE",
+        "road": "ATA"
+      }
+    ],
+    "source": "https://acikveri.bizizmir.com/dataset/muhtarliklar",
+    "checked_on": "2026-10-11"
+  },
+  "/bolgeler/guzelbahce/camli/": {
+    "records": [
+      {
+        "district": "Güzelbahçe",
+        "name": "ÇAMLI",
+        "road": "ÇAMLICA"
+      }
+    ],
+    "source": "https://acikveri.bizizmir.com/dataset/muhtarliklar",
+    "checked_on": "2026-10-11"
+  },
+  "/bolgeler/torbali/ayrancilar/": {
+    "records": [
+      {
+        "district": "Torbalı",
+        "name": "AYRANCILAR",
+        "road": "55"
+      }
+    ],
+    "source": "https://acikveri.bizizmir.com/dataset/muhtarliklar",
+    "checked_on": "2026-10-11"
+  },
+  "/bolgeler/torbali/yazibasi/": {
+    "records": [
+      {
+        "district": "Torbalı",
+        "name": "YAZIBAŞI",
+        "road": "ATATÜRK"
+      }
+    ],
+    "source": "https://acikveri.bizizmir.com/dataset/muhtarliklar",
+    "checked_on": "2026-10-11"
+  },
+  "/bolgeler/torbali/caybasi/": {
+    "records": [
+      {
+        "district": "Torbalı",
+        "name": "ÇAYBAŞI",
+        "road": "MENDERES"
+      }
+    ],
+    "source": "https://acikveri.bizizmir.com/dataset/muhtarliklar",
+    "checked_on": "2026-10-11"
+  },
+  "/bolgeler/torbali/subasi/": {
+    "records": [
+      {
+        "district": "Torbalı",
+        "name": "SUBAŞI",
+        "road": "OSMAN DİRİK"
+      }
+    ],
+    "source": "https://acikveri.bizizmir.com/dataset/muhtarliklar",
+    "checked_on": "2026-10-11"
+  },
+  "/bolgeler/torbali/capak/": {
+    "records": [
+      {
+        "district": "Torbalı",
+        "name": "ÇAPAK",
+        "road": "2540"
+      }
+    ],
+    "source": "https://acikveri.bizizmir.com/dataset/muhtarliklar",
+    "checked_on": "2026-10-11"
+  },
+  "/bolgeler/torbali/karakizlar/": {
+    "records": [
+      {
+        "district": "Torbalı",
+        "name": "KARAKIZLAR",
+        "road": "KARAKIZLAR"
+      }
+    ],
+    "source": "https://acikveri.bizizmir.com/dataset/muhtarliklar",
+    "checked_on": "2026-10-11"
+  },
+  "/bolgeler/torbali/ahmetli/": {
+    "records": [
+      {
+        "district": "Torbalı",
+        "name": "AHMETLİ",
+        "road": "15."
+      }
+    ],
+    "source": "https://acikveri.bizizmir.com/dataset/muhtarliklar",
+    "checked_on": "2026-10-11"
+  },
+  "/bolgeler/torbali/kuscuburun/": {
+    "records": [
+      {
+        "district": "Torbalı",
+        "name": "KUŞÇUBURUN",
+        "road": "YAZIBAŞI İZMİR"
+      }
+    ],
+    "source": "https://acikveri.bizizmir.com/dataset/muhtarliklar",
+    "checked_on": "2026-10-11"
+  },
+  "/bolgeler/buca/belenbasi/": {
+    "records": [
+      {
+        "district": "Buca",
+        "name": "BELENBAŞI",
+        "road": "HÜRRİYET"
+      }
+    ],
+    "source": "https://acikveri.bizizmir.com/dataset/muhtarliklar",
+    "checked_on": "2026-10-11"
+  },
+  "/bolgeler/konak/alsancak/": {
+    "records": [
+      {
+        "district": "Konak",
+        "name": "ALSANCAK",
+        "road": "KIBRIS ŞEHİTLERİ"
+      }
+    ],
+    "source": "https://acikveri.bizizmir.com/dataset/muhtarliklar",
+    "checked_on": "2026-10-11"
+  },
+  "/bolgeler/karsiyaka/bostanli/": {
+    "records": [
+      {
+        "district": "Karşıyaka",
+        "name": "BOSTANLI",
+        "road": "CENGİZ KOCATOROS"
+      }
+    ],
+    "source": "https://acikveri.bizizmir.com/dataset/muhtarliklar",
+    "checked_on": "2026-10-11"
+  },
+  "/bolgeler/karsiyaka/mavisehir/": {
+    "records": [
+      {
+        "district": "Karşıyaka",
+        "name": "MAVİŞEHİR",
+        "road": "AZİZ NESİN"
+      }
+    ],
+    "source": "https://acikveri.bizizmir.com/dataset/muhtarliklar",
+    "checked_on": "2026-10-11"
+  },
+  "/bolgeler/konak/goztepe/": {
+    "records": [
+      {
+        "district": "Konak",
+        "name": "GÖZTEPE",
+        "road": "103"
+      }
+    ],
+    "source": "https://acikveri.bizizmir.com/dataset/muhtarliklar",
+    "checked_on": "2026-10-11"
+  },
+  "/bolgeler/kemalpasa/yesilyurt/": {
+    "records": [
+      {
+        "district": "Kemalpaşa",
+        "name": "YEŞİLYURT",
+        "road": "YEŞİLYURT YOLU"
+      }
+    ],
+    "source": "https://acikveri.bizizmir.com/dataset/muhtarliklar",
+    "checked_on": "2026-10-11"
+  },
+  "/bolgeler/buca/adatepe/": {
+    "records": [
+      {
+        "district": "Buca",
+        "name": "ADATEPE",
+        "road": "KIBRIS"
+      }
+    ],
+    "source": "https://acikveri.bizizmir.com/dataset/muhtarliklar",
+    "checked_on": "2026-10-11"
+  },
+  "/bolgeler/menderes/ahmetbeyli/": {
+    "records": [
+      {
+        "district": "Menderes",
+        "name": "AHMETBEYLİ",
+        "road": "4062"
+      }
+    ],
+    "source": "https://acikveri.bizizmir.com/dataset/muhtarliklar",
+    "checked_on": "2026-10-11"
+  },
+  "/bolgeler/menderes/akcakoy/": {
+    "records": [
+      {
+        "district": "Menderes",
+        "name": "AKÇAKÖY",
+        "road": "7202"
+      }
+    ],
+    "source": "https://acikveri.bizizmir.com/dataset/muhtarliklar",
+    "checked_on": "2026-10-11"
+  },
+  "/bolgeler/noktalar/akincilar/": {
+    "records": [
+      {
+        "district": "Buca",
+        "name": "AKINCILAR",
+        "road": "551"
+      },
+      {
+        "district": "Ödemiş",
+        "name": "AKINCILAR",
+        "road": "HÜRRİYET"
+      }
+    ],
+    "source": "https://acikveri.bizizmir.com/dataset/muhtarliklar",
+    "checked_on": "2026-10-11"
+  },
+  "/bolgeler/noktalar/aktepe/": {
+    "records": [
+      {
+        "district": "Beydağ",
+        "name": "AKTEPE",
+        "road": "KÖPRÜBAŞI MEVKİİ"
+      },
+      {
+        "district": "Gaziemir",
+        "name": "AKTEPE",
+        "road": "126"
+      }
+    ],
+    "source": "https://acikveri.bizizmir.com/dataset/muhtarliklar",
+    "checked_on": "2026-10-11"
+  },
+  "/bolgeler/noktalar/altintas/": {
+    "records": [
+      {
+        "district": "Konak",
+        "name": "ALTINTAŞ",
+        "road": "İNÖNÜ"
+      },
+      {
+        "district": "Urla",
+        "name": "ALTINTAŞ",
+        "road": "ZAFER"
+      }
+    ],
+    "source": "https://acikveri.bizizmir.com/dataset/muhtarliklar",
+    "checked_on": "2026-10-11"
+  },
+  "/bolgeler/menderes/atakoy/": {
+    "records": [
+      {
+        "district": "Menderes",
+        "name": "ATAKÖY",
+        "road": "MUSTAFA KEMAL"
+      }
+    ],
+    "source": "https://acikveri.bizizmir.com/dataset/muhtarliklar",
+    "checked_on": "2026-10-11"
+  },
+  "/bolgeler/karabaglar/aydin-mahallesi/": {
+    "records": [
+      {
+        "district": "Karabağlar",
+        "name": "AYDIN",
+        "road": "4275"
+      }
+    ],
+    "source": "https://acikveri.bizizmir.com/dataset/muhtarliklar",
+    "checked_on": "2026-10-11"
+  },
+  "/bolgeler/balcova/bahcelerarasi/": {
+    "records": [
+      {
+        "district": "Balçova",
+        "name": "BAHÇELERARASI",
+        "road": "YILDIZ"
+      }
+    ],
+    "source": "https://acikveri.bizizmir.com/dataset/muhtarliklar",
+    "checked_on": "2026-10-11"
+  },
+  "/bolgeler/noktalar/bahcelievler/": {
+    "records": [
+      {
+        "district": "Karşıyaka",
+        "name": "BAHÇELİEVLER",
+        "road": "CEVDET BİLSAY"
+      },
+      {
+        "district": "Karabağlar",
+        "name": "BAHÇELİEVLER",
+        "road": "490"
+      },
+      {
+        "district": "Torbalı",
+        "name": "BAHÇELİEVLER",
+        "road": "9104"
+      }
+    ],
+    "source": "https://acikveri.bizizmir.com/dataset/muhtarliklar",
+    "checked_on": "2026-10-11"
+  },
+  "/bolgeler/urla/balikli-ova/": {
+    "records": [
+      {
+        "district": "Urla",
+        "name": "BALIKLIOVA",
+        "road": "BALIKLIOVA"
+      }
+    ],
+    "source": "https://acikveri.bizizmir.com/dataset/muhtarliklar",
+    "checked_on": "2026-10-11"
+  },
+  "/bolgeler/noktalar/barbaros-mahallesi/": {
+    "records": [
+      {
+        "district": "Konak",
+        "name": "BARBAROS",
+        "road": "339"
+      },
+      {
+        "district": "Konak",
+        "name": "BARBAROS",
+        "road": "331"
+      },
+      {
+        "district": "Bornova",
+        "name": "BARBAROS",
+        "road": "5301/1"
+      },
+      {
+        "district": "Urla",
+        "name": "BARBAROS",
+        "road": "BARBAROS KÖY"
+      }
+    ],
+    "source": "https://acikveri.bizizmir.com/dataset/muhtarliklar",
+    "checked_on": "2026-10-11"
+  },
+  "/bolgeler/karabaglar/basin-sitesi/": {
+    "records": [
+      {
+        "district": "Karabağlar",
+        "name": "BASIN SİTESİ",
+        "road": "159"
+      }
+    ],
+    "source": "https://acikveri.bizizmir.com/dataset/muhtarliklar",
+    "checked_on": "2026-10-11"
+  },
+  "/bolgeler/selcuk/belevi/": {
+    "records": [
+      {
+        "district": "Selçuk",
+        "name": "BELEVİ",
+        "road": "BELEVİ CUMHURİYET"
+      }
+    ],
+    "source": "https://acikveri.bizizmir.com/dataset/muhtarliklar",
+    "checked_on": "2026-10-11"
+  },
+  "/bolgeler/gaziemir/beyazevler/": {
+    "records": [
+      {
+        "district": "Gaziemir",
+        "name": "BEYAZEVLER",
+        "road": "514"
+      }
+    ],
+    "source": "https://acikveri.bizizmir.com/dataset/muhtarliklar",
+    "checked_on": "2026-10-11"
+  },
+  "/bolgeler/karabaglar/bozyaka/": {
+    "records": [
+      {
+        "district": "Karabağlar",
+        "name": "BOZYAKA",
+        "road": "3112"
+      }
+    ],
+    "source": "https://acikveri.bizizmir.com/dataset/muhtarliklar",
+    "checked_on": "2026-10-11"
+  },
+  "/bolgeler/menderes/bulgurca/": {
+    "records": [
+      {
+        "district": "Menderes",
+        "name": "BULGURCA",
+        "road": "6845"
+      }
+    ],
+    "source": "https://acikveri.bizizmir.com/dataset/muhtarliklar",
+    "checked_on": "2026-10-11"
+  },
+  "/bolgeler/karabaglar/cennet-cesme/": {
+    "records": [
+      {
+        "district": "Karabağlar",
+        "name": "CENNETÇEŞME",
+        "road": "3991"
+      }
+    ],
+    "source": "https://acikveri.bizizmir.com/dataset/muhtarliklar",
+    "checked_on": "2026-10-11"
+  },
+  "/bolgeler/karabaglar/cennetoglu/": {
+    "records": [
+      {
+        "district": "Karabağlar",
+        "name": "CENNETOĞLU",
+        "road": "5709"
+      }
+    ],
+    "source": "https://acikveri.bizizmir.com/dataset/muhtarliklar",
+    "checked_on": "2026-10-11"
+  },
+  "/bolgeler/noktalar/cam-tepe/": {
+    "records": [
+      {
+        "district": "Seferihisar",
+        "name": "ÇAMTEPE",
+        "road": "ÇAMTEPE KÖY YOLU"
+      },
+      {
+        "district": "Narlıdere",
+        "name": "ÇAMTEPE",
+        "road": "GÜLMÜŞ"
+      }
+    ],
+    "source": "https://acikveri.bizizmir.com/dataset/muhtarliklar",
+    "checked_on": "2026-10-11"
+  },
+  "/bolgeler/bergama/camkoy/": {
+    "records": [
+      {
+        "district": "Bergama",
+        "name": "ÇAMKÖY",
+        "road": "ÇAMKÖY"
+      }
+    ],
+    "source": "https://acikveri.bizizmir.com/dataset/muhtarliklar",
+    "checked_on": "2026-10-11"
+  },
+  "/bolgeler/buca/camlikule/": {
+    "records": [
+      {
+        "district": "Buca",
+        "name": "ÇAMLIKULE",
+        "road": "290/6"
+      }
+    ],
+    "source": "https://acikveri.bizizmir.com/dataset/muhtarliklar",
+    "checked_on": "2026-10-11"
+  },
+  "/bolgeler/menderes/camonu/": {
+    "records": [
+      {
+        "district": "Menderes",
+        "name": "ÇAMÖNÜ",
+        "road": "İZMİR"
+      }
+    ],
+    "source": "https://acikveri.bizizmir.com/dataset/muhtarliklar",
+    "checked_on": "2026-10-11"
+  },
+  "/bolgeler/konak/cankaya/": {
+    "records": [
+      {
+        "district": "Konak",
+        "name": "ÇANKAYA",
+        "road": "141"
+      }
+    ],
+    "source": "https://acikveri.bizizmir.com/dataset/muhtarliklar",
+    "checked_on": "2026-10-11"
+  },
+  "/bolgeler/menderes/catalca/": {
+    "records": [
+      {
+        "district": "Menderes",
+        "name": "ÇATALCA",
+        "road": "7419"
+      }
+    ],
+    "source": "https://acikveri.bizizmir.com/dataset/muhtarliklar",
+    "checked_on": "2026-10-11"
+  },
+  "/bolgeler/konak/cinarli/": {
+    "records": [
+      {
+        "district": "Konak",
+        "name": "ÇINARLI",
+        "road": "1577"
+      }
+    ],
+    "source": "https://acikveri.bizizmir.com/dataset/muhtarliklar",
+    "checked_on": "2026-10-11"
+  },
+  "/bolgeler/menderes/cile/": {
+    "records": [
+      {
+        "district": "Menderes",
+        "name": "ÇİLE",
+        "road": "BIRANDAMI"
+      }
+    ],
+    "source": "https://acikveri.bizizmir.com/dataset/muhtarliklar",
+    "checked_on": "2026-10-11"
+  },
+  "/bolgeler/menderes/cileme/": {
+    "records": [
+      {
+        "district": "Menderes",
+        "name": "ÇİLEME",
+        "road": "ADNAN MENDERES"
+      }
+    ],
+    "source": "https://acikveri.bizizmir.com/dataset/muhtarliklar",
+    "checked_on": "2026-10-11"
+  },
+  "/bolgeler/menemen/degirmendere/": {
+    "records": [
+      {
+        "district": "Menemen",
+        "name": "DEĞİRMENDERE",
+        "road": "DEMİRTAŞ"
+      }
+    ],
+    "source": "https://acikveri.bizizmir.com/dataset/muhtarliklar",
+    "checked_on": "2026-10-11"
+  },
+  "/bolgeler/menderes/develi/": {
+    "records": [
+      {
+        "district": "Menderes",
+        "name": "DEVELİ",
+        "road": "9126"
+      }
+    ],
+    "source": "https://acikveri.bizizmir.com/dataset/muhtarliklar",
+    "checked_on": "2026-10-11"
+  },
+  "/bolgeler/bornova/doganlar/": {
+    "records": [
+      {
+        "district": "Bornova",
+        "name": "DOĞANLAR",
+        "road": "1530"
+      }
+    ],
+    "source": "https://acikveri.bizizmir.com/dataset/muhtarliklar",
+    "checked_on": "2026-10-11"
+  },
+  "/bolgeler/bornova/egemenlik/": {
+    "records": [
+      {
+        "district": "Bornova",
+        "name": "EGEMENLİK",
+        "road": "ALP"
+      }
+    ],
+    "source": "https://acikveri.bizizmir.com/dataset/muhtarliklar",
+    "checked_on": "2026-10-11"
+  },
+  "/bolgeler/bornova/erzene-mahallesi/": {
+    "records": [
+      {
+        "district": "Bornova",
+        "name": "ERZENE",
+        "road": "8"
+      }
+    ],
+    "source": "https://acikveri.bizizmir.com/dataset/muhtarliklar",
+    "checked_on": "2026-10-11"
+  },
+  "/bolgeler/noktalar/esentepe/": {
+    "records": [
+      {
+        "district": "Çiğli",
+        "name": "ESENTEPE",
+        "road": "8809/40"
+      },
+      {
+        "district": "Dikili",
+        "name": "ESENTEPE",
+        "road": "ESENTEPE 4"
+      }
+    ],
+    "source": "https://acikveri.bizizmir.com/dataset/muhtarliklar",
+    "checked_on": "2026-10-11"
+  },
+  "/bolgeler/cigli/evka-2/": {
+    "records": [
+      {
+        "district": "Çiğli",
+        "name": "EVKA-2",
+        "road": "6853"
+      }
+    ],
+    "source": "https://acikveri.bizizmir.com/dataset/muhtarliklar",
+    "checked_on": "2026-10-11"
+  },
+  "/bolgeler/bornova/evka-3/": {
+    "records": [
+      {
+        "district": "Bornova",
+        "name": "EVKA 3",
+        "road": "ŞEHİTLER"
+      }
+    ],
+    "source": "https://acikveri.bizizmir.com/dataset/muhtarliklar",
+    "checked_on": "2026-10-11"
+  },
+  "/bolgeler/bornova/evka-4/": {
+    "records": [
+      {
+        "district": "Bornova",
+        "name": "EVKA 4",
+        "road": "AHMET ARVASİ"
+      }
+    ],
+    "source": "https://acikveri.bizizmir.com/dataset/muhtarliklar",
+    "checked_on": "2026-10-11"
+  },
+  "/bolgeler/cigli/evka-5/": {
+    "records": [
+      {
+        "district": "Çiğli",
+        "name": "EVKA-5",
+        "road": "8930"
+      }
+    ],
+    "source": "https://acikveri.bizizmir.com/dataset/muhtarliklar",
+    "checked_on": "2026-10-11"
+  },
+  "/bolgeler/cigli/evka-6/": {
+    "records": [
+      {
+        "district": "Çiğli",
+        "name": "EVKA-6",
+        "road": "6820"
+      }
+    ],
+    "source": "https://acikveri.bizizmir.com/dataset/muhtarliklar",
+    "checked_on": "2026-10-11"
+  },
+  "/bolgeler/karabaglar/fahrettin-altay/": {
+    "records": [
+      {
+        "district": "Karabağlar",
+        "name": "FAHRETTİN ALTAY",
+        "road": "65/17"
+      }
+    ],
+    "source": "https://acikveri.bizizmir.com/dataset/muhtarliklar",
+    "checked_on": "2026-10-11"
+  },
+  "/bolgeler/bornova/gokdere/": {
+    "records": [
+      {
+        "district": "Bornova",
+        "name": "GÖKDERE",
+        "road": "AKGÜL"
+      }
+    ],
+    "source": "https://acikveri.bizizmir.com/dataset/muhtarliklar",
+    "checked_on": "2026-10-11"
+  },
+  "/bolgeler/buca/goksu/": {
+    "records": [
+      {
+        "district": "Buca",
+        "name": "GÖKSU",
+        "road": "679/24"
+      }
+    ],
+    "source": "https://acikveri.bizizmir.com/dataset/muhtarliklar",
+    "checked_on": "2026-10-11"
+  },
+  "/bolgeler/menemen/gorece/": {
+    "records": [
+      {
+        "district": "Menemen",
+        "name": "GÖRECE",
+        "road": "910"
+      }
+    ],
+    "source": "https://acikveri.bizizmir.com/dataset/muhtarliklar",
+    "checked_on": "2026-10-11"
+  },
+  "/bolgeler/urla/gulbahce/": {
+    "records": [
+      {
+        "district": "Urla",
+        "name": "GÜLBAHÇE",
+        "road": "12107"
+      }
+    ],
+    "source": "https://acikveri.bizizmir.com/dataset/muhtarliklar",
+    "checked_on": "2026-10-11"
+  },
+  "/bolgeler/karabaglar/gulyaka/": {
+    "records": [
+      {
+        "district": "Karabağlar",
+        "name": "GÜLYAKA",
+        "road": "3035"
+      }
+    ],
+    "source": "https://acikveri.bizizmir.com/dataset/muhtarliklar",
+    "checked_on": "2026-10-11"
+  },
+  "/bolgeler/karabaglar/gunaltay/": {
+    "records": [
+      {
+        "district": "Karabağlar",
+        "name": "GÜNALTAY",
+        "road": "4865"
+      }
+    ],
+    "source": "https://acikveri.bizizmir.com/dataset/muhtarliklar",
+    "checked_on": "2026-10-11"
+  },
+  "/bolgeler/konak/guzelyali/": {
+    "records": [
+      {
+        "district": "Konak",
+        "name": "GÜZELYALI",
+        "road": "39"
+      }
+    ],
+    "source": "https://acikveri.bizizmir.com/dataset/muhtarliklar",
+    "checked_on": "2026-10-11"
+  },
+  "/bolgeler/noktalar/irmak-mahallesi/": {
+    "records": [
+      {
+        "district": "Gaziemir",
+        "name": "IRMAK",
+        "road": "31"
+      },
+      {
+        "district": "Menemen",
+        "name": "IRMAK",
+        "road": "9516"
+      }
+    ],
+    "source": "https://acikveri.bizizmir.com/dataset/muhtarliklar",
+    "checked_on": "2026-10-11"
+  },
+  "/bolgeler/urla/icmeler/": {
+    "records": [
+      {
+        "district": "Urla",
+        "name": "İÇMELER",
+        "road": "GÖÇMEN"
+      }
+    ],
+    "source": "https://acikveri.bizizmir.com/dataset/muhtarliklar",
+    "checked_on": "2026-10-11"
+  },
+  "/bolgeler/balcova/inciralti/": {
+    "records": [
+      {
+        "district": "Balçova",
+        "name": "İNCİRALTI",
+        "road": "İNCİRALTI"
+      }
+    ],
+    "source": "https://acikveri.bizizmir.com/dataset/muhtarliklar",
+    "checked_on": "2026-10-11"
+  },
+  "/bolgeler/noktalar/inonu/": {
+    "records": [
+      {
+        "district": "Buca",
+        "name": "İNÖNÜ",
+        "road": "682/2"
+      },
+      {
+        "district": "Ödemiş",
+        "name": "İNÖNÜ",
+        "road": "KANUNİ"
+      },
+      {
+        "district": "Bornova",
+        "name": "İNÖNÜ",
+        "road": "756"
+      },
+      {
+        "district": "Çiğli",
+        "name": "İNÖNÜ",
+        "road": "9202"
+      },
+      {
+        "district": "Torbalı",
+        "name": "İNÖNÜ",
+        "road": "129"
+      }
+    ],
+    "source": "https://acikveri.bizizmir.com/dataset/muhtarliklar",
+    "checked_on": "2026-10-11"
+  },
+  "/bolgeler/bornova/kavaklidere/": {
+    "records": [
+      {
+        "district": "Bornova",
+        "name": "KAVAKLIDERE",
+        "road": "KAVAKLIDERE"
+      }
+    ],
+    "source": "https://acikveri.bizizmir.com/dataset/muhtarliklar",
+    "checked_on": "2026-10-11"
+  },
+  "/bolgeler/noktalar/kazimdirik/": {
+    "records": [
+      {
+        "district": "Foça",
+        "name": "KAZIM DİRİK",
+        "road": "408"
+      },
+      {
+        "district": "Foça",
+        "name": "KAZIM DİRİK",
+        "road": "FOÇA İZMİR KARAYOLU"
+      },
+      {
+        "district": "Aliağa",
+        "name": "KAZIM DİRİK",
+        "road": "ATATÜRK"
+      },
+      {
+        "district": "Aliağa",
+        "name": "KAZIM DİRİK",
+        "road": "CUMHURİYET"
+      },
+      {
+        "district": "Bornova",
+        "name": "KAZIMDİRİK",
+        "road": "180/2"
+      }
+    ],
+    "source": "https://acikveri.bizizmir.com/dataset/muhtarliklar",
+    "checked_on": "2026-10-11"
+  },
+  "/bolgeler/menderes/kisik/": {
+    "records": [
+      {
+        "district": "Menderes",
+        "name": "KISIK",
+        "road": "7700"
+      }
+    ],
+    "source": "https://acikveri.bizizmir.com/dataset/muhtarliklar",
+    "checked_on": "2026-10-11"
+  },
+  "/bolgeler/buca/kozagac/": {
+    "records": [
+      {
+        "district": "Buca",
+        "name": "KOZAĞAÇ",
+        "road": "231/2"
+      }
+    ],
+    "source": "https://acikveri.bizizmir.com/dataset/muhtarliklar",
+    "checked_on": "2026-10-11"
+  },
+  "/bolgeler/buca/kurucesme/": {
+    "records": [
+      {
+        "district": "Buca",
+        "name": "KURUÇEŞME",
+        "road": "205"
+      }
+    ],
+    "source": "https://acikveri.bizizmir.com/dataset/muhtarliklar",
+    "checked_on": "2026-10-11"
+  },
+  "/bolgeler/menderes/kuner/": {
+    "records": [
+      {
+        "district": "Menderes",
+        "name": "KÜNER",
+        "road": "KÜNER"
+      }
+    ],
+    "source": "https://acikveri.bizizmir.com/dataset/muhtarliklar",
+    "checked_on": "2026-10-11"
+  },
+  "/bolgeler/bornova/laka-mahallesi/": {
+    "records": [
+      {
+        "district": "Bornova",
+        "name": "LAKA",
+        "road": "GÜL"
+      }
+    ],
+    "source": "https://acikveri.bizizmir.com/dataset/muhtarliklar",
+    "checked_on": "2026-10-11"
+  },
+  "/bolgeler/karabaglar/limontepe/": {
+    "records": [
+      {
+        "district": "Karabağlar",
+        "name": "LİMONTEPE",
+        "road": "9701"
+      }
+    ],
+    "source": "https://acikveri.bizizmir.com/dataset/muhtarliklar",
+    "checked_on": "2026-10-11"
+  },
+  "/bolgeler/noktalar/maltepe/": {
+    "records": [
+      {
+        "district": "Çiğli",
+        "name": "MALTEPE",
+        "road": "8090"
+      },
+      {
+        "district": "Güzelbahçe",
+        "name": "MALTEPE",
+        "road": "MİTHATPAŞA"
+      },
+      {
+        "district": "Bergama",
+        "name": "MALTEPE",
+        "road": "KAYMAKAM KEMALBEY"
+      }
+    ],
+    "source": "https://acikveri.bizizmir.com/dataset/muhtarliklar",
+    "checked_on": "2026-10-11"
+  },
+  "/bolgeler/bayrakli/manavkuyu/": {
+    "records": [
+      {
+        "district": "Bayraklı",
+        "name": "MANAVKUYU",
+        "road": "275/2"
+      }
+    ],
+    "source": "https://acikveri.bizizmir.com/dataset/muhtarliklar",
+    "checked_on": "2026-10-11"
+  },
+  "/bolgeler/noktalar/menderes-mahallesi/": {
+    "records": [
+      {
+        "district": "Beydağ",
+        "name": "MENDERES",
+        "road": "MENDERES"
+      },
+      {
+        "district": "Gaziemir",
+        "name": "MENDERES",
+        "road": "BÜYÜK MENDERES"
+      },
+      {
+        "district": "Buca",
+        "name": "MENDERES",
+        "road": "ADNAN KAHVECİ"
+      }
+    ],
+    "source": "https://acikveri.bizizmir.com/dataset/muhtarliklar",
+    "checked_on": "2026-10-11"
+  },
+  "/bolgeler/bornova/mevlana-mahallesi/": {
+    "records": [
+      {
+        "district": "Bornova",
+        "name": "MEVLANA",
+        "road": "1751"
+      }
+    ],
+    "source": "https://acikveri.bizizmir.com/dataset/muhtarliklar",
+    "checked_on": "2026-10-11"
+  },
+  "/bolgeler/bornova/naldoken/": {
+    "records": [
+      {
+        "district": "Bornova",
+        "name": "NALDÖKEN",
+        "road": "1218"
+      }
+    ],
+    "source": "https://acikveri.bizizmir.com/dataset/muhtarliklar",
+    "checked_on": "2026-10-11"
+  },
+  "/bolgeler/narlidere/narli/": {
+    "records": [
+      {
+        "district": "Narlıdere",
+        "name": "NARLI",
+        "road": "KOÇYİĞİT"
+      },
+      {
+        "district": "Narlıdere",
+        "name": "NARLI",
+        "road": "İLKAY"
+      }
+    ],
+    "source": "https://acikveri.bizizmir.com/dataset/muhtarliklar",
+    "checked_on": "2026-10-11"
+  },
+  "/bolgeler/noktalar/onur-mahallesi/": {
+    "records": [
+      {
+        "district": "Bayraklı",
+        "name": "ONUR",
+        "road": "7364/1"
+      },
+      {
+        "district": "Balçova",
+        "name": "ONUR",
+        "road": "MİNE"
+      }
+    ],
+    "source": "https://acikveri.bizizmir.com/dataset/muhtarliklar",
+    "checked_on": "2026-10-11"
+  },
+  "/bolgeler/urla/ozbek/": {
+    "records": [
+      {
+        "district": "Urla",
+        "name": "ÖZBEK",
+        "road": "6002"
+      }
+    ],
+    "source": "https://acikveri.bizizmir.com/dataset/muhtarliklar",
+    "checked_on": "2026-10-11"
+  },
+  "/bolgeler/noktalar/payamli/": {
+    "records": [
+      {
+        "district": "Güzelbahçe",
+        "name": "PAYAMLI",
+        "road": "VALİ KAZIM DİRİK"
+      },
+      {
+        "district": "Seferihisar",
+        "name": "PAYAMLI",
+        "road": "KUŞADASI SEFERİHİSAR YOLU"
+      }
+    ],
+    "source": "https://acikveri.bizizmir.com/dataset/muhtarliklar",
+    "checked_on": "2026-10-11"
+  },
+  "/bolgeler/karabaglar/poligon/": {
+    "records": [
+      {
+        "district": "Karabağlar",
+        "name": "POLİGON",
+        "road": "124"
+      }
+    ],
+    "source": "https://acikveri.bizizmir.com/dataset/muhtarliklar",
+    "checked_on": "2026-10-11"
+  },
+  "/bolgeler/seferihisar/sigacik/": {
+    "records": [
+      {
+        "district": "Seferihisar",
+        "name": "SIĞACIK",
+        "road": "ŞADIRVAN"
+      }
+    ],
+    "source": "https://acikveri.bizizmir.com/dataset/muhtarliklar",
+    "checked_on": "2026-10-11"
+  },
+  "/bolgeler/noktalar/siteler/": {
+    "records": [
+      {
+        "district": "Aliağa",
+        "name": "SİTELER",
+        "road": "437"
+      },
+      {
+        "district": "Güzelbahçe",
+        "name": "SİTELER",
+        "road": "241"
+      }
+    ],
+    "source": "https://acikveri.bizizmir.com/dataset/muhtarliklar",
+    "checked_on": "2026-10-11"
+  },
+  "/bolgeler/menderes/sasal/": {
+    "records": [
+      {
+        "district": "Menderes",
+        "name": "ŞAŞAL",
+        "road": "7904"
+      }
+    ],
+    "source": "https://acikveri.bizizmir.com/dataset/muhtarliklar",
+    "checked_on": "2026-10-11"
+  },
+  "/bolgeler/karsiyaka/semikler/": {
+    "records": [
+      {
+        "district": "Karşıyaka",
+        "name": "ŞEMİKLER",
+        "road": "ORDU"
+      }
+    ],
+    "source": "https://acikveri.bizizmir.com/dataset/muhtarliklar",
+    "checked_on": "2026-10-11"
+  },
+  "/bolgeler/balcova/teleferik/": {
+    "records": [
+      {
+        "district": "Balçova",
+        "name": "TELEFERİK",
+        "road": "ENVERPAŞA"
+      }
+    ],
+    "source": "https://acikveri.bizizmir.com/dataset/muhtarliklar",
+    "checked_on": "2026-10-11"
+  },
+  "/bolgeler/bornova/tuna/": {
+    "records": [
+      {
+        "district": "Bornova",
+        "name": "TUNA",
+        "road": "5639/1"
+      }
+    ],
+    "source": "https://acikveri.bizizmir.com/dataset/muhtarliklar",
+    "checked_on": "2026-10-11"
+  },
+  "/bolgeler/seferihisar/ulamis/": {
+    "records": [
+      {
+        "district": "Seferihisar",
+        "name": "ULAMIŞ",
+        "road": "1401"
+      }
+    ],
+    "source": "https://acikveri.bizizmir.com/dataset/muhtarliklar",
+    "checked_on": "2026-10-11"
+  },
+  "/bolgeler/urla/iskele/": {
+    "records": [
+      {
+        "district": "Urla",
+        "name": "İSKELE",
+        "road": "İSKELE"
+      }
+    ],
+    "source": "https://acikveri.bizizmir.com/dataset/muhtarliklar",
+    "checked_on": "2026-10-11"
+  },
+  "/bolgeler/noktalar/uzundere/": {
+    "records": [
+      {
+        "district": "Karabağlar",
+        "name": "UZUNDERE",
+        "road": "3966/4"
+      },
+      {
+        "district": "Ödemiş",
+        "name": "UZUNDERE",
+        "road": "UZUNDERE"
+      }
+    ],
+    "source": "https://acikveri.bizizmir.com/dataset/muhtarliklar",
+    "checked_on": "2026-10-11"
+  },
+  "/bolgeler/noktalar/yaka-mahallesi/": {
+    "records": [
+      {
+        "district": "Urla",
+        "name": "YAKA",
+        "road": "ŞEN"
+      },
+      {
+        "district": "Güzelbahçe",
+        "name": "YAKA",
+        "road": "642"
+      }
+    ],
+    "source": "https://acikveri.bizizmir.com/dataset/muhtarliklar",
+    "checked_on": "2026-10-11"
+  },
+  "/bolgeler/noktalar/yali-mahallesi/": {
+    "records": [
+      {
+        "district": "Güzelbahçe",
+        "name": "YALI",
+        "road": "101"
+      },
+      {
+        "district": "Karşıyaka",
+        "name": "YALI",
+        "road": "6418"
+      },
+      {
+        "district": "Aliağa",
+        "name": "YALI",
+        "road": "180"
+      },
+      {
+        "district": "Çeşme",
+        "name": "YALI",
+        "road": "6184"
+      }
+    ],
+    "source": "https://acikveri.bizizmir.com/dataset/muhtarliklar",
+    "checked_on": "2026-10-11"
+  },
+  "/bolgeler/narlidere/yenikale/": {
+    "records": [
+      {
+        "district": "Narlıdere",
+        "name": "YENİKALE",
+        "road": "ÖMÜR"
+      }
+    ],
+    "source": "https://acikveri.bizizmir.com/dataset/muhtarliklar",
+    "checked_on": "2026-10-11"
+  },
+  "/bolgeler/noktalar/yenikoy/": {
+    "records": [
+      {
+        "district": "Torbalı",
+        "name": "YENİKÖY",
+        "road": "GAZİ PAŞA"
+      },
+      {
+        "district": "Ödemiş",
+        "name": "YENİKÖY",
+        "road": "YENİKÖY"
+      },
+      {
+        "district": "Kiraz",
+        "name": "YENİKÖY",
+        "road": "YENİKÖY"
+      },
+      {
+        "district": "Foça",
+        "name": "YENİKÖY",
+        "road": "YENİKÖY KÖYÜ KÜME EVLER"
+      },
+      {
+        "district": "Menderes",
+        "name": "YENİKÖY",
+        "road": "7963"
+      }
+    ],
+    "source": "https://acikveri.bizizmir.com/dataset/muhtarliklar",
+    "checked_on": "2026-10-11"
+  },
+  "/bolgeler/noktalar/yesilova/": {
+    "records": [
+      {
+        "district": "Bayındır",
+        "name": "YEŞİLOVA",
+        "road": "ORTA"
+      },
+      {
+        "district": "Bornova",
+        "name": "YEŞİLOVA",
+        "road": "4051"
+      }
+    ],
+    "source": "https://acikveri.bizizmir.com/dataset/muhtarliklar",
+    "checked_on": "2026-10-11"
+  },
+  "/bolgeler/noktalar/yildiz-mahallesi/": {
+    "records": [
+      {
+        "district": "Konak",
+        "name": "YILDIZ",
+        "road": "442"
+      },
+      {
+        "district": "Buca",
+        "name": "YILDIZ",
+        "road": "206/5"
+      }
+    ],
+    "source": "https://acikveri.bizizmir.com/dataset/muhtarliklar",
+    "checked_on": "2026-10-11"
+  },
+  "/bolgeler/urla/zeytinler/": {
+    "records": [
+      {
+        "district": "Urla",
+        "name": "ZEYTİNLER",
+        "road": "KURTULUŞ"
+      }
+    ],
+    "source": "https://acikveri.bizizmir.com/dataset/muhtarliklar",
+    "checked_on": "2026-10-11"
+  },
+  "/bolgeler/karabaglar/uckuyular/": {
+    "records": [
+      {
+        "district": "Karabağlar",
+        "name": "ÜÇKUYULAR",
+        "road": "12/1"
+      }
+    ],
+    "source": "https://acikveri.bizizmir.com/dataset/muhtarliklar",
+    "checked_on": "2026-10-11"
+  },
+  "/bolgeler/narlidere/sahilevleri/": {
+    "records": [
+      {
+        "district": "Narlıdere",
+        "name": "SAHİLEVLERİ",
+        "road": "MELTEM"
+      }
+    ],
+    "source": "https://acikveri.bizizmir.com/dataset/muhtarliklar",
+    "checked_on": "2026-10-11"
+  },
+  "/bolgeler/selcuk/sirince/": {
+    "records": [
+      {
+        "district": "Selçuk",
+        "name": "ŞİRİNCE",
+        "road": "220"
+      }
+    ],
+    "source": "https://acikveri.bizizmir.com/dataset/muhtarliklar",
+    "checked_on": "2026-10-11"
+  },
+  "/bolgeler/noktalar/karakoy/": {
+    "records": [
+      {
+        "district": "Çeşme",
+        "name": "KARAKÖY",
+        "road": "KARAKÖY CUMHURİYET"
+      },
+      {
+        "district": "Aliağa",
+        "name": "KARAKÖY",
+        "road": "KARAKÖY HÜKÜMET"
+      }
+    ],
+    "source": "https://acikveri.bizizmir.com/dataset/muhtarliklar",
+    "checked_on": "2026-10-11"
+  },
+  "/bolgeler/noktalar/ataturk-mahallesi/": {
+    "records": [
+      {
+        "district": "Bergama",
+        "name": "ATATÜRK",
+        "road": "ASLAN"
+      },
+      {
+        "district": "Çiğli",
+        "name": "ATATÜRK",
+        "road": "8809/23"
+      },
+      {
+        "district": "Bayındır",
+        "name": "ATATÜRK",
+        "road": "KAZIM DİRİK"
+      },
+      {
+        "district": "Narlıdere",
+        "name": "ATATÜRK",
+        "road": "SEYRAN"
+      },
+      {
+        "district": "Kemalpaşa",
+        "name": "ATATÜRK",
+        "road": "67/1"
+      },
+      {
+        "district": "Urla",
+        "name": "ATATÜRK",
+        "road": "NEYZEN TEVFİK"
+      },
+      {
+        "district": "Aliağa",
+        "name": "ATATÜRK",
+        "road": "ATATÜRK"
+      },
+      {
+        "district": "Beydağ",
+        "name": "ATATÜRK",
+        "road": "GÜLER"
+      },
+      {
+        "district": "Bornova",
+        "name": "ATATÜRK",
+        "road": "853"
+      },
+      {
+        "district": "Ödemiş",
+        "name": "ATATÜRK",
+        "road": "ATATÜRK"
+      },
+      {
+        "district": "Torbalı",
+        "name": "ATATÜRK",
+        "road": "1553"
+      },
+      {
+        "district": "Menemen",
+        "name": "ATATÜRK",
+        "road": "1528"
+      },
+      {
+        "district": "Seferihisar",
+        "name": "ATATÜRK",
+        "road": "KUŞADASI SEFERİHİSAR YOLU"
+      },
+      {
+        "district": "Buca",
+        "name": "ATATÜRK",
+        "road": "207"
+      },
+      {
+        "district": "Gaziemir",
+        "name": "ATATÜRK",
+        "road": "1039"
+      },
+      {
+        "district": "Selçuk",
+        "name": "ATATÜRK",
+        "road": "ŞEHABETTİN DEDE"
+      },
+      {
+        "district": "Foça",
+        "name": "ATATÜRK",
+        "road": "115"
+      }
+    ],
+    "source": "https://acikveri.bizizmir.com/dataset/muhtarliklar",
+    "checked_on": "2026-10-11"
+  },
+  "/bolgeler/guzelbahce/celebi-mahallesi/": {
+    "records": [
+      {
+        "district": "Güzelbahçe",
+        "name": "ÇELEBİ",
+        "road": "ERLER"
+      },
+      {
+        "district": "Güzelbahçe",
+        "name": "ÇELEBİ",
+        "road": "387"
+      }
+    ],
+    "source": "https://acikveri.bizizmir.com/dataset/muhtarliklar",
+    "checked_on": "2026-10-11"
+  },
+  "/bolgeler/noktalar/kucukkaya/": {
+    "records": [
+      {
+        "district": "Güzelbahçe",
+        "name": "KÜÇÜKKAYA",
+        "road": "ÇAMLI"
+      },
+      {
+        "district": "Bergama",
+        "name": "KÜÇÜKKAYA",
+        "road": "ATATÜRK"
+      }
+    ],
+    "source": "https://acikveri.bizizmir.com/dataset/muhtarliklar",
+    "checked_on": "2026-10-11"
+  },
+  "/bolgeler/selcuk/zeytinkoy/": {
+    "records": [
+      {
+        "district": "Selçuk",
+        "name": "ZEYTİNKÖY",
+        "road": "AKPINAR"
+      }
+    ],
+    "source": "https://acikveri.bizizmir.com/dataset/muhtarliklar",
+    "checked_on": "2026-10-11"
+  },
+  "/bolgeler/selcuk/acarlar/": {
+    "records": [
+      {
+        "district": "Selçuk",
+        "name": "ACARLAR",
+        "road": "OKUL"
+      }
+    ],
+    "source": "https://acikveri.bizizmir.com/dataset/muhtarliklar",
+    "checked_on": "2026-10-11"
+  },
+  "/bolgeler/selcuk/barutcu/": {
+    "records": [
+      {
+        "district": "Selçuk",
+        "name": "BARUTÇU",
+        "road": "BARUTÇU ATATÜRK"
+      }
+    ],
+    "source": "https://acikveri.bizizmir.com/dataset/muhtarliklar",
+    "checked_on": "2026-10-11"
+  },
+  "/bolgeler/torbali/arslanlar/": {
+    "records": [
+      {
+        "district": "Torbalı",
+        "name": "ARSLANLAR",
+        "road": "ARSLANLAR"
+      }
+    ],
+    "source": "https://acikveri.bizizmir.com/dataset/muhtarliklar",
+    "checked_on": "2026-10-11"
+  },
+  "/bolgeler/torbali/atalan/": {
+    "records": [
+      {
+        "district": "Torbalı",
+        "name": "ATALAN",
+        "road": "TİRE"
+      }
+    ],
+    "source": "https://acikveri.bizizmir.com/dataset/muhtarliklar",
+    "checked_on": "2026-10-11"
+  },
+  "/bolgeler/torbali/ataturk/": {
+    "records": [
+      {
+        "district": "Torbalı",
+        "name": "ATATÜRK",
+        "road": "1553"
+      }
+    ],
+    "source": "https://acikveri.bizizmir.com/dataset/muhtarliklar",
+    "checked_on": "2026-10-11"
+  },
+  "/bolgeler/torbali/bahcelievler/": {
+    "records": [
+      {
+        "district": "Torbalı",
+        "name": "BAHÇELİEVLER",
+        "road": "9104"
+      }
+    ],
+    "source": "https://acikveri.bizizmir.com/dataset/muhtarliklar",
+    "checked_on": "2026-10-11"
+  },
+  "/bolgeler/torbali/bozkoy/": {
+    "records": [
+      {
+        "district": "Torbalı",
+        "name": "BOZKÖY",
+        "road": "BOZKÖY KÖY"
+      }
+    ],
+    "source": "https://acikveri.bizizmir.com/dataset/muhtarliklar",
+    "checked_on": "2026-10-11"
+  },
+  "/bolgeler/torbali/bulbuldere/": {
+    "records": [
+      {
+        "district": "Torbalı",
+        "name": "BÜLBÜLDERE",
+        "road": "819"
+      }
+    ],
+    "source": "https://acikveri.bizizmir.com/dataset/muhtarliklar",
+    "checked_on": "2026-10-11"
+  },
+  "/bolgeler/torbali/cumhuriyet/": {
+    "records": [
+      {
+        "district": "Torbalı",
+        "name": "CUMHURİYET",
+        "road": "HALUK ALPSÜ"
+      }
+    ],
+    "source": "https://acikveri.bizizmir.com/dataset/muhtarliklar",
+    "checked_on": "2026-10-11"
+  },
+  "/bolgeler/torbali/cakirbeyli/": {
+    "records": [
+      {
+        "district": "Torbalı",
+        "name": "ÇAKIRBEYLİ",
+        "road": "GAZİ MUSTAFA KEMAL"
+      }
+    ],
+    "source": "https://acikveri.bizizmir.com/dataset/muhtarliklar",
+    "checked_on": "2026-10-11"
+  },
+  "/bolgeler/torbali/camlica/": {
+    "records": [
+      {
+        "district": "Torbalı",
+        "name": "ÇAMLICA",
+        "road": "ÇAMLICA YOLU"
+      }
+    ],
+    "source": "https://acikveri.bizizmir.com/dataset/muhtarliklar",
+    "checked_on": "2026-10-11"
+  },
+  "/bolgeler/torbali/dagkizilca/": {
+    "records": [
+      {
+        "district": "Torbalı",
+        "name": "DAĞKIZILCA",
+        "road": "6180"
+      }
+    ],
+    "source": "https://acikveri.bizizmir.com/dataset/muhtarliklar",
+    "checked_on": "2026-10-11"
+  },
+  "/bolgeler/torbali/demirci/": {
+    "records": [
+      {
+        "district": "Torbalı",
+        "name": "DEMİRCİ",
+        "road": "6250"
+      }
+    ],
+    "source": "https://acikveri.bizizmir.com/dataset/muhtarliklar",
+    "checked_on": "2026-10-11"
+  },
+  "/bolgeler/torbali/ertugrul/": {
+    "records": [
+      {
+        "district": "Torbalı",
+        "name": "ERTUĞRUL",
+        "road": "TORBALI"
+      }
+    ],
+    "source": "https://acikveri.bizizmir.com/dataset/muhtarliklar",
+    "checked_on": "2026-10-11"
+  },
+  "/bolgeler/torbali/fevzi-cakmak/": {
+    "records": [
+      {
+        "district": "Torbalı",
+        "name": "FEVZİ ÇAKMAK",
+        "road": "BARIŞ MANÇO"
+      }
+    ],
+    "source": "https://acikveri.bizizmir.com/dataset/muhtarliklar",
+    "checked_on": "2026-10-11"
+  },
+  "/bolgeler/torbali/golluce/": {
+    "records": [
+      {
+        "district": "Torbalı",
+        "name": "GÖLLÜCE",
+        "road": "BÜYÜK MENDERES"
+      }
+    ],
+    "source": "https://acikveri.bizizmir.com/dataset/muhtarliklar",
+    "checked_on": "2026-10-11"
+  },
+  "/bolgeler/torbali/helvaci/": {
+    "records": [
+      {
+        "district": "Torbalı",
+        "name": "HELVACI",
+        "road": "6280"
+      }
+    ],
+    "source": "https://acikveri.bizizmir.com/dataset/muhtarliklar",
+    "checked_on": "2026-10-11"
+  },
+  "/bolgeler/torbali/kaplancik/": {
+    "records": [
+      {
+        "district": "Torbalı",
+        "name": "KAPLANCIK",
+        "road": "6300"
+      }
+    ],
+    "source": "https://acikveri.bizizmir.com/dataset/muhtarliklar",
+    "checked_on": "2026-10-11"
+  },
+  "/bolgeler/torbali/karakuyu/": {
+    "records": [
+      {
+        "district": "Torbalı",
+        "name": "KARAKUYU",
+        "road": "FATİH"
+      }
+    ],
+    "source": "https://acikveri.bizizmir.com/dataset/muhtarliklar",
+    "checked_on": "2026-10-11"
+  },
+  "/bolgeler/torbali/karsiyaka/": {
+    "records": [
+      {
+        "district": "Torbalı",
+        "name": "KARŞIYAKA",
+        "road": "7320"
+      }
+    ],
+    "source": "https://acikveri.bizizmir.com/dataset/muhtarliklar",
+    "checked_on": "2026-10-11"
+  },
+  "/bolgeler/torbali/pamukyazi/": {
+    "records": [
+      {
+        "district": "Torbalı",
+        "name": "PAMUKYAZI",
+        "road": "8"
+      }
+    ],
+    "source": "https://acikveri.bizizmir.com/dataset/muhtarliklar",
+    "checked_on": "2026-10-11"
+  },
+  "/bolgeler/torbali/saglik/": {
+    "records": [
+      {
+        "district": "Torbalı",
+        "name": "SAĞLIK",
+        "road": "6350"
+      }
+    ],
+    "source": "https://acikveri.bizizmir.com/dataset/muhtarliklar",
+    "checked_on": "2026-10-11"
+  },
+  "/bolgeler/torbali/tulum/": {
+    "records": [
+      {
+        "district": "Torbalı",
+        "name": "TULUM",
+        "road": "6398"
+      }
+    ],
+    "source": "https://acikveri.bizizmir.com/dataset/muhtarliklar",
+    "checked_on": "2026-10-11"
+  },
+  "/bolgeler/torbali/yogurtcular/": {
+    "records": [
+      {
+        "district": "Torbalı",
+        "name": "YOĞURTÇULAR",
+        "road": "6449"
+      }
+    ],
+    "source": "https://acikveri.bizizmir.com/dataset/muhtarliklar",
+    "checked_on": "2026-10-11"
+  },
+  "/bolgeler/guzelbahce/liman-reis/": {
+    "records": [
+      {
+        "district": "Narlıdere",
+        "name": "LİMANREİS",
+        "road": "KIBRIS"
+      }
+    ],
+    "source": "https://acikveri.bizizmir.com/dataset/muhtarliklar",
+    "checked_on": "2026-10-11"
+  }
+}
