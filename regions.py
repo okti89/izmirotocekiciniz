@@ -1,3 +1,4 @@
+
 """Bölge sayfaları: kaynaklı konum bilgisi ve ayrı editoryal rehberler."""
 from pathlib import Path
 from html import escape as e
@@ -111,6 +112,6 @@ def render_regions(root,layout,subhero,buttons,ORIGIN,PUBLIC):
   if brief.get('status')=='outside_izmir':
    page_heading=name+'–İzmir araç transferi talebi';desc=name+' ile İzmir arasındaki araç transferi talebinde alınış ve teslim illerini ayrı belirtin. Hizmet uygunluğu, kapsam ve ücret görüşmede değerlendirilir.'
   body=subhero(page_heading,desc,path,(parent_name,parent_path))+'<section class="section"><div class="wrap detail-grid"><article class="article">'+local_body+'</article>'+aside+'</div></section>'
-  layout(path,page_heading+' | İzmir Oto Çekiciniz',desc,body,ready=path in approved,crumbs=[('Ana sayfa','/'),(parent_name,parent_path),(name+' çekici',path)],service=page_heading,area='İzmir' if brief.get('status')=='outside_izmir' else name)
+  layout(path,page_heading+' | İzmir Oto Çekiciniz',desc,body,ready=path in approved,crumbs=[('Ana sayfa','/'),(parent_name,parent_path),(name+' çekici',path)],service=page_heading,area='İzmir' if brief.get('status')=='outside_izmir' else name,faqs=brief.get('questions'))
  (root/'region-catalog.json').write_text(json.dumps({'regions':catalog,'reference_url_mapping':mapping},ensure_ascii=False,indent=2))
  return catalog,mapping

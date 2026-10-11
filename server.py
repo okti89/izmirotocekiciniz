@@ -19,6 +19,15 @@ class Handler(SimpleHTTPRequestHandler):
             return
         super().do_GET()
 
+    def do_HEAD(self):
+        path = urlsplit(self.path).path
+        if path in REDIRECTS:
+            self.send_response(301)
+            self.send_header('Location', REDIRECTS[path])
+            self.end_headers()
+            return
+        super().do_HEAD()
+
     def send_error(self, code, message=None, explain=None):
         if code == 404:
             body = (ROOT / 'dist/404.html').read_bytes()
