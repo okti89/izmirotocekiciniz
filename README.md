@@ -60,3 +60,5 @@ Koyu lacivert, amber/sarı ve beyaz tasarım bütün sayfalarda kullanılır. Mo
 ## Render yayını
 
 GitHub `main` dalı üzerinden `render.yaml` Blueprint dosyasıyla statik site oluşturulur. Yayın dizini `dist` olur. HTML çıktısı depoda hazırdır; Render build adımı temel dosyaların boş olmadığını kontrol eder. İçerik değişikliğinde önce `python3 build.py --public` ve kontroller çalıştırılır, ardından güncel kaynak ve `dist` birlikte push edilir. Netlify/Cloudflare biçimindeki `_redirects` ve `_headers` kuralları Render için Blueprint içine aktarılmıştır. Alan adı DNS doğrulaması ayrıca tamamlanır.
+
+11 Ekim Render yayın kontrolü: `https://izmirotocekiciniz.onrender.com` üzerinden sitemap içindeki 262 sayfa HTTP 200 verdi. Render statik site yönlendirme arayüzü en fazla 200 kural kabul ediyor; 200 alternatif kısa adres aktif, kalan 72 alternatif adres aktarılmadı. Bunların asıl içerik sayfaları yayında ve sitemap içinde. `dist/_redirects` diğer sunucular için tam listeyi korur. Eski `izmircekicioto.com` alan adına yönlendirme uygulanmadı. `izmirotocekiciniz.com` DNS bağlantısı ve Search Console gönderimi ayrıca tamamlanmalı.
