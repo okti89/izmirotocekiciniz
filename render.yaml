@@ -21,2420 +21,818 @@ services:
         value: "public, max-age=86400"
     routes:
       - type: redirect
-        source: "/1-sanayi-cekici"
-        destination: "/sanayi/1-sanayi-sitesi/"
+        source: '/1-sanayi-cekici'
+        destination: '/sanayi/1-sanayi-sitesi/'
       - type: redirect
-        source: "/1-sanayi-cekici/"
-        destination: "/sanayi/1-sanayi-sitesi/"
+        source: '/16-eylul-cekici'
+        destination: '/bolgeler/cesme/16-eylul/'
       - type: redirect
-        source: "/16-eylul-cekici"
-        destination: "/bolgeler/cesme/16-eylul/"
+        source: '/2-sanayi-cekici'
+        destination: '/sanayi/2-sanayi-sitesi/'
       - type: redirect
-        source: "/16-eylul-cekici/"
-        destination: "/bolgeler/cesme/16-eylul/"
+        source: '/3-sanayi-cekici'
+        destination: '/sanayi/3-sanayi-sitesi/'
       - type: redirect
-        source: "/2-sanayi-cekici"
-        destination: "/sanayi/2-sanayi-sitesi/"
+        source: '/4-sanayi-cekici'
+        destination: '/sanayi/4-sanayi-sitesi/'
       - type: redirect
-        source: "/2-sanayi-cekici/"
-        destination: "/sanayi/2-sanayi-sitesi/"
+        source: '/5-sanayi-cekici'
+        destination: '/sanayi/5-sanayi-sitesi/'
       - type: redirect
-        source: "/3-sanayi-cekici"
-        destination: "/sanayi/3-sanayi-sitesi/"
+        source: '/6-sanayi-cekici'
+        destination: '/sanayi/6-sanayi-sitesi/'
       - type: redirect
-        source: "/3-sanayi-cekici/"
-        destination: "/sanayi/3-sanayi-sitesi/"
+        source: '/7-sanayi-cekici'
+        destination: '/sanayi/7-sanayi-sitesi/'
       - type: redirect
-        source: "/4-sanayi-cekici"
-        destination: "/sanayi/4-sanayi-sitesi/"
+        source: '/acarlar-cekici'
+        destination: '/bolgeler/selcuk/acarlar/'
       - type: redirect
-        source: "/4-sanayi-cekici/"
-        destination: "/sanayi/4-sanayi-sitesi/"
+        source: '/adatepe-cekici'
+        destination: '/bolgeler/buca/adatepe/'
       - type: redirect
-        source: "/404"
-        destination: "/404/"
+        source: '/agir-ticari-cekici'
+        destination: '/hizmetler/agir-ticari-cekici/'
       - type: redirect
-        source: "/5-sanayi-cekici"
-        destination: "/sanayi/5-sanayi-sitesi/"
+        source: '/agir-vasita-kurtarma'
+        destination: '/hizmetler/agir-vasita-kurtarma/'
       - type: redirect
-        source: "/5-sanayi-cekici/"
-        destination: "/sanayi/5-sanayi-sitesi/"
+        source: '/ahmetbeyli-cekici'
+        destination: '/bolgeler/menderes/ahmetbeyli/'
       - type: redirect
-        source: "/6-sanayi-cekici"
-        destination: "/sanayi/6-sanayi-sitesi/"
+        source: '/akcakoy-cekici'
+        destination: '/bolgeler/menderes/akcakoy/'
       - type: redirect
-        source: "/6-sanayi-cekici/"
-        destination: "/sanayi/6-sanayi-sitesi/"
+        source: '/akincilar-cekici'
+        destination: '/bolgeler/noktalar/akincilar/'
       - type: redirect
-        source: "/7-sanayi-cekici"
-        destination: "/sanayi/7-sanayi-sitesi/"
+        source: '/aktepe-cekici'
+        destination: '/bolgeler/noktalar/aktepe/'
       - type: redirect
-        source: "/7-sanayi-cekici/"
-        destination: "/sanayi/7-sanayi-sitesi/"
+        source: '/aku-takviye'
+        destination: '/hizmetler/aku-takviye/'
       - type: redirect
-        source: "/acarlar-cekici"
-        destination: "/bolgeler/selcuk/acarlar/"
+        source: '/alacati-cekici'
+        destination: '/bolgeler/cesme/alacati/'
       - type: redirect
-        source: "/acarlar-cekici/"
-        destination: "/bolgeler/selcuk/acarlar/"
+        source: '/aliaga-cekici'
+        destination: '/bolgeler/aliaga/'
       - type: redirect
-        source: "/adatepe-cekici"
-        destination: "/bolgeler/buca/adatepe/"
+        source: '/alsancak-cekici'
+        destination: '/bolgeler/konak/alsancak/'
       - type: redirect
-        source: "/adatepe-cekici/"
-        destination: "/bolgeler/buca/adatepe/"
+        source: '/altindag-cekici'
+        destination: '/bolgeler/bornova/altindag/'
       - type: redirect
-        source: "/agir-ticari-cekici"
-        destination: "/hizmetler/agir-ticari-cekici/"
+        source: '/altinevler-cekici'
+        destination: '/bolgeler/noktalar/altinevler/'
       - type: redirect
-        source: "/agir-ticari-cekici/"
-        destination: "/hizmetler/agir-ticari-cekici/"
+        source: '/altinkum-cekici'
+        destination: '/bolgeler/cesme/altinkum/'
       - type: redirect
-        source: "/agir-vasita-kurtarma"
-        destination: "/hizmetler/agir-vasita-kurtarma/"
+        source: '/altintas-cekici'
+        destination: '/bolgeler/noktalar/altintas/'
       - type: redirect
-        source: "/agir-vasita-kurtarma/"
-        destination: "/hizmetler/agir-vasita-kurtarma/"
+        source: '/altinyol-sahil-yolu-cekici'
+        destination: '/guzergahlar/altinyol-sahil-yolu/'
       - type: redirect
-        source: "/ahmetbeyli-cekici"
-        destination: "/bolgeler/menderes/ahmetbeyli/"
+        source: '/ankara-otoyolu-cekici'
+        destination: '/guzergahlar/ankara-yolu/'
       - type: redirect
-        source: "/ahmetbeyli-cekici/"
-        destination: "/bolgeler/menderes/ahmetbeyli/"
+        source: '/ankara-yolu-cekici'
+        destination: '/guzergahlar/ankara-yolu/'
       - type: redirect
-        source: "/akcakoy-cekici"
-        destination: "/bolgeler/menderes/akcakoy/"
+        source: '/atakoy-cekici'
+        destination: '/bolgeler/menderes/atakoy/'
       - type: redirect
-        source: "/akcakoy-cekici/"
-        destination: "/bolgeler/menderes/akcakoy/"
+        source: '/ataturk-mahallesi-cekici'
+        destination: '/bolgeler/noktalar/ataturk-mahallesi/'
       - type: redirect
-        source: "/akincilar-cekici"
-        destination: "/bolgeler/noktalar/akincilar/"
+        source: '/aydin-mahallesi-cekici'
+        destination: '/bolgeler/karabaglar/aydin-mahallesi/'
       - type: redirect
-        source: "/akincilar-cekici/"
-        destination: "/bolgeler/noktalar/akincilar/"
+        source: '/aydin-otoban-cekici'
+        destination: '/guzergahlar/izmir-aydin-otoyolu/'
       - type: redirect
-        source: "/aktepe-cekici"
-        destination: "/bolgeler/noktalar/aktepe/"
+        source: '/ayrancilar-cekici'
+        destination: '/bolgeler/torbali/ayrancilar/'
       - type: redirect
-        source: "/aktepe-cekici/"
-        destination: "/bolgeler/noktalar/aktepe/"
+        source: '/bahcelerarasi-cekici'
+        destination: '/bolgeler/balcova/bahcelerarasi/'
       - type: redirect
-        source: "/aku-takviye"
-        destination: "/hizmetler/aku-takviye/"
+        source: '/bahcelievler-cekici'
+        destination: '/bolgeler/noktalar/bahcelievler/'
       - type: redirect
-        source: "/aku-takviye/"
-        destination: "/hizmetler/aku-takviye/"
+        source: '/balcova-cekici'
+        destination: '/bolgeler/balcova/'
       - type: redirect
-        source: "/alacati-cekici"
-        destination: "/bolgeler/cesme/alacati/"
+        source: '/balikli-ova-cekici'
+        destination: '/bolgeler/urla/balikli-ova/'
       - type: redirect
-        source: "/alacati-cekici/"
-        destination: "/bolgeler/cesme/alacati/"
+        source: '/barbaros-mahallesi-cekici'
+        destination: '/bolgeler/noktalar/barbaros-mahallesi/'
       - type: redirect
-        source: "/aliaga-cekici"
-        destination: "/bolgeler/aliaga/"
+        source: '/barutcu-cekici'
+        destination: '/bolgeler/selcuk/barutcu/'
       - type: redirect
-        source: "/aliaga-cekici/"
-        destination: "/bolgeler/aliaga/"
+        source: '/basin-sitesi-cekici'
+        destination: '/bolgeler/karabaglar/basin-sitesi/'
       - type: redirect
-        source: "/alsancak-cekici"
-        destination: "/bolgeler/konak/alsancak/"
+        source: '/basmane-cekici'
+        destination: '/bolgeler/konak/basmane/'
       - type: redirect
-        source: "/alsancak-cekici/"
-        destination: "/bolgeler/konak/alsancak/"
+        source: '/bayindir-cekici'
+        destination: '/bolgeler/bayindir/'
       - type: redirect
-        source: "/altindag-cekici"
-        destination: "/bolgeler/bornova/altindag/"
+        source: '/bayrakli-cekici'
+        destination: '/bolgeler/bayrakli/'
       - type: redirect
-        source: "/altindag-cekici/"
-        destination: "/bolgeler/bornova/altindag/"
+        source: '/bayrakli-tunelleri-cekici'
+        destination: '/guzergahlar/bayrakli-tunelleri/'
       - type: redirect
-        source: "/altinevler-cekici"
-        destination: "/bolgeler/noktalar/altinevler/"
+        source: '/belenbasi-cekici'
+        destination: '/bolgeler/buca/belenbasi/'
       - type: redirect
-        source: "/altinevler-cekici/"
-        destination: "/bolgeler/noktalar/altinevler/"
+        source: '/belevi-cekici'
+        destination: '/bolgeler/selcuk/belevi/'
       - type: redirect
-        source: "/altinkum-cekici"
-        destination: "/bolgeler/cesme/altinkum/"
+        source: '/belkahve-cekici'
+        destination: '/guzergahlar/belkahve-rampasi/'
       - type: redirect
-        source: "/altinkum-cekici/"
-        destination: "/bolgeler/cesme/altinkum/"
+        source: '/belkahve-rampasi-cekici'
+        destination: '/guzergahlar/belkahve-rampasi/'
       - type: redirect
-        source: "/altintas-cekici"
-        destination: "/bolgeler/noktalar/altintas/"
+        source: '/belkahve-tunelleri-cekici'
+        destination: '/guzergahlar/belkahve-tunelleri/'
       - type: redirect
-        source: "/altintas-cekici/"
-        destination: "/bolgeler/noktalar/altintas/"
+        source: '/bergama-cekici'
+        destination: '/bolgeler/bergama/'
       - type: redirect
-        source: "/altinyol-sahil-yolu-cekici"
-        destination: "/guzergahlar/altinyol-sahil-yolu/"
+        source: '/beton-yol-cekici'
+        destination: '/bolgeler/noktalar/beton-yol/'
       - type: redirect
-        source: "/altinyol-sahil-yolu-cekici/"
-        destination: "/guzergahlar/altinyol-sahil-yolu/"
+        source: '/beyazevler-cekici'
+        destination: '/bolgeler/gaziemir/beyazevler/'
       - type: redirect
-        source: "/ankara-otoyolu-cekici"
-        destination: "/guzergahlar/ankara-yolu/"
+        source: '/beydag-cekici'
+        destination: '/bolgeler/beydag/'
       - type: redirect
-        source: "/ankara-otoyolu-cekici/"
-        destination: "/guzergahlar/ankara-yolu/"
+        source: '/bornova-cekici'
+        destination: '/bolgeler/bornova/'
       - type: redirect
-        source: "/ankara-yolu-cekici"
-        destination: "/guzergahlar/ankara-yolu/"
+        source: '/bornova-cevre-yolu-cekici'
+        destination: '/guzergahlar/bornova-cevre-yolu/'
       - type: redirect
-        source: "/ankara-yolu-cekici/"
-        destination: "/guzergahlar/ankara-yolu/"
+        source: '/bostanli-cekici'
+        destination: '/bolgeler/karsiyaka/bostanli/'
       - type: redirect
-        source: "/atakoy-cekici"
-        destination: "/bolgeler/menderes/atakoy/"
+        source: '/boyalik-cekici'
+        destination: '/bolgeler/cesme/boyalik/'
       - type: redirect
-        source: "/atakoy-cekici/"
-        destination: "/bolgeler/menderes/atakoy/"
+        source: '/bozyaka-cekici'
+        destination: '/bolgeler/karabaglar/bozyaka/'
       - type: redirect
-        source: "/ataturk-mahallesi-cekici"
-        destination: "/bolgeler/noktalar/ataturk-mahallesi/"
+        source: '/buca-cekici'
+        destination: '/bolgeler/buca/'
       - type: redirect
-        source: "/ataturk-mahallesi-cekici/"
-        destination: "/bolgeler/noktalar/ataturk-mahallesi/"
+        source: '/buca-golet-cekici'
+        destination: '/bolgeler/buca/golet/'
       - type: redirect
-        source: "/aydin-mahallesi-cekici"
-        destination: "/bolgeler/karabaglar/aydin-mahallesi/"
+        source: '/bulgurca-cekici'
+        destination: '/bolgeler/menderes/bulgurca/'
       - type: redirect
-        source: "/aydin-mahallesi-cekici/"
-        destination: "/bolgeler/karabaglar/aydin-mahallesi/"
+        source: '/bursa-otoyolu-cekici'
+        destination: '/guzergahlar/bursa-yolu/'
       - type: redirect
-        source: "/aydin-otoban-cekici"
-        destination: "/guzergahlar/izmir-aydin-otoyolu/"
+        source: '/bursa-yolu-cekici'
+        destination: '/guzergahlar/bursa-yolu/'
       - type: redirect
-        source: "/aydin-otoban-cekici/"
-        destination: "/guzergahlar/izmir-aydin-otoyolu/"
+        source: '/cam-tepe-cekici'
+        destination: '/bolgeler/noktalar/cam-tepe/'
       - type: redirect
-        source: "/ayrancilar-cekici"
-        destination: "/bolgeler/torbali/ayrancilar/"
+        source: '/camdibi-cekici'
+        destination: '/bolgeler/bornova/camdibi/'
       - type: redirect
-        source: "/ayrancilar-cekici/"
-        destination: "/bolgeler/torbali/ayrancilar/"
+        source: '/camkoy-cekici'
+        destination: '/bolgeler/bergama/camkoy/'
       - type: redirect
-        source: "/bahcelerarasi-cekici"
-        destination: "/bolgeler/balcova/bahcelerarasi/"
+        source: '/camli-cekici'
+        destination: '/bolgeler/guzelbahce/camli/'
       - type: redirect
-        source: "/bahcelerarasi-cekici/"
-        destination: "/bolgeler/balcova/bahcelerarasi/"
+        source: '/camlikule-cekici'
+        destination: '/bolgeler/buca/camlikule/'
       - type: redirect
-        source: "/bahcelievler-cekici"
-        destination: "/bolgeler/noktalar/bahcelievler/"
+        source: '/camonu-cekici'
+        destination: '/bolgeler/menderes/camonu/'
       - type: redirect
-        source: "/bahcelievler-cekici/"
-        destination: "/bolgeler/noktalar/bahcelievler/"
+        source: '/cankaya-cekici'
+        destination: '/bolgeler/konak/cankaya/'
       - type: redirect
-        source: "/balcova-cekici"
-        destination: "/bolgeler/balcova/"
+        source: '/catalca-cekici'
+        destination: '/bolgeler/menderes/catalca/'
       - type: redirect
-        source: "/balcova-cekici/"
-        destination: "/bolgeler/balcova/"
+        source: '/catalkaya-cekici'
+        destination: '/bolgeler/noktalar/catalkaya/'
       - type: redirect
-        source: "/balikli-ova-cekici"
-        destination: "/bolgeler/urla/balikli-ova/"
+        source: '/cataltepe-cekici'
+        destination: '/bolgeler/noktalar/cataltepe/'
       - type: redirect
-        source: "/balikli-ova-cekici/"
-        destination: "/bolgeler/urla/balikli-ova/"
+        source: '/cekici'
+        destination: '/hizmetler/oto-cekici/'
       - type: redirect
-        source: "/barbaros-mahallesi-cekici"
-        destination: "/bolgeler/noktalar/barbaros-mahallesi/"
+        source: '/celebi-mahallesi-cekici'
+        destination: '/bolgeler/guzelbahce/celebi-mahallesi/'
       - type: redirect
-        source: "/barbaros-mahallesi-cekici/"
-        destination: "/bolgeler/noktalar/barbaros-mahallesi/"
+        source: '/cennet-cesme-cekici'
+        destination: '/bolgeler/karabaglar/cennet-cesme/'
       - type: redirect
-        source: "/barutcu-cekici"
-        destination: "/bolgeler/selcuk/barutcu/"
+        source: '/cennetoglu-cekici'
+        destination: '/bolgeler/karabaglar/cennetoglu/'
       - type: redirect
-        source: "/barutcu-cekici/"
-        destination: "/bolgeler/selcuk/barutcu/"
+        source: '/cesme-cekici'
+        destination: '/bolgeler/cesme/'
       - type: redirect
-        source: "/basin-sitesi-cekici"
-        destination: "/bolgeler/karabaglar/basin-sitesi/"
+        source: '/cesme-otoyolu-cekici'
+        destination: '/guzergahlar/izmir-cesme-otoyolu/'
       - type: redirect
-        source: "/basin-sitesi-cekici/"
-        destination: "/bolgeler/karabaglar/basin-sitesi/"
+        source: '/cesmealti-cekici'
+        destination: '/bolgeler/urla/cesmealti/'
       - type: redirect
-        source: "/basmane-cekici"
-        destination: "/bolgeler/konak/basmane/"
+        source: '/ciceklikoy-cekici'
+        destination: '/bolgeler/noktalar/ciceklikoy/'
       - type: redirect
-        source: "/basmane-cekici/"
-        destination: "/bolgeler/konak/basmane/"
+        source: '/ciftlikkoy-cekici'
+        destination: '/bolgeler/cesme/ciftlikkoy/'
       - type: redirect
-        source: "/bayindir-cekici"
-        destination: "/bolgeler/bayindir/"
+        source: '/cigli-cekici'
+        destination: '/bolgeler/cigli/'
       - type: redirect
-        source: "/bayindir-cekici/"
-        destination: "/bolgeler/bayindir/"
+        source: '/cile-cekici'
+        destination: '/bolgeler/menderes/cile/'
       - type: redirect
-        source: "/bayrakli-cekici"
-        destination: "/bolgeler/bayrakli/"
+        source: '/cileme-cekici'
+        destination: '/bolgeler/menderes/cileme/'
       - type: redirect
-        source: "/bayrakli-cekici/"
-        destination: "/bolgeler/bayrakli/"
+        source: '/cinarli-cekici'
+        destination: '/bolgeler/konak/cinarli/'
       - type: redirect
-        source: "/bayrakli-tunelleri-cekici"
-        destination: "/guzergahlar/bayrakli-tunelleri/"
+        source: '/dalyan-cekici'
+        destination: '/bolgeler/cesme/dalyan/'
       - type: redirect
-        source: "/bayrakli-tunelleri-cekici/"
-        destination: "/guzergahlar/bayrakli-tunelleri/"
+        source: '/degirmendere-cekici'
+        destination: '/bolgeler/menemen/degirmendere/'
       - type: redirect
-        source: "/belenbasi-cekici"
-        destination: "/bolgeler/buca/belenbasi/"
+        source: '/develi-cekici'
+        destination: '/bolgeler/menderes/develi/'
       - type: redirect
-        source: "/belenbasi-cekici/"
-        destination: "/bolgeler/buca/belenbasi/"
+        source: '/dikili-cekici'
+        destination: '/bolgeler/dikili/'
       - type: redirect
-        source: "/belevi-cekici"
-        destination: "/bolgeler/selcuk/belevi/"
+        source: '/doganlar-cekici'
+        destination: '/bolgeler/bornova/doganlar/'
       - type: redirect
-        source: "/belevi-cekici/"
-        destination: "/bolgeler/selcuk/belevi/"
+        source: '/egemenlik-cekici'
+        destination: '/bolgeler/bornova/egemenlik/'
       - type: redirect
-        source: "/belkahve-cekici"
-        destination: "/guzergahlar/belkahve-rampasi/"
+        source: '/erzene-mahallesi-cekici'
+        destination: '/bolgeler/bornova/erzene-mahallesi/'
       - type: redirect
-        source: "/belkahve-cekici/"
-        destination: "/guzergahlar/belkahve-rampasi/"
+        source: '/esendere-cekici'
+        destination: '/bolgeler/noktalar/esendere/'
       - type: redirect
-        source: "/belkahve-rampasi-cekici"
-        destination: "/guzergahlar/belkahve-rampasi/"
+        source: '/esenkent-cekici'
+        destination: '/bolgeler/noktalar/esenkent/'
       - type: redirect
-        source: "/belkahve-rampasi-cekici/"
-        destination: "/guzergahlar/belkahve-rampasi/"
+        source: '/esentepe-cekici'
+        destination: '/bolgeler/noktalar/esentepe/'
       - type: redirect
-        source: "/belkahve-tunelleri-cekici"
-        destination: "/guzergahlar/belkahve-tunelleri/"
+        source: '/eserkent-cekici'
+        destination: '/bolgeler/noktalar/eserkent/'
       - type: redirect
-        source: "/belkahve-tunelleri-cekici/"
-        destination: "/guzergahlar/belkahve-tunelleri/"
+        source: '/eskiizmir-cekici'
+        destination: '/bolgeler/noktalar/eskiizmir/'
       - type: redirect
-        source: "/bergama-cekici"
-        destination: "/bolgeler/bergama/"
+        source: '/evka1-cekici'
+        destination: '/bolgeler/buca/evka-1/'
       - type: redirect
-        source: "/bergama-cekici/"
-        destination: "/bolgeler/bergama/"
+        source: '/evka2-cekici'
+        destination: '/bolgeler/cigli/evka-2/'
       - type: redirect
-        source: "/beton-yol-cekici"
-        destination: "/bolgeler/noktalar/beton-yol/"
+        source: '/evka3-cekici'
+        destination: '/bolgeler/bornova/evka-3/'
       - type: redirect
-        source: "/beton-yol-cekici/"
-        destination: "/bolgeler/noktalar/beton-yol/"
+        source: '/evka4-cekici'
+        destination: '/bolgeler/bornova/evka-4/'
       - type: redirect
-        source: "/beyazevler-cekici"
-        destination: "/bolgeler/gaziemir/beyazevler/"
+        source: '/evka5-cekici'
+        destination: '/bolgeler/cigli/evka-5/'
       - type: redirect
-        source: "/beyazevler-cekici/"
-        destination: "/bolgeler/gaziemir/beyazevler/"
+        source: '/evka6-cekici'
+        destination: '/bolgeler/cigli/evka-6/'
       - type: redirect
-        source: "/beydag-cekici"
-        destination: "/bolgeler/beydag/"
+        source: '/evka7-cekici'
+        destination: '/bolgeler/cigli/evka-7/'
       - type: redirect
-        source: "/beydag-cekici/"
-        destination: "/bolgeler/beydag/"
+        source: '/fahrettin-altay-cekici'
+        destination: '/bolgeler/karabaglar/fahrettin-altay/'
       - type: redirect
-        source: "/bolgeler/aliaga"
-        destination: "/bolgeler/aliaga/"
+        source: '/fiyatlar'
+        destination: '/fiyatlandirma/'
       - type: redirect
-        source: "/bolgeler/balcova"
-        destination: "/bolgeler/balcova/"
+        source: '/foca-cekici'
+        destination: '/bolgeler/foca/'
       - type: redirect
-        source: "/bolgeler/balcova/bahcelerarasi"
-        destination: "/bolgeler/balcova/bahcelerarasi/"
+        source: '/gaziemir-cekici'
+        destination: '/bolgeler/gaziemir/'
       - type: redirect
-        source: "/bolgeler/balcova/inciralti"
-        destination: "/bolgeler/balcova/inciralti/"
+        source: '/gediz-cekici'
+        destination: '/bolgeler/noktalar/gediz/'
       - type: redirect
-        source: "/bolgeler/balcova/teleferik"
-        destination: "/bolgeler/balcova/teleferik/"
+        source: '/gokdere-cekici'
+        destination: '/bolgeler/bornova/gokdere/'
       - type: redirect
-        source: "/bolgeler/bayindir"
-        destination: "/bolgeler/bayindir/"
+        source: '/goksu-cekici'
+        destination: '/bolgeler/buca/goksu/'
       - type: redirect
-        source: "/bolgeler/bayrakli"
-        destination: "/bolgeler/bayrakli/"
+        source: '/gorece-cekici'
+        destination: '/bolgeler/menemen/gorece/'
       - type: redirect
-        source: "/bolgeler/bayrakli/manavkuyu"
-        destination: "/bolgeler/bayrakli/manavkuyu/"
+        source: '/goztepe-cekici'
+        destination: '/bolgeler/konak/goztepe/'
       - type: redirect
-        source: "/bolgeler/bergama"
-        destination: "/bolgeler/bergama/"
+        source: '/gulbahce-cekici'
+        destination: '/bolgeler/urla/gulbahce/'
       - type: redirect
-        source: "/bolgeler/bergama/camkoy"
-        destination: "/bolgeler/bergama/camkoy/"
+        source: '/gulyaka-cekici'
+        destination: '/bolgeler/karabaglar/gulyaka/'
       - type: redirect
-        source: "/bolgeler/beydag"
-        destination: "/bolgeler/beydag/"
+        source: '/gumuldur-cekici'
+        destination: '/bolgeler/menderes/gumuldur/'
       - type: redirect
-        source: "/bolgeler/bornova"
-        destination: "/bolgeler/bornova/"
+        source: '/gunaltay-cekici'
+        destination: '/bolgeler/karabaglar/gunaltay/'
       - type: redirect
-        source: "/bolgeler/bornova/altindag"
-        destination: "/bolgeler/bornova/altindag/"
+        source: '/guney-cevre-yolu-cekici'
+        destination: '/guzergahlar/guney-cevre-yolu/'
       - type: redirect
-        source: "/bolgeler/bornova/camdibi"
-        destination: "/bolgeler/bornova/camdibi/"
+        source: '/guzelbahce-cekici'
+        destination: '/bolgeler/guzelbahce/'
       - type: redirect
-        source: "/bolgeler/bornova/doganlar"
-        destination: "/bolgeler/bornova/doganlar/"
+        source: '/guzelyali-cekici'
+        destination: '/bolgeler/konak/guzelyali/'
       - type: redirect
-        source: "/bolgeler/bornova/egemenlik"
-        destination: "/bolgeler/bornova/egemenlik/"
+        source: '/hatay-cekici'
+        destination: '/bolgeler/konak/hatay/'
       - type: redirect
-        source: "/bolgeler/bornova/erzene-mahallesi"
-        destination: "/bolgeler/bornova/erzene-mahallesi/"
+        source: '/havalimani-cekici'
+        destination: '/bolgeler/gaziemir/havalimani/'
       - type: redirect
-        source: "/bolgeler/bornova/evka-3"
-        destination: "/bolgeler/bornova/evka-3/"
+        source: '/icmeler-cekici'
+        destination: '/bolgeler/urla/icmeler/'
       - type: redirect
-        source: "/bolgeler/bornova/evka-4"
-        destination: "/bolgeler/bornova/evka-4/"
+        source: '/ildir-cekici'
+        destination: '/bolgeler/cesme/ildir/'
       - type: redirect
-        source: "/bolgeler/bornova/gokdere"
-        destination: "/bolgeler/bornova/gokdere/"
+        source: '/ilica-cekici'
+        destination: '/bolgeler/cesme/ilica/'
       - type: redirect
-        source: "/bolgeler/bornova/isikkent"
-        destination: "/bolgeler/bornova/isikkent/"
+        source: '/inciralti-cekici'
+        destination: '/bolgeler/balcova/inciralti/'
       - type: redirect
-        source: "/bolgeler/bornova/kavaklidere"
-        destination: "/bolgeler/bornova/kavaklidere/"
+        source: '/inonu-cekici'
+        destination: '/bolgeler/noktalar/inonu/'
       - type: redirect
-        source: "/bolgeler/bornova/laka-mahallesi"
-        destination: "/bolgeler/bornova/laka-mahallesi/"
+        source: '/irmak-mahallesi-cekici'
+        destination: '/bolgeler/noktalar/irmak-mahallesi/'
       - type: redirect
-        source: "/bolgeler/bornova/mevlana-mahallesi"
-        destination: "/bolgeler/bornova/mevlana-mahallesi/"
+        source: '/isikkent-cekici'
+        destination: '/bolgeler/bornova/isikkent/'
       - type: redirect
-        source: "/bolgeler/bornova/naldoken"
-        destination: "/bolgeler/bornova/naldoken/"
+        source: '/isikkoy-cekici'
+        destination: '/bolgeler/bornova/isikkent/'
       - type: redirect
-        source: "/bolgeler/bornova/ozkanlar"
-        destination: "/bolgeler/bornova/ozkanlar/"
+        source: '/istanbul-otoyolu-cekici'
+        destination: '/guzergahlar/istanbul-otoyolu/'
       - type: redirect
-        source: "/bolgeler/bornova/pinarbasi"
-        destination: "/bolgeler/bornova/pinarbasi/"
+        source: '/istanbul-yolu-cekici'
+        destination: '/guzergahlar/istanbul-otoyolu/'
       - type: redirect
-        source: "/bolgeler/bornova/tuna"
-        destination: "/bolgeler/bornova/tuna/"
+        source: '/izmir-aydin-otoyolu-cekici'
+        destination: '/guzergahlar/izmir-aydin-otoyolu/'
       - type: redirect
-        source: "/bolgeler/buca"
-        destination: "/bolgeler/buca/"
+        source: '/izmir-cekici'
+        destination: '/'
       - type: redirect
-        source: "/bolgeler/buca/adatepe"
-        destination: "/bolgeler/buca/adatepe/"
+        source: '/izmir-cesme-otoyolu-cekici'
+        destination: '/guzergahlar/izmir-cesme-otoyolu/'
       - type: redirect
-        source: "/bolgeler/buca/belenbasi"
-        destination: "/bolgeler/buca/belenbasi/"
+        source: '/izmir-cevre-yolu-cekici'
+        destination: '/guzergahlar/izmir-cevre-yolu/'
       - type: redirect
-        source: "/bolgeler/buca/camlikule"
-        destination: "/bolgeler/buca/camlikule/"
+        source: '/izmir-otoyolu-cekici'
+        destination: '/guzergahlar/izmir-otoyolu/'
       - type: redirect
-        source: "/bolgeler/buca/evka-1"
-        destination: "/bolgeler/buca/evka-1/"
+        source: '/kahramandere-cekici'
+        destination: '/bolgeler/guzelbahce/kahramandere/'
       - type: redirect
-        source: "/bolgeler/buca/goksu"
-        destination: "/bolgeler/buca/goksu/"
+        source: '/karabaglar-cekici'
+        destination: '/bolgeler/karabaglar/'
       - type: redirect
-        source: "/bolgeler/buca/golet"
-        destination: "/bolgeler/buca/golet/"
+        source: '/karaburun-cekici'
+        destination: '/bolgeler/karaburun/'
       - type: redirect
-        source: "/bolgeler/buca/kaynaklar"
-        destination: "/bolgeler/buca/kaynaklar/"
+        source: '/karakoy-cekici'
+        destination: '/bolgeler/noktalar/karakoy/'
       - type: redirect
-        source: "/bolgeler/buca/kozagac"
-        destination: "/bolgeler/buca/kozagac/"
+        source: '/karatas-cekici'
+        destination: '/bolgeler/noktalar/karatas/'
       - type: redirect
-        source: "/bolgeler/buca/kurucesme"
-        destination: "/bolgeler/buca/kurucesme/"
+        source: '/karsiyaka-cekici'
+        destination: '/bolgeler/karsiyaka/'
       - type: redirect
-        source: "/bolgeler/buca/sirinyer"
-        destination: "/bolgeler/buca/sirinyer/"
+        source: '/karsiyaka-cevre-yolu-cekici'
+        destination: '/guzergahlar/karsiyaka-cevre-yolu/'
       - type: redirect
-        source: "/bolgeler/cesme"
-        destination: "/bolgeler/cesme/"
+        source: '/kavaklidere-cekici'
+        destination: '/bolgeler/bornova/kavaklidere/'
       - type: redirect
-        source: "/bolgeler/cesme/16-eylul"
-        destination: "/bolgeler/cesme/16-eylul/"
+        source: '/kaynaklar-cekici'
+        destination: '/bolgeler/buca/kaynaklar/'
       - type: redirect
-        source: "/bolgeler/cesme/alacati"
-        destination: "/bolgeler/cesme/alacati/"
+        source: '/kazimdirik-cekici'
+        destination: '/bolgeler/noktalar/kazimdirik/'
       - type: redirect
-        source: "/bolgeler/cesme/altinkum"
-        destination: "/bolgeler/cesme/altinkum/"
+        source: '/kemalpasa-cekici'
+        destination: '/bolgeler/kemalpasa/'
       - type: redirect
-        source: "/bolgeler/cesme/boyalik"
-        destination: "/bolgeler/cesme/boyalik/"
+        source: '/kinik-cekici'
+        destination: '/bolgeler/kinik/'
       - type: redirect
-        source: "/bolgeler/cesme/ciftlikkoy"
-        destination: "/bolgeler/cesme/ciftlikkoy/"
+        source: '/kiraz-cekici'
+        destination: '/bolgeler/kiraz/'
       - type: redirect
-        source: "/bolgeler/cesme/dalyan"
-        destination: "/bolgeler/cesme/dalyan/"
+        source: '/kisik-cekici'
+        destination: '/bolgeler/menderes/kisik/'
       - type: redirect
-        source: "/bolgeler/cesme/ildir"
-        destination: "/bolgeler/cesme/ildir/"
+        source: '/kisikkoy-cekici'
+        destination: '/sanayi/kisikkoy-sanayi-sitesi/'
       - type: redirect
-        source: "/bolgeler/cesme/ilica"
-        destination: "/bolgeler/cesme/ilica/"
+        source: '/kisikkoy-sanayi-sitesi-cekici'
+        destination: '/sanayi/kisikkoy-sanayi-sitesi/'
       - type: redirect
-        source: "/bolgeler/cesme/ovacik"
-        destination: "/bolgeler/cesme/ovacik/"
+        source: '/konak-cekici'
+        destination: '/bolgeler/konak/'
       - type: redirect
-        source: "/bolgeler/cesme/sifne"
-        destination: "/bolgeler/cesme/sifne/"
+        source: '/konak-tuneli-cekici'
+        destination: '/guzergahlar/konak-tuneli/'
       - type: redirect
-        source: "/bolgeler/cigli"
-        destination: "/bolgeler/cigli/"
+        source: '/kordon-cekici'
+        destination: '/bolgeler/konak/kordon/'
       - type: redirect
-        source: "/bolgeler/cigli/evka-2"
-        destination: "/bolgeler/cigli/evka-2/"
+        source: '/kozagac-cekici'
+        destination: '/bolgeler/buca/kozagac/'
       - type: redirect
-        source: "/bolgeler/cigli/evka-5"
-        destination: "/bolgeler/cigli/evka-5/"
+        source: '/kucuk-park-cekici'
+        destination: '/bolgeler/noktalar/kucuk-park/'
       - type: redirect
-        source: "/bolgeler/cigli/evka-6"
-        destination: "/bolgeler/cigli/evka-6/"
+        source: '/kucukkaya-cekici'
+        destination: '/bolgeler/noktalar/kucukkaya/'
       - type: redirect
-        source: "/bolgeler/cigli/evka-7"
-        destination: "/bolgeler/cigli/evka-7/"
+        source: '/kucukyali-cekici'
+        destination: '/bolgeler/noktalar/kucukyali/'
       - type: redirect
-        source: "/bolgeler/dikili"
-        destination: "/bolgeler/dikili/"
+        source: '/kuner-cekici'
+        destination: '/bolgeler/menderes/kuner/'
       - type: redirect
-        source: "/bolgeler/foca"
-        destination: "/bolgeler/foca/"
+        source: '/kurucesme-cekici'
+        destination: '/bolgeler/buca/kurucesme/'
       - type: redirect
-        source: "/bolgeler/gaziemir"
-        destination: "/bolgeler/gaziemir/"
+        source: '/kuzey-cevre-yolu-cekici'
+        destination: '/guzergahlar/kuzey-cevre-yolu/'
       - type: redirect
-        source: "/bolgeler/gaziemir/beyazevler"
-        destination: "/bolgeler/gaziemir/beyazevler/"
+        source: '/laka-mahallesi-cekici'
+        destination: '/bolgeler/bornova/laka-mahallesi/'
       - type: redirect
-        source: "/bolgeler/gaziemir/havalimani"
-        destination: "/bolgeler/gaziemir/havalimani/"
+        source: '/lastik-yol-yardim'
+        destination: '/hizmetler/lastik-yol-yardim/'
       - type: redirect
-        source: "/bolgeler/gaziemir/sarnic"
-        destination: "/bolgeler/gaziemir/sarnic/"
+        source: '/liman-reis-cekici'
+        destination: '/bolgeler/guzelbahce/liman-reis/'
       - type: redirect
-        source: "/bolgeler/guzelbahce"
-        destination: "/bolgeler/guzelbahce/"
+        source: '/liman-yolu-cekici'
+        destination: '/guzergahlar/liman-yolu/'
       - type: redirect
-        source: "/bolgeler/guzelbahce/camli"
-        destination: "/bolgeler/guzelbahce/camli/"
+        source: '/limanreis-cekici'
+        destination: '/bolgeler/guzelbahce/liman-reis/'
       - type: redirect
-        source: "/bolgeler/guzelbahce/celebi-mahallesi"
-        destination: "/bolgeler/guzelbahce/celebi-mahallesi/"
+        source: '/limontepe-cekici'
+        destination: '/bolgeler/karabaglar/limontepe/'
       - type: redirect
-        source: "/bolgeler/guzelbahce/kahramandere"
-        destination: "/bolgeler/guzelbahce/kahramandere/"
+        source: '/maltepe-cekici'
+        destination: '/bolgeler/noktalar/maltepe/'
       - type: redirect
-        source: "/bolgeler/guzelbahce/liman-reis"
-        destination: "/bolgeler/guzelbahce/liman-reis/"
+        source: '/manavkuyu-cekici'
+        destination: '/bolgeler/bayrakli/manavkuyu/'
       - type: redirect
-        source: "/bolgeler/guzelbahce/yelki"
-        destination: "/bolgeler/guzelbahce/yelki/"
+        source: '/manisa-yolu-cekici'
+        destination: '/guzergahlar/manisa-yolu/'
       - type: redirect
-        source: "/bolgeler/karabaglar"
-        destination: "/bolgeler/karabaglar/"
+        source: '/mavisehir-cekici'
+        destination: '/bolgeler/karsiyaka/mavisehir/'
       - type: redirect
-        source: "/bolgeler/karabaglar/aydin-mahallesi"
-        destination: "/bolgeler/karabaglar/aydin-mahallesi/"
+        source: '/menderes-cekici'
+        destination: '/bolgeler/menderes/'
       - type: redirect
-        source: "/bolgeler/karabaglar/basin-sitesi"
-        destination: "/bolgeler/karabaglar/basin-sitesi/"
+        source: '/menderes-mahallesi-cekici'
+        destination: '/bolgeler/noktalar/menderes-mahallesi/'
       - type: redirect
-        source: "/bolgeler/karabaglar/bozyaka"
-        destination: "/bolgeler/karabaglar/bozyaka/"
+        source: '/menemen-cekici'
+        destination: '/bolgeler/menemen/'
       - type: redirect
-        source: "/bolgeler/karabaglar/cennet-cesme"
-        destination: "/bolgeler/karabaglar/cennet-cesme/"
+        source: '/mevlana-mahallesi-cekici'
+        destination: '/bolgeler/bornova/mevlana-mahallesi/'
       - type: redirect
-        source: "/bolgeler/karabaglar/cennetoglu"
-        destination: "/bolgeler/karabaglar/cennetoglu/"
+        source: '/motorsiklet-cekici'
+        destination: '/hizmetler/motosiklet-cekici/'
       - type: redirect
-        source: "/bolgeler/karabaglar/fahrettin-altay"
-        destination: "/bolgeler/karabaglar/fahrettin-altay/"
+        source: '/naldoken-cekici'
+        destination: '/bolgeler/bornova/naldoken/'
       - type: redirect
-        source: "/bolgeler/karabaglar/gulyaka"
-        destination: "/bolgeler/karabaglar/gulyaka/"
+        source: '/narbel-cekici'
+        destination: '/bolgeler/noktalar/narbel/'
       - type: redirect
-        source: "/bolgeler/karabaglar/gunaltay"
-        destination: "/bolgeler/karabaglar/gunaltay/"
+        source: '/narli-cekici'
+        destination: '/bolgeler/narlidere/narli/'
       - type: redirect
-        source: "/bolgeler/karabaglar/limontepe"
-        destination: "/bolgeler/karabaglar/limontepe/"
+        source: '/narlidere-cekici'
+        destination: '/bolgeler/narlidere/'
       - type: redirect
-        source: "/bolgeler/karabaglar/poligon"
-        destination: "/bolgeler/karabaglar/poligon/"
+        source: '/nazilli-cekici'
+        destination: '/bolgeler/noktalar/nazilli/'
       - type: redirect
-        source: "/bolgeler/karabaglar/uckuyular"
-        destination: "/bolgeler/karabaglar/uckuyular/"
+        source: '/odemis-cekici'
+        destination: '/bolgeler/odemis/'
       - type: redirect
-        source: "/bolgeler/karabaglar/ucyol"
-        destination: "/bolgeler/karabaglar/ucyol/"
+        source: '/oglananasi-cekici'
+        destination: '/bolgeler/menderes/oglananasi/'
       - type: redirect
-        source: "/bolgeler/karaburun"
-        destination: "/bolgeler/karaburun/"
+        source: '/onur-mahallesi-cekici'
+        destination: '/bolgeler/noktalar/onur-mahallesi/'
       - type: redirect
-        source: "/bolgeler/karsiyaka"
-        destination: "/bolgeler/karsiyaka/"
+        source: '/oto-elektrik'
+        destination: '/hizmetler/oto-elektrik/'
       - type: redirect
-        source: "/bolgeler/karsiyaka/bostanli"
-        destination: "/bolgeler/karsiyaka/bostanli/"
+        source: '/oto-kurtarma'
+        destination: '/hizmetler/oto-kurtarma/'
       - type: redirect
-        source: "/bolgeler/karsiyaka/mavisehir"
-        destination: "/bolgeler/karsiyaka/mavisehir/"
+        source: '/otogar-otoyolu-cekici'
+        destination: '/guzergahlar/otogar-otoyolu/'
       - type: redirect
-        source: "/bolgeler/karsiyaka/semikler"
-        destination: "/bolgeler/karsiyaka/semikler/"
+        source: '/ovacik-cekici'
+        destination: '/bolgeler/cesme/ovacik/'
       - type: redirect
-        source: "/bolgeler/kemalpasa"
-        destination: "/bolgeler/kemalpasa/"
+        source: '/ozbek-cekici'
+        destination: '/bolgeler/urla/ozbek/'
       - type: redirect
-        source: "/bolgeler/kemalpasa/ulucak"
-        destination: "/bolgeler/kemalpasa/ulucak/"
+        source: '/ozdere-cekici'
+        destination: '/bolgeler/menderes/ozdere/'
       - type: redirect
-        source: "/bolgeler/kemalpasa/yesilyurt"
-        destination: "/bolgeler/kemalpasa/yesilyurt/"
+        source: '/ozkanlar-cekici'
+        destination: '/bolgeler/bornova/ozkanlar/'
       - type: redirect
-        source: "/bolgeler/kinik"
-        destination: "/bolgeler/kinik/"
+        source: '/pasaport-cekici'
+        destination: '/bolgeler/konak/pasaport/'
       - type: redirect
-        source: "/bolgeler/kiraz"
-        destination: "/bolgeler/kiraz/"
+        source: '/payamli-cekici'
+        destination: '/bolgeler/noktalar/payamli/'
       - type: redirect
-        source: "/bolgeler/konak"
-        destination: "/bolgeler/konak/"
+        source: '/peker-mahallesi-cekici'
+        destination: '/bolgeler/noktalar/peker-mahallesi/'
       - type: redirect
-        source: "/bolgeler/konak/alsancak"
-        destination: "/bolgeler/konak/alsancak/"
+        source: '/pinarbasi-cekici'
+        destination: '/bolgeler/bornova/pinarbasi/'
       - type: redirect
-        source: "/bolgeler/konak/basmane"
-        destination: "/bolgeler/konak/basmane/"
+        source: '/poligon-cekici'
+        destination: '/bolgeler/karabaglar/poligon/'
       - type: redirect
-        source: "/bolgeler/konak/cankaya"
-        destination: "/bolgeler/konak/cankaya/"
+        source: '/sabuncubeli-cekici'
+        destination: '/guzergahlar/sabuncubeli-tuneli/'
       - type: redirect
-        source: "/bolgeler/konak/cinarli"
-        destination: "/bolgeler/konak/cinarli/"
+        source: '/sabuncubeli-tuneli-cekici'
+        destination: '/guzergahlar/sabuncubeli-tuneli/'
       - type: redirect
-        source: "/bolgeler/konak/goztepe"
-        destination: "/bolgeler/konak/goztepe/"
+        source: '/sahilevleri-cekici'
+        destination: '/bolgeler/narlidere/sahilevleri/'
       - type: redirect
-        source: "/bolgeler/konak/guzelyali"
-        destination: "/bolgeler/konak/guzelyali/"
+        source: '/sarnic-cekici'
+        destination: '/bolgeler/gaziemir/sarnic/'
       - type: redirect
-        source: "/bolgeler/konak/hatay"
-        destination: "/bolgeler/konak/hatay/"
+        source: '/sasal-cekici'
+        destination: '/bolgeler/menderes/sasal/'
       - type: redirect
-        source: "/bolgeler/konak/kordon"
-        destination: "/bolgeler/konak/kordon/"
+        source: '/seferihisar-cekici'
+        destination: '/bolgeler/seferihisar/'
       - type: redirect
-        source: "/bolgeler/konak/pasaport"
-        destination: "/bolgeler/konak/pasaport/"
+        source: '/selcuk-cekici'
+        destination: '/bolgeler/selcuk/'
       - type: redirect
-        source: "/bolgeler/menderes"
-        destination: "/bolgeler/menderes/"
+        source: '/selway-cekici'
+        destination: '/bolgeler/noktalar/selway/'
       - type: redirect
-        source: "/bolgeler/menderes/ahmetbeyli"
-        destination: "/bolgeler/menderes/ahmetbeyli/"
+        source: '/semikler-cekici'
+        destination: '/bolgeler/karsiyaka/semikler/'
       - type: redirect
-        source: "/bolgeler/menderes/akcakoy"
-        destination: "/bolgeler/menderes/akcakoy/"
+        source: '/sifne-cekici'
+        destination: '/bolgeler/cesme/sifne/'
       - type: redirect
-        source: "/bolgeler/menderes/atakoy"
-        destination: "/bolgeler/menderes/atakoy/"
+        source: '/sigacik-cekici'
+        destination: '/bolgeler/seferihisar/sigacik/'
       - type: redirect
-        source: "/bolgeler/menderes/bulgurca"
-        destination: "/bolgeler/menderes/bulgurca/"
+        source: '/sirince-cekici'
+        destination: '/bolgeler/selcuk/sirince/'
       - type: redirect
-        source: "/bolgeler/menderes/camonu"
-        destination: "/bolgeler/menderes/camonu/"
+        source: '/sirinyer-cekici'
+        destination: '/bolgeler/buca/sirinyer/'
       - type: redirect
-        source: "/bolgeler/menderes/catalca"
-        destination: "/bolgeler/menderes/catalca/"
+        source: '/siteler-cekici'
+        destination: '/bolgeler/noktalar/siteler/'
       - type: redirect
-        source: "/bolgeler/menderes/cile"
-        destination: "/bolgeler/menderes/cile/"
+        source: '/tekeli-turkmen-cekici'
+        destination: '/bolgeler/noktalar/tekeli-turkmen/'
       - type: redirect
-        source: "/bolgeler/menderes/cileme"
-        destination: "/bolgeler/menderes/cileme/"
+        source: '/teleferik-cekici'
+        destination: '/bolgeler/balcova/teleferik/'
       - type: redirect
-        source: "/bolgeler/menderes/develi"
-        destination: "/bolgeler/menderes/develi/"
+        source: '/tire-cekici'
+        destination: '/bolgeler/tire/'
       - type: redirect
-        source: "/bolgeler/menderes/gumuldur"
-        destination: "/bolgeler/menderes/gumuldur/"
+        source: '/torbali-19-mayis-cekici'
+        destination: '/bolgeler/torbali/19-mayis/'
       - type: redirect
-        source: "/bolgeler/menderes/kisik"
-        destination: "/bolgeler/menderes/kisik/"
+        source: '/torbali-ahmetli-cekici'
+        destination: '/bolgeler/torbali/ahmetli/'
       - type: redirect
-        source: "/bolgeler/menderes/kuner"
-        destination: "/bolgeler/menderes/kuner/"
+        source: '/torbali-arslanlar-cekici'
+        destination: '/bolgeler/torbali/arslanlar/'
       - type: redirect
-        source: "/bolgeler/menderes/oglananasi"
-        destination: "/bolgeler/menderes/oglananasi/"
+        source: '/torbali-atalan-cekici'
+        destination: '/bolgeler/torbali/atalan/'
       - type: redirect
-        source: "/bolgeler/menderes/ozdere"
-        destination: "/bolgeler/menderes/ozdere/"
+        source: '/torbali-ataturk-cekici'
+        destination: '/bolgeler/torbali/ataturk/'
       - type: redirect
-        source: "/bolgeler/menderes/sasal"
-        destination: "/bolgeler/menderes/sasal/"
+        source: '/torbali-ayrancilar-cekici'
+        destination: '/bolgeler/torbali/ayrancilar/'
       - type: redirect
-        source: "/bolgeler/menemen"
-        destination: "/bolgeler/menemen/"
+        source: '/torbali-bahcelievler-cekici'
+        destination: '/bolgeler/torbali/bahcelievler/'
       - type: redirect
-        source: "/bolgeler/menemen/degirmendere"
-        destination: "/bolgeler/menemen/degirmendere/"
+        source: '/torbali-bozkoy-cekici'
+        destination: '/bolgeler/torbali/bozkoy/'
       - type: redirect
-        source: "/bolgeler/menemen/gorece"
-        destination: "/bolgeler/menemen/gorece/"
+        source: '/torbali-bulbuldere-cekici'
+        destination: '/bolgeler/torbali/bulbuldere/'
       - type: redirect
-        source: "/bolgeler/narlidere"
-        destination: "/bolgeler/narlidere/"
+        source: '/torbali-cakirbeyli-cekici'
+        destination: '/bolgeler/torbali/cakirbeyli/'
       - type: redirect
-        source: "/bolgeler/narlidere/narli"
-        destination: "/bolgeler/narlidere/narli/"
+        source: '/torbali-camlica-cekici'
+        destination: '/bolgeler/torbali/camlica/'
       - type: redirect
-        source: "/bolgeler/narlidere/sahilevleri"
-        destination: "/bolgeler/narlidere/sahilevleri/"
+        source: '/torbali-capak-cekici'
+        destination: '/bolgeler/torbali/capak/'
       - type: redirect
-        source: "/bolgeler/narlidere/yenikale"
-        destination: "/bolgeler/narlidere/yenikale/"
+        source: '/torbali-caybasi-cekici'
+        destination: '/bolgeler/torbali/caybasi/'
       - type: redirect
-        source: "/bolgeler/noktalar/akincilar"
-        destination: "/bolgeler/noktalar/akincilar/"
+        source: '/torbali-cekici'
+        destination: '/bolgeler/torbali/'
       - type: redirect
-        source: "/bolgeler/noktalar/aktepe"
-        destination: "/bolgeler/noktalar/aktepe/"
+        source: '/torbali-cumhuriyet-cekici'
+        destination: '/bolgeler/torbali/cumhuriyet/'
       - type: redirect
-        source: "/bolgeler/noktalar/altinevler"
-        destination: "/bolgeler/noktalar/altinevler/"
+        source: '/torbali-dagkizilca-cekici'
+        destination: '/bolgeler/torbali/dagkizilca/'
       - type: redirect
-        source: "/bolgeler/noktalar/altintas"
-        destination: "/bolgeler/noktalar/altintas/"
+        source: '/torbali-demirci-cekici'
+        destination: '/bolgeler/torbali/demirci/'
       - type: redirect
-        source: "/bolgeler/noktalar/ataturk-mahallesi"
-        destination: "/bolgeler/noktalar/ataturk-mahallesi/"
+        source: '/torbali-ertugrul-cekici'
+        destination: '/bolgeler/torbali/ertugrul/'
       - type: redirect
-        source: "/bolgeler/noktalar/bahcelievler"
-        destination: "/bolgeler/noktalar/bahcelievler/"
+        source: '/torbali-fevzi-cakmak-cekici'
+        destination: '/bolgeler/torbali/fevzi-cakmak/'
       - type: redirect
-        source: "/bolgeler/noktalar/barbaros-mahallesi"
-        destination: "/bolgeler/noktalar/barbaros-mahallesi/"
+        source: '/torbali-golluce-cekici'
+        destination: '/bolgeler/torbali/golluce/'
       - type: redirect
-        source: "/bolgeler/noktalar/beton-yol"
-        destination: "/bolgeler/noktalar/beton-yol/"
+        source: '/torbali-helvaci-cekici'
+        destination: '/bolgeler/torbali/helvaci/'
       - type: redirect
-        source: "/bolgeler/noktalar/cam-tepe"
-        destination: "/bolgeler/noktalar/cam-tepe/"
+        source: '/torbali-istiklal-cekici'
+        destination: '/bolgeler/torbali/istiklal/'
       - type: redirect
-        source: "/bolgeler/noktalar/catalkaya"
-        destination: "/bolgeler/noktalar/catalkaya/"
+        source: '/torbali-kaplancik-cekici'
+        destination: '/bolgeler/torbali/kaplancik/'
       - type: redirect
-        source: "/bolgeler/noktalar/cataltepe"
-        destination: "/bolgeler/noktalar/cataltepe/"
+        source: '/torbali-karakizlar-cekici'
+        destination: '/bolgeler/torbali/karakizlar/'
       - type: redirect
-        source: "/bolgeler/noktalar/ciceklikoy"
-        destination: "/bolgeler/noktalar/ciceklikoy/"
+        source: '/torbali-karakuyu-cekici'
+        destination: '/bolgeler/torbali/karakuyu/'
       - type: redirect
-        source: "/bolgeler/noktalar/esendere"
-        destination: "/bolgeler/noktalar/esendere/"
+        source: '/torbali-karsiyaka-cekici'
+        destination: '/bolgeler/torbali/karsiyaka/'
       - type: redirect
-        source: "/bolgeler/noktalar/esenkent"
-        destination: "/bolgeler/noktalar/esenkent/"
+        source: '/torbali-kuscuburun-cekici'
+        destination: '/bolgeler/torbali/kuscuburun/'
       - type: redirect
-        source: "/bolgeler/noktalar/esentepe"
-        destination: "/bolgeler/noktalar/esentepe/"
+        source: '/torbali-otoyolu-cekici'
+        destination: '/guzergahlar/torbali-otoyolu/'
       - type: redirect
-        source: "/bolgeler/noktalar/eserkent"
-        destination: "/bolgeler/noktalar/eserkent/"
+        source: '/torbali-pamukyazi-cekici'
+        destination: '/bolgeler/torbali/pamukyazi/'
       - type: redirect
-        source: "/bolgeler/noktalar/eskiizmir"
-        destination: "/bolgeler/noktalar/eskiizmir/"
+        source: '/torbali-pancar-cekici'
+        destination: '/bolgeler/torbali/pancar/'
       - type: redirect
-        source: "/bolgeler/noktalar/gediz"
-        destination: "/bolgeler/noktalar/gediz/"
+        source: '/torbali-saglik-cekici'
+        destination: '/bolgeler/torbali/saglik/'
       - type: redirect
-        source: "/bolgeler/noktalar/inonu"
-        destination: "/bolgeler/noktalar/inonu/"
+        source: '/torbali-subasi-cekici'
+        destination: '/bolgeler/torbali/subasi/'
       - type: redirect
-        source: "/bolgeler/noktalar/irmak-mahallesi"
-        destination: "/bolgeler/noktalar/irmak-mahallesi/"
+        source: '/torbali-tulum-cekici'
+        destination: '/bolgeler/torbali/tulum/'
       - type: redirect
-        source: "/bolgeler/noktalar/karakoy"
-        destination: "/bolgeler/noktalar/karakoy/"
+        source: '/torbali-yazibasi-cekici'
+        destination: '/bolgeler/torbali/yazibasi/'
       - type: redirect
-        source: "/bolgeler/noktalar/karatas"
-        destination: "/bolgeler/noktalar/karatas/"
+        source: '/torbali-yogurtcular-cekici'
+        destination: '/bolgeler/torbali/yogurtcular/'
       - type: redirect
-        source: "/bolgeler/noktalar/kazimdirik"
-        destination: "/bolgeler/noktalar/kazimdirik/"
+        source: '/tuna-cekici'
+        destination: '/bolgeler/bornova/tuna/'
       - type: redirect
-        source: "/bolgeler/noktalar/kucuk-park"
-        destination: "/bolgeler/noktalar/kucuk-park/"
+        source: '/uckuyular-cekici'
+        destination: '/bolgeler/karabaglar/uckuyular/'
       - type: redirect
-        source: "/bolgeler/noktalar/kucukkaya"
-        destination: "/bolgeler/noktalar/kucukkaya/"
+        source: '/ucyol-cekici'
+        destination: '/bolgeler/karabaglar/ucyol/'
       - type: redirect
-        source: "/bolgeler/noktalar/kucukyali"
-        destination: "/bolgeler/noktalar/kucukyali/"
+        source: '/ulamis-cekici'
+        destination: '/bolgeler/seferihisar/ulamis/'
       - type: redirect
-        source: "/bolgeler/noktalar/maltepe"
-        destination: "/bolgeler/noktalar/maltepe/"
+        source: '/ulucak-cekici'
+        destination: '/bolgeler/kemalpasa/ulucak/'
       - type: redirect
-        source: "/bolgeler/noktalar/menderes-mahallesi"
-        destination: "/bolgeler/noktalar/menderes-mahallesi/"
+        source: '/urkmez-cekici'
+        destination: '/bolgeler/seferihisar/urkmez/'
       - type: redirect
-        source: "/bolgeler/noktalar/narbel"
-        destination: "/bolgeler/noktalar/narbel/"
+        source: '/urla-cekici'
+        destination: '/bolgeler/urla/'
       - type: redirect
-        source: "/bolgeler/noktalar/nazilli"
-        destination: "/bolgeler/noktalar/nazilli/"
+        source: '/urla-iskele-cekici'
+        destination: '/bolgeler/urla/iskele/'
       - type: redirect
-        source: "/bolgeler/noktalar/onur-mahallesi"
-        destination: "/bolgeler/noktalar/onur-mahallesi/"
+        source: '/uzundere-cekici'
+        destination: '/bolgeler/noktalar/uzundere/'
       - type: redirect
-        source: "/bolgeler/noktalar/payamli"
-        destination: "/bolgeler/noktalar/payamli/"
+        source: '/yaka-cekici'
+        destination: '/bolgeler/noktalar/yaka-mahallesi/'
       - type: redirect
-        source: "/bolgeler/noktalar/peker-mahallesi"
-        destination: "/bolgeler/noktalar/peker-mahallesi/"
+        source: '/yaka-koyu-cekici'
+        destination: '/bolgeler/noktalar/yaka-mahallesi/'
       - type: redirect
-        source: "/bolgeler/noktalar/selway"
-        destination: "/bolgeler/noktalar/selway/"
+        source: '/yaka-mahallesi-cekici'
+        destination: '/bolgeler/noktalar/yaka-mahallesi/'
       - type: redirect
-        source: "/bolgeler/noktalar/siteler"
-        destination: "/bolgeler/noktalar/siteler/"
+        source: '/yali-cekici'
+        destination: '/bolgeler/noktalar/yali-mahallesi/'
       - type: redirect
-        source: "/bolgeler/noktalar/tekeli-turkmen"
-        destination: "/bolgeler/noktalar/tekeli-turkmen/"
+        source: '/yali-mahallesi-cekici'
+        destination: '/bolgeler/noktalar/yali-mahallesi/'
       - type: redirect
-        source: "/bolgeler/noktalar/uzundere"
-        destination: "/bolgeler/noktalar/uzundere/"
+        source: '/yelki-cekici'
+        destination: '/bolgeler/guzelbahce/yelki/'
       - type: redirect
-        source: "/bolgeler/noktalar/yaka-mahallesi"
-        destination: "/bolgeler/noktalar/yaka-mahallesi/"
+        source: '/yenikale-cekici'
+        destination: '/bolgeler/narlidere/yenikale/'
       - type: redirect
-        source: "/bolgeler/noktalar/yali-mahallesi"
-        destination: "/bolgeler/noktalar/yali-mahallesi/"
+        source: '/yenikoy-cekici'
+        destination: '/bolgeler/noktalar/yenikoy/'
       - type: redirect
-        source: "/bolgeler/noktalar/yenikoy"
-        destination: "/bolgeler/noktalar/yenikoy/"
+        source: '/yesilova-cekici'
+        destination: '/bolgeler/noktalar/yesilova/'
       - type: redirect
-        source: "/bolgeler/noktalar/yesilova"
-        destination: "/bolgeler/noktalar/yesilova/"
+        source: '/yesilyurt-cekici'
+        destination: '/bolgeler/kemalpasa/yesilyurt/'
       - type: redirect
-        source: "/bolgeler/noktalar/yildiz-mahallesi"
-        destination: "/bolgeler/noktalar/yildiz-mahallesi/"
+        source: '/yildiz-mahallesi-cekici'
+        destination: '/bolgeler/noktalar/yildiz-mahallesi/'
       - type: redirect
-        source: "/bolgeler/odemis"
-        destination: "/bolgeler/odemis/"
+        source: '/zeytinkoy-cekici'
+        destination: '/bolgeler/selcuk/zeytinkoy/'
       - type: redirect
-        source: "/bolgeler/seferihisar"
-        destination: "/bolgeler/seferihisar/"
-      - type: redirect
-        source: "/bolgeler/seferihisar/sigacik"
-        destination: "/bolgeler/seferihisar/sigacik/"
-      - type: redirect
-        source: "/bolgeler/seferihisar/ulamis"
-        destination: "/bolgeler/seferihisar/ulamis/"
-      - type: redirect
-        source: "/bolgeler/seferihisar/urkmez"
-        destination: "/bolgeler/seferihisar/urkmez/"
-      - type: redirect
-        source: "/bolgeler/selcuk"
-        destination: "/bolgeler/selcuk/"
-      - type: redirect
-        source: "/bolgeler/selcuk/acarlar"
-        destination: "/bolgeler/selcuk/acarlar/"
-      - type: redirect
-        source: "/bolgeler/selcuk/barutcu"
-        destination: "/bolgeler/selcuk/barutcu/"
-      - type: redirect
-        source: "/bolgeler/selcuk/belevi"
-        destination: "/bolgeler/selcuk/belevi/"
-      - type: redirect
-        source: "/bolgeler/selcuk/sirince"
-        destination: "/bolgeler/selcuk/sirince/"
-      - type: redirect
-        source: "/bolgeler/selcuk/zeytinkoy"
-        destination: "/bolgeler/selcuk/zeytinkoy/"
-      - type: redirect
-        source: "/bolgeler/tire"
-        destination: "/bolgeler/tire/"
-      - type: redirect
-        source: "/bolgeler/torbali"
-        destination: "/bolgeler/torbali/"
-      - type: redirect
-        source: "/bolgeler/torbali/19-mayis"
-        destination: "/bolgeler/torbali/19-mayis/"
-      - type: redirect
-        source: "/bolgeler/torbali/ahmetli"
-        destination: "/bolgeler/torbali/ahmetli/"
-      - type: redirect
-        source: "/bolgeler/torbali/arslanlar"
-        destination: "/bolgeler/torbali/arslanlar/"
-      - type: redirect
-        source: "/bolgeler/torbali/atalan"
-        destination: "/bolgeler/torbali/atalan/"
-      - type: redirect
-        source: "/bolgeler/torbali/ataturk"
-        destination: "/bolgeler/torbali/ataturk/"
-      - type: redirect
-        source: "/bolgeler/torbali/ayrancilar"
-        destination: "/bolgeler/torbali/ayrancilar/"
-      - type: redirect
-        source: "/bolgeler/torbali/bahcelievler"
-        destination: "/bolgeler/torbali/bahcelievler/"
-      - type: redirect
-        source: "/bolgeler/torbali/bozkoy"
-        destination: "/bolgeler/torbali/bozkoy/"
-      - type: redirect
-        source: "/bolgeler/torbali/bulbuldere"
-        destination: "/bolgeler/torbali/bulbuldere/"
-      - type: redirect
-        source: "/bolgeler/torbali/cakirbeyli"
-        destination: "/bolgeler/torbali/cakirbeyli/"
-      - type: redirect
-        source: "/bolgeler/torbali/camlica"
-        destination: "/bolgeler/torbali/camlica/"
-      - type: redirect
-        source: "/bolgeler/torbali/capak"
-        destination: "/bolgeler/torbali/capak/"
-      - type: redirect
-        source: "/bolgeler/torbali/caybasi"
-        destination: "/bolgeler/torbali/caybasi/"
-      - type: redirect
-        source: "/bolgeler/torbali/cumhuriyet"
-        destination: "/bolgeler/torbali/cumhuriyet/"
-      - type: redirect
-        source: "/bolgeler/torbali/dagkizilca"
-        destination: "/bolgeler/torbali/dagkizilca/"
-      - type: redirect
-        source: "/bolgeler/torbali/demirci"
-        destination: "/bolgeler/torbali/demirci/"
-      - type: redirect
-        source: "/bolgeler/torbali/ertugrul"
-        destination: "/bolgeler/torbali/ertugrul/"
-      - type: redirect
-        source: "/bolgeler/torbali/fevzi-cakmak"
-        destination: "/bolgeler/torbali/fevzi-cakmak/"
-      - type: redirect
-        source: "/bolgeler/torbali/golluce"
-        destination: "/bolgeler/torbali/golluce/"
-      - type: redirect
-        source: "/bolgeler/torbali/helvaci"
-        destination: "/bolgeler/torbali/helvaci/"
-      - type: redirect
-        source: "/bolgeler/torbali/istiklal"
-        destination: "/bolgeler/torbali/istiklal/"
-      - type: redirect
-        source: "/bolgeler/torbali/kaplancik"
-        destination: "/bolgeler/torbali/kaplancik/"
-      - type: redirect
-        source: "/bolgeler/torbali/karakizlar"
-        destination: "/bolgeler/torbali/karakizlar/"
-      - type: redirect
-        source: "/bolgeler/torbali/karakuyu"
-        destination: "/bolgeler/torbali/karakuyu/"
-      - type: redirect
-        source: "/bolgeler/torbali/karsiyaka"
-        destination: "/bolgeler/torbali/karsiyaka/"
-      - type: redirect
-        source: "/bolgeler/torbali/kuscuburun"
-        destination: "/bolgeler/torbali/kuscuburun/"
-      - type: redirect
-        source: "/bolgeler/torbali/pamukyazi"
-        destination: "/bolgeler/torbali/pamukyazi/"
-      - type: redirect
-        source: "/bolgeler/torbali/pancar"
-        destination: "/bolgeler/torbali/pancar/"
-      - type: redirect
-        source: "/bolgeler/torbali/saglik"
-        destination: "/bolgeler/torbali/saglik/"
-      - type: redirect
-        source: "/bolgeler/torbali/subasi"
-        destination: "/bolgeler/torbali/subasi/"
-      - type: redirect
-        source: "/bolgeler/torbali/tulum"
-        destination: "/bolgeler/torbali/tulum/"
-      - type: redirect
-        source: "/bolgeler/torbali/yazibasi"
-        destination: "/bolgeler/torbali/yazibasi/"
-      - type: redirect
-        source: "/bolgeler/torbali/yogurtcular"
-        destination: "/bolgeler/torbali/yogurtcular/"
-      - type: redirect
-        source: "/bolgeler/urla"
-        destination: "/bolgeler/urla/"
-      - type: redirect
-        source: "/bolgeler/urla/balikli-ova"
-        destination: "/bolgeler/urla/balikli-ova/"
-      - type: redirect
-        source: "/bolgeler/urla/cesmealti"
-        destination: "/bolgeler/urla/cesmealti/"
-      - type: redirect
-        source: "/bolgeler/urla/gulbahce"
-        destination: "/bolgeler/urla/gulbahce/"
-      - type: redirect
-        source: "/bolgeler/urla/icmeler"
-        destination: "/bolgeler/urla/icmeler/"
-      - type: redirect
-        source: "/bolgeler/urla/iskele"
-        destination: "/bolgeler/urla/iskele/"
-      - type: redirect
-        source: "/bolgeler/urla/ozbek"
-        destination: "/bolgeler/urla/ozbek/"
-      - type: redirect
-        source: "/bolgeler/urla/zeytinler"
-        destination: "/bolgeler/urla/zeytinler/"
-      - type: redirect
-        source: "/bornova-cekici"
-        destination: "/bolgeler/bornova/"
-      - type: redirect
-        source: "/bornova-cekici/"
-        destination: "/bolgeler/bornova/"
-      - type: redirect
-        source: "/bornova-cevre-yolu-cekici"
-        destination: "/guzergahlar/bornova-cevre-yolu/"
-      - type: redirect
-        source: "/bornova-cevre-yolu-cekici/"
-        destination: "/guzergahlar/bornova-cevre-yolu/"
-      - type: redirect
-        source: "/bostanli-cekici"
-        destination: "/bolgeler/karsiyaka/bostanli/"
-      - type: redirect
-        source: "/bostanli-cekici/"
-        destination: "/bolgeler/karsiyaka/bostanli/"
-      - type: redirect
-        source: "/boyalik-cekici"
-        destination: "/bolgeler/cesme/boyalik/"
-      - type: redirect
-        source: "/boyalik-cekici/"
-        destination: "/bolgeler/cesme/boyalik/"
-      - type: redirect
-        source: "/bozyaka-cekici"
-        destination: "/bolgeler/karabaglar/bozyaka/"
-      - type: redirect
-        source: "/bozyaka-cekici/"
-        destination: "/bolgeler/karabaglar/bozyaka/"
-      - type: redirect
-        source: "/buca-cekici"
-        destination: "/bolgeler/buca/"
-      - type: redirect
-        source: "/buca-cekici/"
-        destination: "/bolgeler/buca/"
-      - type: redirect
-        source: "/buca-golet-cekici"
-        destination: "/bolgeler/buca/golet/"
-      - type: redirect
-        source: "/buca-golet-cekici/"
-        destination: "/bolgeler/buca/golet/"
-      - type: redirect
-        source: "/bulgurca-cekici"
-        destination: "/bolgeler/menderes/bulgurca/"
-      - type: redirect
-        source: "/bulgurca-cekici/"
-        destination: "/bolgeler/menderes/bulgurca/"
-      - type: redirect
-        source: "/bursa-otoyolu-cekici"
-        destination: "/guzergahlar/bursa-yolu/"
-      - type: redirect
-        source: "/bursa-otoyolu-cekici/"
-        destination: "/guzergahlar/bursa-yolu/"
-      - type: redirect
-        source: "/bursa-yolu-cekici"
-        destination: "/guzergahlar/bursa-yolu/"
-      - type: redirect
-        source: "/bursa-yolu-cekici/"
-        destination: "/guzergahlar/bursa-yolu/"
-      - type: redirect
-        source: "/cam-tepe-cekici"
-        destination: "/bolgeler/noktalar/cam-tepe/"
-      - type: redirect
-        source: "/cam-tepe-cekici/"
-        destination: "/bolgeler/noktalar/cam-tepe/"
-      - type: redirect
-        source: "/camdibi-cekici"
-        destination: "/bolgeler/bornova/camdibi/"
-      - type: redirect
-        source: "/camdibi-cekici/"
-        destination: "/bolgeler/bornova/camdibi/"
-      - type: redirect
-        source: "/camkoy-cekici"
-        destination: "/bolgeler/bergama/camkoy/"
-      - type: redirect
-        source: "/camkoy-cekici/"
-        destination: "/bolgeler/bergama/camkoy/"
-      - type: redirect
-        source: "/camli-cekici"
-        destination: "/bolgeler/guzelbahce/camli/"
-      - type: redirect
-        source: "/camli-cekici/"
-        destination: "/bolgeler/guzelbahce/camli/"
-      - type: redirect
-        source: "/camlikule-cekici"
-        destination: "/bolgeler/buca/camlikule/"
-      - type: redirect
-        source: "/camlikule-cekici/"
-        destination: "/bolgeler/buca/camlikule/"
-      - type: redirect
-        source: "/camonu-cekici"
-        destination: "/bolgeler/menderes/camonu/"
-      - type: redirect
-        source: "/camonu-cekici/"
-        destination: "/bolgeler/menderes/camonu/"
-      - type: redirect
-        source: "/cankaya-cekici"
-        destination: "/bolgeler/konak/cankaya/"
-      - type: redirect
-        source: "/cankaya-cekici/"
-        destination: "/bolgeler/konak/cankaya/"
-      - type: redirect
-        source: "/catalca-cekici"
-        destination: "/bolgeler/menderes/catalca/"
-      - type: redirect
-        source: "/catalca-cekici/"
-        destination: "/bolgeler/menderes/catalca/"
-      - type: redirect
-        source: "/catalkaya-cekici"
-        destination: "/bolgeler/noktalar/catalkaya/"
-      - type: redirect
-        source: "/catalkaya-cekici/"
-        destination: "/bolgeler/noktalar/catalkaya/"
-      - type: redirect
-        source: "/cataltepe-cekici"
-        destination: "/bolgeler/noktalar/cataltepe/"
-      - type: redirect
-        source: "/cataltepe-cekici/"
-        destination: "/bolgeler/noktalar/cataltepe/"
-      - type: redirect
-        source: "/cekici"
-        destination: "/hizmetler/oto-cekici/"
-      - type: redirect
-        source: "/cekici/"
-        destination: "/hizmetler/oto-cekici/"
-      - type: redirect
-        source: "/celebi-mahallesi-cekici"
-        destination: "/bolgeler/guzelbahce/celebi-mahallesi/"
-      - type: redirect
-        source: "/celebi-mahallesi-cekici/"
-        destination: "/bolgeler/guzelbahce/celebi-mahallesi/"
-      - type: redirect
-        source: "/cennet-cesme-cekici"
-        destination: "/bolgeler/karabaglar/cennet-cesme/"
-      - type: redirect
-        source: "/cennet-cesme-cekici/"
-        destination: "/bolgeler/karabaglar/cennet-cesme/"
-      - type: redirect
-        source: "/cennetoglu-cekici"
-        destination: "/bolgeler/karabaglar/cennetoglu/"
-      - type: redirect
-        source: "/cennetoglu-cekici/"
-        destination: "/bolgeler/karabaglar/cennetoglu/"
-      - type: redirect
-        source: "/cesme-cekici"
-        destination: "/bolgeler/cesme/"
-      - type: redirect
-        source: "/cesme-cekici/"
-        destination: "/bolgeler/cesme/"
-      - type: redirect
-        source: "/cesme-otoyolu-cekici"
-        destination: "/guzergahlar/izmir-cesme-otoyolu/"
-      - type: redirect
-        source: "/cesme-otoyolu-cekici/"
-        destination: "/guzergahlar/izmir-cesme-otoyolu/"
-      - type: redirect
-        source: "/cesmealti-cekici"
-        destination: "/bolgeler/urla/cesmealti/"
-      - type: redirect
-        source: "/cesmealti-cekici/"
-        destination: "/bolgeler/urla/cesmealti/"
-      - type: redirect
-        source: "/ciceklikoy-cekici"
-        destination: "/bolgeler/noktalar/ciceklikoy/"
-      - type: redirect
-        source: "/ciceklikoy-cekici/"
-        destination: "/bolgeler/noktalar/ciceklikoy/"
-      - type: redirect
-        source: "/ciftlikkoy-cekici"
-        destination: "/bolgeler/cesme/ciftlikkoy/"
-      - type: redirect
-        source: "/ciftlikkoy-cekici/"
-        destination: "/bolgeler/cesme/ciftlikkoy/"
-      - type: redirect
-        source: "/cigli-cekici"
-        destination: "/bolgeler/cigli/"
-      - type: redirect
-        source: "/cigli-cekici/"
-        destination: "/bolgeler/cigli/"
-      - type: redirect
-        source: "/cile-cekici"
-        destination: "/bolgeler/menderes/cile/"
-      - type: redirect
-        source: "/cile-cekici/"
-        destination: "/bolgeler/menderes/cile/"
-      - type: redirect
-        source: "/cileme-cekici"
-        destination: "/bolgeler/menderes/cileme/"
-      - type: redirect
-        source: "/cileme-cekici/"
-        destination: "/bolgeler/menderes/cileme/"
-      - type: redirect
-        source: "/cinarli-cekici"
-        destination: "/bolgeler/konak/cinarli/"
-      - type: redirect
-        source: "/cinarli-cekici/"
-        destination: "/bolgeler/konak/cinarli/"
-      - type: redirect
-        source: "/dalyan-cekici"
-        destination: "/bolgeler/cesme/dalyan/"
-      - type: redirect
-        source: "/dalyan-cekici/"
-        destination: "/bolgeler/cesme/dalyan/"
-      - type: redirect
-        source: "/degirmendere-cekici"
-        destination: "/bolgeler/menemen/degirmendere/"
-      - type: redirect
-        source: "/degirmendere-cekici/"
-        destination: "/bolgeler/menemen/degirmendere/"
-      - type: redirect
-        source: "/develi-cekici"
-        destination: "/bolgeler/menderes/develi/"
-      - type: redirect
-        source: "/develi-cekici/"
-        destination: "/bolgeler/menderes/develi/"
-      - type: redirect
-        source: "/dikili-cekici"
-        destination: "/bolgeler/dikili/"
-      - type: redirect
-        source: "/dikili-cekici/"
-        destination: "/bolgeler/dikili/"
-      - type: redirect
-        source: "/doganlar-cekici"
-        destination: "/bolgeler/bornova/doganlar/"
-      - type: redirect
-        source: "/doganlar-cekici/"
-        destination: "/bolgeler/bornova/doganlar/"
-      - type: redirect
-        source: "/egemenlik-cekici"
-        destination: "/bolgeler/bornova/egemenlik/"
-      - type: redirect
-        source: "/egemenlik-cekici/"
-        destination: "/bolgeler/bornova/egemenlik/"
-      - type: redirect
-        source: "/erzene-mahallesi-cekici"
-        destination: "/bolgeler/bornova/erzene-mahallesi/"
-      - type: redirect
-        source: "/erzene-mahallesi-cekici/"
-        destination: "/bolgeler/bornova/erzene-mahallesi/"
-      - type: redirect
-        source: "/esendere-cekici"
-        destination: "/bolgeler/noktalar/esendere/"
-      - type: redirect
-        source: "/esendere-cekici/"
-        destination: "/bolgeler/noktalar/esendere/"
-      - type: redirect
-        source: "/esenkent-cekici"
-        destination: "/bolgeler/noktalar/esenkent/"
-      - type: redirect
-        source: "/esenkent-cekici/"
-        destination: "/bolgeler/noktalar/esenkent/"
-      - type: redirect
-        source: "/esentepe-cekici"
-        destination: "/bolgeler/noktalar/esentepe/"
-      - type: redirect
-        source: "/esentepe-cekici/"
-        destination: "/bolgeler/noktalar/esentepe/"
-      - type: redirect
-        source: "/eserkent-cekici"
-        destination: "/bolgeler/noktalar/eserkent/"
-      - type: redirect
-        source: "/eserkent-cekici/"
-        destination: "/bolgeler/noktalar/eserkent/"
-      - type: redirect
-        source: "/eskiizmir-cekici"
-        destination: "/bolgeler/noktalar/eskiizmir/"
-      - type: redirect
-        source: "/eskiizmir-cekici/"
-        destination: "/bolgeler/noktalar/eskiizmir/"
-      - type: redirect
-        source: "/evka1-cekici"
-        destination: "/bolgeler/buca/evka-1/"
-      - type: redirect
-        source: "/evka1-cekici/"
-        destination: "/bolgeler/buca/evka-1/"
-      - type: redirect
-        source: "/evka2-cekici"
-        destination: "/bolgeler/cigli/evka-2/"
-      - type: redirect
-        source: "/evka2-cekici/"
-        destination: "/bolgeler/cigli/evka-2/"
-      - type: redirect
-        source: "/evka3-cekici"
-        destination: "/bolgeler/bornova/evka-3/"
-      - type: redirect
-        source: "/evka3-cekici/"
-        destination: "/bolgeler/bornova/evka-3/"
-      - type: redirect
-        source: "/evka4-cekici"
-        destination: "/bolgeler/bornova/evka-4/"
-      - type: redirect
-        source: "/evka4-cekici/"
-        destination: "/bolgeler/bornova/evka-4/"
-      - type: redirect
-        source: "/evka5-cekici"
-        destination: "/bolgeler/cigli/evka-5/"
-      - type: redirect
-        source: "/evka5-cekici/"
-        destination: "/bolgeler/cigli/evka-5/"
-      - type: redirect
-        source: "/evka6-cekici"
-        destination: "/bolgeler/cigli/evka-6/"
-      - type: redirect
-        source: "/evka6-cekici/"
-        destination: "/bolgeler/cigli/evka-6/"
-      - type: redirect
-        source: "/evka7-cekici"
-        destination: "/bolgeler/cigli/evka-7/"
-      - type: redirect
-        source: "/evka7-cekici/"
-        destination: "/bolgeler/cigli/evka-7/"
-      - type: redirect
-        source: "/fahrettin-altay-cekici"
-        destination: "/bolgeler/karabaglar/fahrettin-altay/"
-      - type: redirect
-        source: "/fahrettin-altay-cekici/"
-        destination: "/bolgeler/karabaglar/fahrettin-altay/"
-      - type: redirect
-        source: "/fiyatlandirma"
-        destination: "/fiyatlandirma/"
-      - type: redirect
-        source: "/fiyatlar"
-        destination: "/fiyatlandirma/"
-      - type: redirect
-        source: "/fiyatlar/"
-        destination: "/fiyatlandirma/"
-      - type: redirect
-        source: "/foca-cekici"
-        destination: "/bolgeler/foca/"
-      - type: redirect
-        source: "/foca-cekici/"
-        destination: "/bolgeler/foca/"
-      - type: redirect
-        source: "/gaziemir-cekici"
-        destination: "/bolgeler/gaziemir/"
-      - type: redirect
-        source: "/gaziemir-cekici/"
-        destination: "/bolgeler/gaziemir/"
-      - type: redirect
-        source: "/gediz-cekici"
-        destination: "/bolgeler/noktalar/gediz/"
-      - type: redirect
-        source: "/gediz-cekici/"
-        destination: "/bolgeler/noktalar/gediz/"
-      - type: redirect
-        source: "/gokdere-cekici"
-        destination: "/bolgeler/bornova/gokdere/"
-      - type: redirect
-        source: "/gokdere-cekici/"
-        destination: "/bolgeler/bornova/gokdere/"
-      - type: redirect
-        source: "/goksu-cekici"
-        destination: "/bolgeler/buca/goksu/"
-      - type: redirect
-        source: "/goksu-cekici/"
-        destination: "/bolgeler/buca/goksu/"
-      - type: redirect
-        source: "/gorece-cekici"
-        destination: "/bolgeler/menemen/gorece/"
-      - type: redirect
-        source: "/gorece-cekici/"
-        destination: "/bolgeler/menemen/gorece/"
-      - type: redirect
-        source: "/goztepe-cekici"
-        destination: "/bolgeler/konak/goztepe/"
-      - type: redirect
-        source: "/goztepe-cekici/"
-        destination: "/bolgeler/konak/goztepe/"
-      - type: redirect
-        source: "/gulbahce-cekici"
-        destination: "/bolgeler/urla/gulbahce/"
-      - type: redirect
-        source: "/gulbahce-cekici/"
-        destination: "/bolgeler/urla/gulbahce/"
-      - type: redirect
-        source: "/gulyaka-cekici"
-        destination: "/bolgeler/karabaglar/gulyaka/"
-      - type: redirect
-        source: "/gulyaka-cekici/"
-        destination: "/bolgeler/karabaglar/gulyaka/"
-      - type: redirect
-        source: "/gumuldur-cekici"
-        destination: "/bolgeler/menderes/gumuldur/"
-      - type: redirect
-        source: "/gumuldur-cekici/"
-        destination: "/bolgeler/menderes/gumuldur/"
-      - type: redirect
-        source: "/gunaltay-cekici"
-        destination: "/bolgeler/karabaglar/gunaltay/"
-      - type: redirect
-        source: "/gunaltay-cekici/"
-        destination: "/bolgeler/karabaglar/gunaltay/"
-      - type: redirect
-        source: "/guney-cevre-yolu-cekici"
-        destination: "/guzergahlar/guney-cevre-yolu/"
-      - type: redirect
-        source: "/guney-cevre-yolu-cekici/"
-        destination: "/guzergahlar/guney-cevre-yolu/"
-      - type: redirect
-        source: "/guzelbahce-cekici"
-        destination: "/bolgeler/guzelbahce/"
-      - type: redirect
-        source: "/guzelbahce-cekici/"
-        destination: "/bolgeler/guzelbahce/"
-      - type: redirect
-        source: "/guzelyali-cekici"
-        destination: "/bolgeler/konak/guzelyali/"
-      - type: redirect
-        source: "/guzelyali-cekici/"
-        destination: "/bolgeler/konak/guzelyali/"
-      - type: redirect
-        source: "/guzergahlar/altinyol-sahil-yolu"
-        destination: "/guzergahlar/altinyol-sahil-yolu/"
-      - type: redirect
-        source: "/guzergahlar/ankara-yolu"
-        destination: "/guzergahlar/ankara-yolu/"
-      - type: redirect
-        source: "/guzergahlar/bayrakli-tunelleri"
-        destination: "/guzergahlar/bayrakli-tunelleri/"
-      - type: redirect
-        source: "/guzergahlar/belkahve-rampasi"
-        destination: "/guzergahlar/belkahve-rampasi/"
-      - type: redirect
-        source: "/guzergahlar/belkahve-tunelleri"
-        destination: "/guzergahlar/belkahve-tunelleri/"
-      - type: redirect
-        source: "/guzergahlar/bornova-cevre-yolu"
-        destination: "/guzergahlar/bornova-cevre-yolu/"
-      - type: redirect
-        source: "/guzergahlar/bursa-yolu"
-        destination: "/guzergahlar/bursa-yolu/"
-      - type: redirect
-        source: "/guzergahlar/guney-cevre-yolu"
-        destination: "/guzergahlar/guney-cevre-yolu/"
-      - type: redirect
-        source: "/guzergahlar/istanbul-otoyolu"
-        destination: "/guzergahlar/istanbul-otoyolu/"
-      - type: redirect
-        source: "/guzergahlar/izmir-aydin-otoyolu"
-        destination: "/guzergahlar/izmir-aydin-otoyolu/"
-      - type: redirect
-        source: "/guzergahlar/izmir-cesme-otoyolu"
-        destination: "/guzergahlar/izmir-cesme-otoyolu/"
-      - type: redirect
-        source: "/guzergahlar/izmir-cevre-yolu"
-        destination: "/guzergahlar/izmir-cevre-yolu/"
-      - type: redirect
-        source: "/guzergahlar/izmir-otoyolu"
-        destination: "/guzergahlar/izmir-otoyolu/"
-      - type: redirect
-        source: "/guzergahlar/karsiyaka-cevre-yolu"
-        destination: "/guzergahlar/karsiyaka-cevre-yolu/"
-      - type: redirect
-        source: "/guzergahlar/konak-tuneli"
-        destination: "/guzergahlar/konak-tuneli/"
-      - type: redirect
-        source: "/guzergahlar/kuzey-cevre-yolu"
-        destination: "/guzergahlar/kuzey-cevre-yolu/"
-      - type: redirect
-        source: "/guzergahlar/liman-yolu"
-        destination: "/guzergahlar/liman-yolu/"
-      - type: redirect
-        source: "/guzergahlar/manisa-yolu"
-        destination: "/guzergahlar/manisa-yolu/"
-      - type: redirect
-        source: "/guzergahlar/otogar-otoyolu"
-        destination: "/guzergahlar/otogar-otoyolu/"
-      - type: redirect
-        source: "/guzergahlar/sabuncubeli-tuneli"
-        destination: "/guzergahlar/sabuncubeli-tuneli/"
-      - type: redirect
-        source: "/guzergahlar/torbali-otoyolu"
-        destination: "/guzergahlar/torbali-otoyolu/"
-      - type: redirect
-        source: "/hakkimizda"
-        destination: "/hakkimizda/"
-      - type: redirect
-        source: "/hatay-cekici"
-        destination: "/bolgeler/konak/hatay/"
-      - type: redirect
-        source: "/hatay-cekici/"
-        destination: "/bolgeler/konak/hatay/"
-      - type: redirect
-        source: "/havalimani-cekici"
-        destination: "/bolgeler/gaziemir/havalimani/"
-      - type: redirect
-        source: "/havalimani-cekici/"
-        destination: "/bolgeler/gaziemir/havalimani/"
-      - type: redirect
-        source: "/hizmet-bolgeleri"
-        destination: "/hizmet-bolgeleri/"
-      - type: redirect
-        source: "/hizmetler"
-        destination: "/hizmetler/"
-      - type: redirect
-        source: "/hizmetler/agir-ticari-cekici"
-        destination: "/hizmetler/agir-ticari-cekici/"
-      - type: redirect
-        source: "/hizmetler/agir-vasita-kurtarma"
-        destination: "/hizmetler/agir-vasita-kurtarma/"
-      - type: redirect
-        source: "/hizmetler/aku-takviye"
-        destination: "/hizmetler/aku-takviye/"
-      - type: redirect
-        source: "/hizmetler/lastik-yol-yardim"
-        destination: "/hizmetler/lastik-yol-yardim/"
-      - type: redirect
-        source: "/hizmetler/motosiklet-cekici"
-        destination: "/hizmetler/motosiklet-cekici/"
-      - type: redirect
-        source: "/hizmetler/oto-cekici"
-        destination: "/hizmetler/oto-cekici/"
-      - type: redirect
-        source: "/hizmetler/oto-elektrik"
-        destination: "/hizmetler/oto-elektrik/"
-      - type: redirect
-        source: "/hizmetler/oto-kurtarma"
-        destination: "/hizmetler/oto-kurtarma/"
-      - type: redirect
-        source: "/icmeler-cekici"
-        destination: "/bolgeler/urla/icmeler/"
-      - type: redirect
-        source: "/icmeler-cekici/"
-        destination: "/bolgeler/urla/icmeler/"
-      - type: redirect
-        source: "/ildir-cekici"
-        destination: "/bolgeler/cesme/ildir/"
-      - type: redirect
-        source: "/ildir-cekici/"
-        destination: "/bolgeler/cesme/ildir/"
-      - type: redirect
-        source: "/iletisim"
-        destination: "/iletisim/"
-      - type: redirect
-        source: "/ilica-cekici"
-        destination: "/bolgeler/cesme/ilica/"
-      - type: redirect
-        source: "/ilica-cekici/"
-        destination: "/bolgeler/cesme/ilica/"
-      - type: redirect
-        source: "/inciralti-cekici"
-        destination: "/bolgeler/balcova/inciralti/"
-      - type: redirect
-        source: "/inciralti-cekici/"
-        destination: "/bolgeler/balcova/inciralti/"
-      - type: redirect
-        source: "/inonu-cekici"
-        destination: "/bolgeler/noktalar/inonu/"
-      - type: redirect
-        source: "/inonu-cekici/"
-        destination: "/bolgeler/noktalar/inonu/"
-      - type: redirect
-        source: "/irmak-mahallesi-cekici"
-        destination: "/bolgeler/noktalar/irmak-mahallesi/"
-      - type: redirect
-        source: "/irmak-mahallesi-cekici/"
-        destination: "/bolgeler/noktalar/irmak-mahallesi/"
-      - type: redirect
-        source: "/isikkent-cekici"
-        destination: "/bolgeler/bornova/isikkent/"
-      - type: redirect
-        source: "/isikkent-cekici/"
-        destination: "/bolgeler/bornova/isikkent/"
-      - type: redirect
-        source: "/isikkoy-cekici"
-        destination: "/bolgeler/bornova/isikkent/"
-      - type: redirect
-        source: "/isikkoy-cekici/"
-        destination: "/bolgeler/bornova/isikkent/"
-      - type: redirect
-        source: "/istanbul-otoyolu-cekici"
-        destination: "/guzergahlar/istanbul-otoyolu/"
-      - type: redirect
-        source: "/istanbul-otoyolu-cekici/"
-        destination: "/guzergahlar/istanbul-otoyolu/"
-      - type: redirect
-        source: "/istanbul-yolu-cekici"
-        destination: "/guzergahlar/istanbul-otoyolu/"
-      - type: redirect
-        source: "/istanbul-yolu-cekici/"
-        destination: "/guzergahlar/istanbul-otoyolu/"
-      - type: redirect
-        source: "/izmir-aydin-otoyolu-cekici"
-        destination: "/guzergahlar/izmir-aydin-otoyolu/"
-      - type: redirect
-        source: "/izmir-aydin-otoyolu-cekici/"
-        destination: "/guzergahlar/izmir-aydin-otoyolu/"
-      - type: redirect
-        source: "/izmir-cekici"
-        destination: "/"
-      - type: redirect
-        source: "/izmir-cekici/"
-        destination: "/"
-      - type: redirect
-        source: "/izmir-cesme-otoyolu-cekici"
-        destination: "/guzergahlar/izmir-cesme-otoyolu/"
-      - type: redirect
-        source: "/izmir-cesme-otoyolu-cekici/"
-        destination: "/guzergahlar/izmir-cesme-otoyolu/"
-      - type: redirect
-        source: "/izmir-cevre-yolu-cekici"
-        destination: "/guzergahlar/izmir-cevre-yolu/"
-      - type: redirect
-        source: "/izmir-cevre-yolu-cekici/"
-        destination: "/guzergahlar/izmir-cevre-yolu/"
-      - type: redirect
-        source: "/izmir-otoyolu-cekici"
-        destination: "/guzergahlar/izmir-otoyolu/"
-      - type: redirect
-        source: "/izmir-otoyolu-cekici/"
-        destination: "/guzergahlar/izmir-otoyolu/"
-      - type: redirect
-        source: "/kahramandere-cekici"
-        destination: "/bolgeler/guzelbahce/kahramandere/"
-      - type: redirect
-        source: "/kahramandere-cekici/"
-        destination: "/bolgeler/guzelbahce/kahramandere/"
-      - type: redirect
-        source: "/karabaglar-cekici"
-        destination: "/bolgeler/karabaglar/"
-      - type: redirect
-        source: "/karabaglar-cekici/"
-        destination: "/bolgeler/karabaglar/"
-      - type: redirect
-        source: "/karaburun-cekici"
-        destination: "/bolgeler/karaburun/"
-      - type: redirect
-        source: "/karaburun-cekici/"
-        destination: "/bolgeler/karaburun/"
-      - type: redirect
-        source: "/karakoy-cekici"
-        destination: "/bolgeler/noktalar/karakoy/"
-      - type: redirect
-        source: "/karakoy-cekici/"
-        destination: "/bolgeler/noktalar/karakoy/"
-      - type: redirect
-        source: "/karatas-cekici"
-        destination: "/bolgeler/noktalar/karatas/"
-      - type: redirect
-        source: "/karatas-cekici/"
-        destination: "/bolgeler/noktalar/karatas/"
-      - type: redirect
-        source: "/karsiyaka-cekici"
-        destination: "/bolgeler/karsiyaka/"
-      - type: redirect
-        source: "/karsiyaka-cekici/"
-        destination: "/bolgeler/karsiyaka/"
-      - type: redirect
-        source: "/karsiyaka-cevre-yolu-cekici"
-        destination: "/guzergahlar/karsiyaka-cevre-yolu/"
-      - type: redirect
-        source: "/karsiyaka-cevre-yolu-cekici/"
-        destination: "/guzergahlar/karsiyaka-cevre-yolu/"
-      - type: redirect
-        source: "/kavaklidere-cekici"
-        destination: "/bolgeler/bornova/kavaklidere/"
-      - type: redirect
-        source: "/kavaklidere-cekici/"
-        destination: "/bolgeler/bornova/kavaklidere/"
-      - type: redirect
-        source: "/kaynaklar-cekici"
-        destination: "/bolgeler/buca/kaynaklar/"
-      - type: redirect
-        source: "/kaynaklar-cekici/"
-        destination: "/bolgeler/buca/kaynaklar/"
-      - type: redirect
-        source: "/kazimdirik-cekici"
-        destination: "/bolgeler/noktalar/kazimdirik/"
-      - type: redirect
-        source: "/kazimdirik-cekici/"
-        destination: "/bolgeler/noktalar/kazimdirik/"
-      - type: redirect
-        source: "/kemalpasa-cekici"
-        destination: "/bolgeler/kemalpasa/"
-      - type: redirect
-        source: "/kemalpasa-cekici/"
-        destination: "/bolgeler/kemalpasa/"
-      - type: redirect
-        source: "/kinik-cekici"
-        destination: "/bolgeler/kinik/"
-      - type: redirect
-        source: "/kinik-cekici/"
-        destination: "/bolgeler/kinik/"
-      - type: redirect
-        source: "/kiraz-cekici"
-        destination: "/bolgeler/kiraz/"
-      - type: redirect
-        source: "/kiraz-cekici/"
-        destination: "/bolgeler/kiraz/"
-      - type: redirect
-        source: "/kisik-cekici"
-        destination: "/bolgeler/menderes/kisik/"
-      - type: redirect
-        source: "/kisik-cekici/"
-        destination: "/bolgeler/menderes/kisik/"
-      - type: redirect
-        source: "/kisikkoy-cekici"
-        destination: "/sanayi/kisikkoy-sanayi-sitesi/"
-      - type: redirect
-        source: "/kisikkoy-cekici/"
-        destination: "/sanayi/kisikkoy-sanayi-sitesi/"
-      - type: redirect
-        source: "/kisikkoy-sanayi-sitesi-cekici"
-        destination: "/sanayi/kisikkoy-sanayi-sitesi/"
-      - type: redirect
-        source: "/kisikkoy-sanayi-sitesi-cekici/"
-        destination: "/sanayi/kisikkoy-sanayi-sitesi/"
-      - type: redirect
-        source: "/konak-cekici"
-        destination: "/bolgeler/konak/"
-      - type: redirect
-        source: "/konak-cekici/"
-        destination: "/bolgeler/konak/"
-      - type: redirect
-        source: "/konak-tuneli-cekici"
-        destination: "/guzergahlar/konak-tuneli/"
-      - type: redirect
-        source: "/konak-tuneli-cekici/"
-        destination: "/guzergahlar/konak-tuneli/"
-      - type: redirect
-        source: "/kordon-cekici"
-        destination: "/bolgeler/konak/kordon/"
-      - type: redirect
-        source: "/kordon-cekici/"
-        destination: "/bolgeler/konak/kordon/"
-      - type: redirect
-        source: "/kozagac-cekici"
-        destination: "/bolgeler/buca/kozagac/"
-      - type: redirect
-        source: "/kozagac-cekici/"
-        destination: "/bolgeler/buca/kozagac/"
-      - type: redirect
-        source: "/kucuk-park-cekici"
-        destination: "/bolgeler/noktalar/kucuk-park/"
-      - type: redirect
-        source: "/kucuk-park-cekici/"
-        destination: "/bolgeler/noktalar/kucuk-park/"
-      - type: redirect
-        source: "/kucukkaya-cekici"
-        destination: "/bolgeler/noktalar/kucukkaya/"
-      - type: redirect
-        source: "/kucukkaya-cekici/"
-        destination: "/bolgeler/noktalar/kucukkaya/"
-      - type: redirect
-        source: "/kucukyali-cekici"
-        destination: "/bolgeler/noktalar/kucukyali/"
-      - type: redirect
-        source: "/kucukyali-cekici/"
-        destination: "/bolgeler/noktalar/kucukyali/"
-      - type: redirect
-        source: "/kuner-cekici"
-        destination: "/bolgeler/menderes/kuner/"
-      - type: redirect
-        source: "/kuner-cekici/"
-        destination: "/bolgeler/menderes/kuner/"
-      - type: redirect
-        source: "/kurucesme-cekici"
-        destination: "/bolgeler/buca/kurucesme/"
-      - type: redirect
-        source: "/kurucesme-cekici/"
-        destination: "/bolgeler/buca/kurucesme/"
-      - type: redirect
-        source: "/kuzey-cevre-yolu-cekici"
-        destination: "/guzergahlar/kuzey-cevre-yolu/"
-      - type: redirect
-        source: "/kuzey-cevre-yolu-cekici/"
-        destination: "/guzergahlar/kuzey-cevre-yolu/"
-      - type: redirect
-        source: "/laka-mahallesi-cekici"
-        destination: "/bolgeler/bornova/laka-mahallesi/"
-      - type: redirect
-        source: "/laka-mahallesi-cekici/"
-        destination: "/bolgeler/bornova/laka-mahallesi/"
-      - type: redirect
-        source: "/lastik-yol-yardim"
-        destination: "/hizmetler/lastik-yol-yardim/"
-      - type: redirect
-        source: "/lastik-yol-yardim/"
-        destination: "/hizmetler/lastik-yol-yardim/"
-      - type: redirect
-        source: "/liman-reis-cekici"
-        destination: "/bolgeler/guzelbahce/liman-reis/"
-      - type: redirect
-        source: "/liman-reis-cekici/"
-        destination: "/bolgeler/guzelbahce/liman-reis/"
-      - type: redirect
-        source: "/liman-yolu-cekici"
-        destination: "/guzergahlar/liman-yolu/"
-      - type: redirect
-        source: "/liman-yolu-cekici/"
-        destination: "/guzergahlar/liman-yolu/"
-      - type: redirect
-        source: "/limanreis-cekici"
-        destination: "/bolgeler/guzelbahce/liman-reis/"
-      - type: redirect
-        source: "/limanreis-cekici/"
-        destination: "/bolgeler/guzelbahce/liman-reis/"
-      - type: redirect
-        source: "/limontepe-cekici"
-        destination: "/bolgeler/karabaglar/limontepe/"
-      - type: redirect
-        source: "/limontepe-cekici/"
-        destination: "/bolgeler/karabaglar/limontepe/"
-      - type: redirect
-        source: "/maltepe-cekici"
-        destination: "/bolgeler/noktalar/maltepe/"
-      - type: redirect
-        source: "/maltepe-cekici/"
-        destination: "/bolgeler/noktalar/maltepe/"
-      - type: redirect
-        source: "/manavkuyu-cekici"
-        destination: "/bolgeler/bayrakli/manavkuyu/"
-      - type: redirect
-        source: "/manavkuyu-cekici/"
-        destination: "/bolgeler/bayrakli/manavkuyu/"
-      - type: redirect
-        source: "/manisa-yolu-cekici"
-        destination: "/guzergahlar/manisa-yolu/"
-      - type: redirect
-        source: "/manisa-yolu-cekici/"
-        destination: "/guzergahlar/manisa-yolu/"
-      - type: redirect
-        source: "/mavisehir-cekici"
-        destination: "/bolgeler/karsiyaka/mavisehir/"
-      - type: redirect
-        source: "/mavisehir-cekici/"
-        destination: "/bolgeler/karsiyaka/mavisehir/"
-      - type: redirect
-        source: "/menderes-cekici"
-        destination: "/bolgeler/menderes/"
-      - type: redirect
-        source: "/menderes-cekici/"
-        destination: "/bolgeler/menderes/"
-      - type: redirect
-        source: "/menderes-mahallesi-cekici"
-        destination: "/bolgeler/noktalar/menderes-mahallesi/"
-      - type: redirect
-        source: "/menderes-mahallesi-cekici/"
-        destination: "/bolgeler/noktalar/menderes-mahallesi/"
-      - type: redirect
-        source: "/menemen-cekici"
-        destination: "/bolgeler/menemen/"
-      - type: redirect
-        source: "/menemen-cekici/"
-        destination: "/bolgeler/menemen/"
-      - type: redirect
-        source: "/mevlana-mahallesi-cekici"
-        destination: "/bolgeler/bornova/mevlana-mahallesi/"
-      - type: redirect
-        source: "/mevlana-mahallesi-cekici/"
-        destination: "/bolgeler/bornova/mevlana-mahallesi/"
-      - type: redirect
-        source: "/motorsiklet-cekici"
-        destination: "/hizmetler/motosiklet-cekici/"
-      - type: redirect
-        source: "/motorsiklet-cekici/"
-        destination: "/hizmetler/motosiklet-cekici/"
-      - type: redirect
-        source: "/naldoken-cekici"
-        destination: "/bolgeler/bornova/naldoken/"
-      - type: redirect
-        source: "/naldoken-cekici/"
-        destination: "/bolgeler/bornova/naldoken/"
-      - type: redirect
-        source: "/narbel-cekici"
-        destination: "/bolgeler/noktalar/narbel/"
-      - type: redirect
-        source: "/narbel-cekici/"
-        destination: "/bolgeler/noktalar/narbel/"
-      - type: redirect
-        source: "/narli-cekici"
-        destination: "/bolgeler/narlidere/narli/"
-      - type: redirect
-        source: "/narli-cekici/"
-        destination: "/bolgeler/narlidere/narli/"
-      - type: redirect
-        source: "/narlidere-cekici"
-        destination: "/bolgeler/narlidere/"
-      - type: redirect
-        source: "/narlidere-cekici/"
-        destination: "/bolgeler/narlidere/"
-      - type: redirect
-        source: "/nazilli-cekici"
-        destination: "/bolgeler/noktalar/nazilli/"
-      - type: redirect
-        source: "/nazilli-cekici/"
-        destination: "/bolgeler/noktalar/nazilli/"
-      - type: redirect
-        source: "/odemis-cekici"
-        destination: "/bolgeler/odemis/"
-      - type: redirect
-        source: "/odemis-cekici/"
-        destination: "/bolgeler/odemis/"
-      - type: redirect
-        source: "/oglananasi-cekici"
-        destination: "/bolgeler/menderes/oglananasi/"
-      - type: redirect
-        source: "/oglananasi-cekici/"
-        destination: "/bolgeler/menderes/oglananasi/"
-      - type: redirect
-        source: "/onur-mahallesi-cekici"
-        destination: "/bolgeler/noktalar/onur-mahallesi/"
-      - type: redirect
-        source: "/onur-mahallesi-cekici/"
-        destination: "/bolgeler/noktalar/onur-mahallesi/"
-      - type: redirect
-        source: "/oto-elektrik"
-        destination: "/hizmetler/oto-elektrik/"
-      - type: redirect
-        source: "/oto-elektrik/"
-        destination: "/hizmetler/oto-elektrik/"
-      - type: redirect
-        source: "/oto-kurtarma"
-        destination: "/hizmetler/oto-kurtarma/"
-      - type: redirect
-        source: "/oto-kurtarma/"
-        destination: "/hizmetler/oto-kurtarma/"
-      - type: redirect
-        source: "/otogar-otoyolu-cekici"
-        destination: "/guzergahlar/otogar-otoyolu/"
-      - type: redirect
-        source: "/otogar-otoyolu-cekici/"
-        destination: "/guzergahlar/otogar-otoyolu/"
-      - type: redirect
-        source: "/ovacik-cekici"
-        destination: "/bolgeler/cesme/ovacik/"
-      - type: redirect
-        source: "/ovacik-cekici/"
-        destination: "/bolgeler/cesme/ovacik/"
-      - type: redirect
-        source: "/ozbek-cekici"
-        destination: "/bolgeler/urla/ozbek/"
-      - type: redirect
-        source: "/ozbek-cekici/"
-        destination: "/bolgeler/urla/ozbek/"
-      - type: redirect
-        source: "/ozdere-cekici"
-        destination: "/bolgeler/menderes/ozdere/"
-      - type: redirect
-        source: "/ozdere-cekici/"
-        destination: "/bolgeler/menderes/ozdere/"
-      - type: redirect
-        source: "/ozkanlar-cekici"
-        destination: "/bolgeler/bornova/ozkanlar/"
-      - type: redirect
-        source: "/ozkanlar-cekici/"
-        destination: "/bolgeler/bornova/ozkanlar/"
-      - type: redirect
-        source: "/pasaport-cekici"
-        destination: "/bolgeler/konak/pasaport/"
-      - type: redirect
-        source: "/pasaport-cekici/"
-        destination: "/bolgeler/konak/pasaport/"
-      - type: redirect
-        source: "/payamli-cekici"
-        destination: "/bolgeler/noktalar/payamli/"
-      - type: redirect
-        source: "/payamli-cekici/"
-        destination: "/bolgeler/noktalar/payamli/"
-      - type: redirect
-        source: "/peker-mahallesi-cekici"
-        destination: "/bolgeler/noktalar/peker-mahallesi/"
-      - type: redirect
-        source: "/peker-mahallesi-cekici/"
-        destination: "/bolgeler/noktalar/peker-mahallesi/"
-      - type: redirect
-        source: "/pinarbasi-cekici"
-        destination: "/bolgeler/bornova/pinarbasi/"
-      - type: redirect
-        source: "/pinarbasi-cekici/"
-        destination: "/bolgeler/bornova/pinarbasi/"
-      - type: redirect
-        source: "/poligon-cekici"
-        destination: "/bolgeler/karabaglar/poligon/"
-      - type: redirect
-        source: "/poligon-cekici/"
-        destination: "/bolgeler/karabaglar/poligon/"
-      - type: redirect
-        source: "/sabuncubeli-cekici"
-        destination: "/guzergahlar/sabuncubeli-tuneli/"
-      - type: redirect
-        source: "/sabuncubeli-cekici/"
-        destination: "/guzergahlar/sabuncubeli-tuneli/"
-      - type: redirect
-        source: "/sabuncubeli-tuneli-cekici"
-        destination: "/guzergahlar/sabuncubeli-tuneli/"
-      - type: redirect
-        source: "/sabuncubeli-tuneli-cekici/"
-        destination: "/guzergahlar/sabuncubeli-tuneli/"
-      - type: redirect
-        source: "/sahilevleri-cekici"
-        destination: "/bolgeler/narlidere/sahilevleri/"
-      - type: redirect
-        source: "/sahilevleri-cekici/"
-        destination: "/bolgeler/narlidere/sahilevleri/"
-      - type: redirect
-        source: "/sanayi/1-sanayi-sitesi"
-        destination: "/sanayi/1-sanayi-sitesi/"
-      - type: redirect
-        source: "/sanayi/2-sanayi-sitesi"
-        destination: "/sanayi/2-sanayi-sitesi/"
-      - type: redirect
-        source: "/sanayi/3-sanayi-sitesi"
-        destination: "/sanayi/3-sanayi-sitesi/"
-      - type: redirect
-        source: "/sanayi/4-sanayi-sitesi"
-        destination: "/sanayi/4-sanayi-sitesi/"
-      - type: redirect
-        source: "/sanayi/5-sanayi-sitesi"
-        destination: "/sanayi/5-sanayi-sitesi/"
-      - type: redirect
-        source: "/sanayi/6-sanayi-sitesi"
-        destination: "/sanayi/6-sanayi-sitesi/"
-      - type: redirect
-        source: "/sanayi/7-sanayi-sitesi"
-        destination: "/sanayi/7-sanayi-sitesi/"
-      - type: redirect
-        source: "/sanayi/kisikkoy-sanayi-sitesi"
-        destination: "/sanayi/kisikkoy-sanayi-sitesi/"
-      - type: redirect
-        source: "/sarnic-cekici"
-        destination: "/bolgeler/gaziemir/sarnic/"
-      - type: redirect
-        source: "/sarnic-cekici/"
-        destination: "/bolgeler/gaziemir/sarnic/"
-      - type: redirect
-        source: "/sasal-cekici"
-        destination: "/bolgeler/menderes/sasal/"
-      - type: redirect
-        source: "/sasal-cekici/"
-        destination: "/bolgeler/menderes/sasal/"
-      - type: redirect
-        source: "/seferihisar-cekici"
-        destination: "/bolgeler/seferihisar/"
-      - type: redirect
-        source: "/seferihisar-cekici/"
-        destination: "/bolgeler/seferihisar/"
-      - type: redirect
-        source: "/selcuk-cekici"
-        destination: "/bolgeler/selcuk/"
-      - type: redirect
-        source: "/selcuk-cekici/"
-        destination: "/bolgeler/selcuk/"
-      - type: redirect
-        source: "/selway-cekici"
-        destination: "/bolgeler/noktalar/selway/"
-      - type: redirect
-        source: "/selway-cekici/"
-        destination: "/bolgeler/noktalar/selway/"
-      - type: redirect
-        source: "/semikler-cekici"
-        destination: "/bolgeler/karsiyaka/semikler/"
-      - type: redirect
-        source: "/semikler-cekici/"
-        destination: "/bolgeler/karsiyaka/semikler/"
-      - type: redirect
-        source: "/sifne-cekici"
-        destination: "/bolgeler/cesme/sifne/"
-      - type: redirect
-        source: "/sifne-cekici/"
-        destination: "/bolgeler/cesme/sifne/"
-      - type: redirect
-        source: "/sigacik-cekici"
-        destination: "/bolgeler/seferihisar/sigacik/"
-      - type: redirect
-        source: "/sigacik-cekici/"
-        destination: "/bolgeler/seferihisar/sigacik/"
-      - type: redirect
-        source: "/sirince-cekici"
-        destination: "/bolgeler/selcuk/sirince/"
-      - type: redirect
-        source: "/sirince-cekici/"
-        destination: "/bolgeler/selcuk/sirince/"
-      - type: redirect
-        source: "/sirinyer-cekici"
-        destination: "/bolgeler/buca/sirinyer/"
-      - type: redirect
-        source: "/sirinyer-cekici/"
-        destination: "/bolgeler/buca/sirinyer/"
-      - type: redirect
-        source: "/siteler-cekici"
-        destination: "/bolgeler/noktalar/siteler/"
-      - type: redirect
-        source: "/siteler-cekici/"
-        destination: "/bolgeler/noktalar/siteler/"
-      - type: redirect
-        source: "/tekeli-turkmen-cekici"
-        destination: "/bolgeler/noktalar/tekeli-turkmen/"
-      - type: redirect
-        source: "/tekeli-turkmen-cekici/"
-        destination: "/bolgeler/noktalar/tekeli-turkmen/"
-      - type: redirect
-        source: "/teleferik-cekici"
-        destination: "/bolgeler/balcova/teleferik/"
-      - type: redirect
-        source: "/teleferik-cekici/"
-        destination: "/bolgeler/balcova/teleferik/"
-      - type: redirect
-        source: "/tire-cekici"
-        destination: "/bolgeler/tire/"
-      - type: redirect
-        source: "/tire-cekici/"
-        destination: "/bolgeler/tire/"
-      - type: redirect
-        source: "/torbali-19-mayis-cekici"
-        destination: "/bolgeler/torbali/19-mayis/"
-      - type: redirect
-        source: "/torbali-19-mayis-cekici/"
-        destination: "/bolgeler/torbali/19-mayis/"
-      - type: redirect
-        source: "/torbali-ahmetli-cekici"
-        destination: "/bolgeler/torbali/ahmetli/"
-      - type: redirect
-        source: "/torbali-ahmetli-cekici/"
-        destination: "/bolgeler/torbali/ahmetli/"
-      - type: redirect
-        source: "/torbali-arslanlar-cekici"
-        destination: "/bolgeler/torbali/arslanlar/"
-      - type: redirect
-        source: "/torbali-arslanlar-cekici/"
-        destination: "/bolgeler/torbali/arslanlar/"
-      - type: redirect
-        source: "/torbali-atalan-cekici"
-        destination: "/bolgeler/torbali/atalan/"
-      - type: redirect
-        source: "/torbali-atalan-cekici/"
-        destination: "/bolgeler/torbali/atalan/"
-      - type: redirect
-        source: "/torbali-ataturk-cekici"
-        destination: "/bolgeler/torbali/ataturk/"
-      - type: redirect
-        source: "/torbali-ataturk-cekici/"
-        destination: "/bolgeler/torbali/ataturk/"
-      - type: redirect
-        source: "/torbali-ayrancilar-cekici"
-        destination: "/bolgeler/torbali/ayrancilar/"
-      - type: redirect
-        source: "/torbali-ayrancilar-cekici/"
-        destination: "/bolgeler/torbali/ayrancilar/"
-      - type: redirect
-        source: "/torbali-bahcelievler-cekici"
-        destination: "/bolgeler/torbali/bahcelievler/"
-      - type: redirect
-        source: "/torbali-bahcelievler-cekici/"
-        destination: "/bolgeler/torbali/bahcelievler/"
-      - type: redirect
-        source: "/torbali-bozkoy-cekici"
-        destination: "/bolgeler/torbali/bozkoy/"
-      - type: redirect
-        source: "/torbali-bozkoy-cekici/"
-        destination: "/bolgeler/torbali/bozkoy/"
-      - type: redirect
-        source: "/torbali-bulbuldere-cekici"
-        destination: "/bolgeler/torbali/bulbuldere/"
-      - type: redirect
-        source: "/torbali-bulbuldere-cekici/"
-        destination: "/bolgeler/torbali/bulbuldere/"
-      - type: redirect
-        source: "/torbali-cakirbeyli-cekici"
-        destination: "/bolgeler/torbali/cakirbeyli/"
-      - type: redirect
-        source: "/torbali-cakirbeyli-cekici/"
-        destination: "/bolgeler/torbali/cakirbeyli/"
-      - type: redirect
-        source: "/torbali-camlica-cekici"
-        destination: "/bolgeler/torbali/camlica/"
-      - type: redirect
-        source: "/torbali-camlica-cekici/"
-        destination: "/bolgeler/torbali/camlica/"
-      - type: redirect
-        source: "/torbali-capak-cekici"
-        destination: "/bolgeler/torbali/capak/"
-      - type: redirect
-        source: "/torbali-capak-cekici/"
-        destination: "/bolgeler/torbali/capak/"
-      - type: redirect
-        source: "/torbali-caybasi-cekici"
-        destination: "/bolgeler/torbali/caybasi/"
-      - type: redirect
-        source: "/torbali-caybasi-cekici/"
-        destination: "/bolgeler/torbali/caybasi/"
-      - type: redirect
-        source: "/torbali-cekici"
-        destination: "/bolgeler/torbali/"
-      - type: redirect
-        source: "/torbali-cekici/"
-        destination: "/bolgeler/torbali/"
-      - type: redirect
-        source: "/torbali-cumhuriyet-cekici"
-        destination: "/bolgeler/torbali/cumhuriyet/"
-      - type: redirect
-        source: "/torbali-cumhuriyet-cekici/"
-        destination: "/bolgeler/torbali/cumhuriyet/"
-      - type: redirect
-        source: "/torbali-dagkizilca-cekici"
-        destination: "/bolgeler/torbali/dagkizilca/"
-      - type: redirect
-        source: "/torbali-dagkizilca-cekici/"
-        destination: "/bolgeler/torbali/dagkizilca/"
-      - type: redirect
-        source: "/torbali-demirci-cekici"
-        destination: "/bolgeler/torbali/demirci/"
-      - type: redirect
-        source: "/torbali-demirci-cekici/"
-        destination: "/bolgeler/torbali/demirci/"
-      - type: redirect
-        source: "/torbali-ertugrul-cekici"
-        destination: "/bolgeler/torbali/ertugrul/"
-      - type: redirect
-        source: "/torbali-ertugrul-cekici/"
-        destination: "/bolgeler/torbali/ertugrul/"
-      - type: redirect
-        source: "/torbali-fevzi-cakmak-cekici"
-        destination: "/bolgeler/torbali/fevzi-cakmak/"
-      - type: redirect
-        source: "/torbali-fevzi-cakmak-cekici/"
-        destination: "/bolgeler/torbali/fevzi-cakmak/"
-      - type: redirect
-        source: "/torbali-golluce-cekici"
-        destination: "/bolgeler/torbali/golluce/"
-      - type: redirect
-        source: "/torbali-golluce-cekici/"
-        destination: "/bolgeler/torbali/golluce/"
-      - type: redirect
-        source: "/torbali-helvaci-cekici"
-        destination: "/bolgeler/torbali/helvaci/"
-      - type: redirect
-        source: "/torbali-helvaci-cekici/"
-        destination: "/bolgeler/torbali/helvaci/"
-      - type: redirect
-        source: "/torbali-istiklal-cekici"
-        destination: "/bolgeler/torbali/istiklal/"
-      - type: redirect
-        source: "/torbali-istiklal-cekici/"
-        destination: "/bolgeler/torbali/istiklal/"
-      - type: redirect
-        source: "/torbali-kaplancik-cekici"
-        destination: "/bolgeler/torbali/kaplancik/"
-      - type: redirect
-        source: "/torbali-kaplancik-cekici/"
-        destination: "/bolgeler/torbali/kaplancik/"
-      - type: redirect
-        source: "/torbali-karakizlar-cekici"
-        destination: "/bolgeler/torbali/karakizlar/"
-      - type: redirect
-        source: "/torbali-karakizlar-cekici/"
-        destination: "/bolgeler/torbali/karakizlar/"
-      - type: redirect
-        source: "/torbali-karakuyu-cekici"
-        destination: "/bolgeler/torbali/karakuyu/"
-      - type: redirect
-        source: "/torbali-karakuyu-cekici/"
-        destination: "/bolgeler/torbali/karakuyu/"
-      - type: redirect
-        source: "/torbali-karsiyaka-cekici"
-        destination: "/bolgeler/torbali/karsiyaka/"
-      - type: redirect
-        source: "/torbali-karsiyaka-cekici/"
-        destination: "/bolgeler/torbali/karsiyaka/"
-      - type: redirect
-        source: "/torbali-kuscuburun-cekici"
-        destination: "/bolgeler/torbali/kuscuburun/"
-      - type: redirect
-        source: "/torbali-kuscuburun-cekici/"
-        destination: "/bolgeler/torbali/kuscuburun/"
-      - type: redirect
-        source: "/torbali-otoyolu-cekici"
-        destination: "/guzergahlar/torbali-otoyolu/"
-      - type: redirect
-        source: "/torbali-otoyolu-cekici/"
-        destination: "/guzergahlar/torbali-otoyolu/"
-      - type: redirect
-        source: "/torbali-pamukyazi-cekici"
-        destination: "/bolgeler/torbali/pamukyazi/"
-      - type: redirect
-        source: "/torbali-pamukyazi-cekici/"
-        destination: "/bolgeler/torbali/pamukyazi/"
-      - type: redirect
-        source: "/torbali-pancar-cekici"
-        destination: "/bolgeler/torbali/pancar/"
-      - type: redirect
-        source: "/torbali-pancar-cekici/"
-        destination: "/bolgeler/torbali/pancar/"
-      - type: redirect
-        source: "/torbali-saglik-cekici"
-        destination: "/bolgeler/torbali/saglik/"
-      - type: redirect
-        source: "/torbali-saglik-cekici/"
-        destination: "/bolgeler/torbali/saglik/"
-      - type: redirect
-        source: "/torbali-subasi-cekici"
-        destination: "/bolgeler/torbali/subasi/"
-      - type: redirect
-        source: "/torbali-subasi-cekici/"
-        destination: "/bolgeler/torbali/subasi/"
-      - type: redirect
-        source: "/torbali-tulum-cekici"
-        destination: "/bolgeler/torbali/tulum/"
-      - type: redirect
-        source: "/torbali-tulum-cekici/"
-        destination: "/bolgeler/torbali/tulum/"
-      - type: redirect
-        source: "/torbali-yazibasi-cekici"
-        destination: "/bolgeler/torbali/yazibasi/"
-      - type: redirect
-        source: "/torbali-yazibasi-cekici/"
-        destination: "/bolgeler/torbali/yazibasi/"
-      - type: redirect
-        source: "/torbali-yogurtcular-cekici"
-        destination: "/bolgeler/torbali/yogurtcular/"
-      - type: redirect
-        source: "/torbali-yogurtcular-cekici/"
-        destination: "/bolgeler/torbali/yogurtcular/"
-      - type: redirect
-        source: "/tuna-cekici"
-        destination: "/bolgeler/bornova/tuna/"
-      - type: redirect
-        source: "/tuna-cekici/"
-        destination: "/bolgeler/bornova/tuna/"
-      - type: redirect
-        source: "/uckuyular-cekici"
-        destination: "/bolgeler/karabaglar/uckuyular/"
-      - type: redirect
-        source: "/uckuyular-cekici/"
-        destination: "/bolgeler/karabaglar/uckuyular/"
-      - type: redirect
-        source: "/ucyol-cekici"
-        destination: "/bolgeler/karabaglar/ucyol/"
-      - type: redirect
-        source: "/ucyol-cekici/"
-        destination: "/bolgeler/karabaglar/ucyol/"
-      - type: redirect
-        source: "/ulamis-cekici"
-        destination: "/bolgeler/seferihisar/ulamis/"
-      - type: redirect
-        source: "/ulamis-cekici/"
-        destination: "/bolgeler/seferihisar/ulamis/"
-      - type: redirect
-        source: "/ulucak-cekici"
-        destination: "/bolgeler/kemalpasa/ulucak/"
-      - type: redirect
-        source: "/ulucak-cekici/"
-        destination: "/bolgeler/kemalpasa/ulucak/"
-      - type: redirect
-        source: "/urkmez-cekici"
-        destination: "/bolgeler/seferihisar/urkmez/"
-      - type: redirect
-        source: "/urkmez-cekici/"
-        destination: "/bolgeler/seferihisar/urkmez/"
-      - type: redirect
-        source: "/urla-cekici"
-        destination: "/bolgeler/urla/"
-      - type: redirect
-        source: "/urla-cekici/"
-        destination: "/bolgeler/urla/"
-      - type: redirect
-        source: "/urla-iskele-cekici"
-        destination: "/bolgeler/urla/iskele/"
-      - type: redirect
-        source: "/urla-iskele-cekici/"
-        destination: "/bolgeler/urla/iskele/"
-      - type: redirect
-        source: "/uzundere-cekici"
-        destination: "/bolgeler/noktalar/uzundere/"
-      - type: redirect
-        source: "/uzundere-cekici/"
-        destination: "/bolgeler/noktalar/uzundere/"
-      - type: redirect
-        source: "/yaka-cekici"
-        destination: "/bolgeler/noktalar/yaka-mahallesi/"
-      - type: redirect
-        source: "/yaka-cekici/"
-        destination: "/bolgeler/noktalar/yaka-mahallesi/"
-      - type: redirect
-        source: "/yaka-koyu-cekici"
-        destination: "/bolgeler/noktalar/yaka-mahallesi/"
-      - type: redirect
-        source: "/yaka-koyu-cekici/"
-        destination: "/bolgeler/noktalar/yaka-mahallesi/"
-      - type: redirect
-        source: "/yaka-mahallesi-cekici"
-        destination: "/bolgeler/noktalar/yaka-mahallesi/"
-      - type: redirect
-        source: "/yaka-mahallesi-cekici/"
-        destination: "/bolgeler/noktalar/yaka-mahallesi/"
-      - type: redirect
-        source: "/yali-cekici"
-        destination: "/bolgeler/noktalar/yali-mahallesi/"
-      - type: redirect
-        source: "/yali-cekici/"
-        destination: "/bolgeler/noktalar/yali-mahallesi/"
-      - type: redirect
-        source: "/yali-mahallesi-cekici"
-        destination: "/bolgeler/noktalar/yali-mahallesi/"
-      - type: redirect
-        source: "/yali-mahallesi-cekici/"
-        destination: "/bolgeler/noktalar/yali-mahallesi/"
-      - type: redirect
-        source: "/yelki-cekici"
-        destination: "/bolgeler/guzelbahce/yelki/"
-      - type: redirect
-        source: "/yelki-cekici/"
-        destination: "/bolgeler/guzelbahce/yelki/"
-      - type: redirect
-        source: "/yenikale-cekici"
-        destination: "/bolgeler/narlidere/yenikale/"
-      - type: redirect
-        source: "/yenikale-cekici/"
-        destination: "/bolgeler/narlidere/yenikale/"
-      - type: redirect
-        source: "/yenikoy-cekici"
-        destination: "/bolgeler/noktalar/yenikoy/"
-      - type: redirect
-        source: "/yenikoy-cekici/"
-        destination: "/bolgeler/noktalar/yenikoy/"
-      - type: redirect
-        source: "/yesilova-cekici"
-        destination: "/bolgeler/noktalar/yesilova/"
-      - type: redirect
-        source: "/yesilova-cekici/"
-        destination: "/bolgeler/noktalar/yesilova/"
-      - type: redirect
-        source: "/yesilyurt-cekici"
-        destination: "/bolgeler/kemalpasa/yesilyurt/"
-      - type: redirect
-        source: "/yesilyurt-cekici/"
-        destination: "/bolgeler/kemalpasa/yesilyurt/"
-      - type: redirect
-        source: "/yildiz-mahallesi-cekici"
-        destination: "/bolgeler/noktalar/yildiz-mahallesi/"
-      - type: redirect
-        source: "/yildiz-mahallesi-cekici/"
-        destination: "/bolgeler/noktalar/yildiz-mahallesi/"
-      - type: redirect
-        source: "/zeytinkoy-cekici"
-        destination: "/bolgeler/selcuk/zeytinkoy/"
-      - type: redirect
-        source: "/zeytinkoy-cekici/"
-        destination: "/bolgeler/selcuk/zeytinkoy/"
-      - type: redirect
-        source: "/zeytinler-cekici"
-        destination: "/bolgeler/urla/zeytinler/"
-      - type: redirect
-        source: "/zeytinler-cekici/"
-        destination: "/bolgeler/urla/zeytinler/"
+        source: '/zeytinler-cekici'
+        destination: '/bolgeler/urla/zeytinler/'
