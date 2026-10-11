@@ -56,3 +56,7 @@ Koyu lacivert, amber/sarı ve beyaz tasarım bütün sayfalarda kullanılır. Mo
 ## 11 Ekim 2026 — sayfaya özel rehberler ve örnek senaryolar
 
 248 bölge için ayrı editoryal açıklamalar, iki ilgili soru ve gerçek iş kaydı olmayan örnek durumlar hazırlanır. Sekiz hizmet sayfasında farklı senaryolar bulunur. Yer kimliği ve senaryo birbirinden ayrılır; belirsiz yerlerde kesin adres uydurulmaz. Kaynaklar ve sınırlamalar: `reports/OZGUN-ICERIK-CALISMASI.md`. Derlemeden sonra `python3 tools/audit_content.py` kapsam ve metin benzerliği kontrolünü çalıştırır; bu kontrol Google sıralamasını veya içerik kalitesini tek başına kanıtlamaz.
+
+## Render yayını
+
+GitHub `main` dalı üzerinden `render.yaml` Blueprint dosyasıyla statik site oluşturulur. Yayın dizini `dist` olur. HTML çıktısı depoda hazırdır; Render build adımı temel dosyaların boş olmadığını kontrol eder. İçerik değişikliğinde önce `python3 build.py --public` ve kontroller çalıştırılır, ardından güncel kaynak ve `dist` birlikte push edilir. Netlify/Cloudflare biçimindeki `_redirects` ve `_headers` kuralları Render için Blueprint içine aktarılmıştır. Alan adı DNS doğrulaması ayrıca tamamlanır.
