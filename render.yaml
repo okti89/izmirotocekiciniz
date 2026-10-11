@@ -21,32 +21,62 @@ services:
         value: "public, max-age=86400"
     routes:
       - type: redirect
-        source: '/narlidere-cekici'
-        destination: '/bolgeler/narlidere/'
+        source: '/ozdere-cekici'
+        destination: '/bolgeler/menderes/ozdere/'
       - type: redirect
-        source: '/nazilli-cekici'
-        destination: '/bolgeler/noktalar/nazilli/'
+        source: '/ozkanlar-cekici'
+        destination: '/bolgeler/bornova/ozkanlar/'
       - type: redirect
-        source: '/odemis-cekici'
-        destination: '/bolgeler/odemis/'
+        source: '/pasaport-cekici'
+        destination: '/bolgeler/konak/pasaport/'
       - type: redirect
-        source: '/oglananasi-cekici'
-        destination: '/bolgeler/menderes/oglananasi/'
+        source: '/payamli-cekici'
+        destination: '/bolgeler/noktalar/payamli/'
       - type: redirect
-        source: '/onur-mahallesi-cekici'
-        destination: '/bolgeler/noktalar/onur-mahallesi/'
+        source: '/peker-mahallesi-cekici'
+        destination: '/bolgeler/noktalar/peker-mahallesi/'
       - type: redirect
-        source: '/oto-elektrik'
-        destination: '/hizmetler/oto-elektrik/'
+        source: '/pinarbasi-cekici'
+        destination: '/bolgeler/bornova/pinarbasi/'
       - type: redirect
-        source: '/oto-kurtarma'
-        destination: '/hizmetler/oto-kurtarma/'
+        source: '/poligon-cekici'
+        destination: '/bolgeler/karabaglar/poligon/'
       - type: redirect
-        source: '/otogar-otoyolu-cekici'
-        destination: '/guzergahlar/otogar-otoyolu/'
+        source: '/sabuncubeli-cekici'
+        destination: '/guzergahlar/sabuncubeli-tuneli/'
       - type: redirect
-        source: '/ovacik-cekici'
-        destination: '/bolgeler/cesme/ovacik/'
+        source: '/sabuncubeli-tuneli-cekici'
+        destination: '/guzergahlar/sabuncubeli-tuneli/'
       - type: redirect
-        source: '/ozbek-cekici'
-        destination: '/bolgeler/urla/ozbek/'
+        source: '/sahilevleri-cekici'
+        destination: '/bolgeler/narlidere/sahilevleri/'
+      - type: redirect
+        source: '/sarnic-cekici'
+        destination: '/bolgeler/gaziemir/sarnic/'
+      - type: redirect
+        source: '/sasal-cekici'
+        destination: '/bolgeler/menderes/sasal/'
+      - type: redirect
+        source: '/seferihisar-cekici'
+        destination: '/bolgeler/seferihisar/'
+      - type: redirect
+        source: '/selcuk-cekici'
+        destination: '/bolgeler/selcuk/'
+      - type: redirect
+        source: '/selway-cekici'
+        destination: '/bolgeler/noktalar/selway/'
+      - type: redirect
+        source: '/semikler-cekici'
+        destination: '/bolgeler/karsiyaka/semikler/'
+      - type: redirect
+        source: '/sifne-cekici'
+        destination: '/bolgeler/cesme/sifne/'
+      - type: redirect
+        source: '/sigacik-cekici'
+        destination: '/bolgeler/seferihisar/sigacik/'
+      - type: redirect
+        source: '/sirince-cekici'
+        destination: '/bolgeler/selcuk/sirince/'
+      - type: redirect
+        source: '/sirinyer-cekici'
+        destination: '/bolgeler/buca/sirinyer/'
