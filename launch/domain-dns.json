@@ -1,7 +1,7 @@
 {
   "id": "appgdom_6ac56f0bb1f48191997f06f55a331182",
   "project_id": "appgprj_6ac56baf7a8881918d11349fb66b2658",
-  "hostname": "izmirotocekiciniz.com",
+  "hostname": "izmircekiciyardimi.com",
   "worker_name": "site---6ac56baf7a8881918d11349fb66b2658",
   "status": "pending",
   "provider_status": "pending",
@@ -14,12 +14,12 @@
   "validation_records": [
     {
       "record_type": "TXT",
-      "name": "_openai-site-verification.izmirotocekiciniz.com",
+      "name": "_openai-site-verification.izmircekiciyardimi.com",
       "value": "openai-site-verification=9efvN8R1J6AU5JVuSauEep07zwcxSR-mX9rq0a6C3e8"
     },
     {
       "record_type": "TXT",
-      "name": "_cf-custom-hostname.izmirotocekiciniz.com",
+      "name": "_cf-custom-hostname.izmircekiciyardimi.com",
       "value": "7b8f20fc-7e43-41e9-8adf-cd6207cbc369"
     }
   ],

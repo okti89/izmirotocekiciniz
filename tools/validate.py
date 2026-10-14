@@ -32,7 +32,7 @@ for p in pages:
  path=p['path'];file=DIST/(path.strip('/')+'/index.html'if path!='/'else 'index.html');parser=P();parser.feed(file.read_text());parsed[path]=parser
  assert parser.h1==1,(path,'H1');assert parser.title not in titles,(path,'duplicate title');titles.add(parser.title)
  assert parser.meta['description']not in descriptions,(path,'duplicate description');descriptions.add(parser.meta['description'])
- assert parser.canonical=='https://izmirotocekiciniz.com'+path,(path,parser.canonical)
+ assert parser.canonical=='https://izmircekiciyardimi.com'+path,(path,parser.canonical)
  assert parser.meta['og:url']==parser.canonical
  assert parser.meta['robots']==('index,follow'if opt.public and p['ready']else 'noindex,follow'),path
  for raw in parser.schemas:json.loads(raw)
@@ -47,8 +47,8 @@ for path,p in parsed.items():
 for source,target in mapping['reference_mapping'].items():assert target in expected_paths,(source,target)
 for source,target in mapping['redirects'].items():assert target in expected_paths and source!=target,(source,target)
 sitemap=ET.parse(DIST/'sitemap.xml');urls={x.text for x in sitemap.getroot().iter()if x.tag.endswith('}loc')}
-expected={'https://izmirotocekiciniz.com'+p for p in plan['phase_one']}if opt.public else set();assert urls==expected
-phase_sitemap=ET.parse(ROOT/'launch/sitemap.xml');assert {x.text for x in phase_sitemap.getroot().iter()if x.tag.endswith('}loc')}=={'https://izmirotocekiciniz.com'+p for p in plan['phase_one']}
+expected={'https://izmircekiciyardimi.com'+p for p in plan['phase_one']}if opt.public else set();assert urls==expected
+phase_sitemap=ET.parse(ROOT/'launch/sitemap.xml');assert {x.text for x in phase_sitemap.getroot().iter()if x.tag.endswith('}loc')}=={'https://izmircekiciyardimi.com'+p for p in plan['phase_one']}
 assert len(list(DIST.rglob('index.html')))==len(pages),'Untracked old output'
 assert len(plan['phase_one'])==len([p for p in pages if p['path']!='/404/'])
 assert not plan['phase_two']

@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://izmirotocekiciniz.com/sitemap.xml
+Sitemap: https://izmircekiciyardimi.com/sitemap.xml

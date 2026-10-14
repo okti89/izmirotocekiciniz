@@ -26,7 +26,7 @@ Görseller WebP ve responsive srcset ile sunuluyor. Manrope fontları WOFF2'ye d
 
 ## Yayın için kalan işler
 
-`izmirotocekiciniz.com` DNS/SSL bağlantısı bekliyor. Mevcut Sites erişimi owner-private olduğundan Google'a açık yayın tamamlanmış değil. Alan adı sağlayıcısı/hosting bilgisi ve kullanıcı hesabındaki gerekli erişim olmadan DNS değişikliği veya Search Console doğrulaması yapılmadı. DNS kayıtları `launch/DNS-VE-YAYIN.md` dosyasında.
+`izmircekiciyardimi.com` DNS/SSL bağlantısı bekliyor. Mevcut Sites erişimi owner-private olduğundan Google'a açık yayın tamamlanmış değil. Alan adı sağlayıcısı/hosting bilgisi ve kullanıcı hesabındaki gerekli erişim olmadan DNS değişikliği veya Search Console doğrulaması yapılmadı. DNS kayıtları `launch/DNS-VE-YAYIN.md` dosyasında.
 
 Yayın tamamlandığında canlı HTTPS, robots/sitemap, canonical ve 404 HTTP durumu kontrol edilmeli; ardından Search Console alan adı doğrulanıp sitemap gönderilmeli. Gerçek kullanım verisi oluşunca Core Web Vitals yeniden değerlendirilmeli. Eski site açık kalır; bu çalışmada eski siteye yönlendirme veya içerik değişikliği uygulanmadı.
 

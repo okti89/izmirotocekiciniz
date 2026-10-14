@@ -1,6 +1,6 @@
-# İzmir Oto Çekiciniz
+# İzmir Çekici Yardımı
 
-Hedef alan adı: https://izmirotocekiciniz.com
+Hedef alan adı: https://izmircekiciyardimi.com
 Telefon ve WhatsApp: +90 536 676 28 66. Çalışma saatleri: 7/24. Hedef hizmet alanı: İzmir’in 30 ilçesi.
 
 262 içerik sayfası + 404. 248 tekil bölge sayfası: 30 ilçe, 189 mahalle/semt/diğer nokta, 21 güzergâh ve 8 sanayi sitesi. Sekiz hizmet sayfası ve yardımcı sayfalar korunur. Referanstaki 275 hedefin tamamı `url-mapping.json` içinde eşlenmiştir; aynı yerin farklı yazımları 301 ile tek içerik adresine gider. Eski sitede yönlendirme veya DNS değişikliği yapılmadı.
@@ -17,7 +17,7 @@ Telefon ve WhatsApp: +90 536 676 28 66. Çalışma saatleri: 7/24. Hedef hizmet 
 
 `python3 build.py --public`
 
-İşletme sahibinin isteğiyle bu işlem 262 içerik sayfasını index,follow yapar. 404 sayfası noindex kalır. Tam sitemap `launch/sitemap.xml` dosyasında ayrıca hazırlanmıştır. Canonical, Open Graph, yapılandırılmış veri ve sitemap https://izmirotocekiciniz.com adresini kullanır.
+İşletme sahibinin isteğiyle bu işlem 262 içerik sayfasını index,follow yapar. 404 sayfası noindex kalır. Tam sitemap `launch/sitemap.xml` dosyasında ayrıca hazırlanmıştır. Canonical, Open Graph, yapılandırılmış veri ve sitemap https://izmircekiciyardimi.com adresini kullanır.
 
 DNS kaydı: `launch/DNS-VE-YAYIN.md`. Alan adı bağlantısı DNS/SSL doğrulaması bekliyor. Site erişimi halen sahibine özeldir; alan adı bağlanması bu ayarı değiştirmez. Kamuya açık erişim ve üretim çıktısı birlikte yayımlanmadan Search Console'a sitemap göndermeyin.
 
@@ -61,4 +61,8 @@ Koyu lacivert, amber/sarı ve beyaz tasarım bütün sayfalarda kullanılır. Mo
 
 GitHub `main` dalı üzerinden `render.yaml` Blueprint dosyasıyla statik site oluşturulur. Yayın dizini `dist` olur. HTML çıktısı depoda hazırdır; Render build adımı temel dosyaların boş olmadığını kontrol eder. İçerik değişikliğinde önce `python3 build.py --public` ve kontroller çalıştırılır, ardından güncel kaynak ve `dist` birlikte push edilir. Netlify/Cloudflare biçimindeki `_redirects` ve `_headers` kuralları Render için Blueprint içine aktarılmıştır. Alan adı DNS doğrulaması ayrıca tamamlanır.
 
-11 Ekim Render yayın kontrolü: `https://izmirotocekiciniz.onrender.com` üzerinden sitemap içindeki 262 sayfa HTTP 200 verdi. Render statik site yönlendirme arayüzü en fazla 200 kural kabul ediyor; 200 alternatif kısa adres aktif, kalan 72 alternatif adres aktarılmadı. Bunların asıl içerik sayfaları yayında ve sitemap içinde. `dist/_redirects` diğer sunucular için tam listeyi korur. Eski `izmircekicioto.com` alan adına yönlendirme uygulanmadı. `izmirotocekiciniz.com` DNS bağlantısı ve Search Console gönderimi ayrıca tamamlanmalı.
+11 Ekim Render yayın kontrolü: `https://izmirotocekiciniz.onrender.com` üzerinden sitemap içindeki 262 sayfa HTTP 200 verdi. Render statik site yönlendirme arayüzü en fazla 200 kural kabul ediyor; 200 alternatif kısa adres aktif, kalan 72 alternatif adres aktarılmadı. Bunların asıl içerik sayfaları yayında ve sitemap içinde. `dist/_redirects` diğer sunucular için tam listeyi korur. Eski `izmircekicioto.com` alan adına yönlendirme uygulanmadı. `izmircekiciyardimi.com` DNS bağlantısı ve Search Console gönderimi ayrıca tamamlanmalı.
+
+## 14 Ekim 2026 — isim ve alan adı
+
+Güncel işletme adı **İzmir Çekici Yardımı**, hedef alan adı **https://izmircekiciyardimi.com**. Kaynaklar ve hazır `dist` çıktısındaki başlıklar, görünür marka, canonical, Open Graph, JSON-LD, robots ve sitemap adresleri birlikte güncellendi. GitHub deposu ve Render servis kimliği aynı kalır; Render Custom Domains ve DNS bağlantısı ayrıca yapılmalıdır.
